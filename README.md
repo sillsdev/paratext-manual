@@ -6,6 +6,12 @@ The GitHub Action associated with this repo does these things:
 2. runs these through [Docusaurus](https://docusaurus.io/), and then
 3. publishes the result to Github Pages [here](https://sillsdev.github.io/paratext-manual/).
 
+## Building the Site
+
+You'll need permissions, then do this:
+![image](https://user-images.githubusercontent.com/8448/195942450-8cab4cf7-781e-4dd3-87b4-f9fdc58ce381.png)
+
+
 ## Testing Locally
 
 1. Add PARATEXT_NOTION_ROOT_PAGE and PARATEXT_NOTION_INTEGRATION_TOKEN environment variables. See [docu-notion](https://github.com/sillsdev/docu-notion) for explanations of the root page id and integration token. As always, you may need to restart your terminal before it will see new environment variables.
