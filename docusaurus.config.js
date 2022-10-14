@@ -6,16 +6,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "notion pull sample",
+  title: "Paratext Manual",
   tagline: "",
   url: "https://sillsdev.github.io",
-  baseUrl: "/docu-notion-sample-site/",
+  baseUrl: "/paratext-manual/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
   organizationName: "sillsdev", // Usually your GitHub org/user name.
-  projectName: "docu-notion-sample-site", // Usually your repo name.
+  projectName: "paratext-manual", // Usually your repo name.
   deploymentBranch: "gh-pages",
   // Docusaurus recommends "trailingSlash:false", but that gives me an error on build.
   //[ERROR] Error: ENOENT: no such file or directory, open 'C:\dev\docu-notion\build\.html'
@@ -76,7 +76,7 @@ const config = {
       metadata: [
         {
           name: "keywords",
-          content: "Bloom, SIL, documentation, help, training",
+          content: "Paratext, documentation, help, manual, training",
         },
       ],
       sitemap: {
@@ -86,7 +86,7 @@ const config = {
         ignorePatterns: [],
       },
       navbar: {
-        title: "Sample Docusaurus Site using docu-notion",
+        title: "Paratext Manual",
         logo: {
           alt: "Logo",
           src: "img/logo.svg",
