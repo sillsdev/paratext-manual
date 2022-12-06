@@ -2125,9 +2125,9 @@
     form-data "^3.0.0"
 
 "@types/node@*":
-  version "18.8.5"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.8.5.tgz#6a31f820c1077c3f8ce44f9e203e68a176e8f59e"
-  integrity sha512-Bq7G3AErwe5A/Zki5fdD3O6+0zDChhg671NfPjtIcbtzDNZTv4NPKMRFr7gtYPG7y+B8uTiNK4Ngd9T0FTar6Q==
+  version "18.11.11"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.11.tgz#1d455ac0211549a8409d3cdb371cd55cc971e8dc"
+  integrity sha512-KJ021B1nlQUBLopzZmPBVuGU9un7WJd/W4ya7Ih02B4Uwky5Nja0yGYav2EfYIk0RR2Q9oVhf60S2XR1BCWJ2g==
 
 "@types/node@^17.0.5":
   version "17.0.45"
@@ -4242,9 +4242,9 @@ dns-packet@^5.2.2:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
 docu-notion@*:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/docu-notion/-/docu-notion-0.6.0.tgz#ce7f0e4c6f32bdaee39fdd6575a4e1c1bd04fd81"
-  integrity sha512-UuAEBcpYtRvSZDah/iogxVM/gsix7enBiNRpgaUyGXq9CQ/nrCQ/dEETJuysR3q1Uh7D9/sukK4eyOlw+jfO2w==
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/docu-notion/-/docu-notion-0.7.2.tgz#7e8c31cfb276362a9f6bc931ab9f2690d6599a45"
+  integrity sha512-dAClYP8ex/L9KB5XlQ2bOR/WTVnskZakZ6sSG8PoKU8W+C5XidDNUXZ4UR1+9rmPktw0RcPDZUMi8wqJpwej2A==
   dependencies:
     "@notionhq/client" "^1.0.4"
     chalk "^4.1.2"
