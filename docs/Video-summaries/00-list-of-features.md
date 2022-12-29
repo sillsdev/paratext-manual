@@ -6,10 +6,7 @@ slug: /00-list-of-features
 
 
 
-# Summaries of videos by Specific Paratext Features {#70238761dbbe4b76bd5bab3842594c49}
-
-
-See also the detailed list in [**order by tasks**](https://sillsdev.github.io/paratext-manual/Overview)
+See also the detailed list in [**order by tasks**](https://sillsdev.github.io/paratext-manual/Overview-vidsum)
 
 
 **To display the summary, click on the code below.**

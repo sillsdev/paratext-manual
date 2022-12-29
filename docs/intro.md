@@ -20,12 +20,9 @@ slug: /
 
 ## Video Summaries of 90+ Paratext training videos {#3c68493f7acc4b39bc8327788bf92253}
 
-- :film_projector: Video summaries (90+) grouped by specific [**Paratext features**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Video-summaries/00-list-of-features.md)
+- :film_projector: Video summaries (90+) grouped by specific [**Paratext features**](https://sillsdev.github.io/paratext-manual/00-list-of-features)
 - Video summaries (90+) **grouped by task** following the SIL plan.
-	- :book: [Download the PDF version here](pathname:///img/Ptx-vidsum-en-9.3.pdf)
+	- :book: Download the PDF version here
 
-### What's new - [Paratext 9.3](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Video-summaries/00-Whats-new.md) {#971883fb6cda4777a0da09397a362fbd}
-
-
-[What's new - Paratext 9.3](/Whats-new)
+### What's new - [Paratext 9.3](https://sillsdev.github.io/paratext-manual/00-Whats-new) {#10bace854eff4ffb8147049ac6d199dc}
 
