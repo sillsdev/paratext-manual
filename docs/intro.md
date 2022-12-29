@@ -10,7 +10,7 @@ slug: /
  {#d3db7628377a4db1885bb606b38111b2}
 
 
-![](pathname:///img/cropped-PT9-web-banner.png)
+![](/notion_imgs/415098770.png)
 
 
 ## Paratext Training Manual {#155080f5bbe44396a6208969a1acfe79}

@@ -44,9 +44,7 @@ slug: /Overview
 
 ### Stage 1 Drafting {#7aa2111afa7e478392998d4a51308274}
 
-
-How To View Tasks Assigned To You (1.1]([https://sillsdev.github.io/paratext-manual/1.1](https://sillsdev.github.io/paratext-manual/1.1)))
-
+- [How To View Tasks Assigned To You (1.1](notion://www.notion.so/jennibeadle/%5B%3Chttps://sillsdev.github.io/paratext-manual/1.1%3E%5D(%3Chttps://sillsdev.github.io/paratext-manual/1.1%3E)))
 
 **USFMs and Views**
 
@@ -73,7 +71,7 @@ How To View Tasks Assigned To You (1.1]([https://sillsdev.github.io/paratext-man
 - [_See introduction for_](https://sillsdev.github.io/paratext-manual/1.6b)[ (1.6a](https://sillsdev.github.io/paratext-manual/1.6b))
 
 **Additional items**
-Footnotes, Glossary, Illustrations and Introductions
+(Footnotes, Glossary, Illustrations and Introductions)
 
 - [How To Insert, View And Edit Footnotes (1A.3](https://sillsdev.github.io/paratext-manual/1A.3))
 - [Glossary: Adding Entries (1A.4a](https://sillsdev.github.io/paratext-manual/1A.4a))
