@@ -1,6 +1,6 @@
 ---
 title: Video Summaries by Features
-sidebar_position: 2
+sidebar_position: 1
 slug: /00-list-of-features
 ---
 

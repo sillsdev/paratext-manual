@@ -26,3 +26,6 @@ slug: /
 
 ### What's new - [Paratext 9.3](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Video-summaries/00-Whats-new.md) {#971883fb6cda4777a0da09397a362fbd}
 
+
+[What's new - Paratext 9.3](/Whats-new)
+

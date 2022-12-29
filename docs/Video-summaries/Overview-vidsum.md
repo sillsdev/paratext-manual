@@ -1,7 +1,7 @@
 ---
 title: Overview of Video Summaries
 sidebar_position: 0
-slug: /Overview
+slug: /Overview-vidsum
 ---
 
 
