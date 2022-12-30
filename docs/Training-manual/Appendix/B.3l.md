@@ -6,11 +6,9 @@ slug: /B.3l
 
 
 
-### Old Testament {#005d76d6fced41d88ad8c66129e632a9}
-
-
-| Genesis - GEN       | Exodus - EXO       | Leviticus - LEV    |
+| Old Testament       |                    |                    |
 | ------------------- | ------------------ | ------------------ |
+| Genesis - GEN       | Exodus - EXO       | Leviticus - LEV    |
 | Numbers - NUM       | Deuteronomy - DEU  | Joshua - JOS       |
 | Judges - JDG        | Ruth - RUT         | 1 Samuel - 1SA     |
 | 2 Samuel - 2SA      | 1 Kings - 1KI      | 2 Kings - 2KI      |
@@ -25,11 +23,9 @@ slug: /B.3l
 | Haggai - HAG        | Zechariah - ZEC    | Malachi - MAL      |
 
 
-### New Testament {#d7b3cbdec5b54b58ba2e9e90443f8684}
-
-
-| Matthew - MAT         | Mark - MRK            | Luke - LUK       |
+| New Testament         |                       |                  |
 | --------------------- | --------------------- | ---------------- |
+| Matthew - MAT         | Mark - MRK            | Luke - LUK       |
 | John - JHN            | Acts - ACT            | Romans - ROM     |
 | 1 Corinthians - 1CO   | 2 Corinthians - 2CO   | Galatians - GAL  |
 | Ephesians - EPH       | Philippians - PHP     | Colossians - COL |
