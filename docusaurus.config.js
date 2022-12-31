@@ -12,7 +12,7 @@ const config = {
   baseUrl: "/paratext-manual/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/Paratext_Icon-48px.ico",
 
   organizationName: "sillsdev", // Usually your GitHub org/user name.
   projectName: "paratext-manual", // Usually your repo name.
