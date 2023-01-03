@@ -15,7 +15,7 @@ slug: /
 
 ## Paratext Training Manual {#155080f5bbe44396a6208969a1acfe79}
 
-- :book: [Download the PDF version here](pathname:///img/Ptx-man-en-9.3.pdf)
+- :book: Download the PDF version here
 	- It has 25 chapters in 200+ A4 pages but is designed to print as A5 booklet.
 
 ## Video Summaries of 90+ Paratext training videos {#3c68493f7acc4b39bc8327788bf92253}
