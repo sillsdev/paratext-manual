@@ -12,10 +12,10 @@ slug: /Overview
 ### Introduction {#4670b09b67a0401699f46ab4877ef897}
 
 1. Course introduction
+
+### Stage 1 Drafting {#fc4c98ffb8d7432e96f9e92a4cee834b}
+
 1. **OD** – Organising your desktop
-
-### Stage 1 Drafting {#dbdd386a1d754dd0b6386aac723d7480}
-
 1. **PP1** – Project plan and progress
 1. **KD** – Keyboarding your draft
 1. **BC1** – Basic checks
