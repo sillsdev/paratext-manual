@@ -1,5 +1,5 @@
 ---
-title: Administrators
+title: Administrators Manual
 sidebar_position: 4
 slug: /admin
 ---
@@ -9,7 +9,7 @@ slug: /admin
 &lt;&lt; Draft for proof-reading&gt;&gt;
 
 
-# **IS: Install** {#338f990b003f400d900fbd65aefcb472}
+# 1.**IS: Install** {#338f990b003f400d900fbd65aefcb472}
 
 
 _**Introduction**_
@@ -45,7 +45,7 @@ You will install Paratext 9 (without uninstalling Paratext 7 or 8). You will als
 #####
 
 
-**1.2 Install Paratext 9**
+## **1.2 Install Paratext 9** {#1352baf6ecaa4b94a2c0a8260a4a4902}
 
 
 ---
@@ -127,7 +127,7 @@ Paratext 8 and 9 use the same registration. but all Paratext 7 users need a new 
 - Paratext will paste the code
 - Click **OK**
 
-**1.4 Manually updating your existing version of Paratext**
+## **1.4 Manually updating your existing version of Paratext** {#4f8359a786a64bd28044b253e3c54530}
 
 
 :::note
@@ -190,7 +190,7 @@ There are alternative notes on https://paratext.org/paratext-help-and-support/mi
 
 
 
-### **2.2.1 Prepare a project for migration** {#3210f11c9bd543ae998837297dae83f1}
+## **2.2.1 Prepare a project for migration** {#3210f11c9bd543ae998837297dae83f1}
 
 
 :::note
@@ -419,7 +419,7 @@ Remember, **do not edit** the project in Paratext 7. That would be wasted effort
 To help your team members remember this, you could have them **remove the project from their Paratext 7** once they have it in Paratext 9. Or maybe they can uninstall Paratext 7 from their computer if they don't need it for other projects.
 
 
-# 3.**REG: Registration** {#0281dd7bd13943f2a12a7f3ba9f62f58}
+# 3. **REG: Registration** {#0281dd7bd13943f2a12a7f3ba9f62f58}
 
 
 **3.1 Introduction**
@@ -607,7 +607,7 @@ A user added by someone else cannot be made an administrator of a project, nor a
 > It is unclear how many text resource owners will grant access to this group
 
 
-# 4.**CP - Creating a new project** {#5ce031819ce94c3fb9750a96d44e853b}
+# 4. **CP - Creating a new project** {#5ce031819ce94c3fb9750a96d44e853b}
 
 
 **4.1 Introduction**
@@ -637,7 +637,7 @@ _**What are you going to do?**_
 We will create and register a new project.
 
 
-### **4.2 Create a new project** {#c5f1d75d5c0a44baaa30553e8c9fe6a2}
+## **4.2 Create a new project** {#c5f1d75d5c0a44baaa30553e8c9fe6a2}
 
 - **File** &gt; **New Project**
 	- The New project dialog is displayed.
@@ -645,7 +645,7 @@ We will create and register a new project.
 	![](/notion_imgs/1984834324.png)
 
 
-### **4.3 Name for the project** {#22e1d2d23fe0493f8156155a802302a8}
+## **4.3 Name for the project** {#22e1d2d23fe0493f8156155a802302a8}
 
 - Click the **Edit** button
 	- _The “edit name” dialog is displayed_
@@ -664,7 +664,7 @@ Once you create a project name, **the short name cannot be changed,** because th
 
 
 
-### **4.4 Specify language** {#bc66dd1a7df944b88994c9d6d7098bf7}
+## **4.4 Specify language** {#bc66dd1a7df944b88994c9d6d7098bf7}
 
 - If you have another Paratext project in the same language, you can just pick the language from the list in Paratext **[2]**. If not, you will need to create a new language.
 - Click on **New**
@@ -689,13 +689,13 @@ You can also specify additional information if needed in the “advanced” sect
 
 
 
-### **4.5 Type of project** {#55fe39b743a6498bb46df29e691c6dab}
+## **4.5 Type of project** {#55fe39b743a6498bb46df29e691c6dab}
 
 - Click the drop-down list beside “**Type of Project**”
 - Choose the appropriate type for your project.
 	- If it is a back translation, or a daughter or transliteration project, you will need to define the source.
 
-### **4.6 Register the new project** {#49d9295f332143dabb321c3ddca6badb}
+## **4.6 Register the new project** {#49d9295f332143dabb321c3ddca6badb}
 
 - Make sure you have given the project a name and chosen the project type.
 - Click **Register online** to go to the registration page
@@ -712,7 +712,7 @@ The types of projects that do not need to be registered separately:
 - Auxiliary
 - Consultant notes.
 
-### **4.7 Editing your registration** {#d85da423f88846dfbe84a29b15c72ce3}
+## **4.7 Editing your registration** {#d85da423f88846dfbe84a29b15c72ce3}
 
 
 As you work in your project, you may wanat to change your registration information.
@@ -776,7 +776,7 @@ _**What will you do?**_
 - Select the desired resources.
 - Click **Download/Install**
 
-# **PP1 - Setup Project Plan** {#4c0d1a7edda548498bf65c7263edbde5}
+# 6. **PP1 - Setup Project Plan** {#4c0d1a7edda548498bf65c7263edbde5}
 
 
 **6.1 Introduction**
@@ -1273,7 +1273,7 @@ See the note in the guide regarding shared projects.
 
 
 
-# **CR: Cross-references** {#f77a0c3bb7954b118c5c012a901ae6a1}
+# 9. **CR: Cross-references** {#f77a0c3bb7954b118c5c012a901ae6a1}
 
 
 **9.1 Introduction**
