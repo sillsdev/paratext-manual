@@ -1,6 +1,6 @@
 ---
 title: Administrators Manual
-sidebar_position: 4
+sidebar_position: 1
 slug: /admin
 ---
 
@@ -12,13 +12,13 @@ slug: /admin
 # 1.**IS: Install** {#338f990b003f400d900fbd65aefcb472}
 
 
-_**Introduction**_
+_**Introduction**_  
 
 
 In this module, you will install Paratext 9. Paratext is the world’s leading software application for the development and checking of new Bible translation texts, or revisions to existing texts. Developed jointly by UBS and SIL International, it enables consistent and accurate translation, based on original texts, and modelled on versions in major languages. Due in part to its cutting edge collaboration features, Paratext greatly assists in producing higher quality translations in much less time than previous tools and methods have allowed.
 
 
-_**Where We are**_
+_**Where We are**_  
 
 
 You may have already installed an earlier version and now want to install Paratext 9.
