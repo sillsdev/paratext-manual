@@ -183,7 +183,7 @@ You will
 
 :::tip
 
-There are alternative notes on https://paratext.org/paratext-help-and-support/migration/
+There are alternative notes on [https://paratext.org/paratext-help-and-support/migration/](https://paratext.org/paratext-help-and-support/migration/)
 
 :::
 
