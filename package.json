@@ -8,12 +8,14 @@
     "pull:stable": "cross-var yarn docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs -i ./static/notion_imgs -p /notion_imgs/",
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "deploy": "docusaurus deploy"
+    "deploy": "docusaurus deploy",
+    "//serve": "Needed, for example, to test the search functionality locally",
+    "serve": "docusaurus serve"
   },
   "dependencies": {
     "@docusaurus/core": "^2.2.0",
     "@docusaurus/preset-classic": "^2.2.0",
-    "@easyops-cn/docusaurus-search-local": "^0.30.1",
+    "@easyops-cn/docusaurus-search-local": "^0.33.6",
     "@mdx-js/react": "^1",
     "clsx": "^1.2.1",
     "docu-notion": "*",
