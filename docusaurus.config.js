@@ -40,7 +40,13 @@ const config = {
             ),
           ],
         },
-      }),
+        sitemap: {
+          // https://www.sitemaps.org/protocol.html#xmlTagDefinitions
+          changefreq: "weekly",
+          priority: 0.5,
+          ignorePatterns: [],
+        }
+       }),
     ],
   ],
   i18n: {
@@ -63,9 +69,9 @@ const config = {
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
-        // language: ["en", "fr"],
+        language: ["en", "fr"],
         indexBlog: false,
-        indexPages: false,
+        indexPages: true,
         docsRouteBasePath: "/",
       },
     ],

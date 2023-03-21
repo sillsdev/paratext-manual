@@ -5,75 +5,336 @@
  */
 
 /* You can override the default Infima variables here. */
+
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-color-primary: #3f511e;
+  --ifm-color-primary-dark: #39491b;
+  --ifm-color-primary-darker: #364519;
+  --ifm-color-primary-darkest: #2c3915;
+  --ifm-color-primary-light: #455921;
+  --ifm-color-primary-lighter: #485d23;
+  --ifm-color-primary-lightest: #526927;
+  --ifm-code-font-size: 255%;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme="dark"] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+[data-theme='dark'] {
+  --ifm-color-primary: #b7d232;
+  --ifm-color-primary-dark: #a7c02a;
+  --ifm-color-primary-darker: #9db528;
+  --ifm-color-primary-darkest: #829521;
+  --ifm-color-primary-light: #bed747;
+  --ifm-color-primary-lighter: #c2d952;
+  --ifm-color-primary-lightest: #cde072;
 }
 
-/* some things copied from https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L934 */
+/* from https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-printing */
 
-.notion-column {
-  display: flex;
-  flex-direction: column;
-  padding-top: 12px;
-  padding-bottom: 12px;
+/* @media print {
+    .pagebreak { page-break-before: always; 
 }
+*/
 
-.notion-column > *:first-child {
-  margin-top: 0;
-  margin-left: 0;
-  margin-right: 0;
-}
+  @media print {
+    /* This should be A5
+    and (max-width: 13cm)
+    */
 
-.notion-column > *:last-child {
-  margin-left: 0;
-  margin-right: 0;
-  margin-bottom: 0;
-}
+    
+    /*---------------------- Begin Paper Saver  ---------------------------*/
 
-.notion-row {
-  display: grid;
-  grid-auto-flow: column;
-  /* at the moment, docu-notion doesn't give us column widths or ratios. So we
-  could let css layout decide the widths. Instead at the moment we're saying
-  let's just have each column be equal. This is easier for the author using
-  Notion to remember than having to guess at what the layout will be. */
-  grid-auto-columns: 1fr;
-  overflow: hidden;
-  width: 100%;
-  max-width: 100%;
-  gap: 30px;
-}
+    /* body {
+      line-height: 1.0;
+      font-size: 90% !important;
+    }
 
-@media (max-width: 640px) {
-  .notion-row {
-    flex-direction: column;
+    .container {
+       margin: 0, 0, 0, 0 !important;
+       max-width: 100% !important;
+     }
+
+     :not(h3):not(h2) + .theme-admonition {
+      font-size: 90%;
+      break-inside: avoid;
+      max-width: 80%;
+    } 
+
+    span[class^='admonitionIcon'] svg  {
+      transform: scale(0.7);
+      text-align: left;
+    }
+    
+    div[class^='admonitionHeading']  {
+      font-size: 90%;
+      text-align: left;
+    }
+
+     */
+    
+
+    /*---------------------- End Paper Saver  ---------------------------*/
+
+    /*---------------------- Begin Scratch Margins  ---------------------------*/
+    
+
+    body {
+      line-height: 1.2;
+      font-size: 100% !important;
+      margin-top: 1.5cm !important; 
+      margin-left: 2cm !important;
+      margin-bottom: 2cm !important; 
+      margin-right: 0cm !important;
+    }
+
+    :not(h3):not(h3):not(h2) + .theme-admonition {
+      font-size: 100%;
+      break-inside: avoid;
+    } 
+
+    .theme-admonition {
+      font-size: 100%;
+      width:auto !important;
+      background-color: transparent;
+      border-right-width: 2px;
+      border-top-width: 2px;
+      border-bottom-width: 2px;
+    }
+
+    ul {
+      width:auto !important;
+      orphans: 2;
+      font-size: 100% !important;
+    }
+
+    
+
+     /*---------------------- End Scratch Margins  ---------------------------*/
+
+     /* .theme-doc-breadcrumbs */ 
+     .theme-doc-version-badge { 
+      margin-left: -1cm;
+     }
+    h1 {
+      font-size: 150% !important;
+      margin-left: -1.5cm;
+      padding-bottom: 6px;
+      border-bottom: 4px double rgb(44, 14, 209);
+    }
+
+    .markdown > h2 {
+      -webkit-break-after: avoid-page !important;
+      page-break-after: avoid !important;
+      break-after: avoid-page !important;
+      font-size: 110% !important;
+      margin-left: -1.5cm;
+      border-top: 2px solid black;
+      margin-bottom: 10px !important;
+    }
+  
+    .markdown > h3 {
+      -webkit-break-after: avoid !important;
+      page-break-after: avoid !important;
+      break-after: avoid-page !important;
+      font-size: 110%;
+      margin-left: -1cm;
+      border-top: 1.5px solid rgb(70, 70, 70);
+    }
+
+    .markdown > h4 {  
+      -webkit-break-after: avoid-page;
+      page-break-after: avoid !important;
+      break-after: avoid-page !important;
+      font-size: 100%;
+      margin-left: 0.25cm;
+      border-top: 1px solid rgb(129, 129, 129);
+    }
+    
+    .markdown > h5 {
+      -webkit-break-after: always;
+      page-break-after: always !important;
+    }
+   h1 + h3
+   h2 + h3 {
+      /* this removes double borders */
+      border-top: none !important;
+    }
+
+
+    h2 + ul, 
+    h2 + p, 
+    h2 + ol, 
+    h3 + ul, 
+    h3 + p, 
+    h2 + ol, 
+    h2 + .theme-admonition,
+    h3 + .theme-admonition,
+    h4 + ul, 
+    h4 + p, 
+    h4 + ol,
+    h4 + .theme-admonition  {
+      -webkit-break-after: avoid-page !important;
+      break-before: avoid-page !important;
+    }
+/*
+    p + h2:first-of-type, ul + h2:first-of-type, .theme-admonition + h2:first-of-type {
+      break-before: page !important;
+    }
+*/
+    article .markdown p {
+      orphans: 2;
+      widows: 2;
+    }
+
+
+    .markdown > p + ul, .markdown > p + ol {margin-top: -10px !important;
+      }
+    
+    /* ul {
+      orphans: 2;
+    }*/
+        
+    li {
+      orphans: 2;
+      widows: 2;
+      /* border: 1.5px solid rgb(70, 70, 70); */
+    }
+
+    li + .theme-admonition 
+    	{margin-top: 5px;
+    }
+    
+    ol ul li img {
+      max-width: 260px;
+    }
+
+
+    ul, ol {
+      -webkit-break-before: avoid-page;
+      break-before: avoid-page !important;
+      orphans: 2;
+      font-size: 100% !important;
+      /* border: 1.5px solid rgb(70, 70, 70); */
+      margin-left: 0px; 
+      padding-left: 20px;
+      
+    }
+
+    li img {margin-top: 5px;}
+    
+
+
+    h3 + h4 {
+      border-top: none;
+    }
+
+    .theme-doc-footer {display: none;}
+
+         
+    img {
+        max-width: 300px;
+        max-height: 250px;
+        object-fit: contain;
+        break-inside: avoid;
+      }
+        
+    table {width: 100%} 
+    
+    .theme-doc-sidebar-container {
+      display: none !important;
+    }
+
+    .col--3 {display: none}
+  
+    :root {
+      --doc-sidebar-width: 0px !important;;
+    }
+
+    .pagebreak { page-break-before: always;}
+
+    span[class^='admonitionIcon'] svg  {
+      max-height: 1em;
+      text-align: left;
+    }
+    
+    div[class^='admonitionHeading']  {
+      font-size: 90%;
+      text-align: left;
+      margin-top: -2px;
+      margin-bottom: 0px;
+    }
+
+    .theme-admonition {
+      font-size: 95%;
+      padding: 5px;
+    } 
+
   }
+  
+  /* This should be A4 or Letter */
 
-  .notion-row .notion-column {
-    width: 100% !important;
-  }
+  /* @media print and (min-width: 1300cm){
+    
+    
+    body {
+      font-size: 110%; 
+      line-height: 1.0;}
+    
+    h2 {
+        font-size: 125% !important;
+        -webkit-break-after: avoid-page;
+        break-after: avoid-page !important;
+      }
+    
+    h3 {
+        font-size: 125% !important;
+        -webkit-break-after: avoid-page;
+        break-after: avoid-page !important;
+      }
 
-  .notion-row .notion-spacer {
-    display: none;
-  }
-}
+    h3 + ul {
+      break-before: avoid-page !important;
+    }
+
+    h3 + p {
+      break-before: avoid-page !important;
+    }
+    
+    h4 {   
+        padding-top: clamp(10px, 25px, 50px); 
+        font-size: 150% !important;
+        -webkit-break-after: avoid-page;
+        break-after: avoid-page !important;
+      }
+    
+      :not(h3):not(h2) + .theme-admonition {
+        break-inside: avoid;
+        max-width: 90%;
+      } 
+
+       img {
+        max-width: 480px;
+        max-height: 480px;
+        break-inside: avoid;
+      }
+    .theme-doc-footer {display: none;}    
+    
+    table {width: 100%} 
+    
+    .container {
+      margin: 0, auto;
+      max-width: 90% !important;
+    }   
+
+    
+    .theme-doc-sidebar-container {
+      display: none !important;
+    }
+
+    :root {--doc-sidebar-width: 0px !important;}
+
+    .pagebreak { page-break-before: always;}
+  } */
+
+
+  
+  
