@@ -12,14 +12,11 @@ const config = {
   baseUrl: "/paratext-manual/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/Paratext_Icon-48px.ico",
 
   organizationName: "sillsdev", // Usually your GitHub org/user name.
   projectName: "paratext-manual", // Usually your repo name.
   deploymentBranch: "gh-pages",
-  // Docusaurus recommends "trailingSlash:false", but that gives me an error on build.
-  //[ERROR] Error: ENOENT: no such file or directory, open 'C:\dev\docu-notion\build\.html'
-  trailingSlash: true,
 
   presets: [
     [

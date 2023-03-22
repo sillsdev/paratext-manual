@@ -2,12 +2,12 @@ name: Release
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
     inputs:
       logLevel:
         description: "Log level"
-        required: true
+        required: false
         default: "warning"
 jobs:
   release:
@@ -38,5 +38,5 @@ jobs:
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.PERSON_ACCESS_TOKEN_FOR_PUSH_TO_GH_PAGES_BRANCH }}
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
