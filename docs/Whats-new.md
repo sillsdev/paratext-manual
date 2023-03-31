@@ -6,7 +6,7 @@ slug: /Whats-new
 
 
 
-## Paratext Live {#3569ffbece614e3ea7d9ca537ca4098c}
+## Paratext Live {#16154c54093a4476b7397c214e78e49f}
 
 
 Paratext Live uses a couple of servers.
@@ -26,7 +26,7 @@ Everyone in a particular live session still needs to use the same server, it is 
 :::
 
 
-## Study Bible Additions {#0fb6f7f7c0e3488da453b45a956b6296}
+## Study Bible Additions {#8c8628c57aa04e48b5d33488872d0b29}
 
 
 The most obvious new feature the ability to **compare versions**.
@@ -36,7 +36,7 @@ The most obvious new feature the ability to **compare versions**.
 1. Under **Project**, choose **Compare Versions**
 	- _The changes in the additions are displayed_.
 
-## Scripture reference in navigation bar {#4d5fcfb04bec44c19515c177c6bdd151}
+## Scripture reference in navigation bar {#3c00a0202ad949bc8909f66660badb73}
 
 
 In Paratext 9.3 you can copy and paste a scripture reference into the navigation bar.
@@ -66,7 +66,7 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 :::
 
 
-## Parallel Passages Tool {#f128ec06729448a39c86ceb2b1d95286}
+## Parallel Passages Tool {#f660aff19a7541efaa453398f11dbacd}
 
 - The colours have changed from **green** to **grey**
 - You can reduce or expand the Greek / Hebrew by clicking the little arrow.
@@ -74,7 +74,7 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 	![](/notion_imgs/1036502882.png)
 
 
-## Open a text collection {#7c9bcf7f18bc4e6e971c30d3934477bc}
+## Open a text collection {#fd1736d1bd07444fb6902b8dccf951dc}
 
 
 There is a new menu item on the **main menu**
@@ -88,7 +88,7 @@ There is a new menu item on the **main menu**
 1. Open a previously **saved text collection** from the bottom left
 1. You can still open a text collection from the **Open** window as well.
 
-## Arranging windows {#cf7f84457e8f4a0dbf98d7159c2ccf6d}
+## Arranging windows {#b526a01da9e04357804f4849c39f2fdc}
 
 - Arrange windows by **rows** as well as by **columns**.
 
@@ -104,14 +104,14 @@ Remember to save your layout!
 ![](/notion_imgs/1620979427.png)
 
 
-## Floating Windows {#aeef371871884e29a31800b9c36de7ca}
+## Floating Windows {#493f51aae2f5480893f25897c408c26c}
 
 - Dropdown to change the active project
 
 	![](/notion_imgs/807351003.png)
 
 
-### Other new/changed {#23f467384fc648b2a7082c83f10ea8c7}
+### Other new/changed {#4796465de7ac4f3190c47faa4b9750b8}
 
 - **RegEx Pal** - from Main menu &gt; Advanced or Project menu &gt; Advanced.
 - **Synchronizing** with Logos and other compatible programs is now turned **on by default**
