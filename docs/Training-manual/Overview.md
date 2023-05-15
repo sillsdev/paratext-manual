@@ -6,61 +6,113 @@ slug: /Overview
 
 
 
- The training manual follows the tasks in the SIL Compact Plan. SIL has six stages, whereas UBS has four stages.
+The training manual follows the tasks in the SIL Compact Plan. The page numbers refer to the [PDF](https://manual.paratext.org/img/Ptx-man-en-9.3.pdf).
 
 
-### Introduction {#a2c238f79d9b4219aaf8a02504d37b53}
-
-1. [Course introduction](https://sillsdev.github.io/paratext-manual/1.Intro)
-
-**Stage 1 Drafting**
-
-1. [**OD**](https://sillsdev.github.io/paratext-manual/02.OD)[ – Organising your desktop](https://sillsdev.github.io/paratext-manual/02.OD)
-1. [**PP1**](https://sillsdev.github.io/paratext-manual/3.PP1)[ – Project plan and progress](https://sillsdev.github.io/paratext-manual/3.PP1)
-1. [**KD**](https://sillsdev.github.io/paratext-manual/4.KD)[ – Keyboarding your draft](https://sillsdev.github.io/paratext-manual/4.KD)
-1. [**BC1**](https://sillsdev.github.io/paratext-manual/5.BC1)[ – Basic checks](https://sillsdev.github.io/paratext-manual/5.BC1)
-1. [**PP2**](https://sillsdev.github.io/paratext-manual/6.PP2)[ – Project progress](https://sillsdev.github.io/paratext-manual/6.PP2)
-
-**Stage 2 Team check**
-
-1. [**PN**](https://sillsdev.github.io/paratext-manual/7.PN)[ – Proper Names](https://sillsdev.github.io/paratext-manual/7.PN)
-1. [**SP**](https://sillsdev.github.io/paratext-manual/8.SP)[ – Spell Checking](https://sillsdev.github.io/paratext-manual/8.SP)
-1. [**GL**](https://sillsdev.github.io/paratext-manual/9.GL)[ – Glossary](https://sillsdev.github.io/paratext-manual/9.GL)
-1. [**BT**](https://sillsdev.github.io/paratext-manual/10.BT)[ – A 4-Step process for consistent Biblical Terms](https://sillsdev.github.io/paratext-manual/10.BT)
-1. [**MP**](https://sillsdev.github.io/paratext-manual/11.MP)[ – Compare a word or phrase](https://sillsdev.github.io/paratext-manual/11.MP)
-1. [**BC2**](https://sillsdev.github.io/paratext-manual/12.BC2)[ – Basic Checks](https://sillsdev.github.io/paratext-manual/12.BC2)
-1. [**FC**](https://sillsdev.github.io/paratext-manual/13.FC)[ – Formatting checks](https://sillsdev.github.io/paratext-manual/13.FC)
-1. [**PD**](https://sillsdev.github.io/paratext-manual/14.PD)[ – Printing Drafts](https://sillsdev.github.io/paratext-manual/14.PD)
-1. [**UN**](https://sillsdev.github.io/paratext-manual/15.UN)[ – Using Notes](https://sillsdev.github.io/paratext-manual/15.UN)
+### Introduction[undefined](https://manual.paratext.org/next/Training-Manual/Overview#introduction) {#5e678d31513944b6b5586f0048a8e74d}
 
 
-**Stage 3 Prepare for consultant**
-
-1. [**BT1**](https://sillsdev.github.io/paratext-manual/16.BT1)[ – Draft a Back Translation](https://sillsdev.github.io/paratext-manual/16.BT1)
-1. [**BT2**](https://sillsdev.github.io/paratext-manual/17.BT2)[ – Interlinearize a project](https://sillsdev.github.io/paratext-manual/17.BT2)
-1. [**CT**](https://sillsdev.github.io/paratext-manual/18.CT)[ – Compare Text](https://sillsdev.github.io/paratext-manual/18.CT)
-1. [**BC3**](https://sillsdev.github.io/paratext-manual/19.BC3)[ – Basic checks 3](https://sillsdev.github.io/paratext-manual/19.BC3)
+1. [Course introduction](https://manual.paratext.org/next/Training-Manual/Intro) ... _p.10_
 
 
-**Stage 4 Consultant check**
-
-1. [**CT**](https://sillsdev.github.io/paratext-manual/20.Collaboration-tools)[ – Collaboration Tools](https://sillsdev.github.io/paratext-manual/20.Collaboration-tools)
-
-**Stage 5 /Stage 3 UBS External/community review**
-
-1. [**PPR**](https://sillsdev.github.io/paratext-manual/21.PPR)[ - Progress report](https://sillsdev.github.io/paratext-manual/21.PPR)
-1. [**BTR**](https://sillsdev.github.io/paratext-manual/22.BTR)[ - Biblical key terms report](https://sillsdev.github.io/paratext-manual/22.BTR)
-
-**Stage 6 Stage 4 UBS Finalising for Publication**
-
-1. [**PP**](https://sillsdev.github.io/paratext-manual/23.PP)[ - Parallel Passages](https://sillsdev.github.io/paratext-manual/23.PP)
-1. [**FFP**](https://sillsdev.github.io/paratext-manual/24.FFP)[ - Finalising for Publication](https://sillsdev.github.io/paratext-manual/24.FFP)
-1. [Create a study Bible](https://sillsdev.github.io/paratext-manual/25.StudyBibles)
-
-**Appendix**
+### Stage 1 Drafting[undefined](https://manual.paratext.org/next/Training-Manual/Overview#stage-1-drafting) {#411e2ee58c294aa49b0dd791f9e5ef2e}
 
 
-[A. Special texts  
-](https://sillsdev.github.io/paratext-manual/A.st)[B. Three letter abbreviations  
-](https://sillsdev.github.io/paratext-manual/B.3l)[C. Common USFM markers](https://sillsdev.github.io/paratext-manual/C.USFM)
+2. [Organising your desktop](https://manual.paratext.org/next/Training-Manual/Stage-1/OD) ... _p.17_
+
+
+3. [Assignments and progress](https://manual.paratext.org/next/Training-Manual/Stage-1/PP1) ... _p.29_
+
+
+4. [Keyboarding your draft](https://manual.paratext.org/next/Training-Manual/Stage-1/KD) ... _p.35_
+
+
+5. [Basic checks](https://manual.paratext.org/next/Training-Manual/Stage-1/BC1) ... _p.45_
+
+
+6. [Project progress](https://manual.paratext.org/next/Training-Manual/Stage-1/PP2) ... _p.49_
+
+
+### Stage 2 Team check[undefined](https://manual.paratext.org/next/Training-Manual/Overview#stage-2-team-check) {#3f5526cc58414ffb8effa131d936cde2}
+
+
+7. [Proper Names](https://manual.paratext.org/next/Training-Manual/Stage-2/PN) ... _p.54_
+
+
+8. [Spell Checking](https://manual.paratext.org/next/Training-Manual/Stage-2/SP) ... _p.61_
+
+
+9. [Glossary](https://manual.paratext.org/next/Training-Manual/Stage-2/GL) ... _p.72_
+
+
+10. [A 4-Step process for ... Biblical Terms](https://manual.paratext.org/next/Training-Manual/Stage-2/BT) ... _p.78_
+
+
+11. [Compare a word or phrase](https://manual.paratext.org/next/Training-Manual/Stage-2/MP) ... _p.89_
+
+
+12. [Basic Checks](https://manual.paratext.org/next/Training-Manual/Stage-2/BC2) ... _p.94_
+
+
+13. [Formatting checks](https://manual.paratext.org/next/Training-Manual/Stage-2/FC) ... _p.104_
+
+
+14. [Printing Drafts](https://manual.paratext.org/next/Training-Manual/Stage-2/PD) ... _p.109_
+
+
+15. [Using Notes](https://manual.paratext.org/next/Training-Manual/Stage-2/UN) ... _p.114_
+
+
+### Stage 3 Prepare for consultant[undefined](https://manual.paratext.org/next/Training-Manual/Overview#stage-3-prepare-for-consultant) {#ccad14449f1449d294403599c567fca9}
+
+
+16. [Draft a Back Translation](https://manual.paratext.org/next/Training-Manual/Stage-3/BT1) ... _p.125_
+
+
+17. [Interlinearize a project](https://manual.paratext.org/next/Training-Manual/Stage-3/BT2) ... _p.132_
+
+
+18. [Compare Text](https://manual.paratext.org/next/Training-Manual/Stage-3/CT) ... _p.137_
+
+
+19. [Basic checks 3](https://manual.paratext.org/next/Training-Manual/Stage-3/BC3) ... _p.140_
+
+
+### Stage 4 Consultant check[undefined](https://manual.paratext.org/next/Training-Manual/Overview#stage-4-consultant-check) {#59477995b9df4f54ae32eedfa4ceef62}
+
+
+20. [Collaboration Tools](https://manual.paratext.org/next/Training-Manual/Stage-4/Collaboration-tools) ... _p.149_
+
+
+### Stage 5 (Stage 3 UBS) Community review[undefined](https://manual.paratext.org/next/Training-Manual/Overview#stage-5-stage-3-ubs-community-review) {#6ebbbebeea474db0bf854eb85846e7ba}
+
+
+21. [Progress report](https://manual.paratext.org/next/Training-Manual/Stage-5/PPR) ... _p.157_
+
+
+22. [Biblical key terms report](https://manual.paratext.org/next/Training-Manual/Stage-5/BTR) ... _p.159_
+
+
+### Stage 6 (Stage 4 UBS) [Finalising for Publication](https://manual.paratext.org/next/Training-Manual/Stage-6/Stage-6)[](https://manual.paratext.org/next/Training-Manual/Overview#stage-6-stage-4-ubs-finalising-for-publication) {#4ae331c51560438bbe61b5ad32a8c450}
+
+
+23. [Parallel Passages](https://manual.paratext.org/next/Training-Manual/Stage-6/PP) ... _p.162_
+
+
+24. [Finalising for Publication](https://manual.paratext.org/next/Training-Manual/Stage-6/FFP) ... _p.170_
+
+
+25. [Create a study Bible](https://manual.paratext.org/next/Training-Manual/Stage-6/StudyBibles) ... _p.179_
+
+
+### Appendix[undefined](https://manual.paratext.org/next/Training-Manual/Overview#appendix) {#2d95739ba04c49999574ba5751f22b7a}
+
+
+[**A**](https://manual.paratext.org/next/Training-Manual/Appendix/A.st)[. Special texts](https://manual.paratext.org/next/Training-Manual/Appendix/A.st) ... _p.186_
+
+
+[**B**](https://manual.paratext.org/next/Training-Manual/Appendix/B.3l)[. Three letter abbreviations](https://manual.paratext.org/next/Training-Manual/Appendix/B.3l) ... _p.191_
+
+
+[**C**](https://manual.paratext.org/next/Training-Manual/Appendix/C.USFM)[. Common USFM markers](https://manual.paratext.org/next/Training-Manual/Appendix/C.USFM) ... _p.194_
 
