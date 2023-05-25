@@ -1,5 +1,5 @@
 ---
-title: A Special text
+title: A. Special text
 sidebar_position: 0
 slug: /A.st
 ---

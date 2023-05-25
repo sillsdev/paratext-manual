@@ -1,5 +1,5 @@
 ---
-title: B Three letter abbreviations
+title: B. Three letter abbreviations
 sidebar_position: 1
 slug: /B.3l
 ---

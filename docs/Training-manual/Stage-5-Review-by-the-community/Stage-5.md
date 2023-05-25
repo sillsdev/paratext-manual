@@ -1,5 +1,5 @@
 ---
-title: Stage 5 / Stage 3 UBS - Overview
+title: Stage 5 – Overview
 sidebar_position: 0
 slug: /Stage-5
 ---
