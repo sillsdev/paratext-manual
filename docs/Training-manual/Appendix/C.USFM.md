@@ -79,15 +79,15 @@ slug: /C.USFM
 ## Footnote Markers {#829f632d730b4db2902aca9a8607a085}
 
 
-| USFM | Description                                 | Style     |
-| ---- | ------------------------------------------- | --------- |
-| \f   | Footnote                                    | Note      |
-| \fr  | Footnote - Reference                        | Character |
-| \ft  | Footnote - Text                             | Character |
-| \fk  | Footnote - Keyword                          | Character |
-| \fq  | Footnote - Quotation or Alternate Rendering | Character |
-| \fqa | Footnote - Alternate Translation Rendering  | Character |
-| \f*  | Footnote End                                | Note      |
+| USFM | Description                                | Style     |
+| ---- | ------------------------------------------ | --------- |
+| \f   | Footnote                                   | Note      |
+| \fr  | Footnote - Reference                       | Character |
+| \ft  | Footnote - Text                            | Character |
+| \fk  | Footnote - Keyword                         | Character |
+| \fq  | Footnote - Quotation from the text         | Character |
+| \fqa | Footnote - Alternate Translation Rendering | Character |
+| \f*  | Footnote End                               | Note      |
 
 
 ## Glossary {#b27a3c455de340b9bdd33a5e92353b91}

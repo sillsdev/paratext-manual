@@ -12,7 +12,7 @@ The second stage of a translation project involves checking by the team. In this
 
 The following modules will help you in this stage:
 
-1. [**PN – Proper Names**](https://sillsdev.github.io/paratext-manual/7.PN.md)
+1. [~~**PN – Proper Names**~~](https://sillsdev.github.io/paratext-manual/7.PN.md) **(see Help)**
 1. [**SP – Spell Checking**](https://sillsdev.github.io/paratext-manual/8.SP.md)
 1. [**GL – Glossary**](https://sillsdev.github.io/paratext-manual/9.GL.md)
 1. [**BT – A 4-Step process for consistent Biblical Terms**](https://sillsdev.github.io/paratext-manual/10.BT.md)
