@@ -12,7 +12,7 @@ In this third stage of an SIL translation project you will do comprehension test
 
 The following modules will help you in this stage:
 
-1. **Draft a Back Translation**
-1. [**Interlinearize a project**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/04-Stage-3/17.BT2.md)
-1. [**Compare Text**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/04-Stage-3/18.CT.md)
-1. [**Basic checks 3**](file:///C:/Users/jjpdq/Documents/paratextmanual/versioned_docs/version-9.3/Training-Manual/04-Stage-3/19.BC3.md)
+1. [**Draft a Back Translation**](/16.BT1)
+1. [**Interlinearize a project**](/17.BT2)
+1. [**Compare Text**](/18.CT)
+1. [**Basic checks 3**](/19.BC3)
