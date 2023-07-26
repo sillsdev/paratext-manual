@@ -17,9 +17,9 @@ The following modules will help you in this stage:
 
 1. **Collaboration Tools**
 
-See also modules in Stages one to three. In particular,
-Stage 3 - 16. **Draft a Back Translation** 
+See also modules in Stages one to three. In particular,  
+Stage 3 - 16. **Draft a Back Translation**   
 
 
-Stage 3 - 17. **Interlinearize a project** 
+Stage 3 - 17. **Interlinearize a project**   
 

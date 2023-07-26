@@ -68,10 +68,22 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 
 ## Parallel Passages Tool {#f660aff19a7541efaa453398f11dbacd}
 
+
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
 - The colours have changed from **green** to **grey**
+
 - You can reduce or expand the Greek / Hebrew by clicking the little arrow.
 
-	![](/notion_imgs/1036502882.png)
+</div><div className='notion-spacer' />
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+![](/notion_imgs/1036502882.png)
+
+</div><div className='notion-spacer' />
+</div>
 
 
 ## Open a text collection {#fd1736d1bd07444fb6902b8dccf951dc}
@@ -79,12 +91,22 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 
 There is a new menu item on the **main menu**
 
+1. From the **Paratext menu**
+
+<div class='notion-row'>
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
+
+1. Choose **Open text collection**
+
+</div><div className='notion-spacer' />
+
+<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](/notion_imgs/839941766.png)
 
-1. From the **Paratext menu**
-1. Choose **Open text collection**
-	- _This window looks like what was used in earlier versions of Paratext_.
+</div><div className='notion-spacer' />
+</div>
+
 1. Open a previously **saved text collection** from the bottom left
 1. You can still open a text collection from the **Open** window as well.
 
