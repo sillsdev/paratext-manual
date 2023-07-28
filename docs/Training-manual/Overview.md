@@ -19,9 +19,21 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 
 
 2. [Organising your desktop](https://manual.paratext.org/Training-Manual/Stage-1/OD) ... _p.17_
+
+
+
 3. [Assignments and progress](https://manual.paratext.org/Training-Manual/Stage-1/PP1) ... _p.29_
+
+
+
 4. [Keyboarding your draft](https://manual.paratext.org/Training-Manual/Stage-1/KD) ... _p.35_
+
+
+
 5. [Basic checks](https://manual.paratext.org/Training-Manual/Stage-1/BC1) ... _p.45_
+
+
+
 6. [Project progress](https://manual.paratext.org/Training-Manual/Stage-1/PP2) ... _p.49_
 
 
@@ -29,13 +41,37 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 
 
 7. [Proper Names](https://manual.paratext.org/Training-Manual/Stage-2/PN) ... _p.54_
+
+
+
 8. [Spell Checking](https://manual.paratext.org/Training-Manual/Stage-2/SP) ... _p.61_
+
+
+
 9. [Glossary](https://manual.paratext.org/Training-Manual/Stage-2/GL) ... _p.72_
+
+
+
 10. [A 4-Step process for ... Biblical Terms](https://manual.paratext.org/Training-Manual/Stage-2/BT) ... _p.78_
+
+
+
 11. [Compare a word or phrase](https://manual.paratext.org/Training-Manual/Stage-2/MP) ... _p.89_
+
+
+
 12. [Basic Checks](https://manual.paratext.org/Training-Manual/Stage-2/BC2) ... _p.94_
+
+
+
 13. [Formatting checks](https://manual.paratext.org/Training-Manual/Stage-2/FC) ... _p.104_
+
+
+
 14. [Printing Drafts](https://manual.paratext.org/Training-Manual/Stage-2/PD) ... _p.109_
+
+
+
 15. [Using Notes](https://manual.paratext.org/Training-Manual/Stage-2/UN) ... _p.114_
 
 
@@ -43,8 +79,17 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 
 
 16. [Draft a Back Translation](https://manual.paratext.org/Training-Manual/Stage-3/BT1) ... _p.125_
+
+
+
 17. [Interlinearize a project](https://manual.paratext.org/Training-Manual/Stage-3/BT2) ... _p.132_
+
+
+
 18. [Compare Text](https://manual.paratext.org/Training-Manual/Stage-3/CT) ... _p.137_
+
+
+
 19. [Basic checks 3](https://manual.paratext.org/Training-Manual/Stage-3/BC3) ... _p.140_
 
 
@@ -58,6 +103,9 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 
 
 21. [Progress report](https://manual.paratext.org/Training-Manual/Stage-5/PPR) ... _p.157_
+
+
+
 22. [Biblical key terms report](https://manual.paratext.org/Training-Manual/Stage-5/BTR) ... _p.159_
 
 
@@ -65,7 +113,13 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 
 
 23. [Parallel Passages](https://manual.paratext.org/Training-Manual/Stage-6/PP) ... _p.162_
+
+
+
 24. [Finalising for Publication](https://manual.paratext.org/Training-Manual/Stage-6/FFP) ... _p.170_
+
+
+
 25. [Create a study Bible](https://manual.paratext.org/Training-Manual/Stage-6/StudyBibles) ... _p.179_
 
 
@@ -73,6 +127,12 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 
 
 A. [Special texts](https://manual.paratext.org/Training-Manual/Appendix/A.st) ... _p.186_
+
+
+
 B. [Three letter abbreviations](https://manual.paratext.org/Training-Manual/Appendix/B.3l) ... _p.191_
+
+
+
 C. [Common USFM markers](https://manual.paratext.org/Training-Manual/Appendix/C.USFM) ... _p.194_
 
