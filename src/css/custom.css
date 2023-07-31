@@ -60,7 +60,7 @@
   max-width: 100%;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 1000%) {
   .notion-row {
     flex-direction: column;
   }
@@ -82,3 +82,214 @@
   display: none;
 }
 /* End copied from NotionX */
+
+/* copied from manual.paratext.org */
+
+  @media print {
+    /* This should be A5
+    and (max-width: 13cm)
+    */
+
+    /* get the title of the current chapter - this will be the content of the h1 
+reset figure counter as figures start from 1 in each chapter */
+
+  h1 {
+    string-set: doctitle content();
+    page-break-before: always;
+    counter-reset: figurenum;
+    counter-reset: footnote;
+    line-height: 1.2;
+}
+
+    body {
+      line-height: 1.2;
+      font-size: 90% !important;
+      margin-top: 1.5cm !important; 
+      margin-left: 2cm !important;
+      margin-bottom: 2cm !important; 
+      margin-right: 0cm !important;
+    }
+
+    :not(h3):not(h3):not(h2) + .theme-admonition {
+      font-size: 90%;
+      break-inside: avoid;
+    } 
+
+    .theme-admonition {
+      font-size: 90%;
+      width:auto !important;
+      background-color: transparent;
+      border-right-width: 2px;
+      border-top-width: 2px;
+      border-bottom-width: 2px;
+    }
+
+    ul {
+      width:auto !important;
+      orphans: 2;
+      font-size: 100% !important;
+    }
+
+
+   h1 {
+      font-size: 150% !important;
+      margin-left: -1.5cm;
+      padding-bottom: 6px;
+      border-bottom: 4px double rgb(44, 14, 209);
+    }
+
+    .markdown > h2 {
+      -webkit-break-after: avoid-page !important;
+      page-break-after: avoid !important;
+      break-after: avoid-page !important;
+      font-size: 110% !important;
+      margin-left: -1.5cm;
+      border-top: 2px solid black;
+      margin-bottom: 10px !important;
+    }
+  
+    .markdown > h3 {
+      -webkit-break-after: avoid !important;
+      page-break-after: avoid !important;
+      break-after: avoid-page !important;
+      font-size: 110%;
+      margin-left: -1cm;
+      border-top: 1.5px solid rgb(70, 70, 70);
+    }
+
+    .markdown > h4 {  
+      -webkit-break-after: avoid-page;
+      page-break-after: avoid !important;
+      break-after: avoid-page !important;
+      font-size: 100%;
+      margin-left: 0.25cm;
+      border-top: 1px solid rgb(129, 129, 129);
+    }
+    
+    .markdown > h5 {
+      -webkit-break-after: always;
+      break-after: always !important;
+    }
+   h1 + h3,
+   h2 + h3 {
+      /* this removes double borders */
+      border-top: none !important;
+    }
+
+
+    h2 + ul, 
+    h2 + p, 
+    h2 + ol, 
+    h3 + ul, 
+    h3 + p, 
+    h2 + ol, 
+    h2 + .theme-admonition,
+    h3 + .theme-admonition,
+    h4 + ul, 
+    h4 + p, 
+    h4 + ol,
+    h4 + .theme-admonition  {
+      break-after: avoid-page !important;
+      break-before: avoid-page !important;
+    }
+/*
+    p + h2:first-of-type, ul + h2:first-of-type, .theme-admonition + h2:first-of-type {
+      break-before: page !important;
+    }
+*/
+    article .markdown p {
+      orphans: 2;
+      widows: 2;
+    }
+
+
+    .markdown > p + ul, .markdown > p + ol {margin-top: -10px !important;
+      }
+    
+    /* ul {
+      orphans: 2;
+    }*/
+        
+    li {
+      orphans: 2;
+      widows: 2;
+      /* border: 1.5px solid rgb(70, 70, 70); */
+    }
+
+    li + .theme-admonition 
+    	{margin-top: 5px;
+    }
+    
+    ol ul li img {
+      max-width: 260px;
+    }
+
+
+    ul, ol {
+      -webkit-break-before: avoid-page;
+      break-before: avoid-page !important;
+      orphans: 2;
+      font-size: 90% !important;
+      /* border: 1.5px solid rgb(70, 70, 70); */
+      margin-left: 0px; 
+      padding-left: 20px;
+      
+    }
+
+    li img {margin-top: 5px;}
+    
+
+
+    h3 + h4 {
+      border-top: none;
+    }
+
+    .theme-doc-footer {display: none;}
+
+    a img {
+        max-width: 200px;
+        max-height: 135px;
+        object-fit: contain;
+        break-inside: avoid;
+      }
+
+         
+    img {
+        max-width: 300px;
+        max-height: 250px;
+        object-fit: contain;
+        break-inside: avoid;
+      }
+        
+    table {width: 100%} 
+    
+    .theme-doc-sidebar-container {
+      display: none !important;
+    }
+
+    .col--3 {display: none}
+  
+    :root {
+      --doc-sidebar-width: 0px !important;;
+    }
+
+    .pagebreak { page-break-before: always;}
+
+    span[class^='admonitionIcon'] svg  {
+      max-height: 1em;
+      text-align: left;
+    }
+    
+    div[class^='admonitionHeading']  {
+      font-size: 85%;
+      text-align: left;
+      margin-top: -2px;
+      margin-bottom: 0px;
+    }
+
+    .theme-admonition {
+      font-size: 85%;
+      padding: 5px;
+    } 
+
+  }
