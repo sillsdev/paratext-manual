@@ -29,6 +29,12 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* Added by Jenni Beadle to increase the font */
+  body {
+      line-height: 1.5;
+      font-size: 105% !important;
+    }
+
 /* Copied from
     https://github1s.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css#L934
     and
@@ -60,7 +66,7 @@
   max-width: 100%;
 }
 
-@media (max-width: 1000%) {
+@media (max-width: 100%) {
   .notion-row {
     flex-direction: column;
   }
