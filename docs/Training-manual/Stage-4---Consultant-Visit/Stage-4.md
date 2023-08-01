@@ -14,7 +14,9 @@ Most of the tasks in this stage have been covered in previous modules.
 
 The following module will help you in this stage:
 
-1. **Collaboration Tools**
+
+ 20.  **Collaboration Tools**
+
 
 See also modules in Stages one to three. In particular,  
 
