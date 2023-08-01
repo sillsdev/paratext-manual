@@ -265,6 +265,8 @@ reset figure counter as figures start from 1 in each chapter */
         max-height: 250px;
         object-fit: contain;
         break-inside: avoid;
+        padding-top: 1;
+        padding-bottom: 1;
       }
         
     table {width: 100%} 
