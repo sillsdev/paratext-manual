@@ -91,7 +91,7 @@
 
 /* copied from manual.paratext.org */
 
-  @media print {
+@media print {
     /* This should be A5
     and (max-width: 13cm)
     */
@@ -109,7 +109,7 @@ reset figure counter as figures start from 1 in each chapter */
 
     body {
       line-height: 1.5;
-      font-size: 105% !important;
+      font-size: 115% !important;
       margin-top: 1.5cm !important; 
       margin-left: 2cm !important;
       margin-bottom: 2cm !important; 
