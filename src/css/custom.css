@@ -108,8 +108,8 @@ reset figure counter as figures start from 1 in each chapter */
 }
 
     body {
-      line-height: 1.2;
-      font-size: 95% !important;
+      line-height: 1.5;
+      font-size: 105% !important;
       margin-top: 1.5cm !important; 
       margin-left: 2cm !important;
       margin-bottom: 2cm !important; 
