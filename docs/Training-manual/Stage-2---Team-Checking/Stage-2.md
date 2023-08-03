@@ -25,17 +25,17 @@ The following modules will help you in this stage:
  10.  [A 4-Step process for consistent Biblical Terms](https://sillsdev.github.io/paratext-manual/10.BT)
 
 
- 11.  [Compare a word or phrase](https://sillsdev.github.io/paratext-manual/11.MP.md)
+ 11.  [Compare a word or phrase](https://sillsdev.github.io/paratext-manual/11.MP)
 
 
- 12.  [Basic Checks](https://sillsdev.github.io/paratext-manual/12.BC2.md)
+ 12.  [Basic Checks](https://sillsdev.github.io/paratext-manual/12.BC2)
 
 
- 13.  [Formatting checks](https://sillsdev.github.io/paratext-manual/13.FC.md)
+ 13.  [Formatting checks](https://sillsdev.github.io/paratext-manual/13.FC)
 
 
- 14.  [Printing Drafts](https://sillsdev.github.io/paratext-manual/14.PD.md)
+ 14.  [Printing Drafts](https://sillsdev.github.io/paratext-manual/14.PD)
 
 
- 15.  [Using Notes](https://sillsdev.github.io/paratext-manual/15.UN.md)
+ 15.  [Using Notes](https://sillsdev.github.io/paratext-manual/15.UN)
 

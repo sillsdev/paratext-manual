@@ -13,11 +13,11 @@ The sixth stage (SIL) [or fourth stage USB], of a translation project is the fin
 The following modules will help you in this stage:
 
 
- 23. Compare [**Parallel Passages**](https://sillsdev.github.io/paratext-manual/23.PP)
+ 23. [Compare Parallel Passages](https://sillsdev.github.io/paratext-manual/23.PP)
 
 
  24. [**Finalising for Publication**](https://sillsdev.github.io/paratext-manual/24.FFP)
 
 
- 25. [**Create a study Bible**](https://sillsdev.github.io/paratext-manual/StudyBibles)
+ 25. [Create a Study Bible](https://sillsdev.github.io/paratext-manual/StudyBibles)
 
