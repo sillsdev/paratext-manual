@@ -16,7 +16,7 @@ The following modules will help you in this stage:
  23. [Compare Parallel Passages](https://sillsdev.github.io/paratext-manual/23.PP)
 
 
- 24. [**Finalising for Publication**](https://sillsdev.github.io/paratext-manual/24.FFP)
+ 24. [Finalising for Publication](https://sillsdev.github.io/paratext-manual/24.FFP)
 
 
  25. [Create a Study Bible](https://sillsdev.github.io/paratext-manual/StudyBibles)

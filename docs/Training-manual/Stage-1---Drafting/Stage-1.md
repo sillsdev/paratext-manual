@@ -15,17 +15,17 @@ There are several stages in a translation project. In this first stage you will 
 The following modules will help you in this stage:
 
 
-2. [Organising your desktop](https://manual.paratext.org/Training-Manual/Stage-1/OD)  
+2. [Organising your desktop](https://sillsdev.github.io/training-manual/Stage-1/OD)  
 
 
-3. [Assignments and progress](https://manual.paratext.org/Training-Manual/Stage-1/PP1)  
+3. [Assignments and progress](https://sillsdev.github.io/paratext-manual/Stage-1/PP1)  
 
 
-4. [Keyboarding your draft](https://manual.paratext.org/training-manual/Stage-1/KD)  
+4. [Keyboarding your draft](https://sillsdev.github.io/paratext-manual/Stage-1/KD)  
 
 
 5. [Basic checks](https://sillsdev.github.io/paratext-manual/5.BC1)  
 
 
-6. [Project progress](https://manual.paratext.org/paratext-manual/6.PP2)
+6. [Project progress](https://sillsdev.github.io/paratext-manual/6.PP2)
 

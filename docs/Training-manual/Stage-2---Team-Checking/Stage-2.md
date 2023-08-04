@@ -13,7 +13,7 @@ The second stage of a translation project involves checking by the team. In this
 The following modules will help you in this stage:
 
 
-  7.  [Proper Names](/7.PN) (see Help)
+  7.  [Proper Names](https://sillsdev.github.io/paratext-manual/7.PN) (see Help)
 
 
   8.  [Spell Checking](https://sillsdev.github.io/paratext-manual/8.SP)
