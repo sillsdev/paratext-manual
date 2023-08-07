@@ -1,44 +1,52 @@
 ---
-lang: fr
-title: Formation Paratext 
-sidebar_position: 1
+title: intro
+sidebar_position: 0
 slug: /
 ---
 
 
-![](pathname:///img/cropped-PT9-web-banner.png)  
+
+# Resources for learning Paratext
+ {#06ad408f15a9458281a9d23f82fff53f}
 
 
-Ce manuel de formation (initialement développé au Cameroun) a été révisé pour la version 9.3. Ce site Web contient les versions 9.2 et 9.3 en anglais et en français. Il suit les six étapes du processus de traduction et traite la plupart des tâches du plan compact SIL. Les modules peuvent être sélectionnés pour divers cours de formation ou peuvent également être utilisés en autoformation.
-
-### Paratext [**Manuel de participant**](Training-Manual/Overview) 
-- Il comporte 25 chapitres et plus de 200 pages A4, mais est conçu pour être imprimé sous forme de brochure A5.
--  :book: [Télécharger le Manuel PDF ici](./assets/Ptx-man-fr-9.3.pdf) TEST
-   - Il a 200+ pages A4 pour imprimer en format A5 livret.
-
-[Manuel d'Administrator](Admin-Manual/Admin.md)
-----
-
-### Résumés des vidéos de formation Paratext
--  :film_projector: 90+ résumés [**regroupées par fonctionnalités spécifiques**](Video-summaries/00-list-of-videos.md) de Paratext
-
--  :film_projector: 90+ résumés [**en ordre par tâches**](Video-summaries/00-TOC-overview.md) (du plan de SIL)
-
-- :book:  [Télécharger le Résumés PDF ici](pathname:///img/Ptx-vidsum-fr-9.3.pdf)  
-   - Il est en ordre par tâches
-   - Il a 200+ pages A4 pour imprimer en format A5 livret.
-
-----
-
-### Quoi de neuf - [Paratext 9.3](Video-summaries/00-Whats-new.md)
-
-----
+![](./415098770.png)
 
 
-### Administrators
-- [Manuel d'Administrator](Admin-Manual/Admin.md)
-- [Quide Rapide](Admin-Manual/Quick-guide-admn-tasks.md)
+## [Paratext Training Manual](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
-----
 
+This training manual (originally developed in Cameroon) has been revised for version 9.3. 
+
+
+It follows the six stages of the translation process covering most of the tasks in the SIL compact plan. Modules can be selected for various training courses, or it can also be used as self-study.
+
+- 📖 [**Download the PDF version here**](https://manual.paratext.org/img/Ptx-man-en-9.3.pdf)
+	- It has 25 chapters in 200 A5 pages to be printed as a booklet. Or used as an off-line copy.
+
+---
+
+
+### What's new - [**Paratext 9.3**](https://sillsdev.github.io/paratext-manual/00-Whats-new) {#d1196c2eb75c4532b1d3c6e72a394c13}
+
+
+---
+
+
+## Earlier versions {#cf46e5190e44405a90683dff63a58f78}
+
+
+The Manual for Paratext versions 9.2 and early 9.3 (in English and French only) are available on [**this website**](https://jennibeadle/paratextmanversions/)**.**
+
+
+---
+
+
+## Paratext video summaries {#0a01badb596b4812bcecb2fea41ce1bc}
+
+
+The Paratext video summaries in _English_ and _French only_ are available on [**this website**](https://jennibeadle.github.io/paratext-vidsum/) 
+
+
+---
 

@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
+    "pull": "cross-var npx docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs -i ./static/notion_imgs -p /notion_imgs/",
+    "//pull:stable": "This uses the specific version of docu-notion in yarn.lock, not necessarily the latest",
+    "pull:stable": "cross-var yarn docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs -i ./static/notion_imgs -p /notion_imgs/",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "deploy": "docusaurus deploy"
@@ -13,13 +16,17 @@
     "@easyops-cn/docusaurus-search-local": "^0.33.6",
     "@mdx-js/react": "^1",
     "clsx": "^1.2.1",
-    "docu-notion": "*",
-    "docu-pdf": "^1.2.1",
+    "docu-notion": "^0.11.0",
+    "docu-pdf": "^1.3.0",
     "prism-react-renderer": "^1.3.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-player": "^2.10.1",
-    "serve": "^14.1.2"
+    "serve": "^14.1.2",
+    "crowdin": "crowdin",
+    "//pretranslate": "  used to re-apply translations when files are renamed or reorganized",
+    "crowdin:pretranslate": "crowdin pre-translate --method tm --translate-untranslated-only --translate-with-perfect-match-only --verbose",
+    "crowdin:sync": "docusaurus write-translations && crowdin upload sources --delete-obsolete && crowdin download"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.2.0",
