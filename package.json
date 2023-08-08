@@ -3,32 +3,38 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "pull": "cross-var npx docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs -i ./static/notion_imgs -p /notion_imgs/",
+    "pull": "cross-var npx @sillsdev/docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs -i ./static/notion_imgs -p /notion_imgs/",
     "//pull:stable": "This uses the specific version of docu-notion in yarn.lock, not necessarily the latest",
     "pull:stable": "cross-var yarn docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs -i ./static/notion_imgs -p /notion_imgs/",
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "deploy": "docusaurus deploy"
-  },
-  "dependencies": {
-    "@docusaurus/core": "2.2.0",
-    "@docusaurus/preset-classic": "2.2.0",
-    "@easyops-cn/docusaurus-search-local": "^0.33.6",
-    "@mdx-js/react": "^1",
-    "clsx": "^1.2.1",
-    "docu-notion": "^0.11.0",
-    "docu-pdf": "^1.3.0",
-    "prism-react-renderer": "^1.3.5",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-player": "^2.10.1",
-    "serve": "^14.1.2",
-    "@crowdin/cli": "3.13.0",
+    "deploy": "docusaurus deploy",
+    "//serve": "Needed, for example, to test the search functionality locally",
+    "serve": "docusaurus serve",
+    "docu-pdf": "docu-pdf",
+    "make-pdf": "bash make-pdf.sh",
+    "crowdin": "crowdin",
+    "//pretranslate": "  used to re-apply translations when files are renamed or reorganized",
     "crowdin:pretranslate": "crowdin pre-translate --method tm --translate-untranslated-only --translate-with-perfect-match-only --verbose",
     "crowdin:sync": "docusaurus write-translations && crowdin upload sources --delete-obsolete && crowdin download"
   },
+  "dependencies": {
+    "@crowdin/cli": "3.9.3",
+    "@docusaurus/core": "^2.2.0",
+    "@docusaurus/preset-classic": "^2.2.0",
+    "@easyops-cn/docusaurus-search-local": "^0.33.6",
+    "@mdx-js/react": "^1",
+    "clsx": "^1.2.1",
+    "docu-pdf": "^1.2.1",
+    "prism-react-renderer": "^1.3.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-gif-player": "^0.4.2",
+    "react-player": "^2.10.1"
+  },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.2.0",
+    "@docusaurus/module-type-aliases": "^2.2.0",
+    "@sillsdev/docu-notion": "*",
     "@tsconfig/docusaurus": "^1.0.6",
     "cross-var": "^1.1.0",
     "typescript": "^4.7.4"
@@ -44,5 +50,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+    "volta": {
+        "node": "16.14.0",
+        "yarn": "1.22.19"
+    }
 }
