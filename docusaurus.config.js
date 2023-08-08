@@ -12,6 +12,9 @@ const config = {
   baseUrl: "/paratext-manual/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
+  // Duplicate routes cause the next/prev buttons to loop
+  // which causes the pdf creation to loop forever.
+  onDuplicateRoutes: "throw",
   favicon: "img/Paratext_Icon-48px.ico",
 
   organizationName: "sillsdev", // Usually your GitHub org/user name.
