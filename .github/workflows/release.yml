@@ -29,10 +29,18 @@ jobs:
           PARATEXT_NOTION_INTEGRATION_TOKEN: ${{ secrets.PARATEXT_NOTION_INTEGRATION_TOKEN }}
           PARATEXT_NOTION_ROOT_PAGE: ${{ secrets.PARATEXT_NOTION_ROOT_PAGE }}
         run: yarn pull
-      - name: Commit
+      - name: Commit New Source Material
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: GHAction - Commit content changes pulled from notion
+      - name: Crowdin
+        run: yarn crowdin:sync-with-no-upload
+        env:
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+      - name: Commit New Translations
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: GHAction - Commit incoming translations from Crowdin
       - name: Build Docusaurus instance for github pages branch
         run: yarn build
       - name: Deploy to gh-pages
