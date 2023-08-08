@@ -1,6 +1,12 @@
-project_id: '574887'
+project_id: "574887"
 api_token_env: CROWDIN_PERSONAL_TOKEN
-preserve_hierarchy: 1
-files:
-  source: /docs/Training-Manual/**/*.md
-  translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
+preserve_hierarchy: true
+files: [
+    {
+      "source": /docs/Training-Manual/**/*.md,
+      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%,
+      "skip_untranslated_files": true,
+      # Note that we aren't putting images on Crowdin because we using imgur links on the captions, instead
+      "ignore": ["/**/*.png", "/**/*.jpg", "/**/*.gif"],
+    },
+  ]
