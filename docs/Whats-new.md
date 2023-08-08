@@ -45,7 +45,7 @@ In Paratext 9.3 you can copy and paste a scripture reference into the navigation
 1. Click in the **book name** in the navigation bar
 1. Paste using **Ctrl+V**
 
-	![](./1158626626.png)
+	![](/notion_imgs/1158626626.png)
 
 
 The reference should be in a format that matches the interface language.
@@ -80,7 +80,7 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-![](./1036502882.png)
+![](/notion_imgs/1036502882.png)
 
 </div><div className='notion-spacer' />
 </div>
@@ -102,7 +102,7 @@ There is a new menu item on the **main menu**
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-![](./839941766.png)
+![](/notion_imgs/839941766.png)
 
 </div><div className='notion-spacer' />
 </div>
@@ -123,14 +123,14 @@ Remember to save your layout!
 
 
 
-![](./1620979427.png)
+![](/notion_imgs/1620979427.png)
 
 
 ## Floating Windows {#493f51aae2f5480893f25897c408c26c}
 
 - Dropdown to change the active project
 
-	![](./807351003.png)
+	![](/notion_imgs/807351003.png)
 
 
 ### Other new/changed {#4796465de7ac4f3190c47faa4b9750b8}

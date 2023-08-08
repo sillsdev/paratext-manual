@@ -10,7 +10,7 @@ slug: /
  {#06ad408f15a9458281a9d23f82fff53f}
 
 
-![](./415098770.png)
+![](/notion_imgs/415098770.png)
 
 
 ## [Paratext Training Manual](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
