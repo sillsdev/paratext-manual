@@ -59,6 +59,18 @@ const config = {
         htmlLang: "en-US",
         calendar: "gregory",
       },
+      fr: {
+        label: "français",
+        direction: "ltr",
+        htmlLang: "fr",
+        calendar: "gregory",
+      },
+      es: {
+        label: "español",
+        direction: "ltr",
+        htmlLang: "es",
+        calendar: "gregory",
+      },
     },
   },
   themes: [

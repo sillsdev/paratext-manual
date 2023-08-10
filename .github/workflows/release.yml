@@ -34,7 +34,7 @@ jobs:
         with:
           commit_message: GHAction - Commit content changes pulled from notion
       - name: Crowdin
-        run: yarn crowdin:sync-with-no-upload
+        run: yarn crowdin:sync
         env:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
       - name: Commit New Translations

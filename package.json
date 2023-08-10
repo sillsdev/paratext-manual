@@ -16,11 +16,11 @@
     "crowdin": "crowdin",
     "//pretranslate": "  used to re-apply translations when files are renamed or reorganized",
     "crowdin:pretranslate": "crowdin pre-translate --method tm --translate-untranslated-only --translate-with-perfect-match-only --verbose",
-    "crowdin:sync": "docusaurus write-translations && crowdin upload sources --delete-obsolete && crowdin download",
-    "crowdin:sync-with-no-upload": "docusaurus write-translations && crowdin download"
+    "crowdin:sync": "crowdin upload sources --delete-obsolete && crowdin download",
+    "crowdin:download": "crowdin download"
   },
   "dependencies": {
-    "@crowdin/cli": "3.9.3",
+    "@crowdin/cli": "^3.11.0",
     "@docusaurus/core": "^2.2.0",
     "@docusaurus/preset-classic": "^2.2.0",
     "@easyops-cn/docusaurus-search-local": "^0.33.6",
