@@ -10,19 +10,19 @@ slug: /
  {#06ad408f15a9458281a9d23f82fff53f}
 
 
-![](./415098770.png)
+![](/notion_imgs/415098770.png)
 
 
-## [Paratext Training Manual](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
+## [Paratext Training Manual](/Resumen) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
-This training manual (originally developed in Cameroon) has been revised for version 9.3. 
+This training manual (originally developed in Cameroon) has been revised for version 9.3.
 
 
 It follows the six stages of the translation process covering most of the tasks in the SIL compact plan. Modules can be selected for various training courses, or it can also be used as self-study.
 
 - 📖 [**Download the PDF version here**](https://manual.paratext.org/img/Ptx-man-en-9.3.pdf)
-	- It has 25 chapters in 200 A5 pages to be printed as a booklet. Or used as an off-line copy.
+    - It has 25 chapters in 200 A5 pages to be printed as a booklet. Or used as an off-line copy.
 
 ---
 
@@ -45,7 +45,7 @@ The Manual for Paratext versions 9.2 and early 9.3 (in English and French only) 
 ## Paratext video summaries {#0a01badb596b4812bcecb2fea41ce1bc}
 
 
-The Paratext video summaries in _English_ and _French only_ are available on [**this website**](https://jennibeadle.github.io/paratext-vidsum/) 
+The Paratext video summaries in _English_ and _French only_ are available on [**this website**](https://jennibeadle.github.io/paratext-vidsum/)
 
 
 ---
