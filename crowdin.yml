@@ -3,10 +3,11 @@ api_token_env: CROWDIN_PERSONAL_TOKEN
 preserve_hierarchy: true
 files: [
     {
-      "source": /docs/Training-manual/**/*.md,
-      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%,
       "source": /docs/intro.md,
       "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/intro.md,
+      "source": /docs/Training-manual/**/*.md,
+      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/Training-manual/**/%original_file_name%,
+
       # "skip_untranslated_files": true,
       # Note that we aren't putting images on Crowdin because we using imgur links on the captions, instead
       "ignore": ["/**/*.png", "/**/*.jpg", "/**/*.gif", "**/_category_.json"],
