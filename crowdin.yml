@@ -5,6 +5,8 @@ files: [
     {
       "source": /docs/Training-manual/**/*.md,
       "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%,
+      "source": /docs/intro.md.
+      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/intro.md,
       # "skip_untranslated_files": true,
       # Note that we aren't putting images on Crowdin because we using imgur links on the captions, instead
       "ignore": ["/**/*.png", "/**/*.jpg", "/**/*.gif", "**/_category_.json"],
