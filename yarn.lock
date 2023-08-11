@@ -2138,9 +2138,9 @@
   integrity sha512-RNiOoTPkptFtSVzQevY/yWtZwf/RxyVnPy/OcA9HBM3MlGDnBEYL5B41H0MTn0Uec8Hi+2qUtTfG2WWZBmMejQ==
 
 "@sillsdev/docu-notion@*":
-  version "0.13.2"
-  resolved "https://registry.yarnpkg.com/@sillsdev/docu-notion/-/docu-notion-0.13.2.tgz#34611b8788ddb71e4bc1e7f7b38b63336f3cae73"
-  integrity sha512-KPHPxwBFMRyv8xHVRRsjymLrToWH8JQAiVBUalDuuLDady7azAFDWakfBp44JV+J90kdtGhAmkZcX+4nQbBgFg==
+  version "0.13.2-alpha.4"
+  resolved "https://registry.yarnpkg.com/@sillsdev/docu-notion/-/docu-notion-0.13.2-alpha.4.tgz#d125a249f73c8131dfd0bbc089ef47384033f91c"
+  integrity sha512-GbNdLPHcmcEU3DAdYlsFEZ3d/wvAU3+CUPtJjynBoCGdPIzZGhdzSjV345lak5bjghVj3E8duKl3uhcSB5Eing==
   dependencies:
     "@notionhq/client" "2.2.3"
     chalk "^4.1.2"
