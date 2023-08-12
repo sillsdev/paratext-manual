@@ -12,6 +12,7 @@ files: [
 
       # "skip_untranslated_files": true,
       # Note that we aren't putting images on Crowdin because we using imgur links on the captions, instead
-      "ignore": ["/**/*.png", "/**/*.jpg", "/**/*.gif", "**/_category_.json"],
+      # JB: including images to try out crowdin's localisation of images
+      # "ignore": ["/**/*.png", "/**/*.jpg", "/**/*.gif", "**/_category_.json"],
     },
   ]
