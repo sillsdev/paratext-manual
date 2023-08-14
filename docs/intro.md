@@ -6,8 +6,7 @@ slug: /
 
 
 
-# Resources for learning Paratext
- {#06ad408f15a9458281a9d23f82fff53f}
+# Resources for learning Paratext {#06ad408f15a9458281a9d23f82fff53f}
 
 
 ![](./415098770.png)
