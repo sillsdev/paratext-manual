@@ -26,7 +26,7 @@ Everyone in a particular live session still needs to use the same server, it is 
 :::
 
 
-## Study Bible Additions {#8c8628c57aa04e48b5d33488872d0b29}
+## 研讀本聖經附加項 {#8c8628c57aa04e48b5d33488872d0b29}
 
 
 The most obvious new feature the ability to **compare versions**.

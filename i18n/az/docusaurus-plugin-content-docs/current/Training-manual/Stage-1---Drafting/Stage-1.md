@@ -9,19 +9,19 @@ slug: /Stage-1
 ## **Introduction** {#fdc449ff8f5643f7a674687005d4a1dd}
 
 
-There are several stages in a translation project. In this first stage you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.
+There are several stages in a translation project. Bu birinci mərhələdə, çoxlu resurslardan istifadə edərək, təmin etsin ki, mənbə mətni siz tam başa düşürsünüz. Bundan sonra, qaralamanı yazıb, tərcümənin mətni, və başqa da materiallar daxil edəcəksiniz, və həmin vaxtında başlanğıç yoxmaları işə salacaqsınız.
 
 
-The following modules will help you in this stage:
+Aşağıda olan dərslər bu mərhələdə sizə kömək edəcək:
 
 
-2. [Organising your desktop](https://sillsdev.github.io/paratext-manual/2.OD)
+2. [Öz iş masanızı təşkil etmək](https://sillsdev.github.io/paratext-manual/2.OD)
 
 
 3. [Tapşırıqlar və irəliləyiş](https://sillsdev.github.io/paratext-manual/3.PP1)
 
 
-4. [Keyboarding your draft](https://sillsdev.github.io/paratext-manual/4.KD)
+4. [Qaralamanızı kompüterə daxil etməyi](https://sillsdev.github.io/paratext-manual/4.KD)
 
 
 5. [Basic checks](https://sillsdev.github.io/paratext-manual/5.BC1)

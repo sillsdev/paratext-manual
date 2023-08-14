@@ -27,7 +27,7 @@ The following modules will help you in this stage:
  11.  [Compare a word or phrase](https://sillsdev.github.io/paratext-manual/11.MP)
 
 
- 12.  [Basic Checks](https://sillsdev.github.io/paratext-manual/12.BC2)
+ 12.  [تحققات أساسية](https://sillsdev.github.io/paratext-manual/12.BC2)
 
 
  13.  [Formatting checks](https://sillsdev.github.io/paratext-manual/13.FC)

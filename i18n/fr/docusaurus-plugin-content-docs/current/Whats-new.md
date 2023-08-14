@@ -1,5 +1,5 @@
 ---
-title: What's new - Paratext 9.3
+title: Quoi de neuf - Paratext 9.3
 sidebar_position: 1
 slug: /Whats-new
 ---
@@ -9,12 +9,12 @@ slug: /Whats-new
 ## Paratext Live {#16154c54093a4476b7397c214e78e49f}
 
 
-Paratext Live uses a couple of servers.
+Paratext Live utilise plus qu'un serveur.
 
 - Paratext 8, 9.0 and 9.1 use a server called Internet (secondary) WCF and Paratext 9.2 uses Internet (primary) AMQP.
     - _This is why you can't use Paratext Live with 9.2 and 9.1 at the same time_
-- In Paratext 9.3 when you start Paratext live you choose what server you want to use.
-    - **Internet (primary)**, which is 9.2 and 9.3.
+- Dans Paratext 9.3, lorsque vous démarrez Paratext Live, vous choisissez le serveur que vous souhaitez utiliser.
+    - **Internet**, qui est 9.2 et 9.3.
     - **Internet (secondary)** which is 9.0, 9.1 or Paratext 8.
 
 :::tip Remarque
@@ -26,10 +26,10 @@ Everyone in a particular live session still needs to use the same server, it is 
 :::
 
 
-## Study Bible Additions {#8c8628c57aa04e48b5d33488872d0b29}
+## Annexes de la Bible d'étude {#8c8628c57aa04e48b5d33488872d0b29}
 
 
-The most obvious new feature the ability to **compare versions**.
+La nouvelle fonctionnalité la plus évidente est la possibilité de **comparer les versions**.
 
 1. Ouvrez un projet Annexes de la Bible d'étude
 1. Dans le menu **Projet**,
@@ -37,14 +37,15 @@ The most obvious new feature the ability to **compare versions**.
    *Les changements dans les annexes sont affichés*.
     - _The changes in the additions are displayed_.
 
-## Scripture reference in navigation bar {#3c00a0202ad949bc8909f66660badb73}
+## Référence de l'Écriture dans la barre de navigation {#3c00a0202ad949bc8909f66660badb73}
 
 
-In Paratext 9.3 you can copy and paste a scripture reference into the navigation bar.
+Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la barre de navigation.
 
-1. Copy the text of a reference (from another file)
-1. Click in the **book name** in the navigation bar
-1. Paste using **Ctrl+V**
+1. Copier le texte d'une référence (depuis un autre fichier)
+1. Cliquez sur le **nom du livre** dans la barre de navigation.
+1. Collez en utilisant **Ctrl+V**.  
+    
 
     ![](./1158626626.png)
 
@@ -54,8 +55,8 @@ The reference should be in a format that matches the interface language.
 
 For example,
 
-- in English: MAT 12.3, Mrk 5:4, Galatians 1:12
-- in Spanish: Romanos 8:28
+- en anglais : MAT 12.3, Mrk 5:4, Galates 1:12
+- en espagnol : Romanos 8:28
 
 :::tip Remarque
 
@@ -66,7 +67,7 @@ The names must matches the names as they are seen in the titles. Currently can't
 :::
 
 
-## Parallel Passages Tool {#f660aff19a7541efaa453398f11dbacd}
+## Outil de recherche de passages parallèles {#f660aff19a7541efaa453398f11dbacd}
 
 
 <div class='notion-row'>
@@ -88,7 +89,7 @@ The names must matches the names as they are seen in the titles. Currently can't
 ## Open a text collection {#fd1736d1bd07444fb6902b8dccf951dc}
 
 
-There is a new menu item on the **main menu**
+Il y a un nouvel élément de menu dans le **menu principal**.
 
 1. From the **Paratext menu**
 
@@ -106,16 +107,16 @@ There is a new menu item on the **main menu**
 </div><div className='notion-spacer'></div>
 </div>
 
-1. Open a previously **saved text collection** from the bottom left
-1. You can still open a text collection from the **Open** window as well.
+1. Ouvrez une collection de texte précédemment **enregistrée** en bas à gauche.
+1. Vous pouvez également ouvrir une collection de texte à partir de la fenêtre **Ouvrir**.
 
-## Arranging windows {#b526a01da9e04357804f4849c39f2fdc}
+## Arrangement des fenêtres {#b526a01da9e04357804f4849c39f2fdc}
 
-- Arrange windows by **rows** as well as by **columns**.
+- 1
 
 :::astuce
 
-Remember to save your layout!
+N'oubliez pas d'enregistrer votre disposition des fenêtres !
 
 :::
 
@@ -125,16 +126,16 @@ Remember to save your layout!
 ![](./1620979427.png)
 
 
-## Floating Windows {#493f51aae2f5480893f25897c408c26c}
+## Fenêtres flottantes {#493f51aae2f5480893f25897c408c26c}
 
-- Dropdown to change the active project
+- Liste déroulante pour changer le projet actif  
 
     ![](./807351003.png)
 
 
-### Other new/changed {#4796465de7ac4f3190c47faa4b9750b8}
+### Autres nouveautés/changements {#4796465de7ac4f3190c47faa4b9750b8}
 
 - **RegEx Pal** - from Main menu &gt; Advanced or Project menu &gt; Advanced.
-- **Synchronizing** with Logos and other compatible programs is now turned **on by default**
-- Changes have been made to help with the localization of the help files and the user interface
-- **Bible modules** can now handle **chapter markers** in the extra books
+- La **synchronisation** avec Logos et d'autres programmes compatibles est maintenant activée **par défaut**
+- Des modifications ont été apportées pour faciliter la localisation des fichiers d'aide et de l'interface utilisateur
+- Les **modules bibliques** peuvent maintenant gérer les **marqueurs de chapitre** dans les livres supplémentaires.

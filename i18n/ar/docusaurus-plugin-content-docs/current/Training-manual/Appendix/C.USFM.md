@@ -14,7 +14,7 @@ slug: /C.USFM
 :::
 
 
-| USFM  | Description                               | Style     |
+| USFM  | وصف                                       | النمط     |
 | ----- | ----------------------------------------- | --------- |
 | \id  | File - Identification                     | Paragraph |
 | \h   | File - Header                             | Paragraph |
@@ -35,7 +35,7 @@ slug: /C.USFM
 ## Less-common Markers {#e86265f707e24d699845d9ddecf69de2}
 
 
-| USFM | Description                                  | Style     |
+| USFM | وصف                                          | النمط     |
 | ---- | -------------------------------------------- | --------- |
 | \pc | Paragraph - Centered (for Inscription)       | Paragraph |
 | \nb | Paragraph - No Break with Previous Paragraph | Paragraph |
@@ -45,7 +45,7 @@ slug: /C.USFM
 ## Introduction Markers {#93551ca206c1421dacac7e7922e83bd8}
 
 
-| USFM   | Description                                     | Style     |
+| USFM   | وصف                                             | النمط     |
 | ------ | ----------------------------------------------- | --------- |
 | \imt1 | Introduction - Major Title Level 1              | Paragraph |
 | \iot  | Introduction - Outline Title                    | Paragraph |
@@ -59,9 +59,9 @@ slug: /C.USFM
 ## Cross Reference Markers {#7582640cf3fe4b3993dbb6b460d40d4c}
 
 
-| USFM | Description                         | Style     |
+| USFM | وصف                                 | النمط     |
 | ---- | ----------------------------------- | --------- |
-| \x  | Cross Reference                     | Note      |
+| \x  | إشارة مرجعية                        | Note      |
 | \xo | Cross Reference – Origin Reference  | Character |
 | \xt | Cross Reference - Target References | Character |
 | \x* | Cross Reference End                 | Note      |
@@ -70,7 +70,7 @@ slug: /C.USFM
 ## Figure/Illustration Markers {#4e91568268b54c8ea70f81c80a0061f4}
 
 
-| USFM   | Description                             | Style |
+| USFM   | وصف                                     | النمط |
 | ------ | --------------------------------------- | ----- |
 | \fig  | Auxiliary - Figure/Illustration/Map     | Note  |
 | \fig* | Auxiliary - Figure/Illustration/Map End | Note  |
@@ -79,7 +79,7 @@ slug: /C.USFM
 ## Footnote Markers {#829f632d730b4db2902aca9a8607a085}
 
 
-| USFM  | Description                                | Style     |
+| USFM  | وصف                                        | النمط     |
 | ----- | ------------------------------------------ | --------- |
 | \f   | Footnote                                   | Note      |
 | \fr  | Footnote - Reference                       | Character |
@@ -93,7 +93,7 @@ slug: /C.USFM
 ## Glossary {#b27a3c455de340b9bdd33a5e92353b91}
 
 
-| USFM       | Description                                    | Style     |
+| USFM       | وصف                                            | النمط     |
 | ---------- | ---------------------------------------------- | --------- |
 | \k … k*   | Keyword (in the glossary)                      | Character |
 | \w … \w* | Indicates a word in the glossary (in the text) | Character |

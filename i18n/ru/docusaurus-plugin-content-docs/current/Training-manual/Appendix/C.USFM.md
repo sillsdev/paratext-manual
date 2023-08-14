@@ -14,28 +14,28 @@ slug: /C.USFM
 :::
 
 
-| USFM  | Description                               | Style     |
-| ----- | ----------------------------------------- | --------- |
-| \id  | File - Identification                     | Paragraph |
-| \h   | File - Header                             | Paragraph |
-| \c   | Chapter Number                            | Paragraph |
-| \v   | Verse Number                              | Character |
-| \p   | Paragraph - Normal - First Line Indent    | Paragraph |
-| \m   | Paragraph - Margin - No First Line Indent | Paragraph |
-| \q1  | Poetry - Indent Level 1                   | Paragraph |
-| \q2  | Poetry - Indent Level 2                   | Paragraph |
-| \r   | Heading - Parallel References             | Paragraph |
-| \s1  | Heading - Section Level 1                 | Paragraph |
-| \s2  | Heading - Section Level 2                 | Paragraph |
-| \mt1 | Title - Major Title Level 1               | Paragraph |
-| \mt2 | Title - Major Title Level 2               | Paragraph |
-| \mt3 | Title - Major Title Level 3               | Paragraph |
+| USFM         | Описание                                  | Стиль     |
+| ------------ | ----------------------------------------- | --------- |
+| \фраз. глаг | File - Identification                     | Paragraph |
+| \h          | File - Header                             | Paragraph |
+| \c          | Chapter Number                            | Paragraph |
+| \v          | Verse Number                              | Character |
+| \p          | Paragraph - Normal - First Line Indent    | Paragraph |
+| \m          | Paragraph - Margin - No First Line Indent | Paragraph |
+| \q1         | Poetry - Indent Level 1                   | Paragraph |
+| \q2         | Poetry - Indent Level 2                   | Paragraph |
+| \r          | Heading - Parallel References             | Paragraph |
+| \s1         | Heading - Section Level 1                 | Paragraph |
+| \s2         | Heading - Section Level 2                 | Paragraph |
+| \mt1        | Title - Major Title Level 1               | Paragraph |
+| \mt2        | Title - Major Title Level 2               | Paragraph |
+| \mt3        | Title - Major Title Level 3               | Paragraph |
 
 
 ## Less-common Markers {#e86265f707e24d699845d9ddecf69de2}
 
 
-| USFM | Description                                  | Style     |
+| USFM | Описание                                     | Стиль     |
 | ---- | -------------------------------------------- | --------- |
 | \pc | Paragraph - Centered (for Inscription)       | Paragraph |
 | \nb | Paragraph - No Break with Previous Paragraph | Paragraph |
@@ -45,7 +45,7 @@ slug: /C.USFM
 ## Introduction Markers {#93551ca206c1421dacac7e7922e83bd8}
 
 
-| USFM   | Description                                     | Style     |
+| USFM   | Описание                                        | Стиль     |
 | ------ | ----------------------------------------------- | --------- |
 | \imt1 | Introduction - Major Title Level 1              | Paragraph |
 | \iot  | Introduction - Outline Title                    | Paragraph |
@@ -59,9 +59,9 @@ slug: /C.USFM
 ## Cross Reference Markers {#7582640cf3fe4b3993dbb6b460d40d4c}
 
 
-| USFM | Description                         | Style     |
+| USFM | Описание                            | Стиль     |
 | ---- | ----------------------------------- | --------- |
-| \x  | Cross Reference                     | Note      |
+| \x  | Перекрестные ссылки                 | Note      |
 | \xo | Cross Reference – Origin Reference  | Character |
 | \xt | Cross Reference - Target References | Character |
 | \x* | Cross Reference End                 | Note      |
@@ -70,7 +70,7 @@ slug: /C.USFM
 ## Figure/Illustration Markers {#4e91568268b54c8ea70f81c80a0061f4}
 
 
-| USFM   | Description                             | Style |
+| USFM   | Описание                                | Стиль |
 | ------ | --------------------------------------- | ----- |
 | \fig  | Auxiliary - Figure/Illustration/Map     | Note  |
 | \fig* | Auxiliary - Figure/Illustration/Map End | Note  |
@@ -79,7 +79,7 @@ slug: /C.USFM
 ## Footnote Markers {#829f632d730b4db2902aca9a8607a085}
 
 
-| USFM  | Description                                | Style     |
+| USFM  | Описание                                   | Стиль     |
 | ----- | ------------------------------------------ | --------- |
 | \f   | Footnote                                   | Note      |
 | \fr  | Footnote - Reference                       | Character |
@@ -93,7 +93,7 @@ slug: /C.USFM
 ## Glossary {#b27a3c455de340b9bdd33a5e92353b91}
 
 
-| USFM       | Description                                    | Style     |
+| USFM       | Описание                                       | Стиль     |
 | ---------- | ---------------------------------------------- | --------- |
 | \k … k*   | Keyword (in the glossary)                      | Character |
 | \w … \w* | Indicates a word in the glossary (in the text) | Character |

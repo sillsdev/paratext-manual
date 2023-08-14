@@ -12,7 +12,7 @@ slug: /
 ![](./415098770.png)
 
 
-## [Paratext Training Manual](/Vue d'ensemble) {#fad7543f2c494c928d5fe40c5644bf25}
+## [Manuel de formation Paratext](/Vue d'ensemble) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
 This training manual (originally developed in Cameroon) has been revised for version 9.3.

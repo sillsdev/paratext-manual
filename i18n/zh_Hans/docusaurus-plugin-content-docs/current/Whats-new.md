@@ -26,7 +26,7 @@ Everyone in a particular live session still needs to use the same server, it is 
 :::
 
 
-## Study Bible Additions {#8c8628c57aa04e48b5d33488872d0b29}
+## 研读本圣经添加项 {#8c8628c57aa04e48b5d33488872d0b29}
 
 
 The most obvious new feature the ability to **compare versions**.
@@ -112,7 +112,7 @@ There is a new menu item on the **main menu**
 
 - Arrange windows by **rows** as well as by **columns**.
 
-:::tip
+:::暗示
 
 Remember to save your layout!
 

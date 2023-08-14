@@ -9,7 +9,7 @@ slug: /A.st
 The following passages often have special formatting (by adding other USFM codes).
 
 
-:::tip
+:::saran
 
 Poetic form usually uses \q1 and \q2. Small caps are marked with \sc … \sc*.
 

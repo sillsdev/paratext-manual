@@ -6,7 +6,7 @@ slug: /B.3l
 
 
 
-| Old Testament       |                    |                    |
+| 旧约                  |                    |                    |
 | ------------------- | ------------------ | ------------------ |
 | Genesis - GEN       | Exodus - EXO       | Leviticus - LEV    |
 | Numbers - NUM       | Deuteronomy - DEU  | Joshua - JOS       |
@@ -23,7 +23,7 @@ slug: /B.3l
 | Haggai - HAG        | Zechariah - ZEC    | Malachi - MAL      |
 
 
-| New Testament         |                       |                  |
+| 新约                    |                       |                  |
 | --------------------- | --------------------- | ---------------- |
 | Matthew - MAT         | Mark - MRK            | Luke - LUK       |
 | John - JHN            | Acts - ACT            | Romans - ROM     |

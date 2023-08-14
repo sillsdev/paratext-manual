@@ -15,7 +15,7 @@ The following modules will help you in this stage:
   7.  [Proper Names](https://sillsdev.github.io/paratext-manual/7.PN) (see Help)
 
 
-  8.  [Spell Checking](https://sillsdev.github.io/paratext-manual/8.SP)
+  8.  [11. Verificação Ortográfica](https://sillsdev.github.io/paratext-manual/8.SP)
 
 
   9.  [Glossary](https://sillsdev.github.io/paratext-manual/9.GL)
@@ -27,7 +27,7 @@ The following modules will help you in this stage:
  11.  [Compare a word or phrase](https://sillsdev.github.io/paratext-manual/11.MP)
 
 
- 12.  [Basic Checks](https://sillsdev.github.io/paratext-manual/12.BC2)
+ 12.  [Verificações Básicas](https://sillsdev.github.io/paratext-manual/12.BC2)
 
 
  13.  [Formatting checks](https://sillsdev.github.io/paratext-manual/13.FC)

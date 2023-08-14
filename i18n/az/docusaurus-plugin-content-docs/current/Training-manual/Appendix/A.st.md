@@ -73,5 +73,5 @@ Poetic form usually uses \q1 and \q2. Small caps are marked with \sc … \sc*.
 - Rev 19.16: A sign. Often set centered, in small caps.
 - Rev 21.19-20: A list. Sometimes, although rarely, set in poetic form [2]
 
-[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., & Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.
+[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., & Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL Beynalxalq.
 

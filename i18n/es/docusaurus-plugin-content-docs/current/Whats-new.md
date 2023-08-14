@@ -26,7 +26,7 @@ Everyone in a particular live session still needs to use the same server, it is 
 :::
 
 
-## Study Bible Additions {#8c8628c57aa04e48b5d33488872d0b29}
+## Adiciones a la Biblia de estudio {#8c8628c57aa04e48b5d33488872d0b29}
 
 
 The most obvious new feature the ability to **compare versions**.
@@ -51,7 +51,7 @@ In Paratext 9.3 you can copy and paste a scripture reference into the navigation
 The reference should be in a format that matches the interface language.
 
 
-For example,
+Por ejemplo,
 
 - in English: MAT 12.3, Mrk 5:4, Galatians 1:12
 - in Spanish: Romanos 8:28
@@ -114,7 +114,7 @@ There is a new menu item on the **main menu**
 
 :::tip
 
-Remember to save your layout!
+¡Recuerda guardar tu diseño!
 
 :::
 
