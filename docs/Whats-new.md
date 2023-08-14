@@ -76,13 +76,13 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 
 - You can reduce or expand the Greek / Hebrew by clicking the little arrow.
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./1036502882.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 
@@ -98,13 +98,13 @@ There is a new menu item on the **main menu**
 
 1. Choose **Open text collection**
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
 ![](./839941766.png)
 
-</div><div className='notion-spacer' />
+</div><div className='notion-spacer'></div>
 </div>
 
 1. Open a previously **saved text collection** from the bottom left
