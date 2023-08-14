@@ -5,8 +5,12 @@ files: [
     {
       "source": /docs/intro.md,
       "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/intro.md,
+    },
+    {
       "source": /docs/Whats-new.md,
       "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/Whats-new.md,
+    },
+    {
       "source": /docs/Training-manual/**/*.*,
       "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/Training-manual/**/%original_file_name%,
 
