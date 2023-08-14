@@ -7,12 +7,13 @@ files: [
       "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/intro.md,
       "source": /docs/Whats-new.md,
       "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/Whats-new.md,
-      "source": /docs/Training-manual/**/*.md,
+      "source": /docs/Training-manual/**/*.*,
       "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/Training-manual/**/%original_file_name%,
 
       # "skip_untranslated_files": true,
       # Note that we aren't putting images on Crowdin because we using imgur links on the captions, instead
       # JB: including images to try out crowdin's localisation of images
+      # JB: changed *.md (above) to *.* in the hope it will upload the images as well.
       # "ignore": ["/**/*.png", "/**/*.jpg", "/**/*.gif", "**/_category_.json"],
     },
   ]
