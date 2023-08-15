@@ -22,15 +22,15 @@ La forme poétique utilise généralement \q1 et \q2. Les petites majuscules son
 - Mat 6.9-13 : La prière du Seigneur. Forme poétique??
 - Mat 21.9 : La salutation à Jésus. Forme poétique??
 - Mat 27.37 : Le signe sur la croix. Souvent mis en petites majuscules.
-- Mat 27.46 : Le cri de Jésus. Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
-- Mrk 5.41 : La commande à la fille morte. Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
-- Mrk 11.9 : La salutation à Jésus. Forme poétique??
-- Mrk 14.36 : « Abba ». Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
+- Mat 27.46 : Le cri de Jésus. Parfois placé entre \\tl et \\tl\*, la balise pour une translittération (parce que c'est dans une autre langue).
+- Mrk 5.41 : La commande à la fille morte. Parfois placé entre \\tl et \\tl\*, la balise pour une translittération (parce que c'est dans une autre langue).
+- Mrk 11.9 : La salutation à Jésus. Quelquefois mis en forme poétique.
+- Mrk 14.36 : « Abba ». Parfois placé entre \\tl et \\tl\*, la balise pour une translittération (parce que c'est dans une autre langue).
 - Mrk 15,26 : Le signe sur la croix. Souvent mis en petites majuscules.
-- Mrk 15,34 : Le cri de Jésus. Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
+- Mrk 15,34 : Le cri de Jésus. Parfois placé entre \\tl et \\tl\*, la balise pour une translittération (parce que c'est dans une autre langue).
 - Mrk 16,9 : Une note indiquant une autre fin de Mark. Quelquefois séparé par une règle horizontale.
-- Luk 1.46-55 : La chanson de Mary (ou Elizabeth ; Magnificat). Forme poétique??
-- Luk 1.68-79 : La chanson de Zechariah. Forme poétique??
+- Luc 1, 46-55 : Le chant de Marie (ou d'Élisabeth ; le Magnificat). Forme poétique??
+- Luc 1.68-79 : Le chant de Zacharie. Forme poétique??
 - Luk 2.14 : Le chant du chœur angélique. Forme poétique??
 - Luk 2.29-32 : La louange de Simeon. Forme poétique??
 - Luk 3.23-38 : La généalogie. Forme poétique??spéciale semblable à la généalogie dans Matthew.
@@ -45,10 +45,10 @@ La forme poétique utilise généralement \q1 et \q2. Les petites majuscules son
 - Jhn 19.19 : Le signe sur la croix. Souvent mis en petites majuscules.
 - Act 15.23-29 : La lettre. Souvent mis dans les paragraphes avec un retrait ajouté de la marge gauche.
 - Act 23.26-30 : La lettre à Claudius Lysias. Souvent mis dans les paragraphes avec un retrait ajouté de la marge gauche.
-- Rom 8.15 : « Abba ». Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
+- Rom 8.15 : « Abba ». Parfois placé entre \\tl et \\tl\*, la balise pour une translittération (parce que c'est dans une autre langue).
 - Rom 11.33-36 : La doxologie. Forme poétique??
 - Rom 16.3-16 : Les salutations spéciales. Quelquefois mis dans un format poétique spécial semblable aux généalogies.
-- Gal 4.6 : « Abba ». Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
+- Gal 4.6 : « Abba ». Parfois placé entre \\tl et \\tl\*, la balise pour une translittération (parce que c'est dans une autre langue).
 - Php 2.6-11 : Les attitudes. Quelquefois mis en forme poétique.
 - 1Ti 2.5-6 : Un credo. Quelquefois mis en forme poétique.
 - 1Ti 3.16 : Un credo. Forme poétique??
@@ -73,5 +73,5 @@ La forme poétique utilise généralement \q1 et \q2. Les petites majuscules son
 - Apo 19.16 : Un signe. Souvent centré, en petites majuscules.
 - Apo 21.19-20 : liste A. Quelquefois, bien que rarement, mis en forme poétique.
 
-[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., & Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.
+[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., & Deibler, E. (juillet 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.
 

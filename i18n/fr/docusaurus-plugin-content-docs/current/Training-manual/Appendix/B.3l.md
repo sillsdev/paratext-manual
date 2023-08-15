@@ -1,5 +1,5 @@
 ---
-title: B. Three letter abbreviations
+title: B. Abréviations de trois lettres
 sidebar_position: 1
 slug: /B.3l
 ---
@@ -17,7 +17,7 @@ slug: /B.3l
 | Psaumes - PSA                | Proverbes - PRO    | Ecclésiaste - ECC |
 | Cantique des cantiques - SNG | Ésaïe - ISA        | Jérémie - JER     |
 | Lamentations - LAM           | Ézékiel - EZK      | Daniel - DAN      |
-| Osée (Hosea] - HOS           | Joël - JOL         | Amos - AMO        |
+| Osée - HOS                   | Joël - JOL         | Amos - AMO        |
 | Abdias - OBA                 | Jonas - JON        | Michée - MIC      |
 | Nahoum - NAM                 | Habacuc - HAB      | Sophonie - ZEP    |
 | Aggée - HAG                  | Zacharie - ZEC     | Malachie - MAL    |
