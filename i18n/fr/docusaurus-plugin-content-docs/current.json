@@ -1,0 +1,42 @@
+{
+  "version.label": {
+    "message": "BETA",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual": {
+    "message": "Paratext Manuel de formation",
+    "description": "The label for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
+    "message": "Paratext Manuel de formation  ",
+    "description": "The generated-index page description for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Appendix": {
+    "message": "Annexe",
+    "description": "The label for category Appendix in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 4 Consultant check": {
+    "message": "Étape 4 Vérification du conseller",
+    "description": "The label for category Stage 4 Consultant check in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 5 Community/External Review": {
+    "message": "Étape 5 Vérification par la Communauté",
+    "description": "The label for category Stage 5 Community/External Review in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 6 Finalising for Publication": {
+    "message": "Étape 6 Finalisation pour publication",
+    "description": "The label for category Stage 6 Finalising for Publication in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 2 Team Check": {
+    "message": "Étape 2 Vérification en équipe",
+    "description": "The label for category Stage 2 Team Check in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 1 Drafting": {
+    "message": "Étape 1 Rédaction de l'ébauche",
+    "description": "The label for category Stage 1 Drafting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 3 Prepare for Consultant check": {
+    "message": "Étape 3 Préparation pour le conseiller",
+    "description": "The label for category Stage 3 Prepare for Consultant check in sidebar tutorialSidebar"
+  }
+}
