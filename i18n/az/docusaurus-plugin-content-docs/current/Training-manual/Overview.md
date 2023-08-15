@@ -9,7 +9,7 @@ slug: /Ümumi baxış
 The training manual follows the tasks in the SIL Compact Plan. The page numbers refer to the [PDF](https://manual.paratext.org/img/Ptx-man-en-9.3.pdf).
 
 
-### Introduction {#f748dd5b42c84d77a33c8d16f0cf6f37}
+### Giriş {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
 
 1. [Course introduction](https://sillsdev.github.io/paratext-manual/1.Intro) ... _p.10_

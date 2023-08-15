@@ -81,7 +81,7 @@ slug: /C.USFM
 
 | USFM  | Məlumat                                    | Üslub     |
 | ----- | ------------------------------------------ | --------- |
-| \f   | Footnote                                   | Note      |
+| \f   | Haşiyə                                     | Note      |
 | \fr  | Footnote - Reference                       | Character |
 | \ft  | Footnote - Text                            | Character |
 | \fk  | Footnote - Keyword                         | Character |
@@ -90,7 +90,7 @@ slug: /C.USFM
 | \f*  | Footnote End                               | Note      |
 
 
-## Glossary {#b27a3c455de340b9bdd33a5e92353b91}
+## Lüğət {#b27a3c455de340b9bdd33a5e92353b91}
 
 
 | USFM       | Məlumat                                        | Üslub     |

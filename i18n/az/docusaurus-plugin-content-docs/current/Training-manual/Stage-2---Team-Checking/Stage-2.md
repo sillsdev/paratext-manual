@@ -18,7 +18,7 @@ Aşağıda olan dərslər bu mərhələdə sizə kömək edəcək:
   8.  [Spell Checking](https://sillsdev.github.io/paratext-manual/8.SP)
 
 
-  9.  [Glossary](https://sillsdev.github.io/paratext-manual/9.GL)
+  9.  [Lüğət](https://sillsdev.github.io/paratext-manual/9.GL)
 
 
  10.  [A 4-Step process for consistent Biblical Terms](https://sillsdev.github.io/paratext-manual/10.BT)
