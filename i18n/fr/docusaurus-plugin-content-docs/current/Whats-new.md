@@ -17,7 +17,7 @@ Paratext Live utilise plus qu'un serveur.
     - **Internet**, qui est 9.2 et 9.3.
     - **Internet (secondary)** which is 9.0, 9.1 or Paratext 8.
 
-:::tip Remarque
+:::note
 
 
 Everyone in a particular live session still needs to use the same server, it is just that from 9.3 you can work with someone on 9.1 or someone else on 9.2 (just not at the same time)
@@ -58,7 +58,7 @@ For example,
 - en anglais : MAT 12.3, Mrk 5:4, Galates 1:12
 - en espagnol : Romanos 8:28
 
-:::tip Remarque
+:::note
 
 
 The names must matches the names as they are seen in the titles. Currently can't copy from Paratext, but that feature is being added to a later update.
@@ -114,7 +114,7 @@ Il y a un nouvel élément de menu dans le **menu principal**.
 
 - 1
 
-:::astuce
+:::tip
 
 N'oubliez pas d'enregistrer votre disposition des fenêtres !
 

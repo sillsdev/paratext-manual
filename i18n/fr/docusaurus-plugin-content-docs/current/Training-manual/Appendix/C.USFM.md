@@ -6,7 +6,7 @@ slug: /C.USFM
 
 
 
-:::tip Remarque
+:::note
 
 - Tous les styles de type "Paragraphe" requièrent l'utilisation de la touche "Entrée" lors du choix du marqueur en vue "Standard".
 - Tous les types de style "Note" et "Caractère" nécessitent l'utilisation de la touche "Barre oblique inversée" lors du choix du marqueur en vue "Standard".
