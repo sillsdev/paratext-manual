@@ -1,7 +1,7 @@
 ---
 title: Vue d'ensemble du manuel de formation
 sidebar_position: 0
-slug: /Vue d'ensemble
+slug: /Overview
 ---
 
 

@@ -15,7 +15,7 @@ Un projet de traduction se déroule en plusieurs étapes. Dans cette première �
 Les modules suivants vous aideront avec cette étape :
 
 
-2. [Organiser votre bureau](https://sillsdev.github.io/paratext-manual/2.OD)
+2. [Organiser votre bureau](/2.OD)
 
 
 3. [Tâches et avancement](https://sillsdev.github.io/paratext-manual/3.PP1)

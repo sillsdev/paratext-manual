@@ -1,5 +1,5 @@
 ---
-title: A. A - Textes à format spécial
+title: A. Textes à format spécial
 sidebar_position: 0
 slug: /A.st
 ---

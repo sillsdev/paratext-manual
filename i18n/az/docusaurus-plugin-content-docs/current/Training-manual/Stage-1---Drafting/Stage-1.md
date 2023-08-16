@@ -15,7 +15,7 @@ There are several stages in a translation project. Bu birinci mərhələdə, ço
 Aşağıda olan dərslər bu mərhələdə sizə kömək edəcək:
 
 
-2. [Öz iş masanızı təşkil etmək](https://sillsdev.github.io/paratext-manual/2.OD)
+2. [Öz iş masanızı təşkil etmək](/2.OD)
 
 
 3. [Tapşırıqlar və irəliləyiş](https://sillsdev.github.io/paratext-manual/3.PP1)

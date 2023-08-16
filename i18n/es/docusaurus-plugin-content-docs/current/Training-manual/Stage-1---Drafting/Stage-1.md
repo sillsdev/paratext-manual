@@ -15,7 +15,7 @@ There are several stages in a translation project. En esta primera etapa utiliza
 Los módulos siguientes le ayudarán en esta etapa:
 
 
-2. [Organizando su escritorio  ](https://sillsdev.github.io/paratext-manual/2.OD)
+2. [Organizando su escritorio  ](/2.OD)
 
 
 3. [Asignaciones y Progreso](https://sillsdev.github.io/paratext-manual/3.PP1)
