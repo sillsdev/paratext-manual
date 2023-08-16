@@ -1,38 +1,38 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Beta",
     "description": "The label for version current"
   },
   "sidebar.defaultSidebar.category.Training manual": {
-    "message": "Training manual",
+    "message": "Manuel de formation",
     "description": "The label for category Training manual in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 1 - Drafting": {
-    "message": "Stage 1 - Drafting",
+    "message": "Étape 1 - Rédaction",
     "description": "The label for category Stage 1 - Drafting in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 2 - Team Checking": {
-    "message": "Stage 2 - Team Checking",
+    "message": "Étape 2 : Vérifications par l’équipe",
     "description": "The label for category Stage 2 - Team Checking in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 3 - Preparing for the Consultant Check": {
-    "message": "Stage 3 - Preparing for the Consultant Check",
+    "message": "Étape 3 - Préparation pour le conseiller",
     "description": "The label for category Stage 3 - Preparing for the Consultant Check in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 4 - Consultant Visit": {
-    "message": "Stage 4 - Consultant Visit",
+    "message": "Étape 4 - Vérification par un conseiller",
     "description": "The label for category Stage 4 - Consultant Visit in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 5 - Review by the community": {
-    "message": "Stage 5 - Review by the community",
+    "message": "Étape 5 - Examen par la communauté",
     "description": "The label for category Stage 5 - Review by the community in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 6 - Finalising for publication": {
-    "message": "Stage 6 - Finalising for publication",
+    "message": "Étape 6 - Finalisation pour la publication",
     "description": "The label for category Stage 6 - Finalising for publication in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Appendix": {
-    "message": "Appendix",
+    "message": "Annexe",
     "description": "The label for category Appendix in sidebar defaultSidebar"
   }
 }
