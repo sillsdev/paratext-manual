@@ -20,4 +20,8 @@ files: [
       # JB: changed *.md (above) to *.* in the hope it will upload the images as well.
       # "ignore": ["/**/*.png", "/**/*.jpg", "/**/*.gif", "**/_category_.json"],
     },
+    {
+      "source": /i18n/en/docusaurus-plugin-content-docs/current.json,
+      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current.json,
+    }
   ]
