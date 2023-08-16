@@ -15,7 +15,7 @@ There are several stages in a translation project. In this first stage you will 
 The following modules will help you in this stage:
 
 
-2. [Organising your desktop](https://sillsdev.github.io/paratext-manual/2.OD)  
+2. [Organising your desktop](/2.OD)  
 
 
 3. [Assignments and progress](https://sillsdev.github.io/paratext-manual/3.PP1)  
