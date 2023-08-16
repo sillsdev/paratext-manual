@@ -61,10 +61,10 @@ slug: /C.USFM
 
 | USFM | Məlumat                             | Üslub     |
 | ---- | ----------------------------------- | --------- |
-| \x  | Çarpaz istinad                      | Note      |
+| \x  | Çarpaz istinad                      | Qeyd      |
 | \xo | Cross Reference – Origin Reference  | Character |
 | \xt | Cross Reference - Target References | Character |
-| \x* | Cross Reference End                 | Note      |
+| \x* | Cross Reference End                 | Qeyd      |
 
 
 ## Figure/Illustration Markers {#4e91568268b54c8ea70f81c80a0061f4}
@@ -72,8 +72,8 @@ slug: /C.USFM
 
 | USFM   | Məlumat                                 | Üslub |
 | ------ | --------------------------------------- | ----- |
-| \fig  | Auxiliary - Figure/Illustration/Map     | Note  |
-| \fig* | Auxiliary - Figure/Illustration/Map End | Note  |
+| \fig  | Auxiliary - Figure/Illustration/Map     | Qeyd  |
+| \fig* | Auxiliary - Figure/Illustration/Map End | Qeyd  |
 
 
 ## Footnote Markers {#829f632d730b4db2902aca9a8607a085}
@@ -81,13 +81,13 @@ slug: /C.USFM
 
 | USFM  | Məlumat                                    | Üslub     |
 | ----- | ------------------------------------------ | --------- |
-| \f   | Haşiyə                                     | Note      |
+| \f   | Haşiyə                                     | Qeyd      |
 | \fr  | Footnote - Reference                       | Character |
 | \ft  | Footnote - Text                            | Character |
 | \fk  | Footnote - Keyword                         | Character |
 | \fq  | Footnote - Quotation from the text         | Character |
 | \fqa | Footnote - Alternate Translation Rendering | Character |
-| \f*  | Footnote End                               | Note      |
+| \f*  | Footnote End                               | Qeyd      |
 
 
 ## Lüğət {#b27a3c455de340b9bdd33a5e92353b91}
