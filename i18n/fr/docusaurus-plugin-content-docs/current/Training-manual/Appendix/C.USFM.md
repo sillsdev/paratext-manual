@@ -22,7 +22,7 @@ slug: /C.USFM
 | \v       | Numéro du verset                                            | Caractère  |
 | \p       | Paragraphe - Normal - Retraite de première ligne            | Paragraph  |
 | \m       | Paragraphe - à la marge - sans retrait de la première ligne | Paragraph  |
-| \q1      | Poésie - Retrait Niveau 1                                   | Paragraph  |
+| \q1      | Poésie - Retrait Niveau 1                                   | Paragraphe |
 | \q2      | Poésie - Retrait Niveau 2                                   | Paragraph  |
 | \r       | Titre - Références parallèles                               | Paragraph  |
 | \s1      | Titre - Section Niveau 1                                    | Paragraph  |
