@@ -12,8 +12,8 @@ slug: /Stage-5
 Aşağıda olan dərslər bu mərhələdə sizə kömək edəcək:
 
 
- 21. [Progress report](https://sillsdev.github.io/paratext-manual/21.PPR)
+ 21. [Progress report](/21.PPR)
 
 
- 22. [Biblical key terms report](https://sillsdev.github.io/paratext-manual/22.BTR)
+ 22. [Biblical key terms report](/22.BTR)
 

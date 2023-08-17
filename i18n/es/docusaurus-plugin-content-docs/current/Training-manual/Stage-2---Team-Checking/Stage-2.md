@@ -12,29 +12,29 @@ slug: /Stage-2
 Los módulos siguientes le ayudarán en esta etapa:
 
 
-  7.  [Proper Names](https://sillsdev.github.io/paratext-manual/7.PN) (see Help)
+  7.  [Proper Names](/7.PN) (see Help)
 
 
-  8.  [Verificación ortográfica](https://sillsdev.github.io/paratext-manual/8.SP)
+  8.  [Verificación ortográfica](/8.SP)
 
 
-  9.  [Glosario](https://sillsdev.github.io/paratext-manual/9.GL)
+  9.  [Glosario](/9.GL)
 
 
- 10.  [Un proceso de 4 pasos para la coherencia de los vocablos bíblicos](https://sillsdev.github.io/paratext-manual/10.BT)
+ 10.  [Un proceso de 4 pasos para la coherencia de los vocablos bíblicos](/10.BT)
 
 
- 11.  [Comparar una palabra o frase](https://sillsdev.github.io/paratext-manual/11.MP)
+ 11.  [Comparar una palabra o frase](/11.MP)
 
 
- 12.  [Verificaciones básicas](https://sillsdev.github.io/paratext-manual/12.BC2)
+ 12.  [Verificaciones básicas](/12.BC2)
 
 
- 13.  [Verificación de formato](https://sillsdev.github.io/paratext-manual/13.FC)
+ 13.  [Verificación de formato](/13.FC)
 
 
- 14.  [Impresión de borradores](https://sillsdev.github.io/paratext-manual/14.PD)
+ 14.  [Impresión de borradores](/14.PD)
 
 
- 15.  [Uso de las notas](https://sillsdev.github.io/paratext-manual/15.UN)
+ 15.  [Uso de las notas](/15.UN)
 

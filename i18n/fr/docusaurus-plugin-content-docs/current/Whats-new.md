@@ -112,7 +112,7 @@ Il y a un nouvel élément de menu dans le **menu principal**.
 
 ## Arrangement des fenêtres {#b526a01da9e04357804f4849c39f2fdc}
 
-- 1
+- Arrange windows by **rows** as well as by **columns**.
 
 :::tip
 

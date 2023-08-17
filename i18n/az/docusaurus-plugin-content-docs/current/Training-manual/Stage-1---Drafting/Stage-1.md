@@ -18,14 +18,14 @@ Aşağıda olan dərslər bu mərhələdə sizə kömək edəcək:
 2. [Öz iş masanızı təşkil etmək](/2.OD)
 
 
-3. [Tapşırıqlar və irəliləyiş](https://sillsdev.github.io/paratext-manual/3.PP1)
+3. [Tapşırıqlar və irəliləyiş](/3.PP1)
 
 
-4. [Qaralamanızı kompüterə daxil etməyi](https://sillsdev.github.io/paratext-manual/4.KD)
+4. [Qaralamanızı kompüterə daxil etməyi](/4.KD)
 
 
-5. [Əsas yoxlamalar](https://sillsdev.github.io/paratext-manual/5.BC1)
+5. [Əsas yoxlamalar](/5.BC1)
 
 
-6. [Layihənin irəliləyişi](https://sillsdev.github.io/paratext-manual/6.PP2)
+6. [Layihənin irəliləyişi](/6.PP2)
 

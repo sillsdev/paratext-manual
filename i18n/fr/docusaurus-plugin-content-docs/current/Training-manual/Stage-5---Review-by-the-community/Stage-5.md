@@ -12,8 +12,8 @@ slug: /Stage-5
 Les modules suivants vous aideront avec cette étape :
 
 
- 21. [Rapport du progrès](https://sillsdev.github.io/paratext-manual/21.PPR)
+ 21. [Rapport du progrès](/21.PPR)
 
 
- 22. [Rapport des termes bibliques](https://sillsdev.github.io/paratext-manual/22.BTR)
+ 22. [Rapport des termes bibliques](/22.BTR)
 
