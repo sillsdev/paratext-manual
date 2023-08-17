@@ -6,7 +6,10 @@ slug: /Stage-3
 
 
 
-**Introducción** En esta tercera etapa de un proyecto de traducción realizará pruebas de comprensión y retrotraducción. También continuará con las comprobaciones básicas y la revisión ortográfica.
+**Introducción**
+
+
+In this third stage of an SIL translation project you will do comprehension testing and back translation. También continuará con las comprobaciones básicas y la revisión ortográfica.
 
 
 Los módulos siguientes le ayudarán en esta etapa:

@@ -6,7 +6,10 @@ slug: /Stage-3
 
 
 
-**Introduction** In this third stage of an SIL translation project you will do comprehension testing and back translation. You will also continue with the basic checks and spell checking.
+**Introduction**
+
+
+In this third stage of an SIL translation project you will do comprehension testing and back translation. You will also continue with the basic checks and spell checking.
 
 
 ഇവിടെ താഴെക്കൊടുത്തിരിക്കുന്ന പാഠങ്ങൾ അതിനായി താങ്കളെ സഹായിക്കും:

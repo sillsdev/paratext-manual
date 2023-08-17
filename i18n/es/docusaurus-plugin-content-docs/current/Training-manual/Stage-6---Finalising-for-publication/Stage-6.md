@@ -6,7 +6,10 @@ slug: /Stage-6
 
 
 
-**Introduction** The sixth stage (SIL) [or fourth stage USB], of a translation project is the finalisation for publication. This involves redoing many of the previous checks. It also involved checking the Parallel Passages.
+**Introducción**
+
+
+The sixth stage (SIL) [or fourth stage USB], of a translation project is the finalisation for publication. This involves redoing many of the previous checks. It also involved checking the Parallel Passages.
 
 
 Los módulos siguientes le ayudarán en esta etapa:
