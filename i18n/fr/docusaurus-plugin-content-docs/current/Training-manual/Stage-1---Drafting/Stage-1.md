@@ -18,14 +18,14 @@ Les modules suivants vous aideront avec cette étape :
 2. [Organiser votre bureau](/2.OD)
 
 
-3. [Tâches et avancement](https://sillsdev.github.io/paratext-manual/3.PP1)
+3. [Tâches et avancement](/3.PP1)
 
 
-4. [Saisie des données](https://sillsdev.github.io/paratext-manual/4.KD)
+4. [Saisie des données](/4.KD)
 
 
-5. [Vérifications de base](https://sillsdev.github.io/paratext-manual/5.BC1)
+5. [Vérifications de base](/5.BC1)
 
 
-6. [État d'avancement du projet](https://sillsdev.github.io/paratext-manual/6.PP2)
+6. [État d'avancement du projet](/6.PP2)
 

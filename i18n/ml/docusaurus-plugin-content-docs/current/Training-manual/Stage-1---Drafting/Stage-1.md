@@ -18,14 +18,14 @@ There are several stages in a translation project. താങ്കൾ പരി�
 2. [OD — ഡെസ്ക്റ്റോപ്പ് സജ്ജമാക്കുക](/2.OD)
 
 
-3. [Assignments and progress](https://sillsdev.github.io/paratext-manual/3.PP1)
+3. [Assignments and progress](/3.PP1)
 
 
-4. [KD — കരട് റ്റൈപ്പ് ചെയ്യുവാൻ](https://sillsdev.github.io/paratext-manual/4.KD)
+4. [KD — കരട് റ്റൈപ്പ് ചെയ്യുവാൻ](/4.KD)
 
 
-5. [Basic checks](https://sillsdev.github.io/paratext-manual/5.BC1)
+5. [Basic checks](/5.BC1)
 
 
-6. [Project progress](https://sillsdev.github.io/paratext-manual/6.PP2)
+6. [Project progress](/6.PP2)
 

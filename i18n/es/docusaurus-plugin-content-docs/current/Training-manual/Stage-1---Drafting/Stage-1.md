@@ -18,14 +18,14 @@ Los módulos siguientes le ayudarán en esta etapa:
 2. [Organizando su escritorio  ](/2.OD)
 
 
-3. [Asignaciones y Progreso](https://sillsdev.github.io/paratext-manual/3.PP1)
+3. [Asignaciones y Progreso](/3.PP1)
 
 
-4. [Tecleando su borrador  ](https://sillsdev.github.io/paratext-manual/4.KD)
+4. [Tecleando su borrador  ](/4.KD)
 
 
-5. [Verificaciones básicas](https://sillsdev.github.io/paratext-manual/5.BC1)
+5. [Verificaciones básicas](/5.BC1)
 
 
-6. [Progreso del proyecto](https://sillsdev.github.io/paratext-manual/6.PP2)
+6. [Progreso del proyecto](/6.PP2)
 
