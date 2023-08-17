@@ -18,14 +18,14 @@ The following modules will help you in this stage:
 2. [Organising your desktop](/2.OD)  
 
 
-3. [Assignments and progress](https://sillsdev.github.io/paratext-manual/3.PP1)  
+3. [Assignments and progress](/3.PP1)  
 
 
-4. [Keyboarding your draft](https://sillsdev.github.io/paratext-manual/4.KD)  
+4. [Keyboarding your draft](/4.KD)  
 
 
-5. [Basic checks](https://sillsdev.github.io/paratext-manual/5.BC1)  
+5. [Basic checks](/5.BC1)  
 
 
-6. [Project progress](https://sillsdev.github.io/paratext-manual/6.PP2)
+6. [Project progress](/6.PP2)
 
