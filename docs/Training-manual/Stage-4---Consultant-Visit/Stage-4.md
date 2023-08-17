@@ -20,5 +20,6 @@ The following module will help you in this stage:
 
 See also modules in Stages one to three. In particular,  
 
-- Stage 3 - [16. ](/16.BT1)
-- Stage 3 - [17. ](/17.BT2)
+- Stage 3
+	- [16. ](/16.BT1)
+	- [17. ](/17.BT2)
