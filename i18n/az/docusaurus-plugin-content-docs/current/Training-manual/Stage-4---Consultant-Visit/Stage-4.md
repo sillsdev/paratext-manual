@@ -21,10 +21,7 @@ The following module will help you in this stage:
  20.  [Collaboration Tools](/20.CT)
 
 
-See also modules in Stages one to three. In particular,
-
-
-Stage 3
+See also modules in Stages one to three. In particular, from Stage 3
 
 
  16.  [Draft a Back Translation](/16.BT1)

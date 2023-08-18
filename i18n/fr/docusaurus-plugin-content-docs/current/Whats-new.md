@@ -92,23 +92,13 @@ The names must matches the names as they are seen in the titles. Currently can't
 Il y a un nouvel élément de menu dans le **menu principal**.
 
 1. From the **Paratext menu**
-
-<div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
-
 1. Choose **Open text collection**
+    - _This window looks like what was used in earlier versions of Paratext_.
 
-</div><div className='notion-spacer'></div>
+        ![](./839941766.png)
 
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
-
-![](./839941766.png)
-
-</div><div className='notion-spacer'></div>
-</div>
-
-1. Ouvrez une collection de texte précédemment **enregistrée** en bas à gauche.
-1. Vous pouvez également ouvrir une collection de texte à partir de la fenêtre **Ouvrir**.
+1. Open a previously **saved text collection** from the bottom left
+1. You can still open a text collection from the **Open** window as well.
 
 ## Arrangement des fenêtres {#b526a01da9e04357804f4849c39f2fdc}
 
