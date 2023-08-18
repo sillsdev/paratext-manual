@@ -92,20 +92,10 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 There is a new menu item on the **main menu**
 
 1. From the **Paratext menu**
-
-<div class='notion-row'>
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
-
 1. Choose **Open text collection**
+	- _This window looks like what was used in earlier versions of Paratext_.
 
-</div><div className='notion-spacer'></div>
-
-<div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
-
-![](./839941766.png)
-
-</div><div className='notion-spacer'></div>
-</div>
+		![](./839941766.png)
 
 1. Open a previously **saved text collection** from the bottom left
 1. You can still open a text collection from the **Open** window as well.
