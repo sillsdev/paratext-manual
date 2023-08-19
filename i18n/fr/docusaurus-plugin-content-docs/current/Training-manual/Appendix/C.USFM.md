@@ -17,43 +17,43 @@ slug: /C.USFM
 | USFM      | Description                                                 | Style      |
 | --------- | ----------------------------------------------------------- | ---------- |
 | \expr.id | Fichier - Identification                                    | Paragraphe |
-| \h       | Fichier - En-tête                                           | Paragraph  |
-| \c       | Numéro de chapitre                                          | Paragraph  |
+| \h       | Fichier - En-tête                                           | Paragraphe |
+| \c       | Numéro de chapitre                                          | Paragraphe |
 | \v       | Numéro du verset                                            | Caractère  |
-| \p       | Paragraphe - Normal - Retraite de première ligne            | Paragraph  |
-| \m       | Paragraphe - à la marge - sans retrait de la première ligne | Paragraph  |
+| \p       | Paragraphe - Normal - Retraite de première ligne            | Paragraphe |
+| \m       | Paragraphe - à la marge - sans retrait de la première ligne | Paragraphe |
 | \q1      | Poésie - Retrait Niveau 1                                   | Paragraphe |
-| \q2      | Poésie - Retrait Niveau 2                                   | Paragraph  |
-| \r       | Titre - Références parallèles                               | Paragraph  |
-| \s1      | Titre - Section Niveau 1                                    | Paragraph  |
-| \s2      | Titre - Section Niveau 2                                    | Paragraph  |
-| \mt1     | Titre principal niveau 1                                    | Paragraph  |
-| \mt2     | Titre principal niveau 2                                    | Paragraph  |
-| \mt3     | Titre principal niveau 3                                    | Paragraph  |
+| \q2      | Poésie - Retrait Niveau 2                                   | Paragraphe |
+| \r       | Titre - Références parallèles                               | Paragraphe |
+| \s1      | Titre - Section Niveau 1                                    | Paragraphe |
+| \s2      | Titre - Section Niveau 2                                    | Paragraphe |
+| \mt1     | Titre principal niveau 1                                    | Paragraphe |
+| \mt2     | Titre principal niveau 2                                    | Paragraphe |
+| \mt3     | Titre principal niveau 3                                    | Paragraphe |
 
 
 ## Marqueurs moins fréquents {#e86265f707e24d699845d9ddecf69de2}
 
 
-| USFM | Description                                              | Style     |
-| ---- | -------------------------------------------------------- | --------- |
-| \pc | Paragraphe - Centré (pour Inscription)                   | Paragraph |
-| \nb | Paragraphe - Pas de rupture avec le Paragraphe précédent | Paragraph |
-| \li | Entrée de liste - Niveau 1                               | Paragraph |
+| USFM | Description                                              | Style      |
+| ---- | -------------------------------------------------------- | ---------- |
+| \pc | Paragraphe - Centré (pour Inscription)                   | Paragraphe |
+| \nb | Paragraphe - Pas de rupture avec le Paragraphe précédent | Paragraphe |
+| \li | Entrée de liste - Niveau 1                               | Paragraphe |
 
 
 ## Marqueurs d'introduction {#93551ca206c1421dacac7e7922e83bd8}
 
 
-| USFM   | Description                                                     | Style     |
-| ------ | --------------------------------------------------------------- | --------- |
-| \imt1 | Introduction - Titre principal Niveau 1                         | Paragraph |
-| \iot  | Introduction - Titre du plan d'ensemble                         | Paragraph |
-| \io1  | Introduction - Plan d'ensemble niveau 1                         | Paragraph |
-| \io2  | Introduction - Plan d'ensemble niveau 2                         | Paragraph |
-| \ip   | Introduction - Paragraphe                                       | Paragraph |
-| \im   | Introduction - Paragraphe - pas d'indentation de première ligne | Paragraph |
-| \ipq  | Introduction - Paragraphe - Citation tirée du texte             | Paragraph |
+| USFM   | Description                                                     | Style      |
+| ------ | --------------------------------------------------------------- | ---------- |
+| \imt1 | Introduction - Titre principal Niveau 1                         | Paragraphe |
+| \iot  | Introduction - Titre du plan d'ensemble                         | Paragraphe |
+| \io1  | Introduction - Plan d'ensemble niveau 1                         | Paragraphe |
+| \io2  | Introduction - Plan d'ensemble niveau 2                         | Paragraphe |
+| \ip   | Introduction - Paragraphe                                       | Paragraphe |
+| \im   | Introduction - Paragraphe - pas d'indentation de première ligne | Paragraphe |
+| \ipq  | Introduction - Paragraphe - Citation tirée du texte             | Paragraphe |
 
 
 ## Marquers de renvoi {#7582640cf3fe4b3993dbb6b460d40d4c}
@@ -97,7 +97,7 @@ slug: /C.USFM
 | ---------- | ------------------------------------------------------------ | ---------- |
 | \k … k*   | Mot clé (citation dans le glossaire)                         | Caractère  |
 | \w … \w* | Marquer un mot dans le glossaire (dans le texte)             | Caractère  |
-| \p        | Paragraph                                                    | Paragraph  |
-| \li1      | Entrée de liste - Niveau 1 (pour la définition du glossaire) | Paragraph  |
+| \p        | Paragraphe                                                   | Paragraphe |
+| \li1      | Entrée de liste - Niveau 1 (pour la définition du glossaire) | Paragraphe |
 | \li2      | Entrée de liste - Niveau 2 (pour la définition du glossaire) | Paragraphe |
 

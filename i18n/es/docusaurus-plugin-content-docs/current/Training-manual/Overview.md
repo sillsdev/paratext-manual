@@ -1,7 +1,7 @@
 ---
 title: Overview of Training Manual
 sidebar_position: 0
-slug: /Resumen
+slug: /Overview
 ---
 
 
