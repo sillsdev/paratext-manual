@@ -17,6 +17,7 @@
     "//pretranslate": "  used to re-apply translations when files are renamed or reorganized",
     "crowdin:pretranslate": "crowdin pre-translate --method tm --translate-untranslated-only --translate-with-perfect-match-only --verbose",
     "crowdin:sync": "crowdin upload sources --delete-obsolete && crowdin download -l es-ES -l fr -l pt-BR",
+    "crowdin:sync:dryrun": "crowdin upload sources --dryrun --delete-obsolete && crowdin download --dryrun -l es-ES -l fr -l pt-BR",
     "crowdin:download": "crowdin download -l es-ES -l fr -l pt-BR"
   },
   "dependencies": {

@@ -1,14 +1,14 @@
 project_id: "574887"
 api_token_env: CROWDIN_PERSONAL_TOKEN
 preserve_hierarchy: true
+# Setting export_languages here doesn't seem to work -- we get all languages.
+# So, instead, we're setting the languages we want in the cli command; see package.json
+#export_languages: ["fr", "es", "pt"]
 files: [
     {
-      "source": /docs/intro.md,
-      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/intro.md,
-    },
-    {
-      "source": /docs/Whats-new.md,
-      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/Whats-new.md,
+      # Using *.* because we want .md files and images.
+      "source": /docs/*.*,
+      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/%original_file_name%,
     },
     {
       # Using *.* because we want .md files and images.
@@ -27,5 +27,5 @@ files: [
     {
       "source": /i18n/en/docusaurus-theme-classic/navbar.json,
       "translation": /i18n/%two_letters_code%/docusaurus-theme-classic/navbar.json,
-    }
+    },
   ]
