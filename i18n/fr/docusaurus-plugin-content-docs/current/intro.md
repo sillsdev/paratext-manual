@@ -12,7 +12,7 @@ slug: /
 ![](./415098770.png)
 
 
-## **[Problem Internal Link]** {#fad7543f2c494c928d5fe40c5644bf25}
+## [Paratext Training Manual](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
 Ce manuel de formation (développé à l'origine au Cameroun) a été révisé pour la version 9.3.
