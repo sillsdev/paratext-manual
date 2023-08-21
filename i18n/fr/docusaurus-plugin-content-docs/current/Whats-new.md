@@ -11,16 +11,16 @@ slug: /Whats-new
 
 Paratext Live utilise plus qu'un serveur.
 
-- Paratext 8, 9.0 and 9.1 use a server called Internet (secondary) WCF and Paratext 9.2 uses Internet (primary) AMQP.
-    - _This is why you can't use Paratext Live with 9.2 and 9.1 at the same time_
+- Paratext 8, 9.0 et 9.1 utilisent un serveur appelé Internet (secondaire) WCF et Paratext 9.2 utilise Internet (primaire) AMQP.
+    - _C'est pourquoi il n'est pas possible d'utiliser Paratext Live avec 9.2 et 9.1 en même temps_
 - Dans Paratext 9.3, lorsque vous démarrez Paratext Live, vous choisissez le serveur que vous souhaitez utiliser.
-    - **Internet**, qui est 9.2 et 9.3.
-    - **Internet (secondary)** which is 9.0, 9.1 or Paratext 8.
+    - **Internet (primaire)**, soit 9.2 et 9.3.
+    - **Internet (secondaire)** qui est 9.0, 9.1 ou Paratext 8.
 
 :::note
 
 
-Everyone in a particular live session still needs to use the same server, it is just that from 9.3 you can work with someone on 9.1 or someone else on 9.2 (just not at the same time)
+Toutes les personnes participant à une session en direct particulière doivent toujours utiliser le même serveur, mais à partir de la version 9.3, vous pouvez travailler avec une personne utilisant la version 9.1 ou une autre utilisant la version 9.2 (mais pas en même temps)
 
 
 :::
@@ -35,7 +35,7 @@ La nouvelle fonctionnalité la plus évidente est la possibilité de **comparer 
 1. Dans le menu **Projet**,
 1. Sous **Projet**, choisissez **Comparer les versions**  
    *Les changements dans les annexes sont affichés*.
-    - _The changes in the additions are displayed_.
+    - _Les modifications apportées aux ajouts sont affichées_.
 
 ## Référence de l'Écriture dans la barre de navigation {#3c00a0202ad949bc8909f66660badb73}
 
@@ -50,18 +50,18 @@ Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la
     ![](./1158626626.png)
 
 
-The reference should be in a format that matches the interface language.
+La référence doit être présentée dans un format correspondant à la langue de l'interface.
 
 
-For example,
+Par exemple :
 
-- en anglais : MAT 12.3, Mrk 5:4, Galates 1:12
+- en français : MAT 12.3, Mrk 5:4, Galates 1:12
 - en espagnol : Romanos 8:28
 
 :::note
 
 
-The names must matches the names as they are seen in the titles. Currently can't copy from Paratext, but that feature is being added to a later update.
+Les noms doivent correspondre aux noms tels qu'ils apparaissent dans les titres. Actuellement, il n'est pas possible de copier à partir de Paratext, mais cette fonctionnalité sera ajoutée lors d'une prochaine mise à jour.
 
 
 :::
@@ -73,9 +73,9 @@ The names must matches the names as they are seen in the titles. Currently can't
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- The colours have changed from **green** to **grey**
+- Les couleurs sont passées de **vert** à **gris**
 
-- You can reduce or expand the Greek / Hebrew by clicking the little arrow.
+- Vous pouvez réduire ou développer le grec/hébreu en cliquant sur la petite flèche.
 
 </div><div className='notion-spacer'></div>
 
@@ -86,23 +86,23 @@ The names must matches the names as they are seen in the titles. Currently can't
 </div><div className='notion-spacer'></div>
 </div>
 
-## Open a text collection {#fd1736d1bd07444fb6902b8dccf951dc}
+## Ouvrir une collection de textes {#fd1736d1bd07444fb6902b8dccf951dc}
 
 
 Il y a un nouvel élément de menu dans le **menu principal**.
 
-1. From the **Paratext menu**
-1. Choose **Open text collection**
-    - _This window looks like what was used in earlier versions of Paratext_.
+1. A partir du menu **Paratext**
+1. Choisissez **Ouvrir une collection de texte**
+    - _Cette fenêtre ressemble à celle utilisée dans les versions précédentes de Paratext_.
 
         ![](./839941766.png)
 
-1. Open a previously **saved text collection** from the bottom left
-1. You can still open a text collection from the **Open** window as well.
+1. Ouvrez une collection de texte précédemment **enregistrée** en bas à gauche
+1. Vous pouvez également ouvrir une collection de texte à partir de la fenêtre **Ouvrir**.
 
 ## Arrangement des fenêtres {#b526a01da9e04357804f4849c39f2fdc}
 
-- Arrange windows by **rows** as well as by **columns**.
+- Classer les fenêtres par **lignes** ainsi que par **colonnes**.
 
 :::tip
 
@@ -125,7 +125,7 @@ N'oubliez pas d'enregistrer votre disposition des fenêtres !
 
 ### Autres nouveautés/changements {#4796465de7ac4f3190c47faa4b9750b8}
 
-- **RegEx Pal** - from Main menu &gt; Advanced or Project menu &gt; Advanced.
+- **RegEx Pal** - à partir du menu principal \&gt; Avancé ou du menu Projet \&gt; Avancé.
 - La **synchronisation** avec Logos et d'autres programmes compatibles est maintenant activée **par défaut**
 - Des modifications ont été apportées pour faciliter la localisation des fichiers d'aide et de l'interface utilisateur
 - Les **modules bibliques** peuvent maintenant gérer les **marqueurs de chapitre** dans les livres supplémentaires.

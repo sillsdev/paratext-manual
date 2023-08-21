@@ -12,7 +12,7 @@ slug: /
 ![](./415098770.png)
 
 
-## [Paratext Training Manual](/概览) {#fad7543f2c494c928d5fe40c5644bf25}
+## **[Problem Internal Link]** {#fad7543f2c494c928d5fe40c5644bf25}
 
 
 This training manual (originally developed in Cameroon) has been revised for version 9.3.
