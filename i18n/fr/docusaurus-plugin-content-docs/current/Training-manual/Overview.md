@@ -96,7 +96,7 @@ Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. L
 ### Étape 4 : Vérification par un conseiller {#b9cfad05576f45628a0182bbda14ae90}
 
 
-20. [Outils de collaboration</strong>](/20.CT) ... _p.143_
+20. [Outils de collaboration](/20.CT) ... _p.143_
 
 
 ### Étape 5 (Étape 3 UBS) Examen communautaire {#37d7ee955e9e4169a751872d50f04eb1}
