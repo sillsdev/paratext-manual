@@ -51,7 +51,7 @@ const config = {
   ],
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "fr", "es"],
+    locales: ["en", "fr", "es", "pt"],
     localeConfigs: {
       en: {
         label: "English",
@@ -81,7 +81,7 @@ const config = {
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
-        language: ["en", "fr", "es"],
+        language: ["en", "fr", "es", "pt"],
         indexBlog: false,
         indexPages: true,
         docsRouteBasePath: "/",
