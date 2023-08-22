@@ -14,22 +14,22 @@ slug: /C.USFM
 :::
 
 
-| USFM      | Description                                                 | Style      |
-| --------- | ----------------------------------------------------------- | ---------- |
-| \expr.id | Fichier - Identification                                    | Paragraphe |
-| \h       | Fichier - En-tête                                           | Paragraphe |
-| \c       | Numéro de chapitre                                          | Paragraphe |
-| \v       | Numéro du verset                                            | Caractère  |
-| \p       | Paragraphe - Normal - Retraite de première ligne            | Paragraphe |
-| \m       | Paragraphe - à la marge - sans retrait de la première ligne | Paragraphe |
-| \q1      | Poésie - Retrait Niveau 1                                   | Paragraphe |
-| \q2      | Poésie - Retrait Niveau 2                                   | Paragraphe |
-| \r       | Titre - Références parallèles                               | Paragraphe |
-| \s1      | Titre - Section Niveau 1                                    | Paragraphe |
-| \s2      | Titre - Section Niveau 2                                    | Paragraphe |
-| \mt1     | Titre principal niveau 1                                    | Paragraphe |
-| \mt2     | Titre principal niveau 2                                    | Paragraphe |
-| \mt3     | Titre principal niveau 3                                    | Paragraphe |
+| USFM  | Description                                                 | Style      |
+| ----- | ----------------------------------------------------------- | ---------- |
+| \id  | Fichier - Identification                                    | Paragraphe |
+| \h   | Fichier - En-tête                                           | Paragraphe |
+| \c   | Numéro de chapitre                                          | Paragraphe |
+| \v   | Numéro du verset                                            | Caractère  |
+| \p   | Paragraphe - Normal - Retraite de première ligne            | Paragraphe |
+| \m   | Paragraphe - à la marge - sans retrait de la première ligne | Paragraphe |
+| \q1  | Poésie - Retrait Niveau 1                                   | Paragraphe |
+| \q2  | Poésie - Retrait Niveau 2                                   | Paragraphe |
+| \r   | Titre - Références parallèles                               | Paragraphe |
+| \s1  | Titre - Section Niveau 1                                    | Paragraphe |
+| \s2  | Titre - Section Niveau 2                                    | Paragraphe |
+| \mt1 | Titre principal niveau 1                                    | Paragraphe |
+| \mt2 | Titre principal niveau 2                                    | Paragraphe |
+| \mt3 | Titre principal niveau 3                                    | Paragraphe |
 
 
 ## Marqueurs moins fréquents {#e86265f707e24d699845d9ddecf69de2}

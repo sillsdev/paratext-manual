@@ -9,16 +9,16 @@ slug: /Stage-2
 **Introduction**
 
 
-The second stage of a translation project involves checking by the team. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. You will read through your text, work on proper names, Biblical key terms, spell checking, and formatting checks. You will also print out a draft and use a variety of notes: project notes, spelling notes, Biblical terms discussion notes to record your questions, discussions and decisions.
+La deuxième étape d'un projet de traduction est la vérification par l'équipe. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. Vous lirez votre texte, travaillerez sur les noms propres, les termes clés bibliques, la vérification de l'orthographe et la mise en forme. Vous imprimerez également un projet et utiliserez diverses remarques : remarques de projet, remarques d'orthographe, remarques de discussion sur les termes bibliques pour consigner vos questions, vos discussions et vos décisions.
 
 
 Les modules suivants vous aideront avec cette étape :
 
 
-  7.  [Proper Names](/7.PN) (see Help)
+  7.  [Noms propres](/7.PN) (voir Aide)
 
 
-  8.  [Spell Checking](/8.SP)
+  8.  [Vérification de l'orthographe](/8.SP)
 
 
   9.  [Glossaire](/9.GL)
