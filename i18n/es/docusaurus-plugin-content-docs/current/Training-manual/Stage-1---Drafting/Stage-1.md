@@ -15,13 +15,13 @@ There are several stages in a translation project. En esta primera etapa utiliza
 Los módulos siguientes le ayudarán en esta etapa:
 
 
-2. [Organizando su escritorio  ](/2.OD)
+2. [Organizando su escritorio](/2.OD)
 
 
 3. [Asignaciones y Progreso](/3.PP1)
 
 
-4. [Tecleando su borrador  ](/4.KD)
+4. [Tecleando su borrador](/4.KD)
 
 
 5. [Verificaciones básicas](/5.BC1)

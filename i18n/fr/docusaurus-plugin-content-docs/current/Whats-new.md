@@ -44,8 +44,7 @@ Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la
 
 1. Copier le texte d'une référence (depuis un autre fichier)
 1. Cliquez sur le **nom du livre** dans la barre de navigation.
-1. Collez en utilisant **Ctrl+V**.  
-    
+1. Collez en utilisant **Ctrl+V**
 
     ![](./1158626626.png)
 
