@@ -9,20 +9,20 @@ slug: /Stage-3
 **Introduction**
 
 
-In this third stage of an SIL translation project you will do comprehension testing and back translation. Vous continuerez également avec les contrôles de base.
+Au cours de cette troisième étape d'un projet de traduction SIL, vous effectuerez des tests de compréhension et des retraductions. Vous continuerez également avec les contrôles de base.
 
 
 Les modules suivants vous aideront avec cette étape :
 
 
- 16.  [**Draft a Back Translation**](/16.BT1)
+ 16.  [**Retraductions 1**](/16.BT1)
 
 
- 17.  [**Interlinearize a project**](/17.BT2)
+ 17.  [**Retraductions 2 - mot à mot**](/17.BT2)
 
 
  18.  [**CT – Comparer des textes**](/18.CT)
 
 
- 19.  [**Basic checks 3**](/19.BC3)
+ 19.  [**Vérifications de base 3**](/19.BC3)
 

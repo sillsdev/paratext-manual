@@ -1,5 +1,5 @@
 ---
-title: Stage 4 – Overview
+title: Etapa 4 - Resumen
 sidebar_position: 0
 slug: /Stage-4
 ---

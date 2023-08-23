@@ -1,5 +1,5 @@
 ---
-title: Stage 6 – Overview
+title: Etapa 5 - Resumen
 sidebar_position: 0
 slug: /Stage-6
 ---

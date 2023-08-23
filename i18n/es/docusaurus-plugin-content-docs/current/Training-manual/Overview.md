@@ -1,5 +1,5 @@
 ---
-title: Overview of Training Manual
+title: Resumen del manual de formación
 sidebar_position: 0
 slug: /Overview
 ---

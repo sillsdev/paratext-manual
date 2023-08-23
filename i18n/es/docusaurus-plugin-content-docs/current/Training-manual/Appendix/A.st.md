@@ -1,5 +1,5 @@
 ---
-title: A. Special texts
+title: A. Textos especiales
 sidebar_position: 0
 slug: /A.st
 ---

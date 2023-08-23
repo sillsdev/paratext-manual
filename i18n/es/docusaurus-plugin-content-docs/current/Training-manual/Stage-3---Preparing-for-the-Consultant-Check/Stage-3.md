@@ -1,5 +1,5 @@
 ---
-title: Stage 3 – Overview
+title: Etapa 3 - Resumen
 sidebar_position: 0
 slug: /Stage-3
 ---
