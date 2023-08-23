@@ -15,7 +15,7 @@ const config = {
   // Duplicate routes cause the next/prev buttons to loop
   // which causes the pdf creation to loop forever.
   onDuplicateRoutes: "throw",
-  favicon: "img/Paratext_Icon-48px.ico",
+  favicon: "img/favicon.ico",
 
   organizationName: "sillsdev", // Usually your GitHub org/user name.
   projectName: "paratext-manual", // Usually your repo name.
@@ -105,11 +105,6 @@ const config = {
       },
       navbar: {
         title: "Paratext Manual",
-        logo: {
-          alt: "Logo",
-          src: "img/logo.svg",
-        },
-
         items: [
           {
             type: "localeDropdown",
