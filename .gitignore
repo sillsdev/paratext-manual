@@ -26,3 +26,5 @@ yarn-error.log*
 
 *.orig
 *.bak
+
+static/downloads/*.pdf
