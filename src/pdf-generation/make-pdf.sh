@@ -16,7 +16,7 @@ npx docu-pdf $URL \
 --coverPath="src/pdf-generation/pdf-covers/cover-man-$1.html" \
 --contentSelector="article" \
 --pageSize="A5" \
---outputPath="build/downloads/Ptx-man-a5-$1-9.3.pdf" \
+--outputPath="static/downloads/Ptx-man-a5-$1-9.3.pdf" \
 --disableTOC \
 --headerTemplate="<footer />" \
 --pdfMargin="40,40,80,40" \

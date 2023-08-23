@@ -24,6 +24,8 @@ jobs:
         run: yarn
       - name: Generate PDF
         run: yarn make-pdf ${{ inputs.language }}
+      - name: Build Docusaurus instance for github pages branch
+        run: yarn build
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
