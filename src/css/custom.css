@@ -32,7 +32,7 @@
 /* Added by Jenni Beadle to increase the font */
   body {
       line-height: 1.5;
-      font-size: 105% !important;
+      font-size: 95% !important;
     }
 
 /* Copied from
@@ -109,7 +109,7 @@ reset figure counter as figures start from 1 in each chapter */
 
     body {
       line-height: 1.5;
-      font-size: 115% !important;
+      font-size: 95% !important;
       margin-top: 1.5cm !important; 
       margin-left: 2cm !important;
       margin-bottom: 2cm !important; 
