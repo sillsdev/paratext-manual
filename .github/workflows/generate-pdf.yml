@@ -9,7 +9,7 @@ on:
         type: string
 jobs:
   release:
-    name: Release
+    name: Generate PDF for ${{ inputs.language }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
