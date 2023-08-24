@@ -126,8 +126,8 @@
       border-right-width: 2px;
       border-top-width: 2px;
       border-bottom-width: 2px;
-      orphans: 2
-      widows: 2
+      orphans: 2;
+      widows: 2;
     }
 
     ul {
