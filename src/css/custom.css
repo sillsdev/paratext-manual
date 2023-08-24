@@ -96,17 +96,10 @@
     and (max-width: 13cm)
     */
 
-    /* get the title of the current chapter - this will be the content of the h1
-reset figure counter as figures start from 1 in each chapter */
-
   h1 {
-    string-set: doctitle content()
-    /*   page-break-before: always;
-     counter-reset: figurenum;
-    counter-reset: footnote; */
-    line-height: 1.2;
-}
-  h1 {
+      string-set: doctitle content()
+      /*   page-break-before: always; */
+      line-height: 1.2;
       font-size: 150% !important;
       margin-left: -1.5cm;
       padding-bottom: 6px;
