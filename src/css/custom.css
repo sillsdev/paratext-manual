@@ -100,12 +100,19 @@
 reset figure counter as figures start from 1 in each chapter */
 
   h1 {
-    string-set: doctitle content();
-    page-break-before: always;
-    counter-reset: figurenum;
-    counter-reset: footnote;
+    string-set: doctitle content()
+    /*   page-break-before: always;
+     counter-reset: figurenum;
+    counter-reset: footnote; */
     line-height: 1.2;
 }
+  h1 {
+      font-size: 150% !important;
+      margin-left: -1.5cm;
+      padding-bottom: 6px;
+      border-bottom: 4px double rgb(44, 14, 209);
+    }
+
 
     body {
       line-height: 1.2;
@@ -128,22 +135,17 @@ reset figure counter as figures start from 1 in each chapter */
       border-right-width: 2px;
       border-top-width: 2px;
       border-bottom-width: 2px;
+      orphans: 2
+      widows: 2
     }
 
     ul {
       width:auto !important;
-      orphans: 2;
       font-size: 100% !important;
     }
 
 
-   h1 {
-      font-size: 150% !important;
-      margin-left: -1.5cm;
-      padding-bottom: 6px;
-      border-bottom: 4px double rgb(44, 14, 209);
-    }
-
+   
     .markdown > h2 {
       -webkit-break-after: avoid-page !important;
       page-break-after: avoid !important;
@@ -242,7 +244,7 @@ reset figure counter as figures start from 1 in each chapter */
 
     }
 
-    li img {margin-top: 5px;}
+    li img {margin-top: 3px;}
 
 
 
