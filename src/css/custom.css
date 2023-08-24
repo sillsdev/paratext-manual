@@ -97,7 +97,6 @@
     */
 
   h1 {
-      string-set: doctitle content()
       line-height: 1.2;
       font-size: 150% !important;
       margin-left: -1.5cm;
