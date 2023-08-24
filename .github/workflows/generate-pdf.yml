@@ -24,10 +24,11 @@ jobs:
         run: yarn
       - name: Generate PDF
         run: yarn make-pdf ${{ inputs.language }}
-      - name: Build Docusaurus instance for github pages branch
-        run: yarn build
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
+          # In this workflow, we want to keep the existing files because all we want to do is add the PDF we just generated.
+          # That way we don't have to build the docusaurus site again.
+          keep_files: true
