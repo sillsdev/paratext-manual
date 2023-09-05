@@ -32,8 +32,8 @@ Everyone in a particular live session still needs to use the same server, it is 
 The most obvious new feature the ability to **compare versions**.
 
 1. Open a Study Bible Additions project
-1. From the **Project** menu,
-1. Under **Project**, choose **Compare Versions**
+2. From the **Project** menu,
+3. Under **Project**, choose **Compare Versions**
 	- _The changes in the additions are displayed_.
 
 ## Scripture reference in navigation bar {#3c00a0202ad949bc8909f66660badb73}
@@ -42,8 +42,8 @@ The most obvious new feature the ability to **compare versions**.
 In Paratext 9.3 you can copy and paste a scripture reference into the navigation bar.
 
 1. Copy the text of a reference (from another file)
-1. Click in the **book name** in the navigation bar
-1. Paste using **Ctrl+V**
+2. Click in the **book name** in the navigation bar
+3. Paste using **Ctrl+V**
 
 	![](./1158626626.png)
 
@@ -80,7 +80,9 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1036502882.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -92,13 +94,13 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 There is a new menu item on the **main menu**
 
 1. From the **Paratext menu**
-1. Choose **Open text collection**
+2. Choose **Open text collection**
 	- _This window looks like what was used in earlier versions of Paratext_.
 
 		![](./839941766.png)
 
-1. Open a previously **saved text collection** from the bottom left
-1. You can still open a text collection from the **Open** window as well.
+3. Open a previously **saved text collection** from the bottom left
+4. You can still open a text collection from the **Open** window as well.
 
 ## Arranging windows {#b526a01da9e04357804f4849c39f2fdc}
 
