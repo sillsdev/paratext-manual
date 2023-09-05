@@ -32,8 +32,8 @@ Toutes les personnes participant à une session en direct particulière doivent 
 La nouvelle fonctionnalité la plus évidente est la possibilité de **comparer les versions**.
 
 1. Ouvrez un projet Annexes de la Bible d'étude
-1. Dans le menu **Projet**,
-1. Sous **Projet**, choisissez **Comparer les versions**  
+2. Dans le menu **Projet**,
+3. Sous **Projet**, choisissez **Comparer les versions**  
    *Les changements dans les annexes sont affichés*.
     - _Les modifications apportées aux ajouts sont affichées_.
 
@@ -43,8 +43,8 @@ La nouvelle fonctionnalité la plus évidente est la possibilité de **comparer 
 Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la barre de navigation.
 
 1. Copier le texte d'une référence (depuis un autre fichier)
-1. Cliquez sur le **nom du livre** dans la barre de navigation.
-1. Collez en utilisant **Ctrl+V**
+2. Cliquez sur le **nom du livre** dans la barre de navigation.
+3. Collez en utilisant **Ctrl+V**
 
     ![](./1158626626.png)
 
@@ -80,7 +80,9 @@ Les noms doivent correspondre aux noms tels qu'ils apparaissent dans les titres.
 
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
+
 ![](./1036502882.png)
+
 
 </div><div className='notion-spacer'></div>
 </div>
@@ -91,13 +93,13 @@ Les noms doivent correspondre aux noms tels qu'ils apparaissent dans les titres.
 Il y a un nouvel élément de menu dans le **menu principal**.
 
 1. A partir du menu **Paratext**
-1. Choisissez **Ouvrir une collection de texte**
+2. Choisissez **Ouvrir une collection de texte**
     - _Cette fenêtre ressemble à celle utilisée dans les versions précédentes de Paratext_.
 
         ![](./839941766.png)
 
-1. Ouvrez une collection de texte précédemment **enregistrée** en bas à gauche
-1. Vous pouvez également ouvrir une collection de texte à partir de la fenêtre **Ouvrir**.
+3. Ouvrez une collection de texte précédemment **enregistrée** en bas à gauche
+4. Vous pouvez également ouvrir une collection de texte à partir de la fenêtre **Ouvrir**.
 
 ## Arrangement des fenêtres {#b526a01da9e04357804f4849c39f2fdc}
 

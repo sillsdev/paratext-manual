@@ -9,7 +9,7 @@ slug: /Stage-5
 **Introduction**
 
 
-The fifth stage of an SIL translation project (or third stage of UBS) is the review by the community. Dans la révision, vous vérifierez le style naturel, vous produirez un rapport d’avancement d’équipe et vous réviserez les termes clés.
+La cinquième étape d'un projet de traduction SIL (ou la troisième étape d'UBS) est la révision par la communauté. Dans la révision, vous vérifierez le style naturel, vous produirez un rapport d’avancement d’équipe et vous réviserez les termes clés.
 
 
 Les modules suivants vous aideront avec cette étape :

@@ -18,7 +18,7 @@ Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. L
 ### Étape 1 : Première ébauche {#b7ac49b489b548fc940c3bff213202e8}
 
 
-2. [Organising your desktop](/2.OD) ... _p.17_
+2. [Organiser votre bureau](/2.OD) ... _p.17_
 
 
 
@@ -52,7 +52,7 @@ Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. L
 
 
 
-10. [Un processus en 4 étapes pour ... Biblical Terms](/10.BT) ... _p.78_
+10. [Un processus en 4 étapes pour ... Termes bibliques](/10.BT) ... _p.78_
 
 
 
