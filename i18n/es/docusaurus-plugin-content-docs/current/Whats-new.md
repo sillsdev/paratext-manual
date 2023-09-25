@@ -31,7 +31,7 @@ Everyone in a particular live session still needs to use the same server, it is 
 
 The most obvious new feature the ability to **compare versions**.
 
-1. Open a Study Bible Additions project
+1. Abrir un proyecto de Adiciones a la Biblia de Estudio
 2. From the **Project** menu,
 3. Under **Project**, choose **Compare Versions**
     - _The changes in the additions are displayed_.
