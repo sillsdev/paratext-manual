@@ -32,9 +32,9 @@ Everyone in a particular live session still needs to use the same server, it is 
 The most obvious new feature the ability to **compare versions**.
 
 1. Abrir un proyecto de Adiciones a la Biblia de Estudio
-2. From the **Project** menu,
-3. Under **Project**, choose **Compare Versions**
-    - _The changes in the additions are displayed_.
+2. En el menú **Proyecto**,
+3. Bajo **Proyecto**, seleccione **Comparar versiones**
+    - _Los cambios en las adiciones se muestran_.
 
 ## Scripture reference in navigation bar {#3c00a0202ad949bc8909f66660badb73}
 

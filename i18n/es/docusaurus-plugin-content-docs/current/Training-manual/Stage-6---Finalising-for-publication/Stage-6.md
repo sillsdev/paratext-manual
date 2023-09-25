@@ -15,7 +15,7 @@ The sixth stage (SIL) [or fourth stage USB], of a translation project is the fin
 Los módulos siguientes le ayudarán en esta etapa:
 
 
- 23. [Compare Parallel Passages](/23.PP)
+ 23. [Comparar pasajes paralelos](/23.PP)
 
 
  24. [Finalising for Publication](/24.FFP)
