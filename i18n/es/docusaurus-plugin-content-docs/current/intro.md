@@ -6,45 +6,45 @@ slug: /
 
 
 
-# Resources for learning Paratext {#06ad408f15a9458281a9d23f82fff53f}
+# Recursos para aprender Paratext {#06ad408f15a9458281a9d23f82fff53f}
 
 
 ![](./415098770.png)
 
 
-## [Paratext Training Manual](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
+## [Manual de capacitación para Paratext](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
-This training manual (originally developed in Cameroon) has been revised for version 9.3.
+Este manual de capacitación (elaborado originalmente en Camerún) ha sido revisado para la versión 9.3.
 
 
-It follows the six stages of the translation process covering most of the tasks in the SIL compact plan. Modules can be selected for various training courses, or it can also be used as self-study.
+Sigue las seis etapas del proceso de traducción y abarca la mayoría de las tareas del plan llamado "SIL Compact Plan". Pueden seleccionarse módulos para diversos cursos de formación, o también puede utilizarse como autoaprendizaje.
 
-- 📖 [**Download the PDF version here**](https://manual.paratext.org/img/Ptx-man-en-9.3.pdf)
-    - It has 25 chapters in 200 A5 pages to be printed as a booklet. Or used as an off-line copy.
-
----
-
-
-### What's new - [**Paratext 9.3**](https://sillsdev.github.io/paratext-manual/00-Whats-new) {#d1196c2eb75c4532b1d3c6e72a394c13}
-
+- 📖 [**Descarga la versión en PDF aquí**](https://manual.paratext.org/img/Ptx-man-en-9.3.pdf)
+    - Consta de 25 capítulos en 200 páginas A5 para imprimir como folleto. O utilizado como copia fuera de línea.
 
 ---
 
 
-## Earlier versions {#cf46e5190e44405a90683dff63a58f78}
-
-
-The Manual for Paratext versions 9.2 and early 9.3 (in English and French only) are available on [**this website**](https://jennibeadle/paratextmanversions/)**.**
+### Novedades - [**Paratext 9.3**](https://sillsdev.github.io/paratext-manual/00-Whats-new) {#d1196c2eb75c4532b1d3c6e72a394c13}
 
 
 ---
 
 
-## Paratext video summaries {#0a01badb596b4812bcecb2fea41ce1bc}
+## Versiones anteriores {#cf46e5190e44405a90683dff63a58f78}
 
 
-The Paratext video summaries in _English_ and _French only_ are available on [**this website**](https://jennibeadle.github.io/paratext-vidsum/)
+El manual de las versiones 9.2 y principios de la 9.3 de Paratext (sólo en inglés y francés) está disponible en [**este sitio web**](https://jennibeadle/paratextmanversions/)**.**
+
+
+---
+
+
+## Resúmenes de los vídeos de Paratext {#0a01badb596b4812bcecb2fea41ce1bc}
+
+
+Los resúmenes de los vídeos de Paratext en _inglés_ y _francés_ están disponibles en [**este sitio web**](https://jennibeadle.github.io/paratext-vidsum/)
 
 
 ---

@@ -1,15 +1,46 @@
 ---
-title: Quoi de neuf - Paratext 9.3
+title: What's new
 sidebar_position: 1
 slug: /Whats-new
 ---
 
 
 
-## Paratext Live {#16154c54093a4476b7397c214e78e49f}
+## Paratext 9.4 {#16154c54093a4476b7397c214e78e49f}
 
 
-Paratext Live utilise plus qu'un serveur.
+See Paratext website - [**What’s New in Paratext 9.4 Beta**](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/)
+
+
+Highlights
+
+- **Notification of updates for projects on the user’s computer:**  A green dot on the project menu. Settings for checking for updates are available in the **Send/Receive projects** window. [Main menu video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
+
+    ![](./339463073.png)
+
+- **Notification of updates for installed resources.** A green dot in the main menu can also indicate updates to resource texts on the local computer. Access to the settings for this feature is in the **Download/Install resources**
+- **Improved Right-to-Left interface.** Paratext now correctly displays right-to-left user interfaces (like Arabic). [RTL video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
+
+    ![](./1222641753.png)
+
+- **Option to hide project notes.** Access from the **View menu &gt; Show Project Notes**. [Project menu video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)
+
+    ![](./179350404.png)
+
+- **Improved quotation checking.** The new “Quotation Types” Basic Check knows where quotations should occur in the text based on [Glyssen](https://software.sil.org/glyssen/) data and can ensure that they are all marked appropriately. [Quotation types video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=859138745)
+- **Added video to Enhanced Resources.** Now the Media tab for Enhanced Resources contains video clips from [LUMO](https://lumoproject.com/) and UBS’s “Bible Lands as Classroom” series. [Enhanced resources videos – video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
+- **Import/Export Biblical terms lists.** Allows users to create and exchange the Biblical Terms lists as the project progresses. [Biblical terms video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858020833)
+
+**And Many More Improvements!**
+
+
+## Paratext 9.3 {#4c850f9665ff4ab8870f1ae0fed0e870}
+
+
+  [What’s new in Paratext 9.3](https://paratext.org/features/whats-new/whats-new-in-paratext-9-3/)
+
+
+### Paratext Live uses a couple of servers {#14973ac6c79843a3a94db72e3348418d}
 
 - Paratext 8, 9.0 et 9.1 utilisent un serveur appelé Internet (secondaire) WCF et Paratext 9.2 utilise Internet (primaire) AMQP.
     - _C'est pourquoi il n'est pas possible d'utiliser Paratext Live avec 9.2 et 9.1 en même temps_
@@ -72,9 +103,9 @@ Les noms doivent correspondre aux noms tels qu'ils apparaissent dans les titres.
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- Les couleurs sont passées de **vert** à **gris**
+- The colours have changed from **green** to **grey (and back to green in 9.4)**
 
-- Vous pouvez réduire ou développer le grec/hébreu en cliquant sur la petite flèche.
+- You can reduce or expand the Greek / Hebrew by clicking the little arrow.
 
 </div><div className='notion-spacer'></div>
 

@@ -1,26 +1,57 @@
 ---
-title: What's new - Paratext 9.3
+title: What's new
 sidebar_position: 1
 slug: /Whats-new
 ---
 
 
 
-## Paratext Live {#16154c54093a4476b7397c214e78e49f}
+## Paratext 9.4 {#16154c54093a4476b7397c214e78e49f}
 
 
-Paratext Live uses a couple of servers.
+See Paratext website - [**What’s New in Paratext 9.4 Beta**](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/)
 
-- Paratext 8, 9.0 and 9.1 use a server called Internet (secondary) WCF and Paratext 9.2 uses Internet (primary) AMQP.
-    - _This is why you can't use Paratext Live with 9.2 and 9.1 at the same time_
-- In Paratext 9.3 when you start Paratext live you choose what server you want to use.
-    - **Internet (primary)**, which is 9.2 and 9.3.
-    - **Internet (secondary)** which is 9.0, 9.1 or Paratext 8.
+
+Highlights
+
+- **Notification of updates for projects on the user’s computer:**  A green dot on the project menu. Settings for checking for updates are available in the **Send/Receive projects** window. [Main menu video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
+
+    ![](./339463073.png)
+
+- **Notification of updates for installed resources.** A green dot in the main menu can also indicate updates to resource texts on the local computer. Access to the settings for this feature is in the **Download/Install resources**
+- **Improved Right-to-Left interface.** Paratext now correctly displays right-to-left user interfaces (like Arabic). [RTL video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
+
+    ![](./1222641753.png)
+
+- **Option to hide project notes.** Access from the **View menu &gt; Show Project Notes**. [Project menu video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)
+
+    ![](./179350404.png)
+
+- **Improved quotation checking.** The new “Quotation Types” Basic Check knows where quotations should occur in the text based on [Glyssen](https://software.sil.org/glyssen/) data and can ensure that they are all marked appropriately. [Quotation types video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=859138745)
+- **Added video to Enhanced Resources.** Now the Media tab for Enhanced Resources contains video clips from [LUMO](https://lumoproject.com/) and UBS’s “Bible Lands as Classroom” series. [Enhanced resources videos – video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
+- **Import/Export Biblical terms lists.** Allows users to create and exchange the Biblical Terms lists as the project progresses. [Biblical terms video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858020833)
+
+**And Many More Improvements!**
+
+
+## Paratext 9.3 {#4c850f9665ff4ab8870f1ae0fed0e870}
+
+
+  [What’s new in Paratext 9.3](https://paratext.org/features/whats-new/whats-new-in-paratext-9-3/)
+
+
+### Paratext Live uses a couple of servers {#14973ac6c79843a3a94db72e3348418d}
+
+- Paratext 8, 9.0 y 9.1 utilizan un servidor llamado Internet (secundario) WCF y Paratext 9.2 utiliza Internet (primario) AMQP.
+    - _Esta es la razón por la que no puede utilizar Paratext Live con 9.2 y 9.1 al mismo tiempo_
+- En Paratext 9.3, cuando inicie Paratext live, elija qué servidor desea utilizar.
+    - **Internet (primario)**, que es 9.2 y 9.3.
+    - **Internet (secundario)** que es 9.0, 9.1 o Paratext 8.
 
 :::note
 
 
-Everyone in a particular live session still needs to use the same server, it is just that from 9.3 you can work with someone on 9.1 or someone else on 9.2 (just not at the same time)
+Todo el mundo en una sesión en vivo en particular todavía tiene que utilizar el mismo servidor, es sólo que a partir de la 9.3 se puede trabajar con alguien en la 9.1 o con otra persona en la 9.2 (sólo que no al mismo tiempo)
 
 
 :::
@@ -29,49 +60,49 @@ Everyone in a particular live session still needs to use the same server, it is 
 ## Adiciones a la Biblia de estudio {#8c8628c57aa04e48b5d33488872d0b29}
 
 
-The most obvious new feature the ability to **compare versions**.
+La novedad más evidente es la posibilidad de **comparar versiones**.
 
 1. Abrir un proyecto de Adiciones a la Biblia de Estudio
 2. En el menú **Proyecto**,
 3. Bajo **Proyecto**, seleccione **Comparar versiones**
     - _Los cambios en las adiciones se muestran_.
 
-## Scripture reference in navigation bar {#3c00a0202ad949bc8909f66660badb73}
+## Referencia bíblica en la barra de navegación {#3c00a0202ad949bc8909f66660badb73}
 
 
-In Paratext 9.3 you can copy and paste a scripture reference into the navigation bar.
+En Paratext 9.3 puede copiar y pegar una referencia bíblica en la barra de navegación.
 
-1. Copy the text of a reference (from another file)
-2. Click in the **book name** in the navigation bar
-3. Paste using **Ctrl+V**
+1. Copiar el texto de una referencia (de otro archivo)
+2. Haga clic en el **nombre del libro** en la barra de navegación
+3. Pegar utilizando **Ctrl+V**
 
     ![](./1158626626.png)
 
 
-The reference should be in a format that matches the interface language.
+La referencia debe estar en un formato que se corresponda al idioma de la interfaz.
 
 
 Por ejemplo,
 
-- in English: MAT 12.3, Mrk 5:4, Galatians 1:12
-- in Spanish: Romanos 8:28
+- en inglés: MAT 12.3, Mrk 5:4, Galatians 1:12
+- en español: Romanos 8:28
 
 :::note
 
 
-The names must matches the names as they are seen in the titles. Currently can't copy from Paratext, but that feature is being added to a later update.
+Los nombres deben coincidir con los que aparecen en los títulos. Actualmente no puede copiar desde Paratext, pero esa función se añadirá en una actualización posterior.
 
 
 :::
 
 
-## Parallel Passages Tool {#f660aff19a7541efaa453398f11dbacd}
+## Herramienta de pasajes paralelos {#f660aff19a7541efaa453398f11dbacd}
 
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- The colours have changed from **green** to **grey**
+- The colours have changed from **green** to **grey (and back to green in 9.4)**
 
 - You can reduce or expand the Greek / Hebrew by clicking the little arrow.
 
@@ -86,23 +117,23 @@ The names must matches the names as they are seen in the titles. Currently can't
 </div><div className='notion-spacer'></div>
 </div>
 
-## Open a text collection {#fd1736d1bd07444fb6902b8dccf951dc}
+## Abrir una colección de textos {#fd1736d1bd07444fb6902b8dccf951dc}
 
 
-There is a new menu item on the **main menu**
+Hay un nuevo elemento en el **menú principal**
 
-1. From the **Paratext menu**
-2. Choose **Open text collection**
-    - _This window looks like what was used in earlier versions of Paratext_.
+1. En el **menú de Paratext**
+2. Seleccione **Abrir colección de textos**
+    - _Esta ventana se parece a la que se utilizaba en versiones anteriores de Paratext_.
 
         ![](./839941766.png)
 
-3. Open a previously **saved text collection** from the bottom left
-4. You can still open a text collection from the **Open** window as well.
+3. Abra una **colección de textos guardadas** desde la parte inferior izquierda
+4. También puede abrir una colección de textos desde la ventana **Abrir**.
 
-## Arranging windows {#b526a01da9e04357804f4849c39f2fdc}
+## Colocación de ventanas {#b526a01da9e04357804f4849c39f2fdc}
 
-- Arrange windows by **rows** as well as by **columns**.
+- Organice las ventanas tanto por **filas** como por **columnas**.
 
 :::tip
 
@@ -116,16 +147,16 @@ There is a new menu item on the **main menu**
 ![](./1620979427.png)
 
 
-## Floating Windows {#493f51aae2f5480893f25897c408c26c}
+## Ventanas flotantes {#493f51aae2f5480893f25897c408c26c}
 
-- Dropdown to change the active project
+- Desplegable para cambiar el proyecto activo
 
     ![](./807351003.png)
 
 
-### Other new/changed {#4796465de7ac4f3190c47faa4b9750b8}
+### Otros nuevos/cambiados {#4796465de7ac4f3190c47faa4b9750b8}
 
-- **RegEx Pal** - from Main menu &gt; Advanced or Project menu &gt; Advanced.
-- **Synchronizing** with Logos and other compatible programs is now turned **on by default**
-- Changes have been made to help with the localization of the help files and the user interface
-- **Bible modules** can now handle **chapter markers** in the extra books
+- **RegEx Pal** - desde el menú principal &gt; Avanzado o el menú del Proyecto &gt; Avanzado.
+- La **sincronización** con Logos y otros programas compatibles está ahora **activada por defecto**
+- Se han realizado cambios para facilitar la localización de los archivos de ayuda y de la interfaz de usuario
+- Los **módulos de la Biblia** ahora pueden manejar **los marcadores de capítulos** en los libros adicionales
