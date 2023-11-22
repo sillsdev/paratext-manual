@@ -39,7 +39,7 @@ slug: /f293059a-b12b-485f-8d5b-bfd1ca114a8b
 - Added the ability to use FieldWorks dictionary with Paratext Interlinearizer. [▶ FieldWorks integration video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=859073261)
 - Added the ability to change the ordering for cross-references, footnotes, and sidebars in Study Bible Additions projects. [▶ Study Bible Additions video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761672)
 - Added capability to “Manage layouts”. [▶ Main menu video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
-- Made paralll passage matches easier to see.
+- Made parallel passage matches easier to see.
 - New/improved items in the Project Menu ([▶ Project menu video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)):
 	- Exporting to PTXprint is now available from the project menu.
 	- Improvements to “Insert table”.
