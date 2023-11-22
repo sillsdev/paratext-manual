@@ -39,7 +39,7 @@ slug: /f293059a-b12b-485f-8d5b-bfd1ca114a8b
 - Se ha añadido la posibilidad de utilizar el diccionario de FieldWorks con el Interlinealizador de Paratext. [▶ Vídeo de demostración de la integración de FieldWorks](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=859073261)
 - Se ha añadido la posibilidad de cambiar el orden de las referencias cruzadas, notas a pie de página y barras laterales en los proyectos de Adiciones a la Biblia de Estudio. [▶ Vídeo de demostración de las Adiciones a la Biblia de Estudio](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761672)
 - Añadida la capacidad de "Gestionar diseños". [▶ Vídeo demostrativo del menú principal](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
-- Ha facilitado la visualización de las coincidencias de pasajes paralelos.
+- Made parallel passage matches easier to see.
 - Elementos nuevos/mejorados en el menú Proyecto[(▶ Vídeo de demostración del menú Proyecto](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)):
     - La exportación a PTXprint está ahora disponible en el menú del proyecto.
     - Mejoras en "Insertar tabla".

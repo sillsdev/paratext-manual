@@ -9,7 +9,7 @@ slug: /Stage-1
 ## **Introduction** {#fdc449ff8f5643f7a674687005d4a1dd}
 
 
-There are several stages in a translation project. In this first stage you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.
+There are several stages in a translation project. In this first stage, you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.
 
 
 The following modules will help you in this stage:

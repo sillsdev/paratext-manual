@@ -9,7 +9,7 @@ slug: /Stage-1
 ## **Introduction** {#fdc449ff8f5643f7a674687005d4a1dd}
 
 
-Un projet de traduction se déroule en plusieurs étapes. Dans cette première étape, vous utiliserez des ressources pour vous assurer que vous comprenez bien le texte source, ensuite vous saisissez le texte de votre traduction avec d’autres éléments, par la suite vous commencerez les vérifications préliminaires.
+Un projet de traduction se déroule en plusieurs étapes. In this first stage, you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.
 
 
 Les modules suivants vous aideront avec cette étape :
