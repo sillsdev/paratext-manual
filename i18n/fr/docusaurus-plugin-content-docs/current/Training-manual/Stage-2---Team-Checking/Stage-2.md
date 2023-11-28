@@ -9,7 +9,7 @@ slug: /Stage-2
 **Introduction**
 
 
-La deuxième étape d'un projet de traduction est la vérification par l'équipe. In this second stage, you will use many tools to ensure that you have been consistent in your translation. Vous lirez votre texte, travaillerez sur les noms propres, les termes clés bibliques, la vérification de l'orthographe et la mise en forme. Vous imprimerez également un projet et utiliserez diverses remarques : remarques de projet, remarques d'orthographe, remarques de discussion sur les termes bibliques pour consigner vos questions, vos discussions et vos décisions.
+La deuxième étape d'un projet de traduction est la vérification par l'équipe. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. Vous lirez votre texte, travaillerez sur les noms propres, les termes clés bibliques, la vérification de l'orthographe et la mise en forme. Vous imprimerez également un projet et utiliserez diverses remarques : remarques de projet, remarques d'orthographe, remarques de discussion sur les termes bibliques pour consigner vos questions, vos discussions et vos décisions.
 
 
 Les modules suivants vous aideront avec cette étape :
