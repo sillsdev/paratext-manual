@@ -15,7 +15,7 @@ La cinquième étape d'un projet de traduction SIL (ou la troisième étape d'UB
 Les modules suivants vous aideront avec cette étape :
 
 
- 21. [Progress report](/21.PPR)
+ 21. [Rapport d'avancement](/21.PPR)
 
 
  22. [Rapport des termes bibliques](/22.BTR)
