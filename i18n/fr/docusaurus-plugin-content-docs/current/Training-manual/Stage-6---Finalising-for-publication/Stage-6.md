@@ -18,7 +18,7 @@ Les modules suivants vous aideront avec cette étape :
  23. [Comparer des passages parallèles](/23.PP)
 
 
- 24. [Finalising for Publication](/24.FFP)
+ 24. [Finalisation pour la publication – Nouveau Testament](/24.FFP)
 
 
  25. [Création d'une Bible d'étude](/25.StudyBibles)

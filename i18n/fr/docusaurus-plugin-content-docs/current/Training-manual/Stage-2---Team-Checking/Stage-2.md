@@ -33,7 +33,7 @@ Les modules suivants vous aideront avec cette étape :
  12.  [Vérifications de base](/12.BC2)
 
 
- 13.  [Vérification du mise en forme](/13.FC)
+ 13.  [Vérification de la mise en forme](/13.FC)
 
 
  14.  [Impression d’ébauches](/14.PD)

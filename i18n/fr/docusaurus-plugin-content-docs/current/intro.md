@@ -26,7 +26,7 @@ Il suit les six étapes du processus de traduction et couvre la plupart des tâc
 ---
 
 
-### What's new - [Paratext 9.4](/f293059a-b12b-485f-8d5b-bfd1ca114a8b) {#d1196c2eb75c4532b1d3c6e72a394c13}
+### Quoi de neuf - [Paratext 9.4](/f293059a-b12b-485f-8d5b-bfd1ca114a8b) {#d1196c2eb75c4532b1d3c6e72a394c13}
 
 
 ---

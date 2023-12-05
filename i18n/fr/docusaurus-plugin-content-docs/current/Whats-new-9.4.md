@@ -1,5 +1,5 @@
 ---
-title: Whats new 9.4
+title: Nouveautés 9.4
 sidebar_position: 1
 slug: /f293059a-b12b-485f-8d5b-bfd1ca114a8b
 ---
