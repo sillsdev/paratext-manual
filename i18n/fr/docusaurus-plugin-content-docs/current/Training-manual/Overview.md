@@ -12,25 +12,25 @@ Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. L
 ### Introduction {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
 
-1. [Course introduction](/1.Intro) ... _p.5_
+1. [Introduction au cours](/1.Intro) ... _p.5_
 
 
 ### Étape 1 : Première ébauche {#b7ac49b489b548fc940c3bff213202e8}
 
 
-2. [Organising your desktop](/2.OD) ... _p.12_
+2. [Organiser votre bureau](/2.OD) ... _p.12_
 
 
 
-3. [Assignments and progress](/3.PP1) ... _p.23_
+3. [Tâches et avancement](/3.PP1) ... _p.24_
 
 
 
-4. [Keyboarding your draft](/4.KD) ... _p.28_
+4. [Saisie des données](/4.KD) ... _p.30_
 
 
 
-5. [Basic checks](/5.BC1) ... _p.37_
+5. [Vérifications de base](/5.BC1) ... _p.40_
 
 
 
