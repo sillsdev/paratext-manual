@@ -9,7 +9,7 @@ slug: /Stage-2
 **Introducción**
 
 
-La segunda etapa de un proyecto de traducción consiste en la comprobación por parte del equipo. En esta segunda etapa utilizará muchas herramientas para asegurarse de que ha sido coherente en su traducción. Leerá su texto, trabajará los nombres propios, los vocablos bíblicos, la corrección ortográfica y las verificaciones de formato. También imprimirá un borrador y utilizará diversas notas: notas de proyecto, notas ortográficas, notas de discusión de términos bíblicos para registrar sus preguntas, discusiones y decisiones.
+La segunda etapa de un proyecto de traducción consiste en la comprobación por parte del equipo. En esta segunda etapa, utilizará muchas herramientas para asegurarse de que ha sido coherente en su traducción. Leerá su texto, trabajará los nombres propios, los vocablos bíblicos, la corrección ortográfica y las verificaciones de formato. También imprimirá un borrador y utilizará diversas notas: notas de proyecto, notas ortográficas, notas de discusión de términos bíblicos para registrar sus preguntas, discusiones y decisiones.
 
 
 Los módulos siguientes le ayudarán en esta etapa:

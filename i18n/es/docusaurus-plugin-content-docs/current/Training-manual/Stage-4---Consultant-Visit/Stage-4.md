@@ -9,19 +9,19 @@ slug: /Stage-4
 **Introducción**
 
 
-The fourth stage of an SIL translation project is the consultant visit. You will meet with the consultant and evaluate your text, make notes and revise your texts and back translations as needed. You will want to ensure that you have updated the status of your translation in Assignments and Progress.
+La cuarta etapa de un proyecto de traducción SIL es la visita del consultor. Se reunirá con el consultor y evaluará su texto, tomará notas y revisará sus textos y retrotraducciones según sea necesario. Deberá asegurarse de que ha actualizado el estado de su traducción en Asignaciones y Progreso.
 
 
-Most of the tasks in this stage have been covered in previous modules.
+La mayoría de las tareas de esta etapa ya se han tratado en módulos anteriores.
 
 
-The following module will help you in this stage:
+El módulo siguiente le ayudará en esta etapa:
 
 
- 20.  [Collaboration Tools](/20.CT)
+ 20.  [Herramientas de colaboración](/20.CT)
 
 
-See also modules in Stages one to three. In particular, from Stage 3
+Véase también los módulos de las etapas uno a tres. En particular, a partir de la Etapa 3
 
 
  16.  [Redactar una retrotraducción](/16.BT1)

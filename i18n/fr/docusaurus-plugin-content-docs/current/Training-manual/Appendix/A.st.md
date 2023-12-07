@@ -31,14 +31,14 @@ La forme poétique utilise généralement \q1 et \q2. Les petites majuscules son
 - Mrk 16,9 : Une note indiquant une autre fin de Mark. Quelquefois séparé par une règle horizontale.
 - Luc 1, 46-55 : Le chant de Marie (ou d'Élisabeth ; le Magnificat). Forme poétique??
 - Luc 1.68-79 : Le chant de Zacharie. Forme poétique??
-- Luk 2.14 : Le chant du chœur angélique. Forme poétique??
-- Luk 2.29-32 : La louange de Simeon. Forme poétique??
-- Luk 3.23-38 : La généalogie. Forme poétique??spéciale semblable à la généalogie dans Matthew.
-- Luke 6.20-22 : Les béatitudes (bénédictions). Forme poétique??
-- Luke 6.24-26 : Les béatitudes (malheurs). Forme poétique??
-- Luke 11.2-4 : la prière du Seigneur. Forme poétique??
-- Luke 19.38 : La salutation à Jésus. Forme poétique??
-- Luke 23.38 : Le signe sur la croix. Souvent mis en petites majuscules.
+- Luc 2.14 : Le chant du chœur angélique. Forme poétique??
+- Luc 2.29-32 : La louange de Simeon. Forme poétique??
+- Luc 3.23-38 : La généalogie. Forme poétique??spéciale semblable à la généalogie dans Matthew.
+- Luc 6.20-22 : Les béatitudes (bénédictions). Forme poétique??
+- Luc 6.24-26 : Les béatitudes (malheurs). Forme poétique??
+- Luc 11.2-4 : la prière du Seigneur. Forme poétique??
+- Luc 19.38 : La salutation à Jésus. Forme poétique??
+- Luc 23.38 : Le signe sur la croix. Souvent mis en petites majuscules.
 - Jhn 7.53-8.11 : L'histoire de la femme prise sur le fait. La tête de section se produit d'habitude avant le vers 53. Rarement, séparé par une règle horizontale auparavant et après le texte.
 - Jhn 12.13 : La salutation à Jésus. Forme poétique??
 - Jhn 17.1-27 : La prière de Jésus. Quelquefois, bien que rarement, mit en paragraphes en retraite ajoutée de la marge gauche.

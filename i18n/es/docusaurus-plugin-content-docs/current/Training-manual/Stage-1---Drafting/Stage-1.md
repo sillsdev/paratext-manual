@@ -9,7 +9,7 @@ slug: /Stage-1
 ## **Introducción** {#fdc449ff8f5643f7a674687005d4a1dd}
 
 
-Hay varias etapas en un proyecto de traducción. En esta primera etapa utilizará muchos de los recursos para asegurarse de que comprende el texto original, después redactará y tecleará el texto de la traducción junto con otros materiales y también comenzará las comprobaciones preliminares.
+Hay varias etapas en un proyecto de traducción. En esta primera etapa, utilizará muchos de los recursos para asegurarse de que comprende el texto original, después redactará y tecleará el texto de la traducción junto con otros materiales y también comenzará las comprobaciones preliminares.
 
 
 Los módulos siguientes le ayudarán en esta etapa:

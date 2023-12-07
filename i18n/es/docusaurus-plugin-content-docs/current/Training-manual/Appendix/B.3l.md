@@ -1,37 +1,37 @@
 ---
-title: B. Three letter abbreviations
+title: B. Abreviaturas de tres letras
 sidebar_position: 1
 slug: /B.3l
 ---
 
 
 
-| Antiguo Testamento  |                    |                    |
-| ------------------- | ------------------ | ------------------ |
-| Genesis - GEN       | Exodus - EXO       | Leviticus - LEV    |
-| Numbers - NUM       | Deuteronomy - DEU  | Joshua - JOS       |
-| Judges - JDG        | Ruth - RUT         | 1 Samuel - 1SA     |
-| 2 Samuel - 2SA      | 1 Kings - 1KI      | 2 Kings - 2KI      |
-| 1 Chronicles - 1CH  | 2 Chronicles - 2CH | Ezra - EZR         |
-| Nehemiah - NEH      | Esther - EST       | Job - JOB          |
-| Psalms - PSA        | Proverbs - PRO     | Ecclesiastes - ECC |
-| Song of Songs - SNG | Isaiah - ISA       | Jeremiah - JER     |
-| Lamentations - LAM  | Ezekiel - EZK      | Daniel - DAN       |
-| Hosea - HOS         | Joël - JOL         | Amos - AMO         |
-| Obadiah - OBA       | Jonah - JON        | Micah - MIC        |
-| Nahum - NAM         | Habakkuk - HAB     | Zephaniah - ZEP    |
-| Haggai - HAG        | Zechariah - ZEC    | Malachi - MAL      |
+| Antiguo Testamento           |                    |                   |
+| ---------------------------- | ------------------ | ----------------- |
+| Génesis - GEN                | Éxodo - EXO        | Levítico - LEV    |
+| Números - NUM                | Deuteronomio - DEU | Josué - JOS       |
+| Jueces - JDG                 | Rut - RUT          | 1 Samuel - 1SA    |
+| 2 Samuel - 2SA               | 1 Reyes - 1KI      | 2 Reyes - 2KI     |
+| 1 Crónicas - 1CH             | 2 Crónicas - 2CH   | Esdras - EZR      |
+| Nehemías - NEH               | Ester - EST        | Job - JOB         |
+| Salmos - PSA                 | Proverbios - PRO   | Eclesiastés - ECC |
+| Cantar de los Cantares - SNG | Isaías - ISA       | Jeremías - JER    |
+| Lamentaciones - LAM          | Ezequiel - EZK     | Daniel - DAN      |
+| Oseas - HOS                  | Joel - JOL         | Amós - AMO        |
+| Abdías - OBA                 | Jonás - JON        | Miqueas - MIC     |
+| Nahúm - NAM                  | Habacuc - HAB      | Sofonías - ZEP    |
+| Hageo - HAG                  | Zacarías - ZEC     | Malaquías - MAL   |
 
 
-| Nuevo Testamento      |                       |                  |
-| --------------------- | --------------------- | ---------------- |
-| Matthew - MAT         | Mark - MRK            | Luke - LUK       |
-| John - JHN            | Acts - ACT            | Romans - ROM     |
-| 1 Corinthians - 1CO   | 2 Corinthians - 2CO   | Galatians - GAL  |
-| Ephesians - EPH       | Philippians - PHP     | Colossians - COL |
-| 1 Thessalonians - 1TH | 2 Thessalonians - 2TH | 1 Timothy - 1TI  |
-| 2 Timothy - 2TI       | Titus - TIT           | Philemon - PHM   |
-| Hebrews - HEB         | James - JAS           | 1 Peter - 1PE    |
-| 2 Peter - 2PE         | 1 John - 1JN          | 2 John - 2JN     |
-| 3 John - 3JN          | Jude - JUD            | Revelation - REV |
+| Nuevo Testamento       |                        |                   |
+| ---------------------- | ---------------------- | ----------------- |
+| Mateo - MAT            | Marcos - MRK           | Lucas - LUK       |
+| Juan - JHN             | Hechos - ACT           | Romanos - ROM     |
+| 1 Corintios - 1CO      | 2 Corintios - 2CO      | Gálatas - GAL     |
+| Efesios - EPH          | Filipenses - PHP       | Colosenses - COL  |
+| 1 Tesalonicenses - 1TH | 2 Tesalonicenses - 2TH | 1 Timoteo - 1TI   |
+| 2 Timoteo - 2TI        | Tito - TIT             | Filemón - PHM     |
+| Hebreos - HEB          | Santiago - JAS         | 1 Pedro - 1PE     |
+| 2 Pedro - 2PE          | 1 Juan - 1JN           | 2 Juan - 2JN      |
+| 3 Juan - 3JN           | Judas - JUD            | Apocalipsis - REV |
 

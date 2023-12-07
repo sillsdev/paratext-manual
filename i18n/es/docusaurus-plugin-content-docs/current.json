@@ -8,23 +8,23 @@
     "description": "The label for category Training manual in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 1 - Drafting": {
-    "message": "Etapa 1 - Borrador",
+    "message": "Etapa 1 - Redacción",
     "description": "The label for category Stage 1 - Drafting in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 2 - Team Checking": {
-    "message": "Etapa 2 - Comprobación del equipo",
+    "message": "Etapa 2 - Comprobación por parte del equipo y comprobación de la comprensión",
     "description": "The label for category Stage 2 - Team Checking in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 3 - Preparing for the Consultant Check": {
-    "message": "Etapa 3 Preparación para la revisión de consultores",
+    "message": "Etapa 3 - Prepárese para el Consultor",
     "description": "The label for category Stage 3 - Preparing for the Consultant Check in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 4 - Consultant Visit": {
-    "message": "Etapa 4 - Visita del consultor",
+    "message": "Etapa 4 - Comprobación del consultor",
     "description": "The label for category Stage 4 - Consultant Visit in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 5 - Review by the community": {
-    "message": "Etapa 5 - Revisión por la comunidad",
+    "message": "Etapa 5 - Revisión por parte de la Comunidad",
     "description": "The label for category Stage 5 - Review by the community in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 6 - Finalising for publication": {
@@ -32,7 +32,7 @@
     "description": "The label for category Stage 6 - Finalising for publication in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Appendix": {
-    "message": "Appendix",
+    "message": "Apéndice",
     "description": "The label for category Appendix in sidebar defaultSidebar"
   }
 }

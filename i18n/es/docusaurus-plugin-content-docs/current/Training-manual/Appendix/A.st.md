@@ -6,72 +6,72 @@ slug: /A.st
 
 
 
-The following passages often have special formatting (by adding other USFM codes).
+Los siguientes pasajes suelen tener un formato especial (añadiendo otros códigos USFM).
 
 
 :::tip
 
-Poetic form usually uses \q1 and \q2. Small caps are marked with \sc … \sc*.
+La forma poética suele utilizar \q1 y \q2. Las mayúsculas pequeñas están marcadas con \sc .. \sc*.
 
 :::
 
 
 
-- Matt 1.2-16: The genealogy, which is not normal prose. Often set in a special poetic form so the fathers line up and the form indicates this is a special list (with comments).
-- Matt 5.3-10: The beatitudes. Often set in poetic form.
-- Matt 6.9-13: The Lord's prayer. Often set in poetic form.
-- Matt 21.9: The greeting to Jesus. Often set in poetic form.
-- Matt 27.37: The sign on the cross. Often set in small caps.
-- Matt 27.46: The scream of Jesus. Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
-- Mark 5.41: The command to the dead girl. Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
-- Mark 11.9: The greeting to Jesus. Often set in poetic form.
-- Mark 14.36: "Abba." Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
-- Mark 15.26: The sign on the cross. Often set in small caps.
-- Mark 15.34: The scream of Jesus. Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
-- Mark 16.9: A note indicating another ending of Mark. Sometimes separated by a horizontal rule.
-- Luke 1.46-55: The song of Mary (or Elizabeth; the Magnificat). Often set in poetic form.
-- Luke 1.68-79: The song of Zechariah. Often set in poetic form.
-- Luke 2.14: The chant of the angelic choir. Often set in poetic form.
-- Luke 2.29-32: The praise of Simeon. Often set in poetic form.
-- Luke 3.23-38: The genealogy. Often set in a special poetic form similar to the genealogy in Matthew.
-- Luke 6.20-22: The beatitudes (blessings). Often set in poetic form.
-- Luke 6.24-26: The beatitudes (woes). Often set in poetic form.
-- Luke 11.2-4: The Lord's prayer. Often set in poetic form.
-- Luke 19.38: The greeting to Jesus. Often set in poetic form.
-- Luke 23.38: The sign on the cross. Often set in small caps.
-- John 7.53-8.11: The story of the woman caught in the act. The section head usually occurs prior to verse 53. Sometimes, although rarely, separated by a horizontal rule before and after the text.
-- John 12.13: The greeting to Jesus. Often set in poetic form.
-- John 17.1-27: The prayer of Jesus. Sometimes, although rarely, set in paragraphs with added indentation from the left margin.
-- John 19.19: The sign on the cross. Often set in small caps.
-- Acts 15.23-29: The letter. Often set in paragraphs with added indentation from the left margin.
-- Acts 23.26-30: The letter to Claudius Lysias. Often set in paragraphs with added indentation from the left margin.
-- Rom 8.15: "Abba." Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
-- Rom 11.33-36: The doxology. Often set in poetic form.
-- Rom 16.3-16: The special greetings. Sometimes set in a special poetic form similar to the genealogies.
-- Gal 4.6: "Abba." Sometimes marked by \tl and \tl*, the marker for transliteration (because it is in another language).
-- Phil 2.6-11: The attitudes. Sometimes set in poetic form.
-- 1 Tim 2.5-6: A creed. Sometimes set in poetic form.
-- 1 Tim 3.16: A creed. Often set in poetic form.
-- 2 Tim 2.11-13: A creed. Often set in poetic form.
-- 1 John 2.12-14: I write to you. Sometimes set in poetic form.
-- Rev 1.4-7: The greeting and doxology. Sometimes set as poetry and prose.
-- Rev 2-3: The seven letters. Often set in paragraphs with added indentation from the left margin.
-- Rev 4.8: A chant. Sometimes set in centered poetic form.
-- Rev 4.11: A chant. Often set in poetic form.
-- Rev 5.9-10, 12, 13: Songs. Often set in poetic form.
-- Rev 7.5-8: A list. Often set in a special poetic form.
-- Rev 7.10, 12: Chants. Often set in poetic form.
-- Rev 7.15-17: A declaration. Sometimes set in poetic form.
-- Rev 11.15, 17-18: Chants. Often set in poetic form.
-- Rev 12.10-12: A declaration. Often set in poetic form.
-- Rev 15.3-4: A song. Often set in poetic form.
-- Rev 16.5-7: A declaration. Often set in poetic form.
-- Rev 17.5: A sign. Often set centered, in small caps.
-- Rev 18.2-8: A declaration. Often set in poetic form.
-- Rev 18.10-24: A series of woes. Often set in poetic form.
-- Rev 19.1-8: A series of declarations. Often set in poetic form.
-- Rev 19.16: A sign. Often set centered, in small caps.
-- Rev 21.19-20: A list. Sometimes, although rarely, set in poetic form [2]
+- Mateo 1.2-16: La genealogía, que no es prosa normal. A menudo se establece en una forma poética especial para que los padres se alineen y la forma indique que se trata de una lista especial (con comentarios).
+- Mateo 5.3-10: Las bienaventuranzas. A menudo en forma poética.
+- Mateo 6.9-13: La oración del Señor. A menudo en forma poética.
+- Mateo 21.9: El saludo a Jesús. A menudo en forma poética.
+- Mateo 27.37: La señal en la cruz. A menudo en mayúsculas pequeñas.
+- Mateo 27.46: El grito de Jesús. A veces está marcado con \tl y \tl*, el marcador de transliteración (porque está en otro idioma).
+- Marcos 5.41: La orden a la muchacha muerta. A veces está marcado con \tl y \tl*, el marcador de transliteración (porque está en otro idioma).
+- Marcos 11.9: El saludo a Jesús. A menudo en forma poética.
+- Marcos 14.36: "Abba" A veces está marcado con \tl y \tl*, el marcador de transliteración (porque está en otro idioma).
+- Marcos 15.26: La señal en la cruz. A menudo en mayúsculas pequeñas.
+- Marcos 15.34: El grito de Jesús. A veces está marcado con \tl y \tl*, el marcador de transliteración (porque está en otro idioma).
+- Marcos 16.9: Una nota que indica otro final de Marcos. A veces separados por una regla horizontal.
+- Lucas 1.46-55: El canto de María (o Isabel; el Magnificat). A menudo en forma poética.
+- Lucas 1.68-79: El canto de Zacarías. A menudo en forma poética.
+- Lucas 2.14: El canto del coro angélico. A menudo en forma poética.
+- Lucas 2.29-32: La alabanza de Simeón. A menudo en forma poética.
+- Lucas 3.23-38: La genealogía. A menudo se presenta en una forma poética especial similar a la genealogía de Mateo.
+- Lucas 6.20-22: Las bienaventuranzas (bendiciones). A menudo en forma poética.
+- Lucas 6.24-26: Las bienaventuranzas (ayes). A menudo en forma poética.
+- Lucas 11.2-4: La oración del Señor. A menudo en forma poética.
+- Lucas 19.38: El saludo a Jesús. A menudo en forma poética.
+- Lucas 23.38: La señal en la cruz. A menudo en mayúsculas pequeñas.
+- Juan 7.53-8.11: La historia de la mujer sorprendida en el acto. La cabecera de la sección suele aparecer antes del versículo 53. A veces, aunque raramente, separados por una regla horizontal antes y después del texto.
+- Juan 12.13: El saludo a Jesús. A menudo en forma poética.
+- Juan 17.1-27: La oración de Jesús. A veces, aunque raramente, se colocan en párrafos con sangría añadida desde el margen izquierdo.
+- Juan 19.19: La señal en la cruz. A menudo en mayúsculas pequeñas.
+- Hechos 15.23-29: La carta. A menudo se colocan en párrafos con sangría añadida desde el margen izquierdo.
+- Hechos 23.26-30: La carta a Claudio Lisias. A menudo se colocan en párrafos con sangría añadida desde el margen izquierdo.
+- Rom 8.15: "Abba" A veces está marcado con \tl y \tl*, el marcador de transliteración (porque está en otro idioma).
+- Rom 11.33-36: La doxología. A menudo en forma poética.
+- Rom 16.3-16: Los saludos especiales. A veces se presenta en una forma poética especial similar a la de las genealogías.
+- Gal 4.6: "Abba" A veces está marcado con \tl y \tl*, el marcador de transliteración (porque está en otro idioma).
+- Fil 2.6-11: Las actitudes. A veces en forma poética.
+- 1 Tim 2.5-6: Un credo. A veces en forma poética.
+- 1 Tim 3.16: Un credo. A menudo en forma poética.
+- 2 Tim 2.11-13: Un credo. A menudo en forma poética.
+- 1 Juan 2.12-14: Os escribo. A veces en forma poética.
+- Ap 1.4-7: El saludo y la doxología. A veces en forma de poesía y prosa.
+- Ap 2-3: Las siete cartas. A menudo se colocan en párrafos con sangría añadida desde el margen izquierdo.
+- Ap 4.8: Un canto. A veces en forma poética centrada.
+- Ap 4.11: Un canto. A menudo en forma poética.
+- Ap 5.9-10, 12, 13: Cantos. A menudo en forma poética.
+- Ap 7.5-8: Una lista. A menudo con una forma poética especial.
+- Ap 7.10, 12: Cantos. A menudo en forma poética.
+- Ap 7.15-17: Una declaración. A veces en forma poética.
+- Ap 11.15, 17-18: Cánticos. A menudo en forma poética.
+- Ap 12.10-12: Una declaración. A menudo en forma poética.
+- Ap 15.3-4: Una canción. A menudo en forma poética.
+- Ap 16.5-7: Una declaración. A menudo en forma poética.
+- Ap 17.5: Una señal. A menudo se coloca centrado, en versalitas.
+- Ap 18.2-8: Una declaración. A menudo en forma poética.
+- Ap 18.10-24: Una serie de ayes. A menudo en forma poética.
+- Ap 19.1-8: Una serie de declaraciones. A menudo en forma poética.
+- Ap 19.16: Una señal. A menudo se coloca centrado, en versalitas.
+- Ap 21.19-20: Una lista. A veces, aunque raramente, en forma poética [2]
 
-[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., & Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.
+[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., & Deibler, E. (julio de 2008). NOT Nº 3 (Vol. 7, Mt 1:2-Re 21:19). SIL Internacional.
 
