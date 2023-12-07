@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Paratext Manual",
   tagline: "",
-  url: "https://sillsdev.github.io",
-  baseUrl: "/paratext-manual/",
+  url: "https://manual.paratext.org",
+  baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   // Duplicate routes cause the next/prev buttons to loop
