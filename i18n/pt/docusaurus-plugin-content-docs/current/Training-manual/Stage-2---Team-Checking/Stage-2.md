@@ -1,43 +1,18 @@
 ---
-title: Stage 2 – Overview
-sidebar_position: 0
-slug: /Stage-2
+title: Estágio 2 - Visão geral do teste em equipe
 ---
 
+**Introdução**  
+A segunda etapa de um projeto de tradução envolve o teste em equipe. Nesta segunda etapa, você usará diversas ferramentas para garantir que sua tradução esteja consistente. Você revisará seu texto, trabalhará com nomes próprios, termos-chave bíblicos, verificação ortográfica e verificação de formatação. Também imprimirá um rascunho e usará várias anotações: notas do projeto, notas de ortografia, notas de discussão de termos bíblicos para registrar suas perguntas, discussões e decisões.
 
+Os módulos a seguir ajudarão você nesta etapa:
 
-**Introduction**
-
-
-The second stage of a translation project involves checking by the team. In this second stage, you will use many tools to ensure that you have been consistent in your translation. You will read through your text, work on proper names, Biblical key terms, spell checking, and formatting checks. You will also print out a draft and use a variety of notes: project notes, spelling notes, Biblical terms discussion notes to record your questions, discussions and decisions.
-
-
-The following modules will help you in this stage:
-
-
-  7.  [Proper Names](/7.PN) (see Help)
-
-
-  8.  [11. Verificação Ortográfica](/8.SP)
-
-
-  9.  [Glossary](/9.GL)
-
-
- 10.  [A 4-Step process for consistent Biblical Terms](/10.BT)
-
-
- 11.  [Compare a word or phrase](/11.MP)
-
-
- 12.  [Verificações Básicas](/12.BC2)
-
-
- 13.  [Formatting checks](/13.FC)
-
-
- 14.  [Printing Drafts](/14.PD)
-
-
- 15.  [Using Notes](/15.UN)
-
+7. **Nomes Próprios** ([7.PN.md](7.PN.md))
+8. **Verificação Ortográfica** ([8.SP.md](8.SP.md))
+9. **Glossário** ([9.GL.md](9.GL.md))
+10. **Um processo de 4 etapas para termos bíblicos consistentes** ([10.BT.md](10.BT.md))
+11. **Comparar uma palavra ou frase** ([11.MP.md](11.MP.md))
+12. **Verificações Básicas** ([12.BC2.md](12.BC2.md))
+13. **Verificação de Formatação** ([13.FC.md](13.FC.md))
+14. **Impressão de Rascunhos** ([14.PD.md](14.PD.md))
+15. **Utilizando Anotações** ([15.UN.md](15.UN.md))

@@ -1,28 +1,13 @@
----
-title: Stage 3 – Overview
-sidebar_position: 0
-slug: /Stage-3
+﻿---
+title: Fase 3 - Visão Geral da Preparação para a Verificação do Consultor
 ---
 
+**Introdução**   
+Nesta terceira fase de um projeto de tradução SIL, você realizará testes de compreensão e retrotradução. Você também continuará com as verificações básicas e a verificação ortográfica.
 
+Os seguintes módulos irão ajudá-lo nesta fase:
 
-**Introduction**
-
-
-In this third stage of an SIL translation project you will do comprehension testing and back translation. You will also continue with the basic checks and spell checking.
-
-
-The following modules will help you in this stage:
-
-
- 16.  [**Draft a Back Translation**](/16.BT1)
-
-
- 17.  [**Interlinearize a project**](/17.BT2)
-
-
- 18.  [**Compare Text**](/18.CT)
-
-
- 19.  [**Basic checks 3**](/19.BC3)
-
+16. [**Elaborar uma Retrotradução**](16.BT1.md)
+17. [**Interlinearizar um projeto**](17.BT2.md)
+18. [**Comparar Texto**](18.CT.md)
+19. [**Verificações básicas 3**](19.BC3.md)

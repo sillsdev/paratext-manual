@@ -1,31 +1,16 @@
 ---
-title: Stage 4 – Overview
-sidebar_position: 0
-slug: /Stage-4
+title: Fase 4 - Visão Geral da Visita do Consultor
 ---
 
+**Introdução**  
+A quarta fase de um projeto de tradução SIL é a visita do consultor. Você irá se reunir com o consultor, avaliar seu texto, fazer anotações e revisar seus textos e retrotraduções conforme necessário. É importante garantir que você tenha atualizado o status de sua tradução no plano do projeto.
 
+A maioria das tarefas desta fase já foi abordada nos módulos anteriores.
 
-**Introduction**
+Os seguintes módulos irão ajudá-lo nesta fase:
 
+20. [**Ferramentas de Colaboração**](20.Collaboration-tools.md)
 
-The fourth stage of an SIL translation project is the consultant visit. You will meet with the consultant and evaluate your text, make notes and revise your texts and back translations as needed. You will want to ensure that you have updated the status of your translation in Assignments and Progress.
-
-
-Most of the tasks in this stage have been covered in previous modules.
-
-
-The following module will help you in this stage:
-
-
- 20.  [Collaboration Tools](/20.CT)
-
-
-See also modules in Stages one to three. In particular, from Stage 3
-
-
- 16.  [Draft a Back Translation](/16.BT1)
-
-
- 17.  [Interlinearize a project](/17.BT2)
-
+Veja também os módulos nas Fases um a três. Em particular,  
+Fase 3 - 16. **BT1 - Elaborar uma Retrotradução**  
+Fase 3 - 17. **BT2 - Interlinearizar um projeto**

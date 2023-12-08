@@ -1,38 +1,42 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Próxima",
     "description": "The label for version current"
   },
-  "sidebar.defaultSidebar.category.Training manual": {
-    "message": "Training manual",
-    "description": "The label for category Training manual in sidebar defaultSidebar"
+  "sidebar.tutorialSidebar.category.Paratext Training Manual": {
+    "message": "Manual de Treinamento do Paratext",
+    "description": "The label for category Paratext Training Manual in sidebar tutorialSidebar"
   },
-  "sidebar.defaultSidebar.category.Stage 1 - Drafting": {
-    "message": "Stage 1 - Drafting",
-    "description": "The label for category Stage 1 - Drafting in sidebar defaultSidebar"
+  "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
+    "message": "Manual de Treinamento do Paratext",
+    "description": "The generated-index page description for category Paratext Training Manual in sidebar tutorialSidebar"
   },
-  "sidebar.defaultSidebar.category.Stage 2 - Team Checking": {
-    "message": "Stage 2 - Team Checking",
-    "description": "The label for category Stage 2 - Team Checking in sidebar defaultSidebar"
+  "sidebar.tutorialSidebar.category.Appendix": {
+    "message": "Apêndice",
+    "description": "The label for category Appendix in sidebar tutorialSidebar"
   },
-  "sidebar.defaultSidebar.category.Stage 3 - Preparing for the Consultant Check": {
-    "message": "Stage 3 - Preparing for the Consultant Check",
-    "description": "The label for category Stage 3 - Preparing for the Consultant Check in sidebar defaultSidebar"
+  "sidebar.tutorialSidebar.category.Stage 1 Drafting": {
+    "message": "Estágio 1 Rascunho",
+    "description": "The label for category Stage 1 Drafting in sidebar tutorialSidebar"
   },
-  "sidebar.defaultSidebar.category.Stage 4 - Consultant Visit": {
-    "message": "Stage 4 - Consultant Visit",
-    "description": "The label for category Stage 4 - Consultant Visit in sidebar defaultSidebar"
+  "sidebar.tutorialSidebar.category.Stage 3 Prepare for Consultant check": {
+    "message": "Estágio 3 Preparação para Consultoria",
+    "description": "The label for category Stage 3 Prepare for Consultant check in sidebar tutorialSidebar"
   },
-  "sidebar.defaultSidebar.category.Stage 5 - Review by the community": {
-    "message": "Stage 5 - Review by the community",
-    "description": "The label for category Stage 5 - Review by the community in sidebar defaultSidebar"
+  "sidebar.tutorialSidebar.category.Stage 4 Consultant check": {
+    "message": "Estágio 4 Consultoria",
+    "description": "The label for category Stage 4 Consultant check in sidebar tutorialSidebar"
   },
-  "sidebar.defaultSidebar.category.Stage 6 - Finalising for publication": {
-    "message": "Stage 6 - Finalising for publication",
-    "description": "The label for category Stage 6 - Finalising for publication in sidebar defaultSidebar"
+  "sidebar.tutorialSidebar.category.Stage 5 Community/External Review": {
+    "message": "Estágio 5 Revisão Comunitária/Externa",
+    "description": "The label for category Stage 5 Community/External Review in sidebar tutorialSidebar"
   },
-  "sidebar.defaultSidebar.category.Appendix": {
-    "message": "Appendix",
-    "description": "The label for category Appendix in sidebar defaultSidebar"
+  "sidebar.tutorialSidebar.category.Stage 6 Finalising for Publication": {
+    "message": "Estágio 6 Finalização para Publicação",
+    "description": "The label for category Stage 6 Finalising for Publication in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 2 Team Check": {
+    "message": "Estágio 2 Checagem com a Equipe",
+    "description": "The label for category Stage 2 Team Check in sidebar tutorialSidebar"
   }
 }
