@@ -20,7 +20,7 @@ This training manual (originally developed in Cameroon) has been revised for ver
 
 It follows the six stages of the translation process covering most of the tasks in the SIL compact plan. Modules can be selected for various training courses, or it can also be used as self-study.
 
-- 📖 [**Download the PDF version here**](https://manual.paratext.org/pt/downloads/Ptx-man-a5-pt-9.4.pdf)
+- 📖 **[Problem Internal Link]**
     - It has 25 chapters in 200 A5 pages to be printed as a booklet. Or used as an off-line copy.
 
 ---
