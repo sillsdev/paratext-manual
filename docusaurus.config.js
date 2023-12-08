@@ -9,7 +9,7 @@ const config = {
   title: "Paratext Manual",
   tagline: "",
   url: "https://manual.paratext.org",
-  baseUrl: "/",
+  baseUrl: "paratext-manual",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   // Duplicate routes cause the next/prev buttons to loop
