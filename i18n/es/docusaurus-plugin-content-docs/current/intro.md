@@ -20,7 +20,7 @@ Este manual de capacitación (elaborado originalmente en Camerún) ha sido revis
 
 Sigue las seis etapas del proceso de traducción y abarca la mayoría de las tareas del plan llamado "SIL Compact Plan". Pueden seleccionarse módulos para diversos cursos de formación, o también puede utilizarse como autoaprendizaje.
 
-- 📖 **[Problem Internal Link]**
+- 📖 [**Download the PDF version here**](https://manual.paratext.org/downloads/Ptx-man-a5-en-9.4.pdf)
     - Consta de 25 capítulos en 200 páginas A5 para imprimir como folleto. O utilizado como copia fuera de línea.
 
 ---
