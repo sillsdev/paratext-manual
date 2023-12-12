@@ -1,5 +1,5 @@
 ---
-title: Stage 1 – Overview
+title: Estágio 1 - Visão geral do rascunho
 sidebar_position: 0
 slug: /Stage-1
 ---
@@ -9,10 +9,10 @@ slug: /Stage-1
 ## **Introduction** {#fdc449ff8f5643f7a674687005d4a1dd}
 
 
-There are several stages in a translation project. In this first stage, you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.
+Existem várias etapas em um projeto de tradução. Nesta primeira etapa, você utilizará diversos recursos para garantir que compreenda o texto original. Em seguida, você elaborará e digitará o texto da tradução, juntamente com outros materiais, utilizando um rascunho, e também iniciará as verificações preliminares.
 
 
-The following modules will help you in this stage:
+Os seguintes módulos ajudarão você nesta etapa:
 
 
 2. [Organising your desktop](/2.OD)

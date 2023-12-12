@@ -1,5 +1,5 @@
 ---
-title: C. Common USFM Markers
+title: C. C. Marcadores USFM Comuns
 sidebar_position: 2
 slug: /C.USFM
 ---
@@ -8,96 +8,96 @@ slug: /C.USFM
 
 :::note
 
-- All Styles of type "Paragraph" require using the "Enter" key when choosing the marker in "Standard" view
-- All Style Type "Note" and "Character" require using the "Backslash" key when choosing the marker in "Standard" view
+- Todos os estilos do tipo "Parágrafo" requerem o uso da tecla "Enter" ao escolher o marcador na visualização "Padrão".
+- Todos os estilos do tipo "Nota" e "Caractere" requerem o uso da tecla "Barra Invertida" ao escolher o marcador na visualização "Padrão".
 
 :::
 
 
-| USFM  | Descrição:                                | Estilo    |
+| USFM  | Descrição                                        | Estilo    |
+| ----- | ------------------------------------------------ | --------- |
+| \id  | Arquivo - Identificação                          | Paragraph |
+| \h   | Arquivo - Cabeçalho                              | Paragraph |
+| \c   | Número do Capítulo                               | Paragraph |
+| \v   | Número do Versículo                              | Character |
+| \p   | Parágrafo - Normal - Recuo na Primeira Linha     | Paragraph |
+| \m   | Parágrafo - Margem - Sem Recuo na Primeira Linha | Paragraph |
+| \q1  | Poesia - Nível de Recuo 1                        | Paragraph |
+| \q2  | Poesia - Nível de Recuo 2                        | Paragraph |
+| \r   | Cabeçalho - Referências Paralelas                | Paragraph |
+| \s1  | Cabeçalho - Nível de Seção 1                     | Paragraph |
+| \s2  | Cabeçalho - Nível de Seção 2                     | Paragraph |
+| \mt1 | Título - Título Principal - Nível 1              | Paragraph |
+| \mt2 | Título - Título Principal - Nível 2              | Paragraph |
+| \mt3 | Título - Título Principal - Nível 3              | Paragraph |
+
+
+## Marcadores Menos Comuns {#e86265f707e24d699845d9ddecf69de2}
+
+
+| USFM | Descrição                                     | Estilo    |
+| ---- | --------------------------------------------- | --------- |
+| \pc | Parágrafo - Centralizado (para Inscrição)     | Paragraph |
+| \nb | Parágrafo - Sem Quebra com Parágrafo Anterior | Paragraph |
+| \li | Item de Lista - Nível 1 - Apenas um Nível     | Paragraph |
+
+
+## Marcadores de Introdução {#93551ca206c1421dacac7e7922e83bd8}
+
+
+| USFM   | Descrição                                            | Estilo    |
+| ------ | ---------------------------------------------------- | --------- |
+| \imt1 | Introdução - Título Principal - Nível 1              | Paragraph |
+| \iot  | Introdução - Título do Esboço                        | Paragraph |
+| \io1  | Introdução - Nível 1 do Esboço                       | Paragraph |
+| \io2  | Introdução - Nível 2 do Esboço                       | Paragraph |
+| \ip   | Introdução - Parágrafo                               | Paragraph |
+| \im   | Introdução - Parágrafo - sem recuo na primeira linha | Paragraph |
+| \ipq  | Introdução - Parágrafo - citação do texto            | Paragraph |
+
+
+## Marcadores de Referência Cruzada {#7582640cf3fe4b3993dbb6b460d40d4c}
+
+
+| USFM | Descrição                                   | Estilo    |
+| ---- | ------------------------------------------- | --------- |
+| \x  | Referência Cruzada                          | Note      |
+| \xo | Referência Cruzada - Referência de Origem   | Character |
+| \xt | Referência Cruzada - Referências de Destino | Character |
+| \x* | Fim da Referência Cruzada                   | Note      |
+
+
+## Marcadores de Figura/Ilustração {#4e91568268b54c8ea70f81c80a0061f4}
+
+
+| USFM   | Descrição                                | Estilo |
+| ------ | ---------------------------------------- | ------ |
+| \fig  | Auxiliar - Figura/Ilustração/Mapa        | Note   |
+| \fig* | Auxiliar - Fim de Figura/Ilustração/Mapa | Note   |
+
+
+## Marcadores de Nota de Rodapé {#829f632d730b4db2902aca9a8607a085}
+
+
+| USFM  | Descrição                                 | Estilo    |
 | ----- | ----------------------------------------- | --------- |
-| \id  | File - Identification                     | Paragraph |
-| \h   | File - Header                             | Paragraph |
-| \c   | Chapter Number                            | Paragraph |
-| \v   | Verse Number                              | Character |
-| \p   | Paragraph - Normal - First Line Indent    | Paragraph |
-| \m   | Paragraph - Margin - No First Line Indent | Paragraph |
-| \q1  | Poetry - Indent Level 1                   | Paragraph |
-| \q2  | Poetry - Indent Level 2                   | Paragraph |
-| \r   | Heading - Parallel References             | Paragraph |
-| \s1  | Heading - Section Level 1                 | Paragraph |
-| \s2  | Heading - Section Level 2                 | Paragraph |
-| \mt1 | Title - Major Title Level 1               | Paragraph |
-| \mt2 | Title - Major Title Level 2               | Paragraph |
-| \mt3 | Title - Major Title Level 3               | Paragraph |
-
-
-## Less-common Markers {#e86265f707e24d699845d9ddecf69de2}
-
-
-| USFM | Descrição:                                   | Estilo    |
-| ---- | -------------------------------------------- | --------- |
-| \pc | Paragraph - Centered (for Inscription)       | Paragraph |
-| \nb | Paragraph - No Break with Previous Paragraph | Paragraph |
-| \li | List Entry - Level 1 - Single Level Only     | Paragraph |
-
-
-## Introduction Markers {#93551ca206c1421dacac7e7922e83bd8}
-
-
-| USFM   | Descrição:                                      | Estilo    |
-| ------ | ----------------------------------------------- | --------- |
-| \imt1 | Introduction - Major Title Level 1              | Paragraph |
-| \iot  | Introduction - Outline Title                    | Paragraph |
-| \io1  | Introduction - Outline Level 1                  | Paragraph |
-| \io2  | Introduction - Outline Level 2                  | Paragraph |
-| \ip   | Introduction - Paragraph                        | Paragraph |
-| \im   | Introduction - Paragraph - no first line indent | Paragraph |
-| \ipq  | Introduction - Paragraph - quote from text      | Paragraph |
-
-
-## Cross Reference Markers {#7582640cf3fe4b3993dbb6b460d40d4c}
-
-
-| USFM | Descrição:                          | Estilo    |
-| ---- | ----------------------------------- | --------- |
-| \x  | Referência cruzada                  | Note      |
-| \xo | Cross Reference – Origin Reference  | Character |
-| \xt | Cross Reference - Target References | Character |
-| \x* | Cross Reference End                 | Note      |
-
-
-## Figure/Illustration Markers {#4e91568268b54c8ea70f81c80a0061f4}
-
-
-| USFM   | Descrição:                              | Estilo |
-| ------ | --------------------------------------- | ------ |
-| \fig  | Auxiliary - Figure/Illustration/Map     | Note   |
-| \fig* | Auxiliary - Figure/Illustration/Map End | Note   |
-
-
-## Footnote Markers {#829f632d730b4db2902aca9a8607a085}
-
-
-| USFM  | Descrição:                                 | Estilo    |
-| ----- | ------------------------------------------ | --------- |
-| \f   | Footnote                                   | Note      |
-| \fr  | Footnote - Reference                       | Character |
-| \ft  | Footnote - Text                            | Character |
-| \fk  | Footnote - Keyword                         | Character |
-| \fq  | Footnote - Quotation from the text         | Character |
-| \fqa | Footnote - Alternate Translation Rendering | Character |
-| \f*  | Footnote End                               | Note      |
+| \f   | Footnote                                  | Note      |
+| \fr  | Nota de Rodapé - Referência               | Character |
+| \ft  | Nota de Rodapé - Texto                    | Character |
+| \fk  | Nota de Rodapé - Palavra-chave            | Character |
+| \fq  | Footnote - Quotation from the text        | Character |
+| \fqa | Nota de Rodapé - Renderização Alternativa | Character |
+| \f*  | Footnote End                              | Note      |
 
 
 ## Glossary {#b27a3c455de340b9bdd33a5e92353b91}
 
 
-| USFM       | Descrição:                                     | Estilo    |
-| ---------- | ---------------------------------------------- | --------- |
-| \k … k*   | Keyword (in the glossary)                      | Character |
-| \w … \w* | Indicates a word in the glossary (in the text) | Character |
-| \p        | Paragraph                                      | Paragraph |
-| \li1      | Glossary list paragraph (1st level indent)     | Paragraph |
-| \li2      | Glossary list paragraph (2nd level indent)     | Paragraph |
+| USFM       | Descrição                                           | Estilo    |
+| ---------- | --------------------------------------------------- | --------- |
+| \k … k*   | Palavra-chave (no glossário)                        | Character |
+| \w … \w* | Indica uma palavra no glossário (no texto)          | Character |
+| \p        | Paragraph                                           | Paragraph |
+| \li1      | Parágrafo de lista do glossário (recuo de 1º nível) | Paragraph |
+| \li2      | Parágrafo de lista do glossário (recuo de 2º nível) | Paragraph |
 

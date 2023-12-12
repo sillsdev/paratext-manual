@@ -1,5 +1,5 @@
 ---
-title: Stage 6 – Overview
+title: Fase 6 / Fase 4 UBS - Visão Geral da Finalização para Publicação
 sidebar_position: 0
 slug: /Stage-6
 ---
@@ -9,17 +9,17 @@ slug: /Stage-6
 **Introduction**
 
 
-The sixth stage (SIL) [or fourth stage USB], of a translation project is the finalisation for publication. This involves redoing many of the previous checks. It also involved checking the Parallel Passages.
+A sexta fase (SIL) [ou quarta fase UBS] de um projeto de tradução é a finalização para publicação. Isso envolve refazer muitas das verificações anteriores. Também envolve verificar as Passagens Paralelas.
 
 
-The following modules will help you in this stage:
+Os seguintes módulos ajudarão você nesta etapa:
 
 
- 23. [Compare Parallel Passages](/23.PP)
+ 23. [Comparar passagens paralelas](/23.PP)
 
 
  24. [Finalising for Publication](/24.FFP)
 
 
- 25. [Create a Study Bible](/25.StudyBibles)
+ 25. [Criar uma Bíblia de estudo](/25.StudyBibles)
 

@@ -9,14 +9,14 @@ slug: /Stage-5
 **Introduction**
 
 
-The fifth stage of an SIL translation project (or third stage of UBS) is the review by the community. In the review you will check for naturalness, produce a team progress report and revise the key terms.
+A quinta etapa de um projeto de tradução da SIL (ou terceira etapa da UBS) é a revisão pela comunidade. Na revisão, você verificará a naturalidade, produzirá um relatório de progresso da equipe e revisará os termos-chave.
 
 
-The following modules will help you in this stage:
+Os seguintes módulos ajudarão você nesta etapa:
 
 
- 21. [Progress report](/21.PPR)
+ 21. [Relatório de progresso](/21.PPR)
 
 
- 22. [Biblical key terms report](/22.BTR)
+ 22. [Relatório de termos-chave bíblicos](/22.BTR)
 

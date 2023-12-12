@@ -1,5 +1,5 @@
 ---
-title: Stage 2 – Overview
+title: Estágio 2 - Visão geral do teste em equipe
 sidebar_position: 0
 slug: /Stage-2
 ---
@@ -9,10 +9,10 @@ slug: /Stage-2
 **Introduction**
 
 
-The second stage of a translation project involves checking by the team. In this second stage, you will use many tools to ensure that you have been consistent in your translation. You will read through your text, work on proper names, Biblical key terms, spell checking, and formatting checks. You will also print out a draft and use a variety of notes: project notes, spelling notes, Biblical terms discussion notes to record your questions, discussions and decisions.
+A segunda etapa de um projeto de tradução envolve o teste em equipe. Nesta segunda etapa, você usará diversas ferramentas para garantir que sua tradução esteja consistente. Você revisará seu texto, trabalhará com nomes próprios, termos-chave bíblicos, verificação ortográfica e verificação de formatação. Também imprimirá um rascunho e usará várias anotações: notas do projeto, notas de ortografia, notas de discussão de termos bíblicos para registrar suas perguntas, discussões e decisões.
 
 
-The following modules will help you in this stage:
+Os seguintes módulos ajudarão você nesta etapa:
 
 
   7.  [Proper Names](/7.PN) (see Help)
@@ -33,7 +33,7 @@ The following modules will help you in this stage:
  12.  [Verificações Básicas](/12.BC2)
 
 
- 13.  [Formatting checks](/13.FC)
+ 13.  [Verificações de formatação](/13.FC)
 
 
  14.  [Printing Drafts](/14.PD)

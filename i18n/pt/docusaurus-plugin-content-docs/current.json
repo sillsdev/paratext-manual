@@ -32,7 +32,7 @@
     "description": "The label for category Stage 6 - Finalising for publication in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Appendix": {
-    "message": "Appendix",
+    "message": "Apêndice",
     "description": "The label for category Appendix in sidebar defaultSidebar"
   }
 }

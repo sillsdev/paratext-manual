@@ -1,28 +1,30 @@
 ---
-title: Overview of Training Manual
+title: Visão Geral do Manual de Treinamento
 sidebar_position: 0
 slug: /Overview
 ---
 
 
 
-The training manual follows the tasks in the SIL Compact Plan. The page numbers refer to the [PDF](https://manual.paratext.org/img/Ptx-man-en-9.3.pdf).
+O manual de treinamento segue as tarefas no Plano Compacto SIL. Os números de página referem-se ao [PDF](pathname:///img/Ptx-man-en-9.3.pdf).
 
 
 ### Introduction {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
 
-1. [Course introduction](/1.Intro) ... _p.5_
+1. *p.4*   
+   1\. [Introdução ao curso](1.Intro.md) ...
 
 
-### Stage 1 Drafting {#b7ac49b489b548fc940c3bff213202e8}
+### Estágio 1 - Rascunho {#b7ac49b489b548fc940c3bff213202e8}
 
 
-2. [Organising your desktop](/2.OD) ... _p.12_
+2. [Organizando sua área de trabalho](02-Stage-1/2.OD.md) ...
 
 
 
-3. [Assignments and progress](/3.PP1) ... _p.23_
+3. [Plano do projeto e progresso](02-Stage-1/3.PP1.md) ... *p.26*    
+   4\.
 
 
 
@@ -30,33 +32,39 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 
 
 
-5. [Basic checks](/5.BC1) ... _p.37_
+5. *p.31*  
+   5\. [Verificações básicas](02-Stage-1/5.BC1.md) ...
 
 
 
-6. [Project progress](/6.PP2) ... _p.41_
+6. *p.38*  
+   6\. [Progresso do projeto](02-Stage-1/6.PP2.md) ...
 
 
-### Stage 2 Team check {#196f054cc44d4c70a92a443e7bb68561}
+### Estágio 2 - Verificação da equipe {#196f054cc44d4c70a92a443e7bb68561}
 
 
 7. [Proper Names](/7.PN) ... _p.45_
 
 
 
-8. [Spell Checking](/8.SP) ... _p.46_
+8. *p.46*  
+   8\. [Verificação ortográfica](03-Stage-2/8.SP.md) ...
 
 
 
-9. [Glossary](/9.GL) ... _p.57_
+9. *p.47*  
+   9\. [Glossário](03-Stage-2/9.GL.md) ...
 
 
 
-10. [A 4-Step process for ... Biblical Terms](/10.BT) ... _p.62_
+10. [Processo de 4 etapas para ... Termos bíblicos](03-Stage-2/10.BT.md) ... *p.61*  
+    11\.
 
 
 
-11. [Compare a word or phrase](/11.MP) ... _p.72_
+11. [Comparar uma palavra ou frase](03-Stage-2/11.MP.md) ... *p.69*  
+    12\.
 
 
 
@@ -64,7 +72,8 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 
 
 
-13. [Formatting checks](/13.FC) ... _p.85_
+13. [Verificações de formatação](03-Stage-2/13.FC.md) ... *p.81*  
+    14\.
 
 
 
@@ -72,41 +81,45 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 
 
 
-15. [Using Notes](/15.UN) ... _p.94_
+15. [Usando notas](03-Stage-2/15.UN.md) ... *p.89*
 
 
-### Stage 3 Prepare for consultant {#e80a5fd98e494504b47f260555d1a453}
+### Estágio 3 - Preparação para o consultor {#e80a5fd98e494504b47f260555d1a453}
 
 
-16. [Draft a Back Translation](/16.BT1) ... _p.105_
-
-
-
-17. [Interlinearize a project](/17.BT2) ... _p.112_
+16. [Elaborar uma retrotradução](04-Stage-3/16.BT1.md) ... *p.99*  
+    17\.
 
 
 
-18. [Compare Text](/18.CT) ... _p.117_
+17. [Interlinearizar um projeto](04-Stage-3/17.BT2.md) ... *p.105*  
+    18\.
 
 
 
-19. [Basic checks 3](/19.BC3) ... _p.119_
-
-
-### Stage 4 Consultant check {#b9cfad05576f45628a0182bbda14ae90}
-
-
-20. [Collaboration Tools](/20.CT) ... _p.126_
-
-
-### Stage 5 (Stage 3 UBS) Community review {#37d7ee955e9e4169a751872d50f04eb1}
-
-
-21. [Progress report](/21.PPR) ... _p.133_
+18. [Comparar texto](04-Stage-3/18.CT.md) ... *p.109*  
+    19\.
 
 
 
-22. [Biblical key terms report](/22.BTR) ... _p.135_
+19. [Verificações básicas 3](04-Stage-3/19.BC3.md) ... *p.112*
+
+
+### Estágio 4 - Verificação do consultor {#b9cfad05576f45628a0182bbda14ae90}
+
+
+20. [Ferramentas de colaboração](05-Stage-4/20.Collaboration-tools.md) ... *p.119*
+
+
+### Estágio 5 (Estágio 3 UBS) Revisão da comunidade {#37d7ee955e9e4169a751872d50f04eb1}
+
+
+21. [Relatório de progresso](06-Stage-5/21.PPR.md) ... *p.124*  
+    22\.
+
+
+
+22. [Relatório de termos-chave bíblicos](06-Stage-5/22.BTR.md) ... *p.126*
 
 
 ### Stage 6 (Stage 4 UBS) {#85c6be7707ee40869b049b52bf3c6d1d}
@@ -116,23 +129,25 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 
 
 
-24. [Finalising for Publication](/24.FFP) ... _p.145_
+24. *p.126*  
+    24\. [Finalização para publicação](07-Stage-6/24.FFP.md) ...
 
 
 
-25. [Create a study Bible](/25.StudyBibles) ... _p.152_
+25. [Criar uma Bíblia de estudo](07-Stage-6/25.StudyBibles.md) ... *p.143*
 
 
-### Appendix {#793aa14dd606462cb02b5bb66acd3057}
+### Apêndice {#793aa14dd606462cb02b5bb66acd3057}
 
 
-A. [Special texts](/A.st) ... _p.158_
-
-
-
-B. [Three letter abbreviations](/B.3l) ... _p.161_
+A. [**A**. Textos especiais](08-Appendix/A.st.md) ...
 
 
 
-C. [Common USFM markers](/C.USFM) ... _p.164_
+B. *p.148*  
+[**B**. Abreviações de três letras](08-Appendix/B.3l.md) ...
+
+
+
+C. Marcadores comuns do USFM</a> ... *p.155*
 
