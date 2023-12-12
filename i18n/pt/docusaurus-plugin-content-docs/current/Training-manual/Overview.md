@@ -28,7 +28,7 @@ O manual de treinamento segue as tarefas no Plano Compacto SIL. Os números de p
 
 
 
-4. [Keyboarding your draft](/4.KD) ... _p.28_
+4. [Digitando seu rascunho](/4.KD) ... _p.28_
 
 
 
@@ -44,7 +44,7 @@ O manual de treinamento segue as tarefas no Plano Compacto SIL. Os números de p
 ### Estágio 2 - Verificação da equipe {#196f054cc44d4c70a92a443e7bb68561}
 
 
-7. [Proper Names](/7.PN) ... _p.45_
+7. [Nomes Próprios](/7.PN) ... _p.45_
 
 
 
@@ -68,7 +68,7 @@ O manual de treinamento segue as tarefas no Plano Compacto SIL. Os números de p
 
 
 
-12. [Basic Checks](/12.BC2) 2 ... _p.76_
+12. [Verificações básicas](/12.BC2) 2 ... _p.76_
 
 
 
@@ -122,10 +122,10 @@ O manual de treinamento segue as tarefas no Plano Compacto SIL. Os números de p
 22. [Relatório de termos-chave bíblicos](06-Stage-5/22.BTR.md) ... *p.126*
 
 
-### Stage 6 (Stage 4 UBS) {#85c6be7707ee40869b049b52bf3c6d1d}
+### Estágio 6 (Estágio 4 UBS) {#85c6be7707ee40869b049b52bf3c6d1d}
 
 
-23. [Compare Parallel Passages](/23.PP) ... _p.138_
+23. [Compare passagens paralelas](/23.PP) ... _p.138_
 
 
 
@@ -144,10 +144,9 @@ A. [**A**. Textos especiais](08-Appendix/A.st.md) ...
 
 
 
-B. *p.148*  
-[**B**. Abreviações de três letras](08-Appendix/B.3l.md) ...
+B. [**B**. Abreviações de três letras](08-Appendix/B.3l.md)
 
 
 
-C. Marcadores comuns do USFM</a> ... *p.155*
+C. [Marcadores comuns do USFM](/C.USFM) ... _p.155_
 
