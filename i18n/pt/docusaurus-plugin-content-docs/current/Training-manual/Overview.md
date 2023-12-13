@@ -53,7 +53,7 @@ O manual de treinamento segue as tarefas no Plano Compacto SIL. Os números de p
 ### Estágio 4 - Verificação do consultor {#b9cfad05576f45628a0182bbda14ae90}
 
 
-20. [Ferramentas de colaboração](05-Stage-4/20.Collaboration-tools.md) ... *p.119*
+20. [Ferramentas de colaboração](/20.CT) ... _p.126_
 
 
 ### Estágio 5 (Estágio 3 UBS) Revisão da comunidade {#37d7ee955e9e4169a751872d50f04eb1}
