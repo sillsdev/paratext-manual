@@ -15,7 +15,7 @@ slug: /
 ## [Manual de capacitación para Paratext](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
-This training manual (originally developed in Cameroon) has been revised for version 9.4.
+Este manual de capacitación (elaborado originalmente en Camerún) ha sido revisado para la versión 9.4.
 
 
 Sigue las seis etapas del proceso de traducción y abarca la mayoría de las tareas del plan llamado "SIL Compact Plan". Pueden seleccionarse módulos para diversos cursos de formación, o también puede utilizarse como autoaprendizaje.
@@ -35,7 +35,7 @@ Sigue las seis etapas del proceso de traducción y abarca la mayoría de las tar
 ## Versiones anteriores {#cf46e5190e44405a90683dff63a58f78}
 
 
-The Manual for Paratext version 9.3 (in English and French only) are available on [**this website**](https://jennibeadle.github.io/paratextmanversions/)**.**
+El manual de la versión 9.3 de Paratext (sólo en inglés y francés) está disponible en [**este sitio web**](https://jennibeadle.github.io/paratextmanversions/)**.**
 
 
 ---
