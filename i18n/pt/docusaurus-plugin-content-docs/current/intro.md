@@ -15,7 +15,7 @@ slug: /
 ## [RASCUNHO - Manual de Treinamento do Paratext](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
-This training manual (originally developed in Cameroon) has been revised for version 9.4.
+Este manual de treinamento (originalmente desenvolvido nos Camarões) foi revisado para a versão 9.4.
 
 
 Ele segue as seis etapas do processo de tradução, abrangendo a maioria das tarefas do plano compacto da SIL. Os módulos podem ser selecionados para diversos cursos de treinamento ou utilizados para estudo individual.
@@ -35,7 +35,7 @@ Ele segue as seis etapas do processo de tradução, abrangendo a maioria das tar
 ## Earlier versions {#cf46e5190e44405a90683dff63a58f78}
 
 
-The Manual for Paratext version 9.3 (in English and French only) are available on [**this website**](https://jennibeadle.github.io/paratextmanversions/)**.**
+O Manual para as versões 9.3 e iniciais do Paratext (somente em inglês e francês) está disponível em [**neste site**](https://jennibeadle.github.io/paratextmanversions/)**.**
 
 
 ---
