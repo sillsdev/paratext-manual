@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "pull": "cross-var npx @sillsdev/docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs",
+    "pull": "cross-var npx @sillsdev/docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs --image-file-name-format legacy",
     "//pull:stable": "This uses the specific version of docu-notion in yarn.lock, not necessarily the latest",
-    "pull:stable": "cross-var yarn docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs",
+    "pull:stable": "cross-var yarn docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs --image-file-name-format legacy",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "deploy": "docusaurus deploy",
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.2.0",
-    "@sillsdev/docu-notion": "^0.14.0-alpha.7",
+    "@sillsdev/docu-notion": "0.16.1",
     "@tsconfig/docusaurus": "^1.0.6",
     "cross-var": "^1.1.0",
     "typescript": "^4.7.4"
