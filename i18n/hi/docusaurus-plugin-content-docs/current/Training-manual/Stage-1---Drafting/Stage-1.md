@@ -1,31 +1,31 @@
 ---
-title: Stage 1 – Overview
+title: चरण 1 - अवलोकन
 sidebar_position: 0
 slug: /Stage-1
 ---
 
 
 
-## **Introduction** {#fdc449ff8f5643f7a674687005d4a1dd}
+## **परिचय** {#fdc449ff8f5643f7a674687005d4a1dd}
 
 
-There are several stages in a translation project. In this first stage, you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.
+अनुवाद परियोजना में कई चरण होते हैं। इस पहले चरण में, आप यह सुनिश्चित करने के लिए कई संसाधनों का उपयोग करेंगे कि आप स्रोत पाठ को समझते हैं, फिर आप अन्य सामग्रियों के साथ अनुवाद के पाठ को ड्राफ्ट और कीबोर्ड करेंगे और प्रारंभिक जांच भी शुरू करेंगे।
 
 
-The following modules will help you in this stage:
+निम्नलिखित मॉड्यूल इस चरण में आपकी सहायता करेंगे:
 
 
 2. [आपके डेस्कटॉप को व्यवस्थित करना](/2.OD)
 
 
-3. [Assignments and progress](/3.PP1)
+3. [कार्य और प्रगति](/3.PP1)
 
 
 4. [अपना मसौदा कीबोर्डिंग](/4.KD)
 
 
-5. [Basic checks](/5.BC1)
+5. [मूल जाँच](/5.BC1)
 
 
-6. [Project progress](/6.PP2)
+6. [प्रोजेक्ट प्रगति](/6.PP2)
 
