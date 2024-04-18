@@ -1,5 +1,5 @@
 ---
-title: C. Common USFM Markers
+title: C. सामान्य यूएसएफएम मार्कर
 sidebar_position: 2
 slug: /C.USFM
 ---
@@ -8,28 +8,28 @@ slug: /C.USFM
 
 :::note
 
-- All Styles of type "Paragraph" require using the "Enter" key when choosing the marker in "Standard" view
-- All Style Type "Note" and "Character" require using the "Backslash" key when choosing the marker in "Standard" view
+- "पैराग्राफ" प्रकार की सभी शैलियों के लिए "मानक" दृश्य में मार्कर चुनते समय "एंटर" कुंजी का उपयोग करना आवश्यक है
+- सभी शैली प्रकार "नोट" और "चरित्र" के लिए "मानक" दृश्य में मार्कर चुनते समय "बैकस्लैश" कुंजी का उपयोग करना आवश्यक है
 
 :::
 
 
-| USFM  | विवरण                                     | शैली      |
-| ----- | ----------------------------------------- | --------- |
-| \id  | File - Identification                     | Paragraph |
-| \h   | File - Header                             | Paragraph |
-| \c   | Chapter Number                            | Paragraph |
-| \v   | Verse Number                              | Character |
-| \p   | Paragraph - Normal - First Line Indent    | Paragraph |
-| \m   | Paragraph - Margin - No First Line Indent | Paragraph |
-| \q1  | Poetry - Indent Level 1                   | Paragraph |
-| \q2  | Poetry - Indent Level 2                   | Paragraph |
-| \r   | Heading - Parallel References             | Paragraph |
-| \s1  | Heading - Section Level 1                 | Paragraph |
-| \s2  | Heading - Section Level 2                 | Paragraph |
-| \mt1 | Title - Major Title Level 1               | Paragraph |
-| \mt2 | Title - Major Title Level 2               | Paragraph |
-| \mt3 | Title - Major Title Level 3               | Paragraph |
+| USFM  | विवरण                                                          | शैली      |
+| ----- | -------------------------------------------------------------- | --------- |
+| \id  | फ़ाइल - पहचान                                                  | पैराग्राफ |
+| \h   | फ़ाइल - शीर्ष लेख                                              | पैराग्राफ |
+| \c   | अध्याय संख्या अनुच्छेद                                         | Paragraph |
+| \v   | श्लोक संख्या वर्ण                                              | Character |
+| \p   | पैराग्राफ - सामान्य - पहली पंक्ति इंडेंट पैराग्राफ             | Paragraph |
+| \m   | पैराग्राफ - मार्जिन - कोई पहली पंक्ति का इंडेंट पैराग्राफ नहीं | Paragraph |
+| \q1  | कविता - इंडेंट लेवल 1 पैराग्राफ                                | Paragraph |
+| \q2  | कविता - इंडेंट लेवल 2 पैराग्राफ                                | Paragraph |
+| \r   | शीर्षक - समानांतर संदर्भ अनुच्छेद                              | Paragraph |
+| \s1  | शीर्षक - अनुभाग स्तर 1 अनुच्छेद                                | Paragraph |
+| \s2  | शीर्षक - अनुभाग स्तर 2 अनुच्छेद                                | Paragraph |
+| \mt1 | शीर्षक - प्रमुख शीर्षक स्तर 1 अनुच्छेद                         | Paragraph |
+| \mt2 | शीर्षक - प्रमुख शीर्षक स्तर 2 अनुच्छेद                         | Paragraph |
+| \mt3 | शीर्षक - प्रमुख शीर्षक स्तर 3 अनुच्छेद                         | Paragraph |
 
 
 ## Less-common Markers {#e86265f707e24d699845d9ddecf69de2}

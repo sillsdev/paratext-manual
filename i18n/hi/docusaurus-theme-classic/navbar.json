@@ -1,10 +1,10 @@
 {
   "title": {
-    "message": "Paratext Manual",
+    "message": "पैराटेक्स्ट मैनुअल",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "Logo",
+    "message": "प्रतीक चिन्ह",
     "description": "The alt text of navbar logo"
   }
 }
