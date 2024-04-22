@@ -71,7 +71,7 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 25. Create a study Bible ... _p.152_
 
 
-### Appendix {#793aa14dd606462cb02b5bb66acd3057}
+### अनुबंध {#793aa14dd606462cb02b5bb66acd3057}
 
 
 A. Special texts ... _p.158_ B. Three letter abbreviations ... _p.161_ C. Common USFM markers ... _p.164_
