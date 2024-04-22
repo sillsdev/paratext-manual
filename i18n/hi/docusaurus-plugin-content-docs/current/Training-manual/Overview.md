@@ -1,5 +1,5 @@
 ---
-title: Overview of Training Manual - PDF
+title: प्रशिक्षण मैनुअल का अवलोकन - PDF
 sidebar_position: 1
 slug: /Overview
 ---
@@ -9,13 +9,13 @@ slug: /Overview
 The training manual follows the tasks in the SIL Compact Plan. The page numbers refer to the [PDF](https://manual.paratext.org/img/Ptx-man-en-9.3.pdf).
 
 
-### Introduction {#f748dd5b42c84d77a33c8d16f0cf6f37}
+### परिचय {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
 
 1. Course introduction ... _p.5_
 
 
-### Stage 1 Drafting {#b7ac49b489b548fc940c3bff213202e8}
+### चरण 1 - अवलोकन {#b7ac49b489b548fc940c3bff213202e8}
 
 
 2. Organising your desktop ... _p.12_
@@ -27,7 +27,7 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 6. Project progress ... _p.41_
 
 
-### Stage 2 Team check {#196f054cc44d4c70a92a443e7bb68561}
+### स्टेज 2 - टीम चेकिंग {#196f054cc44d4c70a92a443e7bb68561}
 
 
 7. Proper Names ... _p.45_
@@ -50,7 +50,7 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 19. Basic checks 3 ... _p.119_
 
 
-### Stage 4 Consultant check {#b9cfad05576f45628a0182bbda14ae90}
+### चरण 4: सलाहकार जांच {#b9cfad05576f45628a0182bbda14ae90}
 
 
 20. Collaboration Tools ... _p.126_
