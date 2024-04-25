@@ -81,7 +81,7 @@ slug: /C.USFM
 
 | USFM  | विवरण                                      | शैली      |
 | ----- | ------------------------------------------ | --------- |
-| \f   | Footnote                                   | Note      |
+| \f   | फुटनोट्                                    | Note      |
 | \fr  | Footnote - Reference                       | Character |
 | \ft  | Footnote - Text                            | Character |
 | \fk  | Footnote - Keyword                         | Character |
@@ -90,7 +90,7 @@ slug: /C.USFM
 | \f*  | Footnote End                               | Note      |
 
 
-## Glossary {#b27a3c455de340b9bdd33a5e92353b91}
+## शब्दकोष {#b27a3c455de340b9bdd33a5e92353b91}
 
 
 | USFM       | विवरण                                          | शैली      |

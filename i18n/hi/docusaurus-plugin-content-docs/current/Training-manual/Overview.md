@@ -6,22 +6,22 @@ slug: /Overview
 
 
 
-The training manual follows the tasks in the SIL Compact Plan. The page numbers refer to the [PDF](https://manual.paratext.org/img/Ptx-man-en-9.3.pdf).
+The training manual follows the tasks in the SIL Compact Plan. पृष्ठ संख्याएं [PDF] [PDF](https://manual.paratext.org/img/Ptx-man-hi-9.3.pdf) को संदर्भित करती हैं।.
 
 
 ### परिचय {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
 
-1. Course introduction ... _p.5_
+1. पाठ्यक्रम परिचय ..._p.5_
 
 
 ### चरण 1 - अवलोकन {#b7ac49b489b548fc940c3bff213202e8}
 
 
-2. Organising your desktop ... _p.12_
+2. अपने डेस्कटॉप का आयोजन ... _p.12_
 
 
-3. Assignments and progress ... _p.23_
+3. असाइनमेंट्स और प्रोग्रेस ... _p.23_
 4. Keyboarding your draft ... _p.28_
 5. Basic checks ... _p.37_
 6. Project progress ... _p.41_

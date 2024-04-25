@@ -21,7 +21,7 @@ The second stage of a translation project involves checking by the team. In this
   8.  [Spell Checking](/8.SP)
 
 
-  9.  [Glossary](/9.GL)
+  9.  [शब्दकोष](/9.GL)
 
 
  10.  [A 4-Step process for consistent Biblical Terms](/10.BT)
