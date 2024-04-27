@@ -1,37 +1,37 @@
 ---
-title: B. Three letter abbreviations
+title: B. तीन अक्षर वाले संक्षिप्त नाम
 sidebar_position: 1
 slug: /B.3l
 ---
 
 
 
-| पुराना नियम         |                    |                    |
-| ------------------- | ------------------ | ------------------ |
-| Genesis - GEN       | Exodus - EXO       | Leviticus - LEV    |
-| Numbers - NUM       | Deuteronomy - DEU  | Joshua - JOS       |
-| Judges - JDG        | Ruth - RUT         | 1 Samuel - 1SA     |
-| 2 Samuel - 2SA      | 1 Kings - 1KI      | 2 Kings - 2KI      |
-| 1 Chronicles - 1CH  | 2 Chronicles - 2CH | Ezra - EZR         |
-| Nehemiah - NEH      | Esther - EST       | Job - JOB          |
-| Psalms - PSA        | Proverbs - PRO     | Ecclesiastes - ECC |
-| Song of Songs - SNG | Isaiah - ISA       | Jeremiah - JER     |
-| Lamentations - LAM  | Ezekiel - EZK      | Daniel - DAN       |
-| Hosea - HOS         | Joël - JOL         | Amos - AMO         |
-| Obadiah - OBA       | Jonah - JON        | Micah - MIC        |
-| Nahum - NAM         | Habakkuk - HAB     | Zephaniah - ZEP    |
-| Haggai - HAG        | Zechariah - ZEC    | Malachi - MAL      |
+| पुराना नियम      |                     |                  |
+| ---------------- | ------------------- | ---------------- |
+| उत्पत्ति - GEN   | निर्गमन - EXO       | लैव्यवस्था - LEV |
+| गिनती - NUM      | व्यवस्थाविवरण - DEU | यहोशू - JOS      |
+| न्यायियों - JDG  | रूत - RUT           | 1 शमूएल - 1SA    |
+| 2 शमूएल - 2SA    | 1 राजा - 1KI        | 2 राजा - 2KI     |
+| 1 इतिहास - 1CH   | 2 इतिहास - 2CH      | एज्रा - EZR      |
+| नहेम्याह - NEH   | एस्तेर - EST        | अय्यूब - JOB     |
+| भजन संहिता - PSA | नीतिवचन - PRO       | सभोपदेशक - ECC   |
+| श्रेष्ठगीत - SNG | यशायाह - ISA        | यिर्मयाह - JER   |
+| विलापगीत - LAM   | यहेजकेल - EZK       | दानिय्येल - DAN  |
+| होशे - HOS       | योएल - JOL          | आमोस - AMO       |
+| ओबद्दाह - OBA    | योना - JON          | मीका - MIC       |
+| नहूम - NAM       | हबक्कूक - HAB       | सपन्याह - ZEP    |
+| हाग्गै - HAG     | जकर्याह - ZEC       | मलाकी - MAL      |
 
 
-| नए नियम               |                       |                  |
-| --------------------- | --------------------- | ---------------- |
-| Matthew - MAT         | Mark - MRK            | Luke - LUK       |
-| John - JHN            | Acts - ACT            | Romans - ROM     |
-| 1 Corinthians - 1CO   | 2 Corinthians - 2CO   | Galatians - GAL  |
-| Ephesians - EPH       | Philippians - PHP     | Colossians - COL |
-| 1 Thessalonians - 1TH | 2 Thessalonians - 2TH | 1 Timothy - 1TI  |
-| 2 Timothy - 2TI       | Titus - TIT           | Philemon - PHM   |
-| Hebrews - HEB         | James - JAS           | 1 Peter - 1PE    |
-| 2 Peter - 2PE         | 1 John - 1JN          | 2 John - 2JN     |
-| 3 John - 3JN          | Jude - JUD            | Revelation - REV |
+| नए नियम                |                        |                     |
+| ---------------------- | ---------------------- | ------------------- |
+| मत्ती - MAT            | मरकुस - MRK            | लूका - LUK          |
+| यूहन्ना - JHN          | प्रेरितों के काम - ACT | रोमियों - ROM       |
+| 1 कुरिन्थियों - 1CO    | 2 कुरिन्थियों - 2CO    | गलातियों - GAL      |
+| इफिसियों - EPH         | फिलिप्पियों - PHP      | कुलुस्सियों - COL   |
+| 1 थिस्सलुनीकियों - 1TH | 2 थिस्सलुनीकियों - 2TH | 1 तीमुथियुस - 1TI   |
+| 2 तीमुथियुस - 2TI      | तीतुस - TIT            | फिलेमोन - PHM       |
+| इब्रानियों - HEB       | याकूब - JAS            | 1 पतरस - 1PE        |
+| 2 पतरस - 2PE           | 1 यूहन्ना - 1JN        | 2 यूहन्ना - 2JN     |
+| 3 यूहन्ना - 3JN        | यहूदा - JUD            | प्रकाशितवाक्य - REV |
 
