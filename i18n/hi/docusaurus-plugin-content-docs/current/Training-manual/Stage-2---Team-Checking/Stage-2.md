@@ -9,35 +9,35 @@ slug: /Stage-2
 **परिचय**
 
 
-The second stage of a translation project involves checking by the team. In this second stage, you will use many tools to ensure that you have been consistent in your translation. You will read through your text, work on proper names, Biblical key terms, spell checking, and formatting checks. You will also print out a draft and use a variety of notes: project notes, spelling notes, Biblical terms discussion notes to record your questions, discussions and decisions.
+अनुवाद परियोजना का दूसरा चरण टीम द्वारा जाँच करने से संबंधित है। इस दूसरे चरण में, आप यह सुनिश्चित करने के लिए कई उपकरणों का उपयोग करेंगे कि आपने अपने अनुवाद में निरंतरता बनाए रखी है। आप अपने टेक्स्ट को पढ़ेंगे, विशेष नामों, बाइबिल की महत्वपूर्ण शर्तों, वर्तनी जाँच और प्रारूपण जाँच पर काम करेंगे। आप एक प्रारूप की प्रिंटआउट भी निकालेंगे और विभिन्न प्रकार के नोट्स का उपयोग करेंगे: परियोजना के नोट्स, वर्तनी के नोट्स, बाइबिल की शर्तों की चर्चा के नोट्स, ताकि आप अपने प्रश्नों, चर्चाओं और निर्णयों को रिकॉर्ड कर सकें।
 
 
 निम्नलिखित मॉड्यूल इस चरण में आपकी सहायता करेंगे:
 
 
-  7.  [Proper Names](/7.PN) (see Help)
+  7.  [उचित नाम](/7.PN) (सहायता देखें)
 
 
-  8.  [Spell Checking](/8.SP)
+  8.  [वर्तनी जांच](/8.SP)
 
 
   9.  [शब्दकोष](/9.GL)
 
 
- 10.  [A 4-Step process for consistent Biblical Terms](/10.BT)
+ 10.  [सुसंगत बाइबिल शब्द के लिए 4-चरणीय प्रक्रिया](/10.BT)
 
 
- 11.  [Compare a word or phrase](/11.MP)
+ 11.  [एक शब्द या वाक्यांश की तुलना करें](/11.MP)
 
 
  12.  [मूल जाँच](/12.BC2)
 
 
- 13.  [Formatting checks](/13.FC)
+ 13.  [फ़ॉर्मेटिंग जाँचें](/13.FC)
 
 
- 14.  [Printing Drafts](/14.PD)
+ 14.  [ड्राफ्ट मुद्रण](/14.PD)
 
 
- 15.  [Using Notes](/15.UN)
+ 15.  [नोट्स का उपयोग](/15.UN)
 
