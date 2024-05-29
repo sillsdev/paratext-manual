@@ -1,5 +1,5 @@
 ---
-title: Stage 3 – Overview
+title: चरण 3 - अवलोकन
 sidebar_position: 0
 slug: /Stage-3
 ---
@@ -15,14 +15,14 @@ In this third stage of an SIL translation project you will do comprehension test
 निम्नलिखित मॉड्यूल इस चरण में आपकी सहायता करेंगे:
 
 
- 16.  [**Draft a Back Translation**](/16.BT1)
+ 16.  [**पीछे की ओर अनुवाद तैयार करें**](/16.BT1)
 
 
- 17.  [**Interlinearize a project**](/17.BT2)
+ 17.  [**एक प्रोजेक्ट का अंतःसंचय**](/17.BT2)
 
 
- 18.  [**Compare Text**](/18.CT)
+ 18.  [**तुलनात्मक पाठ**](/18.CT)
 
 
- 19.  [**Basic checks 3**](/19.BC3)
+ 19.  [**मूल जांच 3**](/19.BC3)
 

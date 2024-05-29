@@ -24,7 +24,7 @@ The following module will help you in this stage:
 See also modules in Stages one to three. In particular, from Stage 3
 
 
- 16.  [Draft a Back Translation](/16.BT1)
+ 16.  [पीछे की ओर अनुवाद तैयार करें](/16.BT1)
 
 
  17.  [Interlinearize a project](/17.BT2)
