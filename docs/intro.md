@@ -15,12 +15,12 @@ slug: /
 ## [Paratext Training Manual](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
-This training manual (originally developed in Cameroon) has been revised for version 9.3. 
+This training manual (originally developed in Cameroon) has been revised for version 9.4. 
 
 
 It follows the six stages of the translation process covering most of the tasks in the SIL compact plan. Modules can be selected for various training courses, or it can also be used as self-study.
 
-- 📖 [**Download the PDF version here**](https://manual.paratext.org/img/Ptx-man-en-9.4.pdf)
+- 📖 [**Download the PDF version here**](https://manual.paratext.org/downloads/Ptx-man-a5-en-9.4.pdf)
 	- It has 25 chapters in 200 A5 pages to be printed as a booklet. Or used as an off-line copy.
 
 ---
@@ -35,7 +35,7 @@ It follows the six stages of the translation process covering most of the tasks 
 ## Earlier versions {#cf46e5190e44405a90683dff63a58f78}
 
 
-The Manual for Paratext versions 9.2 and early 9.3 (in English and French only) are available on [**this website**](https://jennibeadle/paratextmanversions/)**.**
+The Manual for Paratext version 9.3 (in English and French only) are available on [**this website**](https://jennibeadle.github.io/paratextmanversions/)**.**
 
 
 ---

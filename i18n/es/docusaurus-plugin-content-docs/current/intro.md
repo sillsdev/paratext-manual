@@ -15,12 +15,12 @@ slug: /
 ## [Manual de capacitación para Paratext](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
-Este manual de capacitación (elaborado originalmente en Camerún) ha sido revisado para la versión 9.3.
+Este manual de capacitación (elaborado originalmente en Camerún) ha sido revisado para la versión 9.4.
 
 
 Sigue las seis etapas del proceso de traducción y abarca la mayoría de las tareas del plan llamado "SIL Compact Plan". Pueden seleccionarse módulos para diversos cursos de formación, o también puede utilizarse como autoaprendizaje.
 
-- 📖 [**Descarga la versión en PDF aquí**](https://manual.paratext.org/img/Ptx-man-en-9.4.pdf)
+- 📖 [**Descarga la versión en PDF aquí**](https://manual.paratext.org/es/downloads/Ptx-man-a5-es-9.4.pdf)
     - Consta de 25 capítulos en 200 páginas A5 para imprimir como folleto. O utilizado como copia fuera de línea.
 
 ---
@@ -35,7 +35,7 @@ Sigue las seis etapas del proceso de traducción y abarca la mayoría de las tar
 ## Versiones anteriores {#cf46e5190e44405a90683dff63a58f78}
 
 
-El manual de las versiones 9.2 y principios de la 9.3 de Paratext (sólo en inglés y francés) está disponible en [**este sitio web**](https://jennibeadle/paratextmanversions/)**.**
+El manual de la versión 9.3 de Paratext (sólo en inglés y francés) está disponible en [**este sitio web**](https://jennibeadle.github.io/paratextmanversions/)**.**
 
 
 ---

@@ -3,7 +3,7 @@ api_token_env: CROWDIN_PERSONAL_TOKEN
 preserve_hierarchy: true
 # Setting export_languages here doesn't seem to work -- we get all languages.
 # So, instead, we're setting the languages we want in the cli command; see package.json
-#export_languages: ["fr", "es", "pt"]
+#export_languages: ["fr", "es", "pt", "hi"]
 files: [
     {
       # Using *.* because we want .md files and images.

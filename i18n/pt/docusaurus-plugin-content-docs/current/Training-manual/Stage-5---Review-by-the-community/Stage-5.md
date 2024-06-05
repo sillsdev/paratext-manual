@@ -1,12 +1,22 @@
 ---
-title: Estágio 5 (Estágio 3 UBS) Revisão da comunidade
+title: Stage 5 – Overview
+sidebar_position: 0
+slug: /Stage-5
 ---
 
-**Introdução  
+
+
+**Introduction**
+
+
 A quinta etapa de um projeto de tradução da SIL (ou terceira etapa da UBS) é a revisão pela comunidade. Na revisão, você verificará a naturalidade, produzirá um relatório de progresso da equipe e revisará os termos-chave.
 
-Os seguintes módulos irão ajudá-lo nesta fase:
 
-21\. [Relatório de progresso](21.PPR.md)  
-22\. [Relatório de termos-chave bíblicos](22.BTR.md)   
+Os seguintes módulos ajudarão você nesta etapa:
+
+
+ 21. [Relatório de progresso](/21.PPR)
+
+
+ 22. [Relatório de termos-chave bíblicos](/22.BTR)
 

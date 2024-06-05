@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "अगला",
+    "description": "The label for version current"
+  },
+  "sidebar.defaultSidebar.category.Training manual": {
+    "message": "प्रशिक्षण मैनुअल",
+    "description": "The label for category Training manual in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage 1 - Drafting": {
+    "message": "चरण 1 - अवलोकन",
+    "description": "The label for category Stage 1 - Drafting in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage 2 - Team Checking": {
+    "message": "स्टेज 2 - टीम चेकिंग",
+    "description": "The label for category Stage 2 - Team Checking in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage 3 - Preparing for the Consultant Check": {
+    "message": "चरण 3 - सलाहकार जांच की तैयारी",
+    "description": "The label for category Stage 3 - Preparing for the Consultant Check in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage 4 - Consultant Visit": {
+    "message": "चरण 4 - सलाहकार का दौरा",
+    "description": "The label for category Stage 4 - Consultant Visit in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage 5 - Review by the community": {
+    "message": "चरण 5 - समुदाय द्वारा समीक्षा",
+    "description": "The label for category Stage 5 - Review by the community in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Stage 6 - Finalising for publication": {
+    "message": "चरण 6 - प्रकाशन के लिए अंतिम रूप देना",
+    "description": "The label for category Stage 6 - Finalising for publication in sidebar defaultSidebar"
+  },
+  "sidebar.defaultSidebar.category.Appendix": {
+    "message": "अनुबंध",
+    "description": "The label for category Appendix in sidebar defaultSidebar"
+  }
+}

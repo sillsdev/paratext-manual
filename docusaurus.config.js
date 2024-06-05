@@ -9,7 +9,7 @@ const config = {
   title: "Paratext Manual",
   tagline: "",
   url: "https://manual.paratext.org",
-  baseUrl: "paratext-manual",
+  baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   // Duplicate routes cause the next/prev buttons to loop
@@ -51,7 +51,7 @@ const config = {
   ],
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "fr", "es", "pt"],
+    locales: ["en", "fr", "es", "pt", "hi"],
     localeConfigs: {
       en: {
         label: "English",

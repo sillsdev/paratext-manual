@@ -48,3 +48,6 @@ jobs:
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
+          cname: manual.paratext.org
+          # We need this temporarily while we figure out how to make it not delete the PDF files.
+          keep_files: true
