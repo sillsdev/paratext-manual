@@ -1,5 +1,5 @@
 ---
-title: Stage 5 – Overview
+title: चरण 5 – अवलोकन
 sidebar_position: 0
 slug: /Stage-5
 ---
@@ -9,14 +9,14 @@ slug: /Stage-5
 **परिचय**
 
 
-The fifth stage of an SIL translation project (or third stage of UBS) is the review by the community. In the review you will check for naturalness, produce a team progress report and revise the key terms.
+SIL अनुवाद प्रोजेक्ट की पाँचवीं चरण (या UBS की तीसरी चरण) सामुदायिक समीक्षा होती है। समीक्षा में आप प्राकृतिकता के लिए जाँच करेंगे, एक टीम प्रगति रिपोर्ट प्रदर्शित करेंगे और मुख्य शर्तें संशोधित करेंगे।
 
 
 निम्नलिखित मॉड्यूल इस चरण में आपकी सहायता करेंगे:
 
 
- 21. [Progress report](/21.PPR)
+ 21. [प्रगति रिपोर्ट](/21.PPR)
 
 
- 22. [Biblical key terms report](/22.BTR)
+ 22. [बाइबिल की मुख्य शर्तें रिपोर्ट](/22.BTR)
 

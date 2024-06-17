@@ -1,5 +1,5 @@
 ---
-title: Stage 6 – Overview
+title: चरण 6 – अवलोकन
 sidebar_position: 0
 slug: /Stage-6
 ---
@@ -9,17 +9,17 @@ slug: /Stage-6
 **परिचय**
 
 
-The sixth stage (SIL) [or fourth stage USB], of a translation project is the finalisation for publication. This involves redoing many of the previous checks. It also involved checking the Parallel Passages.
+अनुवाद परियोजना का छठा चरण (SIL) [या चौथा चरण USB] प्रकाशन के लिए अंतिम रूप देना है। इसमें पहले के कई जांचों को फिर से करना शामिल है। इसमें समानांतर अंशों की जांच भी शामिल थी।
 
 
 निम्नलिखित मॉड्यूल इस चरण में आपकी सहायता करेंगे:
 
 
- 23. [Compare Parallel Passages](/23.PP)
+ 23. [समानांतर अंशों की तुलना करें](/23.PP)
 
 
- 24. [Finalising for Publication](/24.FFP)
+ 24. [प्रकाशन के लिए अंतिम रूप देना](/24.FFP)
 
 
- 25. [Create a Study Bible](/25.StudyBibles)
+ 25. [एक अध्ययन बाइबल बनाएं](/25.StudyBibles)
 
