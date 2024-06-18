@@ -25,11 +25,11 @@ jobs:
       - name: Install Devanagari font if needed    
         if: ${{ inputs.language == 'hi' }}
         run: |
-          wget -O Noto_Sans_Devanagari.zip https://fonts.google.com/download?family=Noto+Sans+Devanagari
-          sudo file Noto_Sans_Devanagari.zip
-          sudo unzip -l Noto_Sans_Devanagari.zip
-          sudo unzip -d noto_sans_devanagari/ Noto_Sans_Devanagari.zip
-          sudo mv noto_sans_devanagari /usr/share/fonts/
+          sudo git clone --depth 1 --filter=blob:none --no-checkout https://github.com/google/fonts.git
+          sudo cd fonts
+          sudo git checkout main -- ofl/notosansdevanagari
+          sudo mkdir -p /usr/share/fonts/notosansdevanagari
+          sudo cp ofl/notosansdevanagari/*.ttf /usr/share/fonts/notosansdevanagari/
           sudo fc-cache -fv
       - name: Generate PDF
         run: yarn make-pdf ${{ inputs.language }}
