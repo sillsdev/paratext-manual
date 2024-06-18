@@ -26,7 +26,9 @@ jobs:
         if: ${{ inputs.language == 'hi' }}
         run: |
           wget -O Noto_Sans_Devanagari.zip https://fonts.google.com/download?family=Noto+Sans+Devanagari
-          unzip -d noto_sans_devanagari/ Noto_Sans_Devanagari.zip
+          sudo file Noto_Sans_Devanagari.zip
+          sudo unzip -l Noto_Sans_Devanagari.zip
+          sudo unzip -d noto_sans_devanagari/ Noto_Sans_Devanagari.zip
           sudo mv noto_sans_devanagari /usr/share/fonts/
           sudo fc-cache -fv
       - name: Generate PDF
