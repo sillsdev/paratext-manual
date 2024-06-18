@@ -26,7 +26,7 @@ jobs:
         if: ${{ inputs.language == 'hi' }}
         run: |
           sudo git clone --depth 1 --filter=blob:none --no-checkout https://github.com/google/fonts.git
-          sudo cd fonts
+          cd fonts
           sudo git checkout main -- ofl/notosansdevanagari
           sudo mkdir -p /usr/share/fonts/notosansdevanagari
           sudo cp ofl/notosansdevanagari/*.ttf /usr/share/fonts/notosansdevanagari/
