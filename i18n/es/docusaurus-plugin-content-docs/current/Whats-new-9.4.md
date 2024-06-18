@@ -4,52 +4,50 @@ sidebar_position: 1
 slug: /f293059a-b12b-485f-8d5b-bfd1ca114a8b
 ---
 
+## **What’s New in Paratext 9.4 Beta** {#ef25a726728f449c90b3fdabf820eab6}
 
+(taken from [https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/))
 
-## **Novedades de Paratext 9.4 Beta** {#ef25a726728f449c90b3fdabf820eab6}
+**Some Highlights**
 
+- **Notification of updates for projects on the user’s computer:** Now, Paratext can check whether the projects on one’s computer have been updated on the Send-Receive server. Si se ha editado el proyecto, se notificará a los usuarios con un punto verde tanto en el menú principal como en el del proyecto (véase la imagen inferior). Settings for checking for updates are available in the **Send/Receive projects** window. [Main menu video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157\&vimeography_video=857678678)
 
-(extraído de [https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/))
+  ![](./1373747243.png)
 
+- **Notification of updates for installed resources.** A green dot in the main menu can also indicate updates to resource texts on the local computer. Access to the settings for this feature is in the **Download/Install resources** window.
 
-**Algunos aspectos destacados**
+- **Improved Right-to-Left interface.** Paratext now correctly displays right-to-left user interfaces (like Arabic). [RTL video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157\&vimeography_video=858761461)
 
-- **Notificación de actualizaciones de proyectos en el ordenador del usuario:** Ahora, Paratext puede comprobar si los proyectos del propio ordenador se han actualizado en el servidor de Enviar/Recibir. Si se ha editado el proyecto, se notificará a los usuarios con un punto verde tanto en el menú principal como en el del proyecto (véase la imagen inferior). Los ajustes para comprobar si hay actualizaciones están disponibles en la ventana **Enviar/Recibir proyectos**. [Vídeo de demostración del menú principal](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
+  ![](./1418167455.png)
 
-    ![](./1373747243.png)
+- **Option to hide project notes.** Numerous red flags in the text can easily become an obstacle to reading. Ahora los usuarios pueden elegir entre ocultar o mostrar las banderas de notas de proyecto en el texto. Access from the **View menu &gt; Show Project Notes**. [Project menu video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157\&vimeography_video=857939433)
 
-- **Notificación de actualizaciones de los recursos instalados.** Un punto verde en el menú principal también puede indicar actualizaciones de textos de recursos en el ordenador local. El acceso a la configuración de esta función se encuentra en la ventana **Descargar/Instalar recursos**.
-- **Interfaz de derecha a izquierda mejorada.** Paratext ahora muestra correctamente interfaces de usuario de derecha a izquierda (como el árabe). [Vídeo de demostración de derecha a izquierda](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
+  ![](./1989155401.png)
 
-    ![](./1418167455.png)
+- **Improved quotation checking.** The new “Quotation Types” Basic Check knows where quotations should occur in the text based on [Glyssen](https://software.sil.org/glyssen/) data and can ensure that they are all marked appropriately. [Quotation types video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157\&vimeography_video=859138745)
 
-- **Opción de ocultar las notas del proyecto.** Las numerosas banderas rojas en el texto pueden convertirse fácilmente en un obstáculo para la lectura. Ahora los usuarios pueden elegir entre ocultar o mostrar las banderas de notas de proyecto en el texto. Acceda desde el **menú Ver &gt; Mostrar notas del proyecto**. [Vídeo de demostración del menú del proyecto](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)
+- **Added video to Enhanced Resources.** Now the Media tab for Enhanced Resources contains video clips from [LUMO](https://lumoproject.com/) and UBS’s “Bible Lands as Classroom” series. [Enhanced resources videos – video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157\&vimeography_video=858761461)
 
-    ![](./1989155401.png)
+  ![](./119495186.png)
 
-- **Comprobación de citas mejorada.** La nueva comprobación básica de "Tipos de cita" sabe dónde deben aparecer las citas en el texto basándose en los datos [de Glyssen](https://software.sil.org/glyssen/) y puede garantizar que todas estén marcadas adecuadamente. [Vídeo de demostración de los tipos de cotización](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=859138745)
-- **Añadido vídeo a Recursos aumentados.** Ahora la pestaña Media de Recursos aumentados contiene videoclips de [LUMO](https://lumoproject.com/) y las series "Tierras bíblicas como aula" de UBS. [Vídeos de recursos mejorados - demostración en vídeo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
+- **Import/Export Biblical terms lists.** This feature should enhance project teams’ workflow with the Biblical Terms tool, allowing them to create and exchange the Biblical Terms lists as the project progresses. Por favor, instale la última actualización Beta (próximamente) para una funcionalidad completa. [Biblical terms video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157\&vimeography_video=858020833)
 
-    ![](./119495186.png)
+**And Many More Improvements!**
 
-- **Importar/exportar listas de vocablos bíblicos.** Esta función debería mejorar el flujo de trabajo de los equipos de proyecto con la herramienta de vocablos bíblicos, permitiéndoles crear e intercambiar las listas de vocablos bíblicos a medida que avanza el proyecto. Por favor, instale la última actualización Beta (próximamente) para una funcionalidad completa. [Vídeo de demostración de vocablos bíblicos](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858020833)
-
-**¡Y muchas más mejoras!**
-
-- Se ha añadido la posibilidad de utilizar el diccionario de FieldWorks con el Interlinealizador de Paratext. [▶ Vídeo de demostración de la integración de FieldWorks](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=859073261)
-- Se ha añadido la posibilidad de cambiar el orden de las referencias cruzadas, notas a pie de página y barras laterales en los proyectos de Adiciones a la Biblia de Estudio. [▶ Vídeo de demostración de las Adiciones a la Biblia de Estudio](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761672)
-- Añadida la capacidad de "Gestionar diseños". [▶ Vídeo demostrativo del menú principal](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
+- Se ha añadido la posibilidad de utilizar el diccionario de FieldWorks con el Interlinealizador de Paratext. [▶ FieldWorks integration video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157\&vimeography_video=859073261)
+- Se ha añadido la posibilidad de cambiar el orden de las referencias cruzadas, notas a pie de página y barras laterales en los proyectos de Adiciones a la Biblia de Estudio. [▶ Study Bible Additions video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157\&vimeography_video=858761672)
+- Añadida la capacidad de "Gestionar diseños". [▶ Main menu video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157\&vimeography_video=857678678)
 - Ha facilitado la visualización de las coincidencias de pasajes paralelos.
-- Elementos nuevos/mejorados en el menú Proyecto[(▶ Vídeo de demostración del menú Proyecto](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)):
-    - La exportación a PTXprint está ahora disponible en el menú del proyecto.
-    - Mejoras en "Insertar tabla".
-    - Los proyectos derivados pueden abrir el proyecto base.
-- Características adicionales[(▶ Demostración en vídeo de las características adicionales](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=859466352)):
-    - Comparación de versiones mejorada para ofrecer un contraste claro entre las diferencias.
-    - Capacidad para manejar comillas alternativas
-    - La comprobación de referencias ofrece mensajes de error más específicos
+- New/improved items in the Project Menu ([▶ Project menu video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157\&vimeography_video=857939433)):
+  - La exportación a PTXprint está ahora disponible en el menú del proyecto.
+  - Mejoras en "Insertar tabla".
+  - Los proyectos derivados pueden abrir el proyecto base.
+- Additional Features ([▶ Additional Features video demo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157\&vimeography_video=859466352)):
+  - Comparación de versiones mejorada para ofrecer un contraste claro entre las diferencias.
+  - Capacidad para manejar comillas alternativas
+  - La comprobación de referencias ofrece mensajes de error más específicos
 - Asignaciones y Progreso acepta los códigos de libros conocidos (por ejemplo: "GEN")
 - Los términos del diccionario de recursos aumentados ya no se repiten
 - Cuando utilice "Dar comentario", Paratext marcará un punto en el Historial del proyecto
-- [Scripture Burrito](https://docs.burrito.bible/en/latest/) 1.0 importación/exportación
+- [Scripture Burrito](https://docs.burrito.bible/en/latest/) 1.0 import/export
 - Varias correcciones de errores

@@ -1,5 +1,5 @@
 ---
-title: Stage 4 – Overview
+title: चरण 4 - अवलोकन
 sidebar_position: 0
 slug: /Stage-4
 ---
@@ -9,23 +9,23 @@ slug: /Stage-4
 **परिचय**
 
 
-The fourth stage of an SIL translation project is the consultant visit. You will meet with the consultant and evaluate your text, make notes and revise your texts and back translations as needed. You will want to ensure that you have updated the status of your translation in Assignments and Progress.
+SIL अनुवाद प्रोजेक्ट का चौथा चरण सलाहकार का दौरा है। आप सलाहकार से मिलेंगे और अपने पाठ का मूल्यांकन करेंगे, नोट्स बनाएंगे और आवश्यकतानुसार अपने पाठ और पिछली अनुवादों को संशोधित करेंगे। आप यह सुनिश्चित करना चाहेंगे कि आपने असाइनमेंट्स और प्रगति में अपने अनुवाद का स्थिति अपडेट कर दिया है।
 
 
-Most of the tasks in this stage have been covered in previous modules.
+इस चरण के अधिकतर कार्य पिछले मॉड्यूल्स में कवर किए गए हैं।
 
 
-The following module will help you in this stage:
+निम्नलिखित मॉड्यूल इस चरण में आपकी मदद करेगा:
 
 
- 20.  [Collaboration Tools](/20.CT)
+ 20.  [सहयोग उपकरण](/20.CT)
 
 
-See also modules in Stages one to three. In particular, from Stage 3
+चरण एक से तीन के मॉड्यूल्स भी देखें। विशेष रूप से, चरण 3 से
 
 
- 16.  [पीछे की ओर अनुवाद तैयार करें](/16.BT1)
+ 16.  [एक पिछला अनुवाद तैयार करें](/16.BT1)
 
 
- 17.  [Interlinearize a project](/17.BT2)
+ 17.  [एक प्रोजेक्ट का इंटरलाइनरिज़ेशन करें](/17.BT2)
 
