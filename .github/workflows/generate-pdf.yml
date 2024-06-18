@@ -25,8 +25,10 @@ jobs:
       - name: Install Devanagari font if needed    
         if: ${{ inputs.language == 'hi' }}
         run: |
-          sudo apt-get update
-          sudo apt-get install -y fonts-noto-core
+          wget -O Noto_Sans_Devanagari.zip https://fonts.google.com/download?family=Noto+Sans+Devanagari
+          unzip -d noto_sans_devanagari/ Noto_Sans_Devanagari.zip
+          sudo mv noto_sans_devanagari /usr/share/fonts/
+          sudo fc-cache -fv
       - name: Generate PDF
         run: yarn make-pdf ${{ inputs.language }}
       - name: Deploy to gh-pages
