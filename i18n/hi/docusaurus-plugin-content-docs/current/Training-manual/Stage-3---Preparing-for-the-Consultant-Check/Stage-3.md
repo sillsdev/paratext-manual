@@ -9,7 +9,7 @@ slug: /Stage-3
 **परिचय**
 
 
-In this third stage of an SIL translation project you will do comprehension testing and back translation. You will also continue with the basic checks and spell checking.
+इस SIL ट्रांसलेशन प्रोजेक्ट के तीसरे चरण में आप समझ परीक्षण और बैक ट्रांसलेशन करेंगे। आप भी मूल जाँच और वर्तनी जांच जारी रखेंगे।
 
 
 निम्नलिखित मॉड्यूल इस चरण में आपकी सहायता करेंगे:
