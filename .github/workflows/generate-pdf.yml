@@ -22,6 +22,15 @@ jobs:
           node-version: lts/*
       - name: Install dependencies
         run: yarn
+      - name: Install Devanagari font if needed    
+        if: ${{ inputs.language == 'hi' }}
+        run: |
+          sudo git clone --depth 1 --filter=blob:none --no-checkout https://github.com/google/fonts.git
+          cd fonts
+          sudo git checkout main -- ofl/notosansdevanagari
+          sudo mkdir -p /usr/share/fonts/notosansdevanagari
+          sudo cp ofl/notosansdevanagari/*.ttf /usr/share/fonts/notosansdevanagari/
+          sudo fc-cache -fv
       - name: Generate PDF
         run: yarn make-pdf ${{ inputs.language }}
       - name: Deploy to gh-pages

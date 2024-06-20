@@ -1,10 +1,10 @@
 {
   "title": {
-    "message": "Paratext Training",
+    "message": "Paratext Manual",
     "description": "The title in the navbar"
   },
-  "item.label.GitHub": {
-    "message": "GitHub",
-    "description": "Navbar item with label GitHub"
+  "logo.alt": {
+    "message": "Logo",
+    "description": "The alt text of navbar logo"
   }
 }
