@@ -6,7 +6,7 @@ slug: /Overview
 
 
 
-The training manual follows the tasks in the SIL Compact Plan. The page numbers refer to the [PDF](https://manual.paratext.org/img/Ptx-man-en-9.3.pdf).
+The training manual follows the tasks in the SIL Compact Plan. The page numbers refer to the [PDF](https://manual.paratext.org/img/Ptx-man-en-9.4.pdf).
 
 
 ### Introduction {#f748dd5b42c84d77a33c8d16f0cf6f37}
