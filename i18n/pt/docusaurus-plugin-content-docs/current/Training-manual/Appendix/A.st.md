@@ -9,7 +9,7 @@ slug: /A.st
 As passagens a seguir geralmente têm formatações especiais (adicionando outros códigos USFM).
 
 
-:::dica
+:::tip
 
 A forma poética geralmente usa \q1 e \q2. Caixa baixa é marcada com \sc... \sc*.
 
