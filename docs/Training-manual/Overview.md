@@ -12,13 +12,13 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 ### Introduction {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
 
-Chapitre 1. Course introduction ... _p.5_
+ 1. Course introduction ... _p.5_
 
 
 ### Stage 1 Drafting {#b7ac49b489b548fc940c3bff213202e8}
 
 
-Chapitre 2. Organising your desktop ... _p.12_
+ 2. Organising your desktop ... _p.12_
 
 
  3. Assignments and progress ... _p.23_
