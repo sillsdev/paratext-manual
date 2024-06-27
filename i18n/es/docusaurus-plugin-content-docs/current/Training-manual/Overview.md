@@ -8,18 +8,15 @@ El manual de formación sigue las tareas del plan llamado "SIL Compact Plan". Th
 
 ### Introduction {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
-1. Course introduction ... _p.5_
+Chapitre 1. Course introduction ... _p.5_
 
 ### Stage 1 Drafting {#b7ac49b489b548fc940c3bff213202e8}
 
-2. Organising your desktop ... _p.12_
+Chapitre 2. Organising your desktop ... _p.12_
 
 3. Assignments and progress ... _p.23_
-
 4. Keyboarding your draft ... _p.28_
-
 5. Basic checks ... _p.37_
-
 6. Project progress ... _p.41_
 
 ### Stage 2 Team check {#196f054cc44d4c70a92a443e7bb68561}
