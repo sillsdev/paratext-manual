@@ -8,11 +8,11 @@ Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. T
 
 ### Introduction {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
-1. Introduction au cours ... _p.5_
+1. Introduction au cours ... _p.4_
 
 ### Étape 1 Rédaction {#b7ac49b489b548fc940c3bff213202e8}
 
-2. Organiser votre bureau ... _p.12_
+2. Organiser votre bureau ... _p.11_
 
 3. Tâches et avancement ... _p.23_
 

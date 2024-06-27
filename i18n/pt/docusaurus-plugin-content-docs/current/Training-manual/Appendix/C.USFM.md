@@ -19,7 +19,7 @@ slug: /C.USFM
 | \id  | Arquivo - Identificação                          | Paragraph |
 | \h   | Arquivo - Cabeçalho                              | Paragraph |
 | \c   | Número do Capítulo                               | Paragraph |
-| \v   | Número do Versículo                              | Character |
+| \v   | Número do Versículo                              | Caractere |
 | \p   | Parágrafo - Normal - Recuo na Primeira Linha     | Paragraph |
 | \m   | Parágrafo - Margem - Sem Recuo na Primeira Linha | Paragraph |
 | \q1  | Poesia - Nível de Recuo 1                        | Paragraph |
@@ -62,8 +62,8 @@ slug: /C.USFM
 | USFM | Descrição                                   | Estilo    |
 | ---- | ------------------------------------------- | --------- |
 | \x  | Referência Cruzada                          | Note      |
-| \xo | Referência Cruzada - Referência de Origem   | Character |
-| \xt | Referência Cruzada - Referências de Destino | Character |
+| \xo | Referência Cruzada - Referência de Origem   | Caractere |
+| \xt | Referência Cruzada - Referências de Destino | Caractere |
 | \x* | Fim da Referência Cruzada                   | Note      |
 
 
@@ -82,11 +82,11 @@ slug: /C.USFM
 | USFM  | Descrição                                 | Estilo    |
 | ----- | ----------------------------------------- | --------- |
 | \f   | Footnote                                  | Note      |
-| \fr  | Nota de Rodapé - Referência               | Character |
-| \ft  | Nota de Rodapé - Texto                    | Character |
-| \fk  | Nota de Rodapé - Palavra-chave            | Character |
-| \fq  | Footnote - Quotation from the text        | Character |
-| \fqa | Nota de Rodapé - Renderização Alternativa | Character |
+| \fr  | Nota de Rodapé - Referência               | Caractere |
+| \ft  | Nota de Rodapé - Texto                    | Caractere |
+| \fk  | Nota de Rodapé - Palavra-chave            | Caractere |
+| \fq  | Footnote - Quotation from the text        | Caractere |
+| \fqa | Nota de Rodapé - Renderização Alternativa | Caractere |
 | \f*  | Footnote End                              | Note      |
 
 
@@ -95,8 +95,8 @@ slug: /C.USFM
 
 | USFM       | Descrição                                           | Estilo    |
 | ---------- | --------------------------------------------------- | --------- |
-| \k … k*   | Palavra-chave (no glossário)                        | Character |
-| \w … \w* | Indica uma palavra no glossário (no texto)          | Character |
+| \k … k*   | Palavra-chave (no glossário)                        | Caractere |
+| \w … \w* | Indica uma palavra no glossário (no texto)          | Caractere |
 | \p        | Paragraph                                           | Paragraph |
 | \li1      | Parágrafo de lista do glossário (recuo de 1º nível) | Paragraph |
 | \li2      | Parágrafo de lista do glossário (recuo de 2º nível) | Paragraph |
