@@ -1,34 +1,34 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Próximo",
     "description": "The label for version current"
   },
   "sidebar.defaultSidebar.category.Training manual": {
-    "message": "Training manual",
+    "message": "Manual de treinamento",
     "description": "The label for category Training manual in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 1 - Drafting": {
-    "message": "Stage 1 - Drafting",
+    "message": "Estágio 1 - Rascunho",
     "description": "The label for category Stage 1 - Drafting in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 2 - Team Checking": {
-    "message": "Stage 2 - Team Checking",
+    "message": "Etapa 2 - Teste em equipe",
     "description": "The label for category Stage 2 - Team Checking in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 3 - Preparing for the Consultant Check": {
-    "message": "Stage 3 - Preparing for the Consultant Check",
+    "message": "Estágio 3 - Preparando para a Verificação do Consultor",
     "description": "The label for category Stage 3 - Preparing for the Consultant Check in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 4 - Consultant Visit": {
-    "message": "Stage 4 - Consultant Visit",
+    "message": "Estágio 4 - Visita do Consultor",
     "description": "The label for category Stage 4 - Consultant Visit in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 5 - Review by the community": {
-    "message": "Stage 5 - Review by the community",
+    "message": "Etapa 5 - Revisão pela comunidade",
     "description": "The label for category Stage 5 - Review by the community in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stage 6 - Finalising for publication": {
-    "message": "Stage 6 - Finalising for publication",
+    "message": "Etapa 6 - Finalização para publicação",
     "description": "The label for category Stage 6 - Finalising for publication in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Appendix": {

@@ -1,63 +1,63 @@
 ---
-title: Vue d'ensemble du manuel de formation
+title: Vue d'ensemble du manuel de formation - PDF
 sidebar_position: 1
-slug: /Vue d'ensemble
+slug: /Overview
 ---
 
-Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. The page numbers refer to the [PDF](https://manual.paratext.org/img/Ptx-man-en-9.3.pdf).
+Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. Les numéros de page se réfèrent au [PDF](https://manual.paratext.org/fr/downloads/Ptx-man-a5-fr-9.4.pdf).
 
 ### Introduction {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
-1. Introduction au cours ... _p.5_
+1. Introduction au cours ... _p.4_
 
 ### Étape 1 Rédaction {#b7ac49b489b548fc940c3bff213202e8}
 
-2. Organiser votre bureau ... _p.12_
+2. Organiser votre bureau ... _p.11_
 
 3. Tâches et avancement ... _p.23_
 
-4. Saisie des données ... _p.28_
+4. Saisie des données ... _p.31_
 
 5. Vérifications de base ... _p.37_
 
-6. État d'avancement du projet ... _p.41_
+6. État d'avancement du projet ... _p.46_
 
-### Stage 2 Team check {#196f054cc44d4c70a92a443e7bb68561}
+### Étape 2 Vérification en équipe {#196f054cc44d4c70a92a443e7bb68561}
 
-7. Proper Names ... _p.45_
-8. Spell Checking ... _p.46_
-9. Glossary ... _p.57_
-10. A 4-Step process for ... Biblical Terms ... _p.62_
-11. Compare a word or phrase ... _p.72_
-12. Basic Checks 2 ... _p.76_
-13. Formatting checks ... _p.85_
-14. Printing Drafts ... _p.89_
-15. Using Notes ... _p.94_
+7. Noms propres ... _p.50_
+8. Vérification de l'orthographe ... _p.46_
+9. Glossaire ... _p.63_
+10. Un processus en 4 étapes pour ... Termes bibliques ... _p.69_
+11. Comparer un mot ou une expression ... _p.81_
+12. Vérifications de base 2 ... _p.86_
+13. Vérifications de formatage ... _p.95_
+14. Imprimer des ébauches ... _p.100_
+15. Utilisation des remarques ... _p.105_
 
-### Stage 3 Prepare for consultant {#e80a5fd98e494504b47f260555d1a453}
+### Étape 3 Se préparer pour le consultant {#e80a5fd98e494504b47f260555d1a453}
 
-16. Draft a Back Translation ... _p.105_
-17. Interlinearize a project ... _p.112_
-18. Compare Text ... _p.117_
-19. Basic checks 3 ... _p.119_
+16. Retraductions 1 ... _p.118_
+17. Retraductions 2 - mot à mot ... _p.126_
+18. Comparer les textes ... _p.131_
+19. Vérifications de base 3 ... _p.134_
 
-### Stage 4 Consultant check {#b9cfad05576f45628a0182bbda14ae90}
+### Étape 4 : Vérification du conseiller {#b9cfad05576f45628a0182bbda14ae90}
 
-20. Collaboration Tools ... _p.126_
+20. Outils de collaboration ... _p.142_
 
-### Stage 5 (Stage 3 UBS) Community review {#37d7ee955e9e4169a751872d50f04eb1}
+### Étape 5 (Étape 3 UBS) Révision communautaire {#37d7ee955e9e4169a751872d50f04eb1}
 
-21. Progress report ... _p.133_
-22. Biblical key terms report ... _p.135_
+21. Rapport d'avancement ... _p.149_
+22. Rapport des termes bibliques ... _p.151_
 
-### Stage 6 (Stage 4 UBS) {#85c6be7707ee40869b049b52bf3c6d1d}
+### Étape 6 (Étape 4 UBS) {#85c6be7707ee40869b049b52bf3c6d1d}
 
-23. Compare Parallel Passages ... _p.138_
-24. Finalising for Publication ... _p.145_
-25. Create a study Bible ... _p.152_
+23. Comparer des passages parallèles ... _p.154_
+24. Finalisation pour la publication ... _p.162_
+25. Création d'une Bible d'étude ... _p.171_
 
-### Appendix {#793aa14dd606462cb02b5bb66acd3057}
+### Annexe {#793aa14dd606462cb02b5bb66acd3057}
 
-A. Special texts ... _p.158_
-B. Three letter abbreviations ... _p.161_
-C. Common USFM markers ... _p.164_
+A. Texte spécial ... _p. 178_
+B. Abréviations de trois lettres ... _p.182_
+C. Marqueurs communs de l'USFM ... _p.184_

@@ -12,7 +12,7 @@ slug: /
 ![](./415098770.png)
 
 
-## [Manuel de formation Paratext](/Vue d'ensemble) {#fad7543f2c494c928d5fe40c5644bf25}
+## [Manuel de formation Paratext](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
 Ce manuel de formation (développé à l'origine au Cameroun) a été révisé pour la version 9.4.
