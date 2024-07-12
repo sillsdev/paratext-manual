@@ -35,7 +35,7 @@ slug: /
 ## पहले के संस्करण {#cf46e5190e44405a90683dff63a58f78}
 
 
-पैराटेक्स्ट संस्करण 9.3 के लिए मैनुअल (केवल अंग्रेजी और फ्रेंच में) [**this website**](https://jennibeadle.github.io/paratextmanversions/)**.**
+पैराटेक्स्ट संस्करण 9.3 के लिए मैनुअल (केवल अंग्रेजी और फ्रेंच में) [**इस वेबसाइट पर उपलब्ध है**](https://jennibeadle.github.io/paratextmanversions/)**.**
 
 
 ---

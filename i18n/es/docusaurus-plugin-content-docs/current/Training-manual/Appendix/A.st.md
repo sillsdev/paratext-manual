@@ -11,7 +11,7 @@ Los siguientes pasajes suelen tener un formato especial (añadiendo otros códig
 
 :::tip
 
-La forma poética suele utilizar \q1 y \q2. Las mayúsculas pequeñas están marcadas con \sc .. \sc*.
+La forma poética suele utilizar \q1 y \q2. Las mayúsculas pequeñas están marcadas con \sc … \sc*.
 
 :::
 
