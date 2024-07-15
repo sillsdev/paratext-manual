@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /Overview
 ---
 
-El manual de formación sigue las tareas del plan llamado "SIL Compact Plan". Los números de página remiten al [PDF](https://manual.paratext.org/img/Ptx-man-en-9.4.pdf).
+El manual de formación sigue las tareas del plan llamado "SIL Compact Plan". The page numbers refer to the [PDF](https://manual.paratext.org/downloads/Ptx-man-en-9.4.pdf).
 
 ### Introducción {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
