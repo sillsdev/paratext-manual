@@ -79,7 +79,7 @@ const config = {
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
-        language: ["en", "fr", "es", "pt", "hi"],
+        language: ["en", "fr", "es", "pt"],
         indexBlog: false,
         indexPages: true,
         docsRouteBasePath: "/",
