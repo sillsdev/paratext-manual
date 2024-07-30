@@ -9,7 +9,7 @@ slug: /C.USFM
 :::note
 
 - Todos los estilos de tipo "Párrafo" requieren el uso de la tecla "Entrar" al elegir el marcador en la vista "Estándar"
-- Todos los tipos de estilo "Nota" y "Carácter" requieren el uso de la tecla "Barra invertida" al elegir el marcador en la vista "Estándar"
+- Todos los tipos de estilo "Nota" y "Carácter" requieren el uso de la tecla "Diagonal invertida" al elegir el marcador en la vista "Estándar"
 
 :::
 
@@ -24,9 +24,9 @@ slug: /C.USFM
 | \m   | Párrafo - Margen - Sin sangría de primera línea | Párrafo  |
 | \q1  | Poesía - Sangría Nivel 1                        | Párrafo  |
 | \q2  | Poesía - Sangría Nivel 2                        | Párrafo  |
-| \r   | Encabezamiento - Referencias paralelas          | Párrafo  |
-| \s1  | Encabezamiento - Sección Nivel 1                | Párrafo  |
-| \s2  | Encabezamiento - Sección Nivel 2                | Párrafo  |
+| \r   | Encabezado - Referencias paralelas              | Párrafo  |
+| \s1  | Encabezado - Sección Nivel 1                    | Párrafo  |
+| \s2  | Encabezado - Sección Nivel 2                    | Párrafo  |
 | \mt1 | Título - Título principal Nivel 1               | Párrafo  |
 | \mt2 | Título - Título principal Nivel 2               | Párrafo  |
 | \mt3 | Título - Título principal Nivel 3               | Párrafo  |
@@ -76,18 +76,18 @@ slug: /C.USFM
 | \fig* | Auxiliar - Figura/Ilustración/Final del mapa | Nota   |
 
 
-## Marcadores de pie de página {#829f632d730b4db2902aca9a8607a085}
+## Marcadores de notas al pie de página {#829f632d730b4db2902aca9a8607a085}
 
 
-| USFM  | Descripción                                                        | Estilo   |
-| ----- | ------------------------------------------------------------------ | -------- |
-| \f   | Nota al pie                                                        | Nota     |
-| \fr  | Nota a pie de página - Referencia                                  | Carácter |
-| \ft  | Nota a pie de página - Texto                                       | Carácter |
-| \fk  | Nota al pie - Palabra clave                                        | Carácter |
-| \fq  | Nota a pie de página - Cita del texto                              | Carácter |
-| \fqa | Nota a pie de página - Interpretación alternativa de la traducción | Carácter |
-| \f*  | Fin de la nota                                                     | Nota     |
+| USFM  | Descripción                                                         | Estilo   |
+| ----- | ------------------------------------------------------------------- | -------- |
+| \f   | Nota al pie                                                         | Nota     |
+| \fr  | Nota al pie de página - Referencia                                  | Carácter |
+| \ft  | Nota al pie de página - Texto                                       | Carácter |
+| \fk  | Nota al pie - Palabra clave                                         | Carácter |
+| \fq  | Nota al pie de página - Cita del texto                              | Carácter |
+| \fqa | Nota al pie de página - Interpretación alternativa de la traducción | Carácter |
+| \f*  | Fin de la nota al pie de página                                     | Nota     |
 
 
 ## Glosario {#b27a3c455de340b9bdd33a5e92353b91}

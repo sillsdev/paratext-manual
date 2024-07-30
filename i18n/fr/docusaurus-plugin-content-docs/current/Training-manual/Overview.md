@@ -14,11 +14,11 @@ Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. L
 
 2. Organiser votre bureau ... _p.11_
 
-3. Tâches et avancement ... _p.23_
+3. Tâches et avancement ... _p.25_
 
 4. Saisie des données ... _p.31_
 
-5. Vérifications de base ... _p.37_
+5. Vérifications de base ... _p.42_
 
 6. État d'avancement du projet ... _p.46_
 
