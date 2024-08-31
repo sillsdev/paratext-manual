@@ -1,7 +1,7 @@
 ---
 title: A. Special texts
 sidebar_position: 0
-slug: /A.st
+slug: /AppA.st
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: C. Common USFM Markers
 sidebar_position: 2
-slug: /C.USFM
+slug: /AppC.USFM
 ---
 
 
