@@ -21,7 +21,7 @@ Highlights
   - Soon in Character Inventory, Spell checking dialogs, Quotation rules.
 
 - Study Bible Additions (SBA) Improvements
-  - Asignaciones y Progreso
+  - कार्य एवं प्रगति
   - figures in footnotes and sidebars
   - Scripture Reference Settings within SBA projects can now override the settings of the base project
   - Improved checking features, ensuring more accurate and efficient review processes.
@@ -67,27 +67,27 @@ See Paratext website - [**What’s New in Paratext 9.4 Beta**](https://paratext.
 
 Highlights
 
-- **Notification of updates for projects on the user’s computer:**  A green dot on the project menu. Los ajustes para comprobar si hay actualizaciones están disponibles en la ventana **Enviar/Recibir proyectos**. [Vídeo de demostración del menú principal](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
+- **Notification of updates for projects on the user’s computer:**  A green dot on the project menu. अपडेट के लिए जाँच की सेटिंग्स **प्रोजेक्ट का आदान/प्रदान करें** विंडो में उपलब्ध हैं। [मुख्य मेनू वीडियो डेमो](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
 
   ![](./339463073.png)
 
-- **Notificación de actualizaciones de los recursos instalados.** Un punto verde en el menú principal también puede indicar actualizaciones de los textos de los recursos en el ordenador local. Access to the settings for this feature is in the **Download/Install resources**
+- **इंस्टॉल की गई संसाधनों के लिए अपडेट की अधिसूचना।** मुख्य मेनू में एक हरा बिंदु स्थानीय कंप्यूटर पर संसाधन पाठ के अपडेट को भी इंगित कर सकता है। Access to the settings for this feature is in the **Download/Install resources**
 
-- **Interfaz de derecha a izquierda mejorada.** Paratext muestra ahora correctamente las interfaces de usuario de derecha a izquierda (como el árabe). [Demostración en vídeo RTL](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
+- **सुधारा हुआ दाएँ-से-बाएँ इंटरफेस।** पैराटेक्स्ट अब सही तरीके से दाएँ-से-बाएँ उपयोगकर्ता इंटरफेस (जैसे अरबी) को प्रदर्शित करता है। [आरटीएल वीडियो डेमो](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
 
   ![](./1222641753.png)
 
-- **Option to hide project notes.** Access from the **View menu &gt; Show Project Notes**. [Vídeo de demostración del menú del proyecto](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)
+- **Option to hide project notes.** Access from the **View menu &gt; Show Project Notes**. [प्रोजेक्ट मेनू वीडियो डेमो](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)
 
   ![](./179350404.png)
 
-- **Comprobación de citas mejorada.** La nueva comprobación básica de "Tipos de citas" sabe dónde deben aparecer las citas en el texto basándose en los datos de [Glyssen](https://software.sil.org/glyssen/) y puede garantizar que todas están marcadas adecuadamente. [Demostración en vídeo de los tipos de cotización](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=859138745)
+- **बेहतर उद्धरण जाँच।** नया “उद्धरण प्रकार” बुनियादी जांच पाठ में उद्धरण कहाँ होने चाहिए, इसका Glyssen (https://software.sil.org/glyssen/) डेटा पर आधारित ज्ञान है और यह सुनिश्चित कर सकता है कि वे सभी सही रूप से चिह्नित हों। [उद्धरण प्रकार वीडियो डेमो](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=859138745)
 
-- **Agregado vídeo a los Recursos Mejorados.** Ahora la pestaña Media de los Recursos Mejorados contiene clips de vídeo de [LUMO](https://lumoproject.com/) y de la serie de UBS "Tierras de la Biblia como Aula". [Vídeos de recursos mejorados - demostración en vídeo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
+- **वर्धित संसाधन में वीडियो जोड़ा गया।** अब वर्धित संसाधनों के लिए मीडिया टैब में [LUMO](https://lumoproject.com/) और UBS की “Bible Lands as Classroom” श्रृंखला के वीडियो क्लिप शामिल हैं। [वर्धित संसाधन वीडियो – वीडियो डेमो](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
 
-- **Import/Export Biblical terms lists.** Allows users to create and exchange the Biblical Terms lists as the project progresses. [Demostración en vídeo de términos bíblicos](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858020833)
+- **Import/Export Biblical terms lists.** Allows users to create and exchange the Biblical Terms lists as the project progresses. [बाइबल सम्बन्धी शब्दावली वीडियो डेमो](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858020833)
 
-**¡Y muchas más mejoras!**
+**और कई सुधार!**
 
 ## Paratext 9.3  {#4c850f9665ff4ab8870f1ae0fed0e870}
 
@@ -111,10 +111,10 @@ Everyone in a particular live session still needs to use the same server, it is 
 
 The most obvious new feature the ability to **compare versions**.
 
-1. Abrir un proyecto de Adiciones a la Biblia de Estudio
-2. En el menú **Proyecto**,
-3. En **Proyecto**, elija **Comparar versiones**
-  - _Se muestran los cambios en las adiciones_.
+1. अध्ययन बाइबल परिवर्धन परियोजना खोलें
+2. **प्रोजेक्ट** मेन्यू से,
+3. **प्रोजेक्ट** के तहत, **संस्करणों की तुलना करें** चुनें
+  - _अतिरिक्त में होने वाले परिवर्तन प्रदर्शित होते हैं।_
 
 ## Scripture reference in navigation bar {#3c00a0202ad949bc8909f66660badb73}
 
@@ -179,7 +179,7 @@ There is a new menu item on the **main menu**
 
 :::tip
 
-¡Recuerda guardar tu diseño!
+अपने लेआउट को सहेजना न भूलें!‌
 
 :::
 
