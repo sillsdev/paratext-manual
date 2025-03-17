@@ -1,12 +1,12 @@
 ---
-title: Stage 3 – Overview
+title: Fase 3 / Fase 4 UBS - Visão Geral da Finalização para Publicação
 sidebar_position: 0
 slug: /Stage-3
 ---
 
 
 
-**Introduction**
+**Introdução**
 
 
 Nesta terceira fase de um projeto de tradução SIL, você realizará testes de compreensão e retrotradução. Você também continuará com as verificações básicas e a verificação ortográfica.

@@ -6,7 +6,7 @@ slug: /Stage-6
 
 
 
-**Introduction**
+**Introdução**
 
 
 A sexta fase (SIL) [ou quarta fase UBS] de um projeto de tradução é a finalização para publicação. Isso envolve refazer muitas das verificações anteriores. Também envolve verificar as Passagens Paralelas.

@@ -95,15 +95,15 @@ Highlights
 
 ### Paratext Live uses a couple of servers {#14973ac6c79843a3a94db72e3348418d}
 
-- Paratext 8, 9.0 and 9.1 use a server called Internet (secondary) WCF and Paratext 9.2 uses Internet (primary) AMQP.
-  - _This is why you can't use Paratext Live with 9.2 and 9.1 at the same time_
-- In Paratext 9.3 when you start Paratext live you choose what server you want to use.
+- Paratext 8, 9.0 et 9.1 utilisent un serveur appelé Internet (secondaire) WCF et Paratext 9.2 utilise Internet (primaire) AMQP.
+  - _C'est pourquoi il n'est pas possible d'utiliser Paratext Live avec 9.2 et 9.1 en même temps_
+- Dans Paratext 9.3, lorsque vous démarrez Paratext Live, vous choisissez le serveur que vous souhaitez utiliser.
   - **Internet (primary)**, which is 9.2 and 9.3.
   - **Internet (secondary)** which is 9.0, 9.1 or Paratext 8.
 
 :::note
 
-Everyone in a particular live session still needs to use the same server, it is just that from 9.3 you can work with someone on 9.1 or someone else on 9.2 (just not at the same time)
+Toutes les personnes participant à une session en direct particulière doivent toujours utiliser le même serveur, mais à partir de la version 9.3, vous pouvez travailler avec une personne utilisant la version 9.1 ou une autre utilisant la version 9.2 (mais pas en même temps)
 
 :::
 
@@ -118,25 +118,25 @@ The most obvious new feature the ability to **compare versions**.
 
 ## Scripture reference in navigation bar {#3c00a0202ad949bc8909f66660badb73}
 
-In Paratext 9.3 you can copy and paste a scripture reference into the navigation bar.
+Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la barre de navigation.
 
-1. Copy the text of a reference (from another file)
+1. Copier le texte d'une référence (depuis un autre fichier)
 2. Click in the **book name** in the navigation bar
 3. Paste using **Ctrl+V**
 
   ![](./1158626626.png)
 
-The reference should be in a format that matches the interface language.
+La référence doit être présentée dans un format correspondant à la langue de l'interface.
 
-For example,
+Par exemple :
 
-- in English: MAT 12.3, Mrk 5:4, Galatians 1:12
-- in Spanish: Romanos 8:28
+- en français : MAT 12.3, Mrk 5:4, Galates 1:12
+- en espagnol : Romanos 8:28
 
 :::note
 
-The names must matches the names as they are seen in the titles.
-Currently can't copy from Paratext, but that feature is being added to a later update.
+Les noms doivent correspondre aux noms tels qu'ils apparaissent dans les titres.
+Actuellement, il n'est pas possible de copier à partir de Paratext, mais cette fonctionnalité sera ajoutée lors d'une prochaine mise à jour.
 
 :::
 
@@ -147,7 +147,8 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 
 - The colours have changed from **green** to **grey (and back to green in 9.4)**
 
-- You can reduce or expand the Greek / Hebrew by clicking the little arrow.
+- Vous pouvez réduire ou étendre le grec / hébreu en cliquant sur la petite flèche.
+   
 
 </div><div className='notion-spacer'></div>
 
@@ -165,7 +166,7 @@ There is a new menu item on the **main menu**
 1. From the **Paratext menu**
 
 2. Choose **Open text collection**
-  - _This window looks like what was used in earlier versions of Paratext_.
+  - _Cette fenêtre ressemble à celle utilisée dans les versions précédentes de Paratext_.
 
     ![](./839941766.png)
 
@@ -187,7 +188,8 @@ N'oubliez pas d'enregistrer votre disposition des fenêtres !
 
 ## Floating Windows {#493f51aae2f5480893f25897c408c26c}
 
-- Dropdown to change the active project
+- Liste déroulante pour changer le projet actif
+   
 
   ![](./807351003.png)
 
@@ -195,5 +197,5 @@ N'oubliez pas d'enregistrer votre disposition des fenêtres !
 
 - **RegEx Pal** - from Main menu &gt; Advanced or Project menu &gt; Advanced.
 - **Synchronizing** with Logos and other compatible programs is now turned **on by default**
-- Changes have been made to help with the localization of the help files and the user interface
+- Des modifications ont été apportées pour faciliter la localisation des fichiers d'aide et de l'interface utilisateur
 - **Bible modules** can now handle **chapter markers** in the extra books

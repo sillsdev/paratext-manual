@@ -1,12 +1,12 @@
 ---
-title: Stage 5 – Overview
+title: Fase 5 / Fase 4 UBS - Visão Geral da Finalização para Publicação
 sidebar_position: 0
 slug: /Stage-5
 ---
 
 
 
-**Introduction**
+**Introdução**
 
 
 A quinta etapa de um projeto de tradução da SIL (ou terceira etapa da UBS) é a revisão pela comunidade. Na revisão, você verificará a naturalidade, produzirá um relatório de progresso da equipe e revisará os termos-chave.

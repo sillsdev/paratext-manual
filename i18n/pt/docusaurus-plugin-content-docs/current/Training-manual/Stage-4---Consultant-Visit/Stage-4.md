@@ -6,7 +6,7 @@ slug: /Stage-4
 
 
 
-**Introduction**
+**Introdução**
 
 
 A quarta fase de um projeto de tradução SIL é a visita do consultor. Você irá se reunir com o consultor, avaliar seu texto, fazer anotações e revisar seus textos e retrotraduções conforme necessário. É importante garantir que você tenha atualizado o status de sua tradução no plano do projeto.

@@ -6,7 +6,7 @@ slug: /Stage-2
 
 
 
-**Introduction**
+**Introdução**
 
 
 A segunda etapa de um projeto de tradução envolve o teste em equipe. Nesta segunda etapa, você usará diversas ferramentas para garantir que sua tradução esteja consistente. Você revisará seu texto, trabalhará com nomes próprios, termos-chave bíblicos, verificação ortográfica e verificação de formatação. Também imprimirá um rascunho e usará várias anotações: notas do projeto, notas de ortografia, notas de discussão de termos bíblicos para registrar suas perguntas, discussões e decisões.
@@ -21,7 +21,7 @@ Os seguintes módulos ajudarão você nesta etapa:
   8.  [11. Verificação Ortográfica](/8.SP)
 
 
-  9.  [Glossary](/9.GL)
+  9.  [Glossário](/9.GL)
 
 
  10.  [A 4-Step process for consistent Biblical Terms](/10.BT)
