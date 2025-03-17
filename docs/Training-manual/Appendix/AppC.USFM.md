@@ -95,7 +95,7 @@ slug: /AppC.USFM
 
 | USFM     | Description                                    | Style     |
 | -------- | ---------------------------------------------- | --------- |
-| \k … k*  | Keyword (in the glossary)                      | Character |
+| \k … \k* | Keyword (in the glossary)                      | Character |
 | \w … \w* | Indicates a word in the glossary (in the text) | Character |
 | \p       | Paragraph                                      | Paragraph |
 | \li1     | Glossary list paragraph (1st level indent)     | Paragraph |
