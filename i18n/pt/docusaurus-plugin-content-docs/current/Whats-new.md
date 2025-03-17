@@ -128,7 +128,7 @@ In Paratext 9.3 you can copy and paste a scripture reference into the navigation
 
 The reference should be in a format that matches the interface language.
 
-For example,
+Por exemplo,
 
 - in English: MAT 12.3, Mrk 5:4, Galatians 1:12
 - in Spanish: Romanos 8:28

@@ -1,5 +1,5 @@
 ---
-title: What's new
+title: Novedades
 sidebar_position: 1
 slug: /Whats-new
 ---
@@ -8,7 +8,7 @@ slug: /Whats-new
 
 See Paratext website - [What’s New in Paratext 9.5 Beta](https://paratext.org/features/whats-new/whats-new-in-paratext-9-5-beta/)
 
-Highlights
+Destacados
 
 - **Support for whitespaces and invisible characters**\*
   - Note: The whole team needs to update to 9.5
@@ -65,7 +65,7 @@ Highlights
 
 See Paratext website - [**What’s New in Paratext 9.4 Beta**](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/)
 
-Highlights
+Destacados
 
 - **Notification of updates for projects on the user’s computer:**  A green dot on the project menu. Los ajustes para comprobar si hay actualizaciones están disponibles en la ventana **Enviar/Recibir proyectos**. [Vídeo de demostración del menú principal](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
 
@@ -95,15 +95,15 @@ Highlights
 
 ### Paratext Live uses a couple of servers {#14973ac6c79843a3a94db72e3348418d}
 
-- Paratext 8, 9.0 and 9.1 use a server called Internet (secondary) WCF and Paratext 9.2 uses Internet (primary) AMQP.
-  - _This is why you can't use Paratext Live with 9.2 and 9.1 at the same time_
-- In Paratext 9.3 when you start Paratext live you choose what server you want to use.
+- Paratext 8, 9.0 y 9.1 utilizan un servidor llamado Internet (secundario) WCF y Paratext 9.2 utiliza Internet (primario) AMQP.
+  - _Esta es la razón por la que no puede utilizar Paratext Live con 9.2 y 9.1 al mismo tiempo_
+- En Paratext 9.3, cuando inicie Paratext live, elija qué servidor desea utilizar.
   - **Internet (primary)**, which is 9.2 and 9.3.
   - **Internet (secondary)** which is 9.0, 9.1 or Paratext 8.
 
 :::note
 
-Everyone in a particular live session still needs to use the same server, it is just that from 9.3 you can work with someone on 9.1 or someone else on 9.2 (just not at the same time)
+Todo el mundo en una sesión en vivo en particular todavía tiene que utilizar el mismo servidor, es sólo que a partir de la 9.3 se puede trabajar con alguien en la 9.1 o con otra persona en la 9.2 (sólo que no al mismo tiempo)
 
 :::
 
@@ -118,25 +118,25 @@ The most obvious new feature the ability to **compare versions**.
 
 ## Scripture reference in navigation bar {#3c00a0202ad949bc8909f66660badb73}
 
-In Paratext 9.3 you can copy and paste a scripture reference into the navigation bar.
+En Paratext 9.3 puede copiar y pegar una referencia bíblica en la barra de navegación.
 
-1. Copy the text of a reference (from another file)
+1. Copiar el texto de una referencia (de otro archivo)
 2. Click in the **book name** in the navigation bar
 3. Paste using **Ctrl+V**
 
   ![](./1158626626.png)
 
-The reference should be in a format that matches the interface language.
+La referencia debe estar en un formato que se corresponda al idioma de la interfaz.
 
-For example,
+Por ejemplo,
 
-- in English: MAT 12.3, Mrk 5:4, Galatians 1:12
-- in Spanish: Romanos 8:28
+- en inglés: MAT 12.3, Mrk 5:4, Galatians 1:12
+- en español: Romanos 8:28
 
 :::note
 
-The names must matches the names as they are seen in the titles.
-Currently can't copy from Paratext, but that feature is being added to a later update.
+Los nombres deben coincidir con los que aparecen en los títulos.
+Actualmente no puede copiar desde Paratext, pero esa función se añadirá en una actualización posterior.
 
 :::
 
@@ -165,7 +165,7 @@ There is a new menu item on the **main menu**
 1. From the **Paratext menu**
 
 2. Choose **Open text collection**
-  - _This window looks like what was used in earlier versions of Paratext_.
+  - _Esta ventana se parece a la que se utilizaba en versiones anteriores de Paratext_.
 
     ![](./839941766.png)
 
@@ -187,7 +187,7 @@ There is a new menu item on the **main menu**
 
 ## Floating Windows {#493f51aae2f5480893f25897c408c26c}
 
-- Dropdown to change the active project
+- Desplegable para cambiar el proyecto activo
 
   ![](./807351003.png)
 
@@ -195,5 +195,5 @@ There is a new menu item on the **main menu**
 
 - **RegEx Pal** - from Main menu &gt; Advanced or Project menu &gt; Advanced.
 - **Synchronizing** with Logos and other compatible programs is now turned **on by default**
-- Changes have been made to help with the localization of the help files and the user interface
+- Se han realizado cambios para facilitar la localización de los archivos de ayuda y de la interfaz de usuario
 - **Bible modules** can now handle **chapter markers** in the extra books
