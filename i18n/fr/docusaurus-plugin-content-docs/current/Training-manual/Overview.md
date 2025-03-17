@@ -61,3 +61,4 @@ Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. L
 A. Texte spécial ... _p. 178_
 B. Abréviations de trois lettres ... _p.182_
 C. Marqueurs communs de l'USFM ... _p.184_
+

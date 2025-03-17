@@ -80,8 +80,9 @@ slug: /AppC.USFM
 
 | USFM      | Description                                                                     | Style      |
 | --------- | ------------------------------------------------------------------------------- | ---------- |
-| \k … k\*  | Mot clé (citation dans le glossaire)                         | Caractère  |
+| \k … \k\* | Mot clé (citation dans le glossaire)                         | Caractère  |
 | \w … \w\* | Marquer un mot dans le glossaire (dans le texte)             | Caractère  |
 | \p        | Paragraphe                                                                      | Paragraphe |
 | \li1      | Entrée de liste - Niveau 1 (pour la définition du glossaire) | Paragraphe |
 | \li2      | Entrée de liste - Niveau 2 (pour la définition du glossaire) | Paragraphe |
+

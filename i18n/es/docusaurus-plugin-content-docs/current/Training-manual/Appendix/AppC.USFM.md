@@ -28,7 +28,7 @@ slug: /AppC.USFM
 | \mt2 | Título - Título principal Nivel 2               | Párrafo  |
 | \mt3 | Título - Título principal Nivel 3               | Párrafo  |
 
-## Less-common Markers {#e86265f707e24d699845d9ddecf69de2}
+## Marcadores menos comunes {#e86265f707e24d699845d9ddecf69de2}
 
 | USFM | Descripción                                              | Estilo  |
 | ---- | -------------------------------------------------------- | ------- |
@@ -36,7 +36,7 @@ slug: /AppC.USFM
 | \nb  | Párrafo - Sin ruptura con el párrafo anterior            | Párrafo |
 | \li  | Entrada en lista - Nivel 1 - Sólo un nivel               | Párrafo |
 
-## Introduction Markers {#93551ca206c1421dacac7e7922e83bd8}
+## Marcadores de introducción {#93551ca206c1421dacac7e7922e83bd8}
 
 | USFM  | Descripción                                              | Estilo  |
 | ----- | -------------------------------------------------------- | ------- |
@@ -48,7 +48,7 @@ slug: /AppC.USFM
 | \im   | Introducción - Párrafo - sin sangría en la primera línea | Párrafo |
 | \ipq  | Introducción - Párrafo - cita del texto                  | Párrafo |
 
-## Cross Reference Markers {#7582640cf3fe4b3993dbb6b460d40d4c}
+## Marcadores de referencia cruzada {#7582640cf3fe4b3993dbb6b460d40d4c}
 
 | USFM | Descripción                                 | Estilo   |
 | ---- | ------------------------------------------- | -------- |
@@ -57,14 +57,14 @@ slug: /AppC.USFM
 | \xt  | Referencias cruzadas - Referencias objetivo | Carácter |
 | \x\* | Referencia cruzada Fin                      | Nota     |
 
-## Figure/Illustration Markers {#4e91568268b54c8ea70f81c80a0061f4}
+## Marcadores de figura/ilustración {#4e91568268b54c8ea70f81c80a0061f4}
 
 | USFM   | Descripción                                  | Estilo |
 | ------ | -------------------------------------------- | ------ |
 | \fig   | Auxiliar - Figura/Ilustración/Mapa           | Nota   |
 | \fig\* | Auxiliar - Figura/Ilustración/Final del mapa | Nota   |
 
-## Footnote Markers {#829f632d730b4db2902aca9a8607a085}
+## Marcadores de notas al pie {#829f632d730b4db2902aca9a8607a085}
 
 | USFM | Descripción                                                         | Estilo   |
 | ---- | ------------------------------------------------------------------- | -------- |
@@ -76,12 +76,13 @@ slug: /AppC.USFM
 | \fqa | Nota al pie de página - Interpretación alternativa de la traducción | Carácter |
 | \f\* | Fin de la nota al pie de página                                     | Nota     |
 
-## Glossary {#b27a3c455de340b9bdd33a5e92353b91}
+## Glosario {#b27a3c455de340b9bdd33a5e92353b91}
 
 | USFM      | Descripción                                                                | Estilo   |
 | --------- | -------------------------------------------------------------------------- | -------- |
-| \k … k\*  | Palabra clave (en el glosario)                          | Carácter |
+| \k … \k\* | Palabra clave (en el glosario)                          | Carácter |
 | \w … \w\* | Indica una palabra en el glosario (en el texto)         | Carácter |
 | \p        | Párrafo                                                                    | Párrafo  |
 | \li1      | Párrafo de la lista del glosario (sangría de 1er nivel) | Párrafo  |
 | \li2      | Párrafo de la lista del glosario (sangría de 2º nivel)  | Párrafo  |
+

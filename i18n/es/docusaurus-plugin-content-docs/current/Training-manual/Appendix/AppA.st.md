@@ -69,3 +69,4 @@ La forma poética suele utilizar \q1 y \q2. Las mayúsculas pequeñas están mar
 - Ap 21.19-20: Una lista. A veces, aunque raramente, en forma poética [2]
 
 [2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., & Deibler, E. (July 2008). NOT Nº 3 (Vol. 7, Mt 1:2-Re 21:19). SIL Internacional.
+

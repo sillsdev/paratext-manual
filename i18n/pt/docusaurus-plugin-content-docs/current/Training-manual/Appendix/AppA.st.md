@@ -69,3 +69,4 @@ A forma poética geralmente usa \q1 e \q2. Caixa baixa é marcada com \sc... \sc
 - Apocalipse 21.19-20: Uma lista. Às vezes, embora raramente, é apresentada em forma poética [2].
 
 [2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., & Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.
+

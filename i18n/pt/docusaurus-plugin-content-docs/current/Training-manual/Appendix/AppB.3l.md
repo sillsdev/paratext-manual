@@ -31,3 +31,4 @@ slug: /AppB.3l
 | Hebreus - Hb (HEB)            | Tiago - Tg (JAS)              | 1 Pedro - 1Pe (1PE)    |
 | 2 Pedro - 2Pe (2PE)           | 1 João - 1Jo (1JN)            | 2 João - 2Jo  (2JN)    |
 | 3 João - 3Jo  (3JN)           | Judas - Jd (JUD)              | Apocalipse - Ap (REV)  |
+

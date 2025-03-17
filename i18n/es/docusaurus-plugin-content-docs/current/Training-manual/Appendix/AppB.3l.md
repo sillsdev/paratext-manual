@@ -31,3 +31,4 @@ slug: /AppB.3l
 | Hebreos - HEB          | Santiago - JAS         | 1 Pedro - 1PE     |
 | 2 Pedro - 2PE          | 1 Juan - 1JN           | 2 Juan - 2JN      |
 | 3 Juan - 3JN           | Judas - JUD            | Apocalipsis - REV |
+

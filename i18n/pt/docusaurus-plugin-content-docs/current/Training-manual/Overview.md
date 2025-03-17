@@ -61,3 +61,4 @@ O manual de treinamento segue as tarefas no Plano Compacto SIL. The page numbers
 A. Special texts ... _p.158_
 B. Three letter abbreviations ... _p.161_
 C. Common USFM markers ... _p.164_
+

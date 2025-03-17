@@ -69,3 +69,4 @@ slug: /AppA.st
 - प्रकाशितवाक्य 21.19-20: एक सूची। कभी-कभी, हालांकि दुर्लभ रूप से, काव्यात्मक रूप में सेट किया जाता है।
 
 [2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., & Deibler, E. (July 2008). एनओटी नं. 3 (खंड 7, मत्ती 1:2–प्रकाशितवाक्य 21:19). SIL International.
+

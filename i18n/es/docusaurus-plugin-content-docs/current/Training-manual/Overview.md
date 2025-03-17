@@ -61,3 +61,4 @@ El manual de formación sigue las tareas del plan llamado "SIL Compact Plan". Lo
 A. Textos especiales ... _p.158_
 B. Abreviaturas de tres letras ... _p.161_
 C. Marcadores USFM comunes ... _p.164_
+

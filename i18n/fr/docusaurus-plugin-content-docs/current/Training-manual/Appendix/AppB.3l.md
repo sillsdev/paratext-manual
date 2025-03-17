@@ -31,3 +31,4 @@ slug: /AppB.3l
 | Hébreux - HEB           | Jacques - JAS           | 1 Pierre - 1PE   |
 | 2 Pierre - 2PE          | 1 Jean - 1JN            | 2 Jean - 2JN     |
 | 3 Jean - 3JN            | Jude - JUD              | Apocalypse - REV |
+
