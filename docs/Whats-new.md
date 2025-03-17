@@ -1,7 +1,7 @@
 ---
 title: What's new
 sidebar_position: 1
-slug: /whats-new
+slug: /Whats-new
 ---
 
 
