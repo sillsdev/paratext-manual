@@ -15,7 +15,7 @@ slug: /
 ## [Manual de capacitación para Paratext](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
-Este manual de capacitación (elaborado originalmente en Camerún) ha sido revisado para la versión 9.4.
+This training manual (originally developed in Cameroon) has been revised for version **9.5**.
 
 
 Sigue las seis etapas del proceso de traducción y abarca la mayoría de las tareas del plan llamado "SIL Compact Plan". Pueden seleccionarse módulos para diversos cursos de formación, o también puede utilizarse como autoaprendizaje.
@@ -26,7 +26,7 @@ Sigue las seis etapas del proceso de traducción y abarca la mayoría de las tar
 ---
 
 
-### What's new - **[Problem Internal Link]** {#d1196c2eb75c4532b1d3c6e72a394c13}
+### What's new - **[Problem Internal Link]**5 {#d1196c2eb75c4532b1d3c6e72a394c13}
 
 
 ---

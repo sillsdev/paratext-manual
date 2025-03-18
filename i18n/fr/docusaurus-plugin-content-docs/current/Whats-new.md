@@ -18,7 +18,8 @@ Highlights
 
 - Available in
   - text editor, wordlist, results list, scripture reference settings and number settings
-  - Soon in Character Inventory, Spell checking dialogs, Quotation rules.
+  -
+  - Character Inventory, Spell checking dialogs, Quotation rules.
 
 - Study Bible Additions (SBA) Improvements
   - Tâches et avancement
@@ -60,6 +61,26 @@ Highlights
   - Project notes list - “unread and unresolved” filter
 
     ![](./195867166.png)
+
+### Additional Improvements {#1ba598a5fd40807f8592f94edb9bef69}
+
+We’ve also made these additional improvements:
+
+- Added the ability to display **multiple gloss languages** in **Biblical Terms** windows.
+- Added **filter buttons** to the **Download/Install resources** window.
+- **Simplified** the process of creating and editing **Interlinearizer settings**.
+- Added an **“Unread and unresolved”** filter to the **Project notes list**.
+- Provided support for the new format of Flora, Fauna, and Realia in the Enhanced Resource Encyclopedia tab.
+- Provided support for multi-language Flora, Fauna, and Realia.
+- Added a Help link for apparatus abbreviation in GRK Source Language Text.
+- Improved UI localization implementation.
+- Improved merging changes for project data.
+- Allowed changing inventories and settings for Transliteration projects.
+- Added ability to automatically format references when Scripture Reference settings are updated.
+- Provided a built-in Paratext annual survey invitation.
+- Many bug fixes.
+
+Please see the _What’s new in Paratext 9.5?_ Help topic for more info about these improvements.
 
 ## Paratext 9.4  {#192598a5fd408046bbd6d5ee536dc483}
 

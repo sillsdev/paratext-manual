@@ -15,7 +15,7 @@ slug: /
 ## [RASCUNHO - Manual de Treinamento do Paratext](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
-Este manual de treinamento (originalmente desenvolvido nos Camarões) foi revisado para a versão 9.4.
+This training manual (originally developed in Cameroon) has been revised for version **9.5**.
 
 
 Ele segue as seis etapas do processo de tradução, abrangendo a maioria das tarefas do plano compacto da SIL. Os módulos podem ser selecionados para diversos cursos de treinamento ou utilizados para estudo individual.
@@ -26,7 +26,7 @@ Ele segue as seis etapas do processo de tradução, abrangendo a maioria das tar
 ---
 
 
-### What's new - **[Problem Internal Link]** {#d1196c2eb75c4532b1d3c6e72a394c13}
+### What's new - **[Problem Internal Link]**5 {#d1196c2eb75c4532b1d3c6e72a394c13}
 
 
 ---

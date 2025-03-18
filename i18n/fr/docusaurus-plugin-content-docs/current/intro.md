@@ -15,7 +15,7 @@ slug: /
 ## [Manuel de formation Paratext](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
-Ce manuel de formation (développé à l'origine au Cameroun) a été révisé pour la version 9.4.
+This training manual (originally developed in Cameroon) has been revised for version **9.5**.
 
 
 Il suit les six étapes du processus de traduction et couvre la plupart des tâches du plan compact SIL. Les modules peuvent être sélectionnés pour divers cours de formation, ou ils peuvent également être utilisés comme autoformation.
@@ -26,7 +26,7 @@ Il suit les six étapes du processus de traduction et couvre la plupart des tâc
 ---
 
 
-### What's new - **[Problem Internal Link]** {#d1196c2eb75c4532b1d3c6e72a394c13}
+### What's new - **[Problem Internal Link]**5 {#d1196c2eb75c4532b1d3c6e72a394c13}
 
 
 ---
