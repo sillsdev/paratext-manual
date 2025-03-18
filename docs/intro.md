@@ -26,7 +26,7 @@ It follows the six stages of the translation process covering most of the tasks 
 ---
 
 
-### What's new - **[Problem Internal Link]**5 {#d1196c2eb75c4532b1d3c6e72a394c13}
+### What's new - [Paratext 9.5](/Whats-new) {#d1196c2eb75c4532b1d3c6e72a394c13}
 
 
 ---
