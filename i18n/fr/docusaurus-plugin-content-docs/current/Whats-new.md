@@ -1,5 +1,5 @@
 ---
-title: What's new
+title: Quoi de Neuf
 sidebar_position: 1
 slug: /Whats-new
 ---

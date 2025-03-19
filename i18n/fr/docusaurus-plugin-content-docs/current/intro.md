@@ -15,18 +15,18 @@ slug: /
 ## [Manuel de formation Paratext](/Overview) {#fad7543f2c494c928d5fe40c5644bf25}
 
 
-This training manual (originally developed in Cameroon) has been revised for version **9.5**.
+Ce manuel de formation (développé à l'origine au Cameroun) a été révisé pour la version **9.5**.
 
 
 Il suit les six étapes du processus de traduction et couvre la plupart des tâches du plan compact SIL. Les modules peuvent être sélectionnés pour divers cours de formation, ou ils peuvent également être utilisés comme autoformation.
 
-- 📖 [**Téléchargez la version PDF ici**](https://manual.paratext.org/fr/downloads/Ptx-man-a5-fr-9.4.pdf)
+- 📖 [**Download the PDF version here**](https://manual.paratext.org/downloads/Ptx-man-a5-en-9.5.pdf)
     - Il comprend 25 chapitres sur 200 pages A5 à imprimer comme un livret. Ou à utiliser comme copie hors ligne.
 
 ---
 
 
-### What's new - [Paratext 9.5](/Whats-new) {#d1196c2eb75c4532b1d3c6e72a394c13}
+### Quoi de neuf - Paratext 9.5 {#d1196c2eb75c4532b1d3c6e72a394c13}
 
 
 ---

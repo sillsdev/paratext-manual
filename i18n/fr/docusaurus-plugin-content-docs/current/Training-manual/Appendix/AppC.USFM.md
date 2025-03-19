@@ -28,7 +28,7 @@ slug: /AppC.USFM
 | \mt2 | Titre principal niveau 2                                    | Paragraphe |
 | \mt3 | Titre principal niveau 3                                    | Paragraphe |
 
-## Less-common Markers {#e86265f707e24d699845d9ddecf69de2}
+## Marqueurs moins courants {#e86265f707e24d699845d9ddecf69de2}
 
 | USFM | Description                                               | Style      |
 | ---- | --------------------------------------------------------- | ---------- |
@@ -36,7 +36,7 @@ slug: /AppC.USFM
 | \nb  | Paragraphe - Pas de rupture avec le Paragraphe précédent  | Paragraphe |
 | \li  | Entrée de liste - Niveau 1                                | Paragraphe |
 
-## Introduction Markers {#93551ca206c1421dacac7e7922e83bd8}
+## Introduction Marqueurs {#93551ca206c1421dacac7e7922e83bd8}
 
 | USFM  | Description                                                     | Style      |
 | ----- | --------------------------------------------------------------- | ---------- |
@@ -48,7 +48,7 @@ slug: /AppC.USFM
 | \im   | Introduction - Paragraphe - pas d'indentation de première ligne | Paragraphe |
 | \ipq  | Introduction - Paragraphe - Citation tirée du texte             | Paragraphe |
 
-## Cross Reference Markers {#7582640cf3fe4b3993dbb6b460d40d4c}
+## Marqueurs de renvoi {#7582640cf3fe4b3993dbb6b460d40d4c}
 
 | USFM | Description                | Style     |
 | ---- | -------------------------- | --------- |
@@ -57,14 +57,14 @@ slug: /AppC.USFM
 | \xt  | Renvoi - références cibles | Caractère |
 | \x\* | Renvoi - Fin               | Note      |
 
-## Figure/Illustration Markers {#4e91568268b54c8ea70f81c80a0061f4}
+## Figure/Illustration marqueurs {#4e91568268b54c8ea70f81c80a0061f4}
 
 | USFM   | Description                                 | Style |
 | ------ | ------------------------------------------- | ----- |
 | \fig   | Auxiliaire – Image/Illustration/Carte       | Note  |
 | \fig\* | Auxiliaire – Fin d'Image/Illustration/Carte | Note  |
 
-## Footnote Markers {#829f632d730b4db2902aca9a8607a085}
+## Marqueurs de notes de bas de page {#829f632d730b4db2902aca9a8607a085}
 
 | USFM | Description                                        | Style     |
 | ---- | -------------------------------------------------- | --------- |
@@ -76,7 +76,7 @@ slug: /AppC.USFM
 | \fqa | Note de bas de page - Autre traduction équivalente | Caractère |
 | \f\* | Fin de la note de bas de page                      | Note      |
 
-## Glossary {#b27a3c455de340b9bdd33a5e92353b91}
+## Glossaire {#b27a3c455de340b9bdd33a5e92353b91}
 
 | USFM      | Description                                                                     | Style      |
 | --------- | ------------------------------------------------------------------------------- | ---------- |

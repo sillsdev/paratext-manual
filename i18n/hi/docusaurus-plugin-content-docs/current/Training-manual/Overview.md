@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /Overview
 ---
 
-प्रशिक्षण मैनुअल एसआईएल कॉम्पैक्ट प्लान में दिए गए कार्यों का पालन करता है। पृष्ठ संख्या [पीडीएफ](https://manual.paratext.org/downloads/Ptx-man-en-9.4.pdf) को संदर्भित करती है।
+प्रशिक्षण मैनुअल एसआईएल कॉम्पैक्ट प्लान में दिए गए कार्यों का पालन करता है। The page numbers refer to the [PDF](https://manual.paratext.org/downloads/Ptx-man-en-9.5.pdf).
 
 ### परिचय {#f748dd5b42c84d77a33c8d16f0cf6f37}
 

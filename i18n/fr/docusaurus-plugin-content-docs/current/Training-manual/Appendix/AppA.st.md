@@ -68,5 +68,5 @@ La forme poétique utilise généralement \q1 et \q2. Les petites majuscules son
 - Apo 19.16 : Un signe. Souvent centré, en petites majuscules.
 - Apo 21.19-20 : liste A. Quelquefois, bien que rarement, mis en forme poétique. [2]
 
-[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., & Deibler, E. (July 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.
+[2] Eppler, D., Goller, T., Wendland, E. R., Culy, M. M., Harold Greenlee, J., Deibler, E. (juillet 2008). NOT No. 3 (Vol. 7, Mt 1:2–Re 21:19). SIL International.
 
