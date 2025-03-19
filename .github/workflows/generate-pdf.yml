@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
     inputs:
       language:
-        description: 'Language to generate PDF for'
+        description: "Language to generate PDF for"
         required: true
-        default: 'en'
+        default: "en"
         type: string
 jobs:
   release:
@@ -22,7 +22,7 @@ jobs:
           node-version: lts/*
       - name: Install dependencies
         run: yarn
-      - name: Install Devanagari font if needed    
+      - name: Install Devanagari font if needed
         if: ${{ inputs.language == 'hi' }}
         run: |
           sudo git clone --depth 1 --filter=blob:none --no-checkout https://github.com/google/fonts.git
@@ -31,6 +31,14 @@ jobs:
           sudo mkdir -p /usr/share/fonts/notosansdevanagari
           sudo cp ofl/notosansdevanagari/*.ttf /usr/share/fonts/notosansdevanagari/
           sudo fc-cache -fv
+      - name: Disable AppArmor
+        # Ubuntu >= 23 has AppArmor enabled by default, which breaks Puppeteer.
+        # See https://github.com/puppeteer/puppeteer/issues/12818 "No usable sandbox!"
+        # this is taken from the solution used in Puppeteer's own CI: https://github.com/puppeteer/puppeteer/pull/13196
+        # The alternative is to pin Ubuntu 22 or to use aa-exec to disable AppArmor for commands that need Puppeteer.
+        # This is also suggested by Chromium https://chromium.googlesource.com/chromium/src/+/main/docs/security/apparmor-userns-restrictions.md
+        run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
+        shell: bash
       - name: Generate PDF
         run: yarn make-pdf ${{ inputs.language }}
       - name: Deploy to gh-pages

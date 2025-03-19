@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -e  # Exit on error
 
 # Use en for the language if not set
 if [ -z "$1" ]
