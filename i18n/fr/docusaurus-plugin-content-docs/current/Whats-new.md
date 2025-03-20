@@ -6,46 +6,46 @@ slug: /Whats-new
 
 ## Paratext 9.5 {#16154c54093a4476b7397c214e78e49f}
 
-See Paratext website - [What’s New in Paratext 9.5 Beta](https://paratext.org/features/whats-new/whats-new-in-paratext-9-5-beta/)
+Voir le site de Paratext (en anglais)- [What's New in Paratext 9.5 Beta](https://paratext.org/2025/03/16/paratext-9-5-is-released/)
 
-Highlights
+Points forts
 
-- **Support for whitespaces and invisible characters**\*
-  - Note: The whole team needs to update to 9.5
+- **Prise en charge des espaces et des caractères invisibles**
+  - Note : L'ensemble de l'équipe doit passer à la version 9.5.
   - Administrator enables it on by clicking the dropdown on the paragraph icon
 
     ![](./1023111266.png)
 
-- Available in
-  - text editor, wordlist, results list, scripture reference settings and number settings
+- Disponible en
+  - –	éditeur de texte, liste de mots, liste de résultats, paramètres des références bibliques et paramètres des chiffres
   -
-  - Character Inventory, Spell checking dialogs, Quotation rules.
+  - Inventaire de caractères, les dialogues de vérification orthographique, les règles des guillemets.
 
-- Study Bible Additions (SBA) Improvements
+- Améliorations des ajouts à la Bible d'étude (SBA)
   - Tâches et avancement
-  - figures in footnotes and sidebars
-  - Scripture Reference Settings within SBA projects can now override the settings of the base project
-  - Improved checking features, ensuring more accurate and efficient review processes.
+  - les images dans les notes en bas de page et barres latérales
+  - Les **paramètres des références bibliques** dans les projets SBA peuvent désormais remplacer les paramètres du projet de base.
+  - Amélioration des **fonctions de vérification**, garantissant des processus d'examen plus précis et plus efficaces.
 
-- Inventories
-  - undo and redo
+- Inventaires
+  - annuler et refaire dans la barre d'outils (à droite)
 
-  - dock Inventory panels
+  - ancrer les panneaux de l'inventaire
 
-  - inventory panels now consistent appearance and behaviour to Wordlist.
+  - les panneaux d'inventaire ont désormais une apparence et un comportement similaires à ceux de la liste de mots.
 
     ![](./1112693466.png)
 
-  - Approval is managed based on location - verse text, non-verse text, or study content within SBA.
+  - l'approbation est gérée en fonction de l'emplacement - texte en verset, texte hors verset ou contenu de l'étude au sein de la SBA.
 
-  - Filtering to help find and organize inventory items.
+  - filtrage pour faciliter la recherche et l'organisation des éléments en inventaire.
 
-- Additional improvements
-  - Display **multiple gloss languages** in Biblical terms (Major Biblical Terms)
+- Améliorations supplémentaires
+  - Afficher **plusieurs langues glossaires** en termes bibliques (Principaux termes bibliques)
 
     ![](./1665268168.png)
 
-  - Filter buttons to the Download/Install resources window
+  - Boutons de filtrage dans la fenêtre de téléchargement/installation des ressources
 
     ![](./1707327688.png)
 
@@ -86,7 +86,7 @@ Please see the _What’s new in Paratext 9.5?_ Help topic for more info about th
 
 See Paratext website - [**What’s New in Paratext 9.4 Beta**](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/)
 
-Highlights
+Points forts
 
 - **Notification of updates for projects on the user’s computer:**  A green dot on the project menu. Les paramètres de vérification des mises à jour sont disponibles dans la fenêtre **Envoyer/recevoir des projets** . [Menu principal vidéo démo (en anglais)](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
 
