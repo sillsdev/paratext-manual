@@ -12,7 +12,7 @@ Points forts
 
 - **Prise en charge des espaces et des caractères invisibles**
   - Note : L'ensemble de l'équipe doit passer à la version 9.5.
-  - Administrator enables it on by clicking the dropdown on the paragraph icon
+  - L'administrateur l'active en cliquant sur le menu déroulant de l'icône du paragraphe
 
     ![](./1023111266.png)
 
@@ -49,56 +49,56 @@ Points forts
 
     ![](./1707327688.png)
 
-  - Simplified creating and editing Interlinearizer settings.
-    - Choose from existing or click **Create New**
+  - Simplification de la création et de l'édition des paramètres du générateur d’interlinéaire.
+    - Choisissez parmi ceux qui existent déjà ou cliquez sur **Créer un nouveau**.
 
       ![](./1194429716.png)
 
-    - Choose the model text, click **save**
+    - Choisissez le texte du modèle, cliquez sur **Enregistre**.
 
       ![](./297274585.png)
 
-  - Project notes list - “unread and unresolved” filter
+  - Liste des remarques - filtre "non lu et non résolu"
 
     ![](./195867166.png)
 
-### Additional Improvements {#1ba598a5fd40807f8592f94edb9bef69}
+### Améliorations supplémentaires {#1ba598a5fd40807f8592f94edb9bef69}
 
-We’ve also made these additional improvements:
+Nous avons également apporté ces améliorations supplémentaires :
 
-- Added the ability to display **multiple gloss languages** in **Biblical Terms** windows.
-- Added **filter buttons** to the **Download/Install resources** window.
-- **Simplified** the process of creating and editing **Interlinearizer settings**.
-- Added an **“Unread and unresolved”** filter to the **Project notes list**.
-- Provided support for the new format of Flora, Fauna, and Realia in the Enhanced Resource Encyclopedia tab.
-- Provided support for multi-language Flora, Fauna, and Realia.
-- Added a Help link for apparatus abbreviation in GRK Source Language Text.
-- Improved UI localization implementation.
-- Improved merging changes for project data.
-- Allowed changing inventories and settings for Transliteration projects.
-- Added ability to automatically format references when Scripture Reference settings are updated.
-- Provided a built-in Paratext annual survey invitation.
-- Many bug fixes.
+- Ajout de la possibilité d'afficher **plusieurs langues de glose** dans les fenêtres **Termes bibliques**.
+- Ajout de **boutons de filtrage** à la fenêtre **Téléchargement/Installation des ressources**.
+- **Simplifié** le processus de création et d'édition des **paramètres du générateur d'interlinéaire**.
+- Ajout d'un filtre **"Non lu et non résolu "** à la liste **Notes de projet**.
+- Prise en charge du nouveau format de Flore, Faune et Objets réels dans l'onglet Ressource enrichie Encyclopédie.
+- Prise en charge de la Flore, Faune et Objets réels en plusieurs langues.
+- Ajout d'un lien d'aide pour l'abréviation de l'appareil dans le texte de la langue source GRK.
+- Amélioration de la localisation de l'interface utilisateur.
+- Amélioration de la fusion des modifications pour les données de projet.
+- Permet de modifier les inventaires et les paramètres des projets de translittération.
+- Ajout de la possibilité de formater automatiquement les références lorsque les paramètres des références bibliques sont mis à jour.
+- Prévoient l'intégration d'une invitation à l'enquête annuelle Paratext.
+- Nombreuses corrections de bugs.
 
-Please see the _What’s new in Paratext 9.5?_ Help topic for more info about these improvements.
+Veuillez consulter la rubrique d'aide _"What's new in Paratext 9.5?_ pour plus d'informations sur ces améliorations.
 
 ## Paratext 9.4  {#192598a5fd408046bbd6d5ee536dc483}
 
-See Paratext website - [**What’s New in Paratext 9.4 Beta**](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/)
+Voir le site de Paratext (en anglais)- [What's New in Paratext 9.4](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4)
 
 Points forts
 
-- **Notification of updates for projects on the user’s computer:**  A green dot on the project menu. Les paramètres de vérification des mises à jour sont disponibles dans la fenêtre **Envoyer/recevoir des projets** . [Menu principal vidéo démo (en anglais)](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
+- **Notification des mises à jour des projets sur l'ordinateur de l'utilisateur:** Un point vert dans le menu du projet. Les paramètres de vérification des mises à jour sont disponibles dans la fenêtre **Envoyer/recevoir des projets** . [Menu principal vidéo démo (en anglais)](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
 
   ![](./339463073.png)
 
-- **Notification des mises à jour des ressources installées.** Un point vert dans le menu principal peut également indiquer des mises à jour des textes des ressources sur l'ordinateur local. Access to the settings for this feature is in the **Download/Install resources**
+- **Notification des mises à jour des ressources installées.** Un point vert dans le menu principal peut également indiquer des mises à jour des textes des ressources sur l'ordinateur local. L'accès aux paramètres de cette fonction se fait dans le dialogue **Télécharger/Installer ressources** .
 
 - **Amélioration de l'interface droite-gauche.** Paratext affiche désormais correctement les interfaces utilisateur de droite à gauche (comme l'arabe). [RTL vidéo démo (en anglais)](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
 
   ![](./1222641753.png)
 
-- **Option to hide project notes.** Access from the **View menu &gt; Show Project Notes**. [Menu de projet vidéo démo (en anglais)](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)
+- **Option pour cacher les remarques de projet** Accès à partir du **menu Affichage &gt; Afficher les remarques de projet**. [Menu de projet vidéo démo (en anglais)](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)
 
   ![](./179350404.png)
 
@@ -106,7 +106,7 @@ Points forts
 
 - **Ajout de vidéos aux ressources enrichies.** L'onglet Média des ressources enrichies contient désormais des clips vidéo provenant de [LUMO](https://lumoproject.com/) et de la série "Bible Lands as Classroom" de l'UBS. [Vidéos sur les ressources enrichies - démo vidéo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
 
-- **Import/Export Biblical terms lists.** Allows users to create and exchange the Biblical Terms lists as the project progresses. [Termes bibliques vidéo démo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858020833)
+- \*\*Permet aux utilisateurs de créer et d'échanger des listes de termes bibliques au fur et à mesure de l'avancement du projet. [Termes bibliques vidéo démo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858020833)
 
 **Et bien d'autres améliorations !**
 
@@ -197,7 +197,7 @@ There is a new menu item on the **main menu**
 
 ## Arranging windows {#b526a01da9e04357804f4849c39f2fdc}
 
-- Arrange windows by **rows** as well as by **columns**.
+- Disposer les fenêtres par **lignes** et par **colonnes**.
 
 :::tip
 
