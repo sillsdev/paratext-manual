@@ -20,7 +20,7 @@ Ce manuel de formation (développé à l'origine au Cameroun) a été révisé p
 
 Il suit les six étapes du processus de traduction et couvre la plupart des tâches du plan compact SIL. Les modules peuvent être sélectionnés pour divers cours de formation, ou ils peuvent également être utilisés comme autoformation.
 
-- 📖 [**Télécharger la version PDF ici**](https://manual.paratext.org/downloads/Ptx-man-a5-en-9.5.pdf)
+- 📖 [**Télécharger la version PDF ici**](https://manual.paratext.org/fr/downloads/Ptx-man-a5-fr-9.5.pdf)
     - Il comprend 25 chapitres sur 200 pages A5 à imprimer comme un livret. Ou à utiliser comme copie hors ligne.
 
 ---
