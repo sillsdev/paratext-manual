@@ -6,7 +6,7 @@ slug: /Whats-new
 
 ## Paratext 9.5 {#16154c54093a4476b7397c214e78e49f}
 
-See Paratext website - [What’s New in Paratext 9.5 Beta](https://paratext.org/features/whats-new/whats-new-in-paratext-9-5-beta/)
+See Paratext website - [What’s New in Paratext 9.5](https://paratext.org/features/whats-new/whats-new-in-paratext-9-5)
 
 Highlights
 

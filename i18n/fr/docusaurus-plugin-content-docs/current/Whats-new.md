@@ -6,7 +6,7 @@ slug: /Whats-new
 
 ## Paratext 9.5 {#16154c54093a4476b7397c214e78e49f}
 
-Voir le site de Paratext (en anglais)- [What's New in Paratext 9.5 Beta](https://paratext.org/2025/03/16/paratext-9-5-is-released/)
+See Paratext website - [What’s New in Paratext 9.5](https://paratext.org/features/whats-new/whats-new-in-paratext-9-5)
 
 Points forts
 
@@ -106,7 +106,7 @@ Points forts
 
 - **Ajout de vidéos aux ressources enrichies.** L'onglet Média des ressources enrichies contient désormais des clips vidéo provenant de [LUMO](https://lumoproject.com/) et de la série "Bible Lands as Classroom" de l'UBS. [Vidéos sur les ressources enrichies - démo vidéo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
 
-- \*\*Permet aux utilisateurs de créer et d'échanger des listes de termes bibliques au fur et à mesure de l'avancement du projet. [Termes bibliques vidéo démo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858020833)
+- **Importer/Exporter des listes de termes bibliques.** Permet aux utilisateurs de créer et d'échanger des listes de termes bibliques au fur et à mesure de l'avancement du projet. [Termes bibliques vidéo démo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858020833)
 
 **Et bien d'autres améliorations !**
 
@@ -114,7 +114,7 @@ Points forts
 
 [What’s new in Paratext 9.3](https://paratext.org/features/whats-new/whats-new-in-paratext-9-3/)
 
-### Paratext Live uses a couple of servers {#14973ac6c79843a3a94db72e3348418d}
+### Paratext Live utilise plusieurs serveurs {#14973ac6c79843a3a94db72e3348418d}
 
 - Paratext 8, 9.0 et 9.1 utilisent un serveur appelé Internet (secondaire) WCF et Paratext 9.2 utilise Internet (primaire) AMQP.
   - _C'est pourquoi il n'est pas possible d'utiliser Paratext Live avec 9.2 et 9.1 en même temps_
@@ -130,7 +130,7 @@ Toutes les personnes participant à une session en direct particulière doivent 
 
 ## Study Bible Additions {#8c8628c57aa04e48b5d33488872d0b29}
 
-The most obvious new feature the ability to **compare versions**.
+La nouvelle fonctionnalité la plus évidente est la possibilité de **comparer les versions**.
 
 1. Ouvrez un projet Annexes de la Bible d'étude
 2. Dans le menu **Projet**,
@@ -142,8 +142,8 @@ The most obvious new feature the ability to **compare versions**.
 Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la barre de navigation.
 
 1. Copier le texte d'une référence (depuis un autre fichier)
-2. Click in the **book name** in the navigation bar
-3. Paste using **Ctrl+V**
+2. Cliquez sur le **nom du livre** dans la barre de navigation
+3. Collez en utilisant **Ctrl+V**
 
   ![](./1158626626.png)
 
@@ -166,7 +166,7 @@ Actuellement, il n'est pas possible de copier à partir de Paratext, mais cette 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- The colours have changed from **green** to **grey (and back to green in 9.4)**
+- Les couleurs sont passées du **vert** au **gris (et de nouveau au vert en 9.4)**
 
 - Vous pouvez réduire ou étendre le grec / hébreu en cliquant sur la petite flèche.
    
@@ -180,22 +180,22 @@ Actuellement, il n'est pas possible de copier à partir de Paratext, mais cette 
 </div><div className='notion-spacer'></div>
 </div>
 
-## Open a text collection {#fd1736d1bd07444fb6902b8dccf951dc}
+## Ouvrir la collection de textes {#fd1736d1bd07444fb6902b8dccf951dc}
 
-There is a new menu item on the **main menu**
+Il y a un nouvel élément de menu dans le **menu principal**
 
-1. From the **Paratext menu**
+1. Dans le **menu Paratext**
 
-2. Choose **Open text collection**
+2. Choisissez **Ouvrir la collection de textes**
   - _Cette fenêtre ressemble à celle utilisée dans les versions précédentes de Paratext_.
 
     ![](./839941766.png)
 
-3. Open a previously **saved text collection** from the bottom left
+3. Ouvrez la collection de texte précédemment enregistrée en bas à gauche
 
-4. You can still open a text collection from the **Open** window as well.
+4. Vous pouvez également ouvrir une collection de texte à partir de la fenêtre **Ouvrir**.
 
-## Arranging windows {#b526a01da9e04357804f4849c39f2fdc}
+## Disposition des fenêtres {#b526a01da9e04357804f4849c39f2fdc}
 
 - Disposer les fenêtres par **lignes** et par **colonnes**.
 
@@ -207,16 +207,15 @@ N'oubliez pas d'enregistrer votre disposition des fenêtres !
 
 ![](./1620979427.png)
 
-## Floating Windows {#493f51aae2f5480893f25897c408c26c}
+## Fenêtres flottantes {#493f51aae2f5480893f25897c408c26c}
 
 - Liste déroulante pour changer le projet actif
-   
 
   ![](./807351003.png)
 
-### Other new/changed {#4796465de7ac4f3190c47faa4b9750b8}
+### Autres nouveautés/modifications {#4796465de7ac4f3190c47faa4b9750b8}
 
-- **RegEx Pal** - from Main menu &gt; Advanced or Project menu &gt; Advanced.
-- **Synchronizing** with Logos and other compatible programs is now turned **on by default**
+- \*\*RegEx Pal - à partir du menu principal \&gt; Avancé ou du menu Projet \&gt; Avancé.
+- **La synchronisation avec Logos et d'autres programmes compatibles est maintenant activée par défaut**
 - Des modifications ont été apportées pour faciliter la localisation des fichiers d'aide et de l'interface utilisateur
-- **Bible modules** can now handle **chapter markers** in the extra books
+- Les **modules bibliques** peuvent maintenant gérer les **marqueurs de chapitres** dans les livres supplémentaires
