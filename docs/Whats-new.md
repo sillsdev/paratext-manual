@@ -21,18 +21,17 @@ Highlights
 		![](./1023111266.png)
 
 - Available in
-	- text editor, wordlist, results list, scripture reference settings and number settings
-	- 
+	- Text editor, wordlist, results list, scripture reference settings and number settings
 	- Character Inventory, Spell checking dialogs, Quotation rules.
 - Study Bible Additions (SBA) Improvements
 	- Assignments and progress
-	- figures in footnotes and sidebars
+	- Figures in footnotes and sidebars
 	- Scripture Reference Settings within SBA projects can now override the settings of the base project
 	- Improved checking features, ensuring more accurate and efficient review processes.
 - Inventories
-	- undo and redo
-	- dock Inventory panels
-	- inventory panels now consistent appearance and behaviour to Wordlist.
+	- Undo and redo
+	- Dock Inventory panels
+	- Inventory panels now consistent appearance and behaviour to Wordlist.
 
 		![](./1112693466.png)
 
