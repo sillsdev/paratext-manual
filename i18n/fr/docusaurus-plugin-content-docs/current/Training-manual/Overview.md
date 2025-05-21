@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /Overview
 ---
 
-Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. The page numbers refer to the [PDF version](https://manual.paratext.org/downloads/Ptx-man-a5-en-9.5.pdf).
+Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. Les numéros de page se réfèrent au [PDF version](https://manual.paratext.org/fr/downloads/Ptx-man-a5-fr-9.5.pdf).
 
 ### Introduction {#f748dd5b42c84d77a33c8d16f0cf6f37}
 

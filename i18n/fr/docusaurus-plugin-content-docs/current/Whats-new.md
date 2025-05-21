@@ -6,7 +6,7 @@ slug: /Whats-new
 
 ## Paratext 9.5 {#16154c54093a4476b7397c214e78e49f}
 
-See Paratext website - [What’s New in Paratext 9.5](https://paratext.org/features/whats-new/whats-new-in-paratext-9-5)
+Voir le site de Paratext (en anglais) - [What's New in Paratext 9.5](https://paratext.org/features/whats-new/whats-new-in-paratext-9-5)
 
 Points forts
 
@@ -17,21 +17,21 @@ Points forts
     ![](./1023111266.png)
 
 - Disponible en
-  - Text editor, wordlist, results list, scripture reference settings and number settings
-  - Character Inventory, Spell checking dialogs, Quotation rules.
+  - Éditeur de texte, liste de mots, liste de résultats, paramètres de références bibliques et paramètres de chiffres
+  - Inventaire de caractères, les dialogues de vérification orthographique, les règles des guillemets.
 
 - Améliorations des ajouts à la Bible d'étude (SBA)
   - Tâches et avancement
-  - Figures in footnotes and sidebars
+  - Les images dans Les notes en bas de page et barres latérales
   - Les **paramètres des références bibliques** dans les projets SBA peuvent désormais remplacer les paramètres du projet de base.
   - Amélioration des **fonctions de vérification**, garantissant des processus d'examen plus précis et plus efficaces.
 
 - Inventaires
-  - Undo and redo
+  - Annuler et refaire
 
-  - Dock Inventory panels
+  - Ancrer les panneaux de l'inventaire
 
-  - Inventory panels now consistent appearance and behaviour to Wordlist.
+  - Les panneaux d'inventaire ont désormais une apparence et un comportement similaires à ceux de la liste de mots.
 
     ![](./1112693466.png)
 
@@ -111,15 +111,15 @@ Points forts
 
 ## Paratext 9.3  {#4c850f9665ff4ab8870f1ae0fed0e870}
 
-[What’s new in Paratext 9.3](https://paratext.org/features/whats-new/whats-new-in-paratext-9-3/)
+[Nouveautés de Paratext 9.3](https://paratext.org/features/whats-new/whats-new-in-paratext-9-3/)
 
 ### Paratext Live utilise plusieurs serveurs {#14973ac6c79843a3a94db72e3348418d}
 
 - Paratext 8, 9.0 et 9.1 utilisent un serveur appelé Internet (secondaire) WCF et Paratext 9.2 utilise Internet (primaire) AMQP.
   - _C'est pourquoi il n'est pas possible d'utiliser Paratext Live avec 9.2 et 9.1 en même temps_
 - Dans Paratext 9.3, lorsque vous démarrez Paratext Live, vous choisissez le serveur que vous souhaitez utiliser.
-  - **Internet (primary)**, which is 9.2 and 9.3.
-  - **Internet (secondary)** which is 9.0, 9.1 or Paratext 8.
+  - \*\*Internet (primaire), soit 9.2 et 9.3.
+  - \*\*Internet (secondaire) qui est 9.0, 9.1 ou Paratext 8.
 
 :::note
 
@@ -127,7 +127,7 @@ Toutes les personnes participant à une session en direct particulière doivent 
 
 :::
 
-## Study Bible Additions {#8c8628c57aa04e48b5d33488872d0b29}
+## Annexes de la Bible d'étude {#8c8628c57aa04e48b5d33488872d0b29}
 
 La nouvelle fonctionnalité la plus évidente est la possibilité de **comparer les versions**.
 
@@ -136,7 +136,7 @@ La nouvelle fonctionnalité la plus évidente est la possibilité de **comparer 
 3. Sous **Projet**, choisissez **Comparer les versions**
   - _Les modifications apportées aux ajouts sont affichées_.
 
-## Scripture reference in navigation bar {#3c00a0202ad949bc8909f66660badb73}
+## Référence biblique dans la barre de navigation {#3c00a0202ad949bc8909f66660badb73}
 
 Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la barre de navigation.
 
@@ -160,7 +160,7 @@ Actuellement, il n'est pas possible de copier à partir de Paratext, mais cette 
 
 :::
 
-## Parallel Passages Tool {#f660aff19a7541efaa453398f11dbacd}
+## Outils > Passages parallèles {#f660aff19a7541efaa453398f11dbacd}
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
