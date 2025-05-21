@@ -17,22 +17,21 @@ Points forts
     ![](./1023111266.png)
 
 - Disponible en
-  - –	éditeur de texte, liste de mots, liste de résultats, paramètres des références bibliques et paramètres des chiffres
-  -
-  - Inventaire de caractères, les dialogues de vérification orthographique, les règles des guillemets.
+  - Text editor, wordlist, results list, scripture reference settings and number settings
+  - Character Inventory, Spell checking dialogs, Quotation rules.
 
 - Améliorations des ajouts à la Bible d'étude (SBA)
   - Tâches et avancement
-  - les images dans les notes en bas de page et barres latérales
+  - Figures in footnotes and sidebars
   - Les **paramètres des références bibliques** dans les projets SBA peuvent désormais remplacer les paramètres du projet de base.
   - Amélioration des **fonctions de vérification**, garantissant des processus d'examen plus précis et plus efficaces.
 
 - Inventaires
-  - annuler et refaire dans la barre d'outils (à droite)
+  - Undo and redo
 
-  - ancrer les panneaux de l'inventaire
+  - Dock Inventory panels
 
-  - les panneaux d'inventaire ont désormais une apparence et un comportement similaires à ceux de la liste de mots.
+  - Inventory panels now consistent appearance and behaviour to Wordlist.
 
     ![](./1112693466.png)
 
@@ -169,7 +168,6 @@ Actuellement, il n'est pas possible de copier à partir de Paratext, mais cette 
 - Les couleurs sont passées du **vert** au **gris (et de nouveau au vert en 9.4)**
 
 - Vous pouvez réduire ou étendre le grec / hébreu en cliquant sur la petite flèche.
-   
 
 </div><div className='notion-spacer'></div>
 

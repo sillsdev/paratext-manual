@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /Overview
 ---
 
-El manual de formación sigue las tareas del plan llamado "SIL Compact Plan". Los números de página se refieren al [PDF](https://manual.paratext.org/downloads/Ptx-man-en-9.5.pdf).
+El manual de formación sigue las tareas del plan llamado "SIL Compact Plan". The page numbers refer to the [PDF version](https://manual.paratext.org/downloads/Ptx-man-en-9.5.pdf).
 
 ### Introducción {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
@@ -59,6 +59,6 @@ El manual de formación sigue las tareas del plan llamado "SIL Compact Plan". Lo
 ### Apéndice {#793aa14dd606462cb02b5bb66acd3057}
 
 A. Textos especiales ... _p.171_
-B. Three letter abbreviations ... _p.161_
+B. Abreviaturas de tres letras ... _p.161_
 C. Marcadores USFM comunes ... _p.174_
 

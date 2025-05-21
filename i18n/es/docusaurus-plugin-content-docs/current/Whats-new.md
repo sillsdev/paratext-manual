@@ -1,38 +1,37 @@
 ---
 title: Novedades
 sidebar_position: 1
-slug: /Whats-new
+slug: /Novedades
 ---
 
 ## Paratext 9.5 {#16154c54093a4476b7397c214e78e49f}
 
-See Paratext website - [What’s New in Paratext 9.5](https://paratext.org/features/whats-new/whats-new-in-paratext-9-5)
+Consulte el sitio web de Paratext - [Novedades de Paratext 9.5](https://paratext.org/features/whats-new/whats-new-in-paratext-9-5)
 
 Destacados
 
-- **Support for whitespaces and invisible characters**\*
-  - Note: The whole team needs to update to 9.5
-  - Administrator enables it on by clicking the dropdown on the paragraph icon
+- **Compatible con espacios en blanco y caracteres invisibles**\*
+  - Nota: Todo el equipo debe actualizarse a 9.5
+  - El administrador lo activa haciendo clic en el menú desplegable del icono del párrafo
 
     ![](./1023111266.png)
 
-- Available in
-  - text editor, wordlist, results list, scripture reference settings and number settings
-  -
+- Disponible en
+  - Text editor, wordlist, results list, scripture reference settings and number settings
   - Character Inventory, Spell checking dialogs, Quotation rules.
 
 - Study Bible Additions (SBA) Improvements
   - Asignaciones y Progreso
-  - figures in footnotes and sidebars
+  - Figures in footnotes and sidebars
   - Scripture Reference Settings within SBA projects can now override the settings of the base project
   - Improved checking features, ensuring more accurate and efficient review processes.
 
 - Inventories
-  - undo and redo
+  - Undo and redo
 
-  - dock Inventory panels
+  - Dock Inventory panels
 
-  - inventory panels now consistent appearance and behaviour to Wordlist.
+  - Inventory panels now consistent appearance and behaviour to Wordlist.
 
     ![](./1112693466.png)
 

@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /Overview
 ---
 
-O manual de treinamento segue as tarefas no Plano Compacto SIL. The page numbers refer to the [PDF](https://manual.paratext.org/downloads/Ptx-man-en-9.5.pdf).
+O manual de treinamento segue as tarefas no Plano Compacto SIL. The page numbers refer to the [PDF version](https://manual.paratext.org/downloads/Ptx-man-en-9.5.pdf).
 
 ### Introduction {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
