@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkparatext_manual=self.webpackChunkparatext_manual||[]).push([[8063],{2776:a=>{a.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);
