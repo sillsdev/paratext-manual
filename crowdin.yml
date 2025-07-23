@@ -15,9 +15,15 @@ files: [
       "source": /docs/Training-manual/**/*.*,
       "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/Training-manual/**/%original_file_name%,
 
-    # Using *.* because we want .md files and images.
-      "source": /docs/Administrator's-Manual/**/*.*,
-      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/Administrator's-Manual/**/%original_file_name%,
+      # "skip_untranslated_files": true,
+
+      # We don't want _category_.json files because those get localized via current.json.
+      "ignore": ["**/_category_.json"],
+    },
+    {
+      # Using *.* because we want .md files and images.
+      "source": /docs/Administrator-manual/**/*.*,
+      "translation": /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/Administrator-manual/**/%original_file_name%,
 
       # "skip_untranslated_files": true,
 
