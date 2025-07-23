@@ -1,5 +1,5 @@
 ---
-title: Novedades
+title: Qué hay de nuevo
 sidebar_position: 1
 slug: /Novedades
 ---
@@ -8,7 +8,7 @@ slug: /Novedades
 
 Consulte el sitio web de Paratext - [Novedades de Paratext 9.5](https://paratext.org/features/whats-new/whats-new-in-paratext-9-5)
 
-Destacados
+Reflejos
 
 - **Compatible con espacios en blanco y caracteres invisibles**\*
   - Nota: Todo el equipo debe actualizarse a 9.5
@@ -17,87 +17,87 @@ Destacados
     ![](./1023111266.png)
 
 - Disponible en
-  - Text editor, wordlist, results list, scripture reference settings and number settings
-  - Character Inventory, Spell checking dialogs, Quotation rules.
+  - Editor de texto, lista de palabras, lista de resultados, Configuración de referencias bíblicas y Configuración de números
+  - Inventario de caracteres, diálogos de corrección ortográfica, reglas de comillas.
 
-- Study Bible Additions (SBA) Improvements
+- Mejoras en las adiciones a la Biblia de Estudio (SBA)
   - Asignaciones y Progreso
-  - Figures in footnotes and sidebars
-  - Scripture Reference Settings within SBA projects can now override the settings of the base project
-  - Improved checking features, ensuring more accurate and efficient review processes.
+  - Ilustraciones en notas a pie de página y barras laterales
+  - La configuración de referencia de la escritura dentro de las adiciones a la Biblia de Estudio ahora puede anular la configuración del proyecto base
+  - Mejora de las funciones de comprobación, garantizando procesos de revisión más precisos y eficaces.
 
-- Inventories
-  - Undo and redo
+- Inventarios
+  - Deshacer y rehacer
 
-  - Dock Inventory panels
+  - Paneles de inventario del muelle
 
-  - Inventory panels now consistent appearance and behaviour to Wordlist.
+  - Los paneles de inventario tienen ahora un aspecto y un comportamiento similares a los de la lista de palabras.
 
     ![](./1112693466.png)
 
-  - Approval is managed based on location - verse text, non-verse text, or study content within SBA.
+  - La aprobación se gestiona en función de la ubicación: texto en verso, texto sin verso o contenido de estudio dentro de SBA.
 
-  - Filtering to help find and organize inventory items.
+  - Filtrado para ayudar a encontrar y organizar los artículos del inventario.
 
-- Additional improvements
-  - Display **multiple gloss languages** in Biblical terms (Major Biblical Terms)
+- Mejoras adicionales
+  - Mostrar **múltiples lenguas de glosa** en términos bíblicos (Principales términos bíblicos)
 
     ![](./1665268168.png)
 
-  - Filter buttons to the Download/Install resources window
+  - Botones de filtro para la ventana de recursos de descarga/instalación
 
     ![](./1707327688.png)
 
-  - Simplified creating and editing Interlinearizer settings.
-    - Choose from existing or click **Create New**
+  - Simplificación de la creación y edición de las configuraciones del interlinealizador.
+    - Elija entre los existentes o haga clic en **Crear nuevo**
 
       ![](./1194429716.png)
 
-    - Choose the model text, click **save**
+    - Elija el texto del modelo, haga clic en **guardar**
 
       ![](./297274585.png)
 
-  - Project notes list - “unread and unresolved” filter
+  - Lista de notas de proyecto - filtro "no leído y no resuelto
 
     ![](./195867166.png)
 
-### Additional Improvements {#1ba598a5fd40807f8592f94edb9bef69}
+### Mejoras adicionales {#1ba598a5fd40807f8592f94edb9bef69}
 
-We’ve also made these additional improvements:
+También hemos introducido estas mejoras adicionales:
 
-- Added the ability to display **multiple gloss languages** in **Biblical Terms** windows.
-- Added **filter buttons** to the **Download/Install resources** window.
-- **Simplified** the process of creating and editing **Interlinearizer settings**.
-- Added an **“Unread and unresolved”** filter to the **Project notes list**.
-- Provided support for the new format of Flora, Fauna, and Realia in the Enhanced Resource Encyclopedia tab.
-- Provided support for multi-language Flora, Fauna, and Realia.
-- Added a Help link for apparatus abbreviation in GRK Source Language Text.
-- Improved UI localization implementation.
-- Improved merging changes for project data.
-- Allowed changing inventories and settings for Transliteration projects.
-- Added ability to automatically format references when Scripture Reference settings are updated.
-- Provided a built-in Paratext annual survey invitation.
-- Many bug fixes.
+- Se ha añadido la posibilidad de mostrar **múltiples idiomas de glosa** en las ventanas de **Términos bíblicos**.
+- Añadidos **botones de filtro** a la ventana **Descargar/Instalar recursos**.
+- **Simplifica** el proceso de creación y edición de las **configuraciones del interlinealizador**.
+- Añadido un filtro **"No leídas y no resueltas "** a la **lista de notas del proyecto**.
+- Apoyo al nuevo formato de Flora, Fauna y Realia en la pestaña Enciclopedia de recursos mejorada.
+- Apoyo a Flora, Fauna y Realia en varios idiomas.
+- Se ha añadido un enlace de ayuda para la abreviatura de aparatos en el texto del lenguaje fuente GRK.
+- Mejora de la localización de la interfaz de usuario.
+- Mejora de la fusión de cambios para datos de proyectos.
+- Permite modificar los inventarios y la configuración de los proyectos de transliteración.
+- Se ha añadido la posibilidad de dar formato automáticamente a las referencias cuando se actualizan la Configuración de referencias bíblicas.
+- Se ha incorporado una invitación a la encuesta anual Paratext.
+- Muchas correcciones de errores.
 
-Please see the _What’s new in Paratext 9.5?_ Help topic for more info about these improvements.
+Consulta el tema de ayuda _¿Qué hay de nuevo en Paratext 9.5?_ para obtener más información sobre estas mejoras.
 
-## Paratext 9.4  {#192598a5fd408046bbd6d5ee536dc483}
+## Paratexto 9.4 {#192598a5fd408046bbd6d5ee536dc483}
 
-See Paratext website - [**What’s New in Paratext 9.4 Beta**](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/)
+Consulte el sitio web de Paratext - [**Qué hay de nuevo en Paratext 9.4 Beta**](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/)
 
-Destacados
+Reflejos
 
-- **Notification of updates for projects on the user’s computer:**  A green dot on the project menu. Los ajustes para comprobar si hay actualizaciones están disponibles en la ventana **Enviar/Recibir proyectos**. [Vídeo de demostración del menú principal](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
+- **Notificación de actualizaciones de proyectos en el ordenador del usuario:** Un punto verde en el menú del proyecto. Los ajustes para comprobar si hay actualizaciones están disponibles en la ventana **Enviar/Recibir proyectos**. [Vídeo de demostración del menú principal](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857678678)
 
   ![](./339463073.png)
 
-- **Notificación de actualizaciones de los recursos instalados.** Un punto verde en el menú principal también puede indicar actualizaciones de los textos de los recursos en el ordenador local. Access to the settings for this feature is in the **Download/Install resources**
+- **Notificación de actualizaciones de los recursos instalados.** Un punto verde en el menú principal también puede indicar actualizaciones de los textos de los recursos en el ordenador local. El acceso a la configuración de esta función se encuentra en los **Recursos de descarga/instalación**
 
 - **Interfaz de derecha a izquierda mejorada.** Paratext muestra ahora correctamente las interfaces de usuario de derecha a izquierda (como el árabe). [Demostración en vídeo RTL](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
 
   ![](./1222641753.png)
 
-- **Option to hide project notes.** Access from the **View menu &gt; Show Project Notes**. [Vídeo de demostración del menú del proyecto](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)
+- **Opción para ocultar las notas del proyecto.** Acceda desde el **menú Ver &gt; Mostrar notas del proyecto**. [Vídeo de demostración del menú del proyecto](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=857939433)
 
   ![](./179350404.png)
 
@@ -105,21 +105,21 @@ Destacados
 
 - **Agregado vídeo a los Recursos Mejorados.** Ahora la pestaña Media de los Recursos Mejorados contiene clips de vídeo de [LUMO](https://lumoproject.com/) y de la serie de UBS "Tierras de la Biblia como Aula". [Vídeos de recursos mejorados - demostración en vídeo](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858761461)
 
-- **Import/Export Biblical terms lists.** Allows users to create and exchange the Biblical Terms lists as the project progresses. [Demostración en vídeo de términos bíblicos](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858020833)
+- **Importar/Exportar listas de términos bíblicos.** Permite a los usuarios crear e intercambiar las listas de términos bíblicos a medida que avanza el proyecto. [Demostración en vídeo de términos bíblicos](https://paratext.org/features/whats-new/whats-new-in-paratext-9-4-beta/?vimeography_gallery=157&vimeography_video=858020833)
 
 **¡Y muchas más mejoras!**
 
-## Paratext 9.3  {#4c850f9665ff4ab8870f1ae0fed0e870}
+## Paratexto 9.3 {#4c850f9665ff4ab8870f1ae0fed0e870}
 
-[What’s new in Paratext 9.3](https://paratext.org/features/whats-new/whats-new-in-paratext-9-3/)
+[Novedades de Paratext 9.3](https://paratext.org/features/whats-new/whats-new-in-paratext-9-3/)
 
-### Paratext Live uses a couple of servers {#14973ac6c79843a3a94db72e3348418d}
+### Paratext Live utiliza un par de servidores {#14973ac6c79843a3a94db72e3348418d}
 
 - Paratext 8, 9.0 y 9.1 utilizan un servidor llamado Internet (secundario) WCF y Paratext 9.2 utiliza Internet (primario) AMQP.
   - _Esta es la razón por la que no puede utilizar Paratext Live con 9.2 y 9.1 al mismo tiempo_
 - En Paratext 9.3, cuando inicie Paratext live, elija qué servidor desea utilizar.
-  - **Internet (primary)**, which is 9.2 and 9.3.
-  - **Internet (secondary)** which is 9.0, 9.1 or Paratext 8.
+  - **Internet (primario)**, que es 9.2 y 9.3.
+  - **Internet (secundario)** que es 9.0, 9.1 o Paratext 8.
 
 :::note
 
@@ -127,22 +127,22 @@ Todo el mundo en una sesión en vivo en particular todavía tiene que utilizar e
 
 :::
 
-## Study Bible Additions {#8c8628c57aa04e48b5d33488872d0b29}
+## Adiciones a la Biblia de Estudio {#8c8628c57aa04e48b5d33488872d0b29}
 
-The most obvious new feature the ability to **compare versions**.
+La novedad más evidente es la posibilidad de **comparar versiones**.
 
 1. Abrir un proyecto de Adiciones a la Biblia de Estudio
 2. En el menú **Proyecto**,
 3. En **Proyecto**, elija **Comparar versiones**
   - _Se muestran los cambios en las adiciones_.
 
-## Scripture reference in navigation bar {#3c00a0202ad949bc8909f66660badb73}
+## Referencia bíblica en la barra de navegación {#3c00a0202ad949bc8909f66660badb73}
 
 En Paratext 9.3 puede copiar y pegar una referencia bíblica en la barra de navegación.
 
 1. Copiar el texto de una referencia (de otro archivo)
-2. Click in the **book name** in the navigation bar
-3. Paste using **Ctrl+V**
+2. Haga clic en el **nombre del libro** en la barra de navegación
+3. Pegar con **Ctrl+V**
 
   ![](./1158626626.png)
 
@@ -160,14 +160,14 @@ Actualmente no puede copiar desde Paratext, pero esa función se añadirá en un
 
 :::
 
-## Parallel Passages Tool {#f660aff19a7541efaa453398f11dbacd}
+## Herramienta de pasajes paralelos {#f660aff19a7541efaa453398f11dbacd}
 
 <div class='notion-row'>
 <div class='notion-column' style={{width: 'calc((100% - (min(32px, 4vw) * 1)) * 0.5)'}}>
 
-- The colours have changed from **green** to **grey (and back to green in 9.4)**
+- Los colores han pasado de **verde** a **gris (y de nuevo a verde en 9.4)**
 
-- You can reduce or expand the Greek / Hebrew by clicking the little arrow.
+- Puede reducir o ampliar el griego / hebreo haciendo clic en la flechita.
 
 </div><div className='notion-spacer'></div>
 
@@ -178,24 +178,24 @@ Actualmente no puede copiar desde Paratext, pero esa función se añadirá en un
 </div><div className='notion-spacer'></div>
 </div>
 
-## Open a text collection {#fd1736d1bd07444fb6902b8dccf951dc}
+## Abrir una colección de textos {#fd1736d1bd07444fb6902b8dccf951dc}
 
-There is a new menu item on the **main menu**
+Hay un nuevo elemento de menú en el **menú principal**
 
-1. From the **Paratext menu**
+1. Desde el **menú de Paratext**
 
-2. Choose **Open text collection**
+2. Seleccione **Abrir colección de textos**
   - _Esta ventana se parece a la que se utilizaba en versiones anteriores de Paratext_.
 
     ![](./839941766.png)
 
-3. Open a previously **saved text collection** from the bottom left
+3. Abrir una colección de **textos** previamente guardada desde la parte inferior izquierda
 
-4. You can still open a text collection from the **Open** window as well.
+4. También puede abrir una colección de textos desde la ventana **Abrir**.
 
-## Arranging windows {#b526a01da9e04357804f4849c39f2fdc}
+## Disposición de las ventanas {#b526a01da9e04357804f4849c39f2fdc}
 
-- Arrange windows by **rows** as well as by **columns**.
+- Ordenar las ventanas tanto por **filas** como por **columnas**.
 
 :::tip
 
@@ -205,15 +205,15 @@ There is a new menu item on the **main menu**
 
 ![](./1620979427.png)
 
-## Floating Windows {#493f51aae2f5480893f25897c408c26c}
+## Ventanas flotantes {#493f51aae2f5480893f25897c408c26c}
 
 - Desplegable para cambiar el proyecto activo
 
   ![](./807351003.png)
 
-### Other new/changed {#4796465de7ac4f3190c47faa4b9750b8}
+### Otros nuevos/modificados {#4796465de7ac4f3190c47faa4b9750b8}
 
-- **RegEx Pal** - from Main menu &gt; Advanced or Project menu &gt; Advanced.
-- **Synchronizing** with Logos and other compatible programs is now turned **on by default**
+- **RegEx Pal** - desde el menú Principal &gt; Avanzado o el menú Proyecto &gt; Avanzado.
+- **La sincronización** con Logos y otros programas compatibles está ahora **activada por defecto**
 - Se han realizado cambios para facilitar la localización de los archivos de ayuda y de la interfaz de usuario
-- **Bible modules** can now handle **chapter markers** in the extra books
+- **Los módulos de la Biblia** ahora pueden manejar **marcadores de capítulos** en los libros adicionales

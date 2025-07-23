@@ -1,6 +1,6 @@
 ---
 title: प्रशिक्षण मैनुअल का अवलोकन - पीडीएफ
-sidebar_position: 1
+sidebar_position: 0
 slug: /Overview
 ---
 

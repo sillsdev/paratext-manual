@@ -1,10 +1,10 @@
 ---
 title: Resumen del manual de formación - PDF
-sidebar_position: 1
+sidebar_position: 0
 slug: /Overview
 ---
 
-El manual de formación sigue las tareas del plan llamado "SIL Compact Plan". The page numbers refer to the [PDF version](https://manual.paratext.org/downloads/Ptx-man-a5-en-9.5.pdf).
+El manual de formación sigue las tareas del plan llamado "SIL Compact Plan". Los números de página se refieren a la [versión PDF](https://manual.paratext.org/downloads/Ptx-man-a5-en-9.5.pdf).
 
 ### Introducción {#f748dd5b42c84d77a33c8d16f0cf6f37}
 
