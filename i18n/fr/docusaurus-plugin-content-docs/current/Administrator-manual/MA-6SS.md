@@ -1,57 +1,57 @@
 ---
-title: 6. Setup for Success
+title: AM 6. Configuration pour réussir
 sidebar_position: 5
 slug: /MA-6SS
 ---
 
-Things to consider:
+Éléments à prendre en considération :
 
-_**This is a dynamic process**_
+_**Il s'agit d'un processus dynamique**_
 
-- When a project is brand new, there aren't many settings that can be fixed.
-- As the project matures, some of the inventories start to make sense.
+- Lorsqu'un projet est tout nouveau, il n'y a pas beaucoup de paramètres qui peuvent être fixés.
+- Au fur et à mesure que le projet mûrit, certains inventaires commencent à prendre tout leur sens.
 
-_**Who is working on the project**_
+_**Qui travaille sur le projet**_
 
-- Set up users, roles, and permissions
-- Would it be useful to have a ‘simplified menu’?
+- Configurez les utilisateurs, les rôles et les autorisations
+- Serait-il utile d'avoir un « menu simplifié » ?
 
 _**Do you need to customise the settings?**_
 
 - custom.sty
-- change the style sheet settings
-- the names of markers (in other languages)
-- the colour to help identify features?
+- modifier les paramètres de la feuille de style
+- les noms des marqueurs (dans d'autres langues)
+- la couleur pour aider à identifier les caractéristiques ?
 - custom.vrs
-- identify verses that are different from the default versification
+- identifier les versets qui diffèrent de la versification par défaut
 
 _**What spelling will be used?**_
 
-- Place the spelling letters in the language settings.
-- (Remember that what you put in the language settings could go into the ‘Speech and Language Data Repository’.)
+- Placez les lettres d'orthographe dans les paramètres de langue.
+- (N'oubliez pas que ce que vous indiquez dans les paramètres linguistiques peut être enregistré dans le « Speech and Language Data Repository » (référentiel de données linguistiques et vocales).
 
 _**How will characters be entered?**_
 
-- Keyman/MSKLC (Keyman is free!)
+- Keyman/MSKLC (Keyman est gratuit !)
 - AutoCorrect.txt
 
 _**Which quotation system will be used?**_
 
-- Define quotation rules [Dynamic]
-- Think about your rules
-- Test what you have chosen
-- Adjust rules
-- Make corrections to rules/text if necessary
+- Définir les règles de guillemets [Dynamique]
+- Pensez à vos règles
+- Testez ce que vous avez choisi
+- Ajustez des règles
+- Faire des corrections aux règles/au texte si nécessaire
 
-_**When you have text data**_
+_**Lorsque vous avez des données textuelles**_
 
-- Start with inventories
-- Start at the beginning [characters]
-- Look for options in the inventories!
-- Is the element valid all the time? Or just in certain situations?
+- Commencez avec des inventaires
+- Commencez par le début [caractères]
+- Recherchez des options dans les inventaires !
+- L’élément est-il valable tout le temps ? Ou juste dans certaines situations ?
 
-_**Biblical reference settings**_
+_**Paramètres de référence biblique**_
 
-- Which book names do you use?
-- What is the format of a reference?
+- Quels noms de livres utilisez-vous ?
+- Quel est le format d’une référence ?
 - Where to place the origin of notes? [First, last...]
