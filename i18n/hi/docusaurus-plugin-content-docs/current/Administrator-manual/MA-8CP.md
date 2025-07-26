@@ -52,7 +52,7 @@ We will work through the six changes that can be made to your project.
 
 :::tip
 
-This will not work to change the encoding if your project contains a ‘pirated font’. Normalisation – compound or decomposed.
+This will not work to change the encoding if your project contains a ‘pirated font’. Normalisation – composed or decomposed.
 
 :::
 

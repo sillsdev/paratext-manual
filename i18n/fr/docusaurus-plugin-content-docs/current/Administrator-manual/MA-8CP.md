@@ -52,7 +52,7 @@ Nous allons travailler les six changements qui peuvent être apportés à votre 
 
 :::tip
 
-<aside> 💡 Cela ne fonctionnera pas pour modifier l’encodage si votre projet comporte une « police piratée ». Normalisation – composés ou décomposés.
+<aside> 💡 Cela ne fonctionnera pas pour modifier l’encodage si votre projet comporte une « police piratée ». Normalisation – composed or decomposed.
 
 :::
 
