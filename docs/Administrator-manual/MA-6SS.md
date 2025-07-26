@@ -1,5 +1,5 @@
 ---
-title: 6. Setup for Success
+title: AM 6. Setup for Success
 sidebar_position: 5
 slug: /MA-6SS
 ---

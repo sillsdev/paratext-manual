@@ -1,15 +1,15 @@
 ---
-title: 9. Cross-references
+title: AM 9. Cross-references
 sidebar_position: 8
 slug: /MA-9CR
 ---
 
 
 
-# **RE: Cross-references** {#238598a5fd408031ad34d35c40f98d0b}
+# **CR: Cross-references** {#238598a5fd408031ad34d35c40f98d0b}
 
 
-## **9.1 Introduction** {#238598a5fd40806a9aedf7a3c815e546}
+### **9.1 Introduction** {#238598a5fd40806a9aedf7a3c815e546}
 
 
 Most languages do not have access to concordances and other Bible study resources in their own language. Adding cross-references to your New Testament can greatly help your reader understand the text by helping them find passages on similar themes.
@@ -68,9 +68,7 @@ Note: Resources do not allow you to extract cross-references.
 - Navigate to the .xrf file containing extracted cross-references.
 - Select the file, then click **Open**.
 - If desired, select one of the checkboxes.
-
-(See the guide for more information.)
-
+	- (See the guide for more information.)
 - Click **OK**
 
 :::tip

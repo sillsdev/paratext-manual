@@ -1,5 +1,5 @@
 ---
-title: 7. Project Plan
+title: AM 7. Project Plan
 sidebar_position: 6
 slug: /MA-7PP
 ---
