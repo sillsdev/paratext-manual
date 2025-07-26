@@ -50,11 +50,7 @@ Nous allons travailler les six changements qui peuvent être apportés à votre 
 
 - **[4]** Select this option to convert a standard Unicode encoding project.
 
-:::tip
-
-<aside> 💡 Cela ne fonctionnera pas pour modifier l’encodage si votre projet comporte une « police piratée ». Normalisation – composed or decomposed.
-
-:::
+> This will not work to change the encoding if your project contains a ‘pirated font’. Normalisation – composed or decomposed.
 
 ### **8.2.5 Normalisation** {#238598a5fd408022a4cdfa3928de338b}
 
@@ -65,9 +61,7 @@ Nous allons travailler les six changements qui peuvent être apportés à votre 
 - **[6]** Select the name of the user you want to replace from the drop-down list.
 - **[7]** Type the name of a registered Paratext user in this box.
 - **[8]** Click **Add**,
-
-un résumé du remplacement s’affiche avec un bouton "Retirer".
-
+    - _a summary of the replacement is displayed with a ‘Remove’ button._
 - [If you make a mistake when typing the name in the **With** field or decide not to make the replacement, click **Remove**].
 
 ## **8.3 Converting a project** {#238598a5fd4080c5af98e42c78124f28}
