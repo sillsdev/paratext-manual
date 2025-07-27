@@ -26,7 +26,7 @@ _**Qu’est-ce qu’on va faire ?**_
 
 Vous allez installer Paratext 9 (sans désinstaller Paratext 7 ou 8). Vous allez également faire une mise à jour à partir d’un fichier MSP.
 
-## **1.2 Installing Paratext 9** {#238598a5fd40802aaa7dfc4925f3f24a}
+## **1.2 Installation de Paratext 9** {#238598a5fd40802aaa7dfc4925f3f24a}
 
 :::tip
 
@@ -59,24 +59,24 @@ N.B Les projets de Paratext 8 et 9 ne peuvent pas partager le même dossier que 
 - Cliquez sur **Terminer**, puis **Fermer**.
 - La première fois que vous lancez Paratext 9, vous devrez entrer votre code d’inscription de Paratext. Des informations sur la façon d’obtenir ce code figurent sur la page d’inscription (registration).
 
-## **1.3 Registering a Paratext 7 user**  {#238598a5fd4080c0b685dcc6e657e6f1}
+## **1.3 Enregistrement d'un utilisateur Paratext 7**  {#238598a5fd4080c0b685dcc6e657e6f1}
 
-**(when running Paratext for the first time)**
+\*\*(lors de la première exécution de Paratext)
 
 Tous les utilisateurs ont besoin d’une nouvelle inscription pour Paratext 9.
 
 - Exécuter Paratext 9 (pour la première fois)
 - Choisissez la langue de l’interface
-    - _A dialogue box will appear asking for your registration code._
+    - _Une boîte de dialogue s’affiche pour demander votre code d’enregistrement._
 - Dans votre navigateur web, Accédez à https://registry.paratext.org](https://registry.paratext.org/)
-    - _The ‘Sign in’ page will appear._
+    - _La page “Sign in”(se connecter) s’affiche._
 - Tapez votre adresse émail (du Gmail)
 - Cliquez sur le lien Register/Inscription
 - Tapez le nom d’utilisateur
 - Saisissez (ou copiez) le code d’inscription Paratext 7 de l’utilisateur
 - Copier le nouveau code de Paratext 9
 - Retournez à Paratext
-    - _Paratext will paste the code_
+    - _Paratext va coller le code_
 - Cliquez sur **OK**.
 
 ## **1.4 Manually updating your existing version of Paratext** {#238598a5fd4080fc8412c49d265a0241}

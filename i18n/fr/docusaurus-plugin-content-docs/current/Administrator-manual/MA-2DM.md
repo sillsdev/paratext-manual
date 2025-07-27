@@ -50,22 +50,22 @@ Il sera probablement marqué comme "v7, non-inscrit."
 
 Il se peut que le projet soit marqué comme "v7" sans être décrit comme non-inscrit, car un certain nombre de projets Paratext 7 ont été préinscrits sur Paratext 8. Si le vôtre est l'un de ceux-ci, vous devriez continuer la migration, mais vous pouvez sauter l'enregistrement.
 
-- Click **OK** to start migrating the project.
+- Cliquez sur **OK** pour lancer la migration du projet.
 
 La boîte de dialogue Faire migrer un projet partagé s'affiche.
 
-_Paratext 8 may tell you that the project needs to be registered (if it is not pre-registered) and that it needs to be migrated to Paratext 8._
+_Paratext 8 peut vous indiquer que le projet doit être inscrit (s'il n'est pas préenregistré) et qu'il doit être migré vers Paratext 8_
 
 **2.2.2 Inscrire un projet (avant de faire migrer le projet)**
 
-- Click the **Register Online** button
+- Cliquez sur le bouton **Register Online** (Inscription en ligne)
 - Remplissez le formulaire web. (Les champs marqués d'un astérisque sont obligatoires.)
 - Short name (Nom abrégé) : Le nom abrégé du projet ne sera plus modifiable après ce processus.
 - Full name (Nom complet) : Vous pouvez modifier le nom complet du projet.
-- Paratext 8 nécessite un identifiant de langue pour votre langue. Use the **Search** function in the language name to find the Ethnologue code for your language.
-- **Scope** Will the project be a complete Bible, a complete Bible including the deuterocanonical books, the New Testament, or some other group of books?
-- The **type of translation** indicates whether the project is the first translation for this language, a revision of an existing translation, a new translation, or a translation with study notes, such as a study Bible.
-- **Country**: Indicate the country where the language is spoken. Vous pouvez taper quelques lettres du nom puis choisir le pays désiré. Vous pouvez spécifier plus d’un pays si la langue se propage au-delà des frontières
+- Paratext 8 nécessite un identifiant de langue pour votre langue. Utilisez la Search (recherche) dans le nom de la langue pour trouver le code Ethnologue de votre langue.
+- Scope (L’étendue) Est-ce que le projet sera une Bible complète ou une Bible complète comprenant les deutérocanoniques, le Nouveau Testament ou tout autre groupe de livres?
+- Le **type de traduction** désigne si le projet est la première traduction pour cette langue, une révision d'une traduction existante, une nouvelle traduction ou une traduction comprenant des notes d'étude, comme une bible d'étude.
+- \*\*Country : Indiquez le pays où la langue est parlée. Vous pouvez taper quelques lettres du nom puis choisir le pays désiré. Vous pouvez spécifier plus d’un pays si la langue se propage au-delà des frontières
 - **Rights holder**: The rights holder would be the organisation from which you expect to obtain copyright for a printed edition. Cela peut également être modifié plus tard.
 - Les quatre derniers champs vous permettent d'ajouter d'autres informations si elles sont pertinentes pour décrire votre projet. (Aucune de ces options n'est requise.)
 - Vous pouvez indiquer si votre projet est confidentiel ou non. Seuls les utilisateurs enregistrés de Paratext 8 peuvent afficher le nom des projets standard, un projet confidentiel sera masqué même devant les autres utilisateurs de Paratext 8.
