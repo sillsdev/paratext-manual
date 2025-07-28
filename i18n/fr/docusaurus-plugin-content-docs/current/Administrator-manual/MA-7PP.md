@@ -168,25 +168,25 @@ Les groupes de priorité sont un moyen de faire savoir à Paratext l'ordre dans 
 
 1. Cliquez sur le menu **≡ Projet**, choisissez **Paramètres du projet** et allez à **Définir les priorités**
 2. Sélectionnez les livres, puis cliquez sur l’icône de flèche droite
-3. Hover the mouse over the title or the book name in right column
-4. Click the three dots, choose **Edit**
-5. Rearrange the books as needed by clicking on a book name and moving it up or down using the arrows buttons.
-6. Rename the group (e.g. Gospels).
+3. Passez la souris sur le titre ou le nom du livre dans la colonne de droite
+4. Cliquez sur les trois points, choisissez Édition\*\*
+5. Réorganisez les livres selon vos besoins en cliquant sur un livre et en le déplaçant vers le haut ou vers le bas à l'aide des boutons fléchés.
+6. Renommez le groupe (p.ex. Évangiles).
 
 Pour définir des chapitres spécifiques,
 
-1. Select a book name link
-2. Choose which chapters
+1. Cliquez sur le lien vers le nom du livre
+2. Choisissez les chapitres désirés
 3. Cliquez sur **OK**
     - _Si vous ajoutez ensuite un livre dont les chapitres sont déjà définis, il n'ajoutera que les chapitres restants_.
-4. Change order of priorities using the up arrow.
+4. Modifier l'ordre des priorités à l'aide de la flèche vers le haut.
 
-### Using the priorities {#238598a5fd4080509566d728cdfb33ed}
+### Utilisation des priorités {#238598a5fd4080509566d728cdfb33ed}
 
 Une fois que les priorités ont créés, elles peuvent être utilisées partout où vous choisirez normalement des livres. Par exemple,
 
-1. **Find** dialog (Ctrl+F)
-    - Click on **choose**
+1. Boîte de dialogue **Trouver** (Ctrl+F)
+    - Cliquez sur **Choisir**
     - Select the **Priority** tab.
 2. **Assignments and Progress** (blue button), book selection can be set to a priority.
 3. (Project menu ) **Export PDF**, click Choose button, then Priority tab.
