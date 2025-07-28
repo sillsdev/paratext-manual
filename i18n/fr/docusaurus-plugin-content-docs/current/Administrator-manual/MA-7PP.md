@@ -188,7 +188,7 @@ Une fois que les priorités ont créés, elles peuvent être utilisées partout 
 1. Boîte de dialogue **Trouver** (Ctrl+F)
     - Cliquez sur **Choisir**
     - Sélectionnez l'onglet **Priorité**.
-2. \*\*Tâches et avancement (bouton bleu), la sélection des livres peut être définie par ordre de priorité.
+2. **Tâches et avancement** (bouton bleu), la sélection des livres peut être définie par ordre de priorité.
 3. (Project menu ) **Export PDF**, click Choose button, then Priority tab.
 4. Any window with a filter (e.g. Wordlist, Biblical terms ...)
 

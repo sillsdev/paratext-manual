@@ -35,7 +35,7 @@ _**Qu’est-ce qu’on va faire ?**_
 
 ## **3.2 S'enregistrer avec un compte Google** {#238598a5fd4080c68c4ffa43e60d77be}
 
-- Accédez à https://registry.paratext.org](https://registry.paratext.org)
+- Accédez à [https://registry.paratext.org](https://registry.paratext.org)
 
 L'écran "Connexion" s'affiche.
 
@@ -88,7 +88,7 @@ Il existe diverses raisons pour lesquelles vous devrez changer votre code Parate
 
 **3.5.1 Changer votre propre code**
 
-- Accédez au site d'inscription https://registry.paratext.org](https://registry.paratext.org).
+- Accédez au site d'inscription [https://registry.paratext.org](https://registry.paratext.org).
 - Se connecter (si vous n'êtes pas connecté)
 - Cliquez sur le nom d'utilisateur en haut à gauche.
 
@@ -123,7 +123,7 @@ Vous devrez le faire sur n'importe quel autre ordinateur sur lequel votre code d
 
 **(que** _**vous**_ **avez enregistré)**
 
-- Accédez au site d'inscription https://registry.paratext.org](https://registry.paratext.org)
+- Accédez au site d'inscription [https://registry.paratext.org](https://registry.paratext.org)
 - Se connecter (si vous n'êtes pas connecté)
 - Cliquez sur User
 - Cliquez sur le nom d'utilisateur de la liste
@@ -139,7 +139,7 @@ Un message s'affiche.
 
 Tout administrateur d'un projet inscrit peut créer de nouveaux inscriptions d'utilisateurs s'ils doivent ajouter des personnes à leur projet. Ces utilisateurs n'ont pas besoin d'avoir une adresse email.
 
-- Accédez à https://registry.paratext.org](https://registry.paratext.org)
+- Accédez à [https://registry.paratext.org](https://registry.paratext.org)
 - Connectez-vous à l’aide de votre adresse email
 - Cliquez sur **Users**
 - Cliquez sur +Register New User\*\*
