@@ -16,7 +16,7 @@ _**Qui travaille sur le projet**_
 - Configurez les utilisateurs, les rôles et les autorisations
 - Serait-il utile d'avoir un « menu simplifié » ?
 
-_**Do you need to customise the settings?**_
+Avez-vous besoin de personnaliser les paramètres ?
 
 - custom.sty
 - modifier les paramètres de la feuille de style
@@ -25,17 +25,17 @@ _**Do you need to customise the settings?**_
 - custom.vrs
 - identifier les versets qui diffèrent de la versification par défaut
 
-_**What spelling will be used?**_
+_**Quelle orthographe sera utilisée**_
 
 - Placez les lettres d'orthographe dans les paramètres de langue.
 - (N'oubliez pas que ce que vous indiquez dans les paramètres linguistiques peut être enregistré dans le « Speech and Language Data Repository » (référentiel de données linguistiques et vocales).
 
-_**How will characters be entered?**_
+_**Comment les caractères seront-ils saisis ?**_
 
 - Keyman/MSKLC (Keyman est gratuit !)
 - AutoCorrect.txt
 
-_**Which quotation system will be used?**_
+_**Quel système de citation sera utilisé ?**_
 
 - Définir les règles de guillemets [Dynamique]
 - Pensez à vos règles
@@ -54,4 +54,4 @@ _**Paramètres de référence biblique**_
 
 - Quels noms de livres utilisez-vous ?
 - Quel est le format d’une référence ?
-- Where to place the origin of notes? [First, last...]
+- Où placer l'origine des notes ? [Premier, dernier...]

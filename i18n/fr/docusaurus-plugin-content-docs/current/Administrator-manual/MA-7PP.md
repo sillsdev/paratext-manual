@@ -5,13 +5,13 @@ slug: /MA-7PP
 ---
 
 **Introduction**\
-“Progress tracking” based on a Project Plan and Assignments and Progress is an improved feature in **Paratext** 9.1 that impacts the day-to-day work of translation teams.
+Suivre le progrès basé sur un plan du projet est une fonctionnalité améliorée qui aura un impact sur le travail quotidien des équipes de la traduction.
 
-**Before you start**\
-Before you can add the plan, the project must have been created/or migrated.
+**Avant de commencer**\
+Avant de pouvoir ajouter le plan, le projet doit avoir été créé/migré.
 
-**Why is this Important**\
-There are many tasks to be done in a translation project. Il est important d’avoir un système pour s’assurer que tout cela est fait. Il est également bon d’avoir un moyen facile de générer des rapports pour les superviseurs et les bailleurs de fonds (voir PP2 : Rapport sur le plan du projet).
+**Pourquoi est-il important ?**\
+Il y a beaucoup de taches à faire dans un projet de traduction. Il est important d’avoir un système pour s’assurer que tout cela est fait. Il est également bon d’avoir un moyen facile de générer des rapports pour les superviseurs et les bailleurs de fonds (voir PP2 : Rapport sur le plan du projet).
 
 La configuration d’un plan de projet à partir de zéro est intimidante. Diverses organisations de traduction de la Bible (ABU, SIL et The Seed Company) incluront des plans “de base” qui peuvent être appliqués à des projets. Les équipes ne doivent que personnaliser ces plans dans les limites fixées par leurs organisations.
 
@@ -19,15 +19,14 @@ En générale, les organisations veulent la conformité au niveau de l’« é
 
 Si une tâche est importante pour vous et votre équipe et que vous souhaitez en suivre les progrès, elle peut être incluse dans le plan du projet (même si elle ne nécessite pas l'utilisation de Paratext).
 
-**What are you going to do?**\
-You will use a combination of two features: the settings of the **Project Plan** and the **Assignments and Progress** (sometimes referred to as “progress tracking”) to manage the plan by assigning team members to tasks, and tracking their progress in completing those tasks.
+**Qu’est-ce qu’on va faire ?** On utilise une combinaison de deux fonctionnalités : les paramètres du plan du projet et les Tâches et avancement pour gérer le plan.
 
 - On ajoute le plan de base de l’organisation au projet.
 - On personnalise le plan pour l’équipe.
 - On attribue ensuite les tâches aux différents membres de l’équipe.
 - On met à jour le plan de base chaque fois qu'il y a une nouvelle version.
 
-## 7.1 Add the organisational base plan {#238598a5fd408008b600f3e188326022}
+## 7.1 Ajouter le plan de base organisationnel {#238598a5fd408008b600f3e188326022}
 
 :::info
 
@@ -35,15 +34,15 @@ Si vous aviez un plan déjà, il faut supprimer ce plan avant d’ajouter un aut
 
 :::
 
-1. **≡ Tab**, under Project **Project Settings** choose **Project plan**
-2. Click **Manage plans**
-3. Click  on the drop down arrow below **Show Base Plan**
-4. Choose your organisational base plan
-5. Click the **Copy Plan** arrow.
-6. Click **OK twice**.
-    - _Le plan et ses tâches sont ajoutés au projet._
+1. **≡ Onglet**, sous Projet **Paramètres du projet** choisissez **Plan du projet**.
+2. Cliquez sur **Gérer les plans**
+3. Cliquez dessous **Afficher le plan de référence**
+4. Choisir le plan de base de votre organisation
+5. Cliquez sur la flèche **Copier le plan**.
+6. Cliquez deux fois sur **OK**.
+    - Le plan et ses tâches sont ajoutés au projet et le bouton bleu Tâches et avancement s'affiche
 
-### Remove an old plan {#238598a5fd4080b7b67bd153f3e27c63}
+### Supprimer un ancien plan {#238598a5fd4080b7b67bd153f3e27c63}
 
 :::tip
 
@@ -51,36 +50,36 @@ Si le projet a un ancien plan, vous devez retirer chacune des étapes actuelles 
 
 :::
 
-1. **≡ Tab**, under **Project Project plan settings**
-2. Click **Manage plans**
-3. Click in a stage
-4. Click the **Remove Stage** button
-5. Click Yes (twice) once to confirm you want to modify the plan, and again to confirm you want to delete the tasks in the stage.
-6. Repeat for remaining stages
-7. Add the new plan (see above)
+1. **≡ Onglet**, sous **Paramètres du plan de projet**
+2. Cliquez sur **Gérer les plans**
+3. Cliquer sur une étape
+4. Cliquez sur le bouton **Supprimer l'étape**
+5. Cliquez sur Oui (deux fois), une fois pour confirmer que vous voulez modifier le plan, et une autre fois pour confirmer que vous voulez supprimer les tâches de l'étape.
+6. Répéter pour les étapes restantes
+7. Ajouter le nouveau plan (voir ci-dessus)
 
-## 7.2 Configure the plan {#238598a5fd4080f59db1d372b18df1da}
+## 7.2 Configurer le plan {#238598a5fd4080f59db1d372b18df1da}
 
-### Confirm — Books to include {#238598a5fd40804ab6c5cdd2fecc175d}
+### Confirmer - Livres à inclure {#238598a5fd40804ab6c5cdd2fecc175d}
 
-1. [**≡ Tab** under **Project** choose **Project settings** **Project properties**
-2. Click the **Books** tab
-3. Choose the books that you want to track progress.
+1. [**≡ Onglet** sous **Projet** choisir **Paramètres du projet** **Propriétés du projet**]
+2. Cliquez sur l'onglet **Livres**
+3. Choisissez les livres dont vous voulez suivre.
 4. Cliquez sur **OK**
 
-### Configure — Assigning checks to a stage {#238598a5fd4080768d36e31670a612be}
+### Configurer - Affectation de vérifications à une étape {#238598a5fd4080768d36e31670a612be}
 
-1. **≡ Tab** menu, under **Project**, choose **Project properties** then **Project Plan**
-2. Click on the **Checks** tab
-3. Click on the Checks tab
+1. **≡ Onglet**, sous **Projet**, choisissez **Propriétés du projet** puis **Plan du projet**
+2. Cliquez sur l'onglet **Vérifications**
+3. Cliquez sur l'onglet "Vérifications"
     - _Deux colonnes sont affichées : Étape obligatoire et Étape facultative._
-4. For the desired check, drop down the list and set the **Required stage** [12]
-5. Choose the new stage or _never required_
-6. Then set the **Notify only (optional)** to an earlier stage if any.
-7. Continue for each check
+4. Pour la vérification souhaité, déroulez la liste et réglez l'**étape requise** [12]
+5. Choisissez la nouvelle étape ou _jamais_
+6. Ensuite, réglez l'option **Notifier seulement (facultatif)** à une étape antérieure, le cas échéant.
+7. Répetez pour chaque vérification
 8. Cliquez sur **OK**
 
-### Configure — Reorder tasks / Move to another stage {#238598a5fd40808f9d5fef53be20899e}
+### Configurer - Réorganiser les tâches / Passer à une autre étape {#238598a5fd40808f9d5fef53be20899e}
 
 :::tip
 
@@ -88,87 +87,87 @@ Il est possible de réordonner des tâches et même déplacer des tâches à une
 
 :::
 
-1. From the **≡ Project** menu, under **Project**, choose **Project Properties**, then **Project Plan**
-2. Click the **Stages/Tasks** tab.
-3. Select the task you want to move.
-4. Click the up arrow or the down arrow to move the task to a different point with respect to the other tasks, or to move it to a different stage.
+1. **≡ Onglet**, sous **Projet**, choisissez **Propriétés du projet** puis **Plan du projet**
+2. Cliquez sur l'onglet **Étapes/Tâches**.
+3. Sélectionnez la tâche à déplacer.
+4. Cliquez sur la flèche vers le haut ou vers le bas pour déplacer la tâche vers un autre point ou pour la déplacer vers une autre étape.
     - _Il se peut que vous recevrez un message de confirmation si la tâche change d’étape._
 5. Cliquez sur **OK**.
 
-### Configure — Add tasks {#238598a5fd4080918c8ed2e0d1db12d1}
+### Configurer - Ajouter des tâches {#238598a5fd4080918c8ed2e0d1db12d1}
 
-1. Click on the task which is above the new task.
-2. Click on the **Add task**
-3. Type the name for the task and a description.
+1. Cliquez sur la tâche qui sera au-dessus de la nouvelle tâche.
+2. Cliquez sur le bouton **Ajouter une tâche**
+3. Tapez un nom pour la tâche, puis une description.
 
-- _If desired, you can  complete the configuration now following 7.3_
+- Si vous le souhaitez, vous pouvez terminer la configuration maintenant en suivant les instructions de la section 7.3
 
 1. Cliquez sur **OK**
 
-### Configure — Delete tasks {#238598a5fd40802aaa35d3e615376ca4}
+### Configurer - Supprimer des tâches {#238598a5fd40802aaa35d3e615376ca4}
 
-1. Click on the **Stage**/Tasks tab
-2. Click on the task to delete
-3. Click the **Remove Task** button
+1. Cliquez sur l'onglet **Étape/Tâches**
+2. Cliquez sur la tâche à supprimer
+3. Cliquez sur le bouton **Supprimer l'étape**
 4. Cliquez sur **OK**.
 
-### Rename or edit tasks {#238598a5fd4080a19e35d90d2bcb4913}
+### Renommer ou modifier des tâches {#238598a5fd4080a19e35d90d2bcb4913}
 
-1. Click on the task (in the list on the left)
-2. Click on the name box (in the pane on the right)
-3. Type a new name for the task
-4. If necessary, edit the description.
+1. Cliquez sur la tâche (dans la liste de gauche)
+2. Cliquez sur la case du nom (dans le volet de droite)
+3. Tapez un nouveau nom de la tâche
+4. Si nécessaire, modifiez la description.
 
-### Copy a task from one plan to your project {#238598a5fd408073a043ca1bb1ec6dcb}
+### Copier une tâche d'un plan vers votre projet {#238598a5fd408073a043ca1bb1ec6dcb}
 
 :::tip
 
-Follow the steps below to copy a task from the **base project plan** of one project to the project plan for **your project**.
+N. B. Suivez les étapes ci-dessous pour copier une tâche d'un **plan de référence** vers le plan de **votre projet**.
 
 :::
 
-1. Open your project, **≡ Paratext** under **Paratext** select **Open**.
-2. **≡ Tab**, under **Project** select **Project Settings** **Project plan**
-3. Click **Manage plans**
-4. From the **"Show Base Plan"** drop-down, select the project plan that contains the desired task.
-5. On the **Current Plan** side of the dialog, click the row that has the task which should precede the new task.
+1. Ouvrez votre projet, **≡ Paratext** sous **Paratext** sélectionnez **Ouvrir**.
+2. **≡ Onglet**, sous **Projet** sélectionnez **Paramètres du projet** **Plan du projet**
+3. Cliquez sur **Gérer les plans**
+4. Dans la liste déroulante « Afficher le plan de référence) », sélectionnez le plan de projet qui contienne la tâche voulue.
+5. Dans la partie Plan actuelle, cliquez sur la ligne qui précédera la nouvelle tâche.
     - _Si vous voulez que la tâche ajoutée soit la première tâche de l’étape, sélectionnez le nom de l’étape._
-6. On the **Base Plan** side of the dialog, hover over the task you want to add and click the solid blue arrow that appears.
+6. Sur le côté Plan de référence de la boîte de dialogue, passer la souris sur la tâche que vous souhaitez ajouter et cliquez sur la flèche bleue qui apparaît.
     - _La tâche est copiée dans le plan de votre projet et elle ne peut plus être copiée à nouveau dans celui-ci._
-7. **Optional**: To move the task, click the up arrow or the down arrow that appears when you hover over a task on the Current Plan side of the dialog.
-8. Click **OK** to close the "Manage Plans" dialog.
-9. Click **OK** to close the "Project Plan" dialog.
+7. Facultatif : Pour déplacer la tâche, cliquez sur la flèche vers le haut ou la flèche vers le bas qui s’affiche lorsque vous survolez une tâche du côté Plan actuel de la boîte de dialogue.
+8. Cliquez sur OK pour fermer la boîte de dialogue « Gérer les plans ».
+9. Cliquez sur **OK** pour fermer la boîte de dialogue **Plan du projet**.
     - _La tâche copiée a le même nom et le même taux de progression que dans le plan de projet pour le projet ORIG. Le nom court du projet est ajouté au nom du plan._
 
-## 7.3 Check the settings for a task {#238598a5fd4080e9a4accbfe7395674a}
+## 7.3 Vérifier les paramètres d'une tâche {#238598a5fd4080e9a4accbfe7395674a}
 
-1. There are three settings for each task
+1. Il y a trois paramètres pour chaque tâche
     - comment marquer la complétion de la tâche (par chapitre, livre)
     - quand on peut commencer une tâche (après une autre tâche…)
     - accorder le droit de modifier (donner la permission de modifier le texte)
-2. **≡ Tab** menu, under **Project** select **Project Settings** &gt; **Project plan**
-3. Click the task
+2. **≡ Onglet**, sous **Projet** sélectionnez **Paramètres du projet** **Plan du projet**
+3. Cliquez sur la tâche
     - _Les paramètres sont affichés en bas à droite_
-4. Make any changes as needed.
-5. Repeat for any other task.
+4. Apportez les modifications nécessaires.
+5. Répétez pour toute autre tâche.
 6. Cliquez sur **OK**.
 
-## 7.4 Priority Groups {#238598a5fd40806dac7dedaa12bf9a33}
+## 7.4 Groupes prioritaires {#238598a5fd40806dac7dedaa12bf9a33}
 
 Les groupes de priorité sont un moyen de faire savoir à Paratext l'ordre dans lequel les livres ou les chapitres doivent être travaillés.
 
-### Using preselected set {#238598a5fd40805685e2e39c5197fcb2}
+### Utilisation d'un ensemble présélectionné {#238598a5fd40805685e2e39c5197fcb2}
 
-1. Choose **Project settings** and go to **Define priorities**
-2. Click **Select Priority Definition**
-3. Select a set (e.g. SIL Easy to Difficult set)
+1. Choisissez **Paramètres du projet** et allez à **Définir les priorités**
+2. Cliquez sur le bouton **Sélectionner la définition de priorité**
+3. Sélectionnez un ensemble (par exemple, l'ensemble en anglais **SIL Easy to Difficult** SIL Facile à Difficile)
     - _Un ensemble de livres présélectionnés s'affiche._
 4. Cliquez sur **OK**
 
-### Setting up priorities {#238598a5fd4080088b94f24bcbf99b6c}
+### Définition des priorités {#238598a5fd4080088b94f24bcbf99b6c}
 
-1. Click the **≡ Project** menu, choose **Project settings** and go to **Define priorities**
-2. Select the desired books, then click Right arrow button
+1. Cliquez sur le menu **≡ Projet**, choisissez **Paramètres du projet** et allez à **Définir les priorités**
+2. Sélectionnez les livres, puis cliquez sur l’icône de flèche droite
 3. Hover the mouse over the title or the book name in right column
 4. Click the three dots, choose **Edit**
 5. Rearrange the books as needed by clicking on a book name and moving it up or down using the arrows buttons.
@@ -255,7 +254,7 @@ Les modifications que vous avez apportées à votre plan seront envoyées aux me
 
 1. Open **your** project.
 
-2. **≡ Tab**, under **Project** select **Project Settings** **Project plan**
+2. **≡ Onglet**, sous **Projet** sélectionnez **Paramètres du projet** **Plan du projet**
 
 3. Hold shift key and click **Manage plans**
     - _La boîte de dialogue de gestion des plans s'affiche avec un bouton "enregistrer comme plan de référence" en bas à droite._

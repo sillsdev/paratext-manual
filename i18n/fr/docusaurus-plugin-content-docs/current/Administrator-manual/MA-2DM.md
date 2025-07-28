@@ -66,7 +66,7 @@ _Paratext 8 peut vous indiquer que le projet doit être inscrit (s'il n'est pas 
 - Scope (L’étendue) Est-ce que le projet sera une Bible complète ou une Bible complète comprenant les deutérocanoniques, le Nouveau Testament ou tout autre groupe de livres?
 - Le **type de traduction** désigne si le projet est la première traduction pour cette langue, une révision d'une traduction existante, une nouvelle traduction ou une traduction comprenant des notes d'étude, comme une bible d'étude.
 - \*\*Country : Indiquez le pays où la langue est parlée. Vous pouvez taper quelques lettres du nom puis choisir le pays désiré. Vous pouvez spécifier plus d’un pays si la langue se propage au-delà des frontières
-- **Rights holder**: The rights holder would be the organisation from which you expect to obtain copyright for a printed edition. Cela peut également être modifié plus tard.
+- \*\*Rights holder : Le détenteur des droits serait l'organisation dont vous attendez le droit d'auteur pour une édition imprimée. Cela peut également être modifié plus tard.
 - Les quatre derniers champs vous permettent d'ajouter d'autres informations si elles sont pertinentes pour décrire votre projet. (Aucune de ces options n'est requise.)
 - Vous pouvez indiquer si votre projet est confidentiel ou non. Seuls les utilisateurs enregistrés de Paratext 8 peuvent afficher le nom des projets standard, un projet confidentiel sera masqué même devant les autres utilisateurs de Paratext 8.
 - Une autre option consiste à marquer un projet comme un projet de test ou de formation. Vous pouvez utiliser cette option pour les projets de test que vous créez ou pour les projets que vous utilisez pour la pratique dans un cours de formation.
@@ -74,7 +74,7 @@ _Paratext 8 peut vous indiquer que le projet doit être inscrit (s'il n'est pas 
 
 La "Digital Bible Library" (Bibliothèque Biblique Numérique) est un outil pour rendre les traductions disponibles en ligne ou pour les utilisateurs mobiles, mais votre projet ne sera disponible à personne jusqu'à ce que vous acceptiez de le rendre disponible.
 
-- Click **Submit Registration**
+- Cliquez sur **Submit Registration** (Soumettre un enregistrement)
 
 Un message s’affiche « Projet enregistré avec succès. »
 
@@ -92,12 +92,12 @@ Si vous venez d’inscrire votre projet, votre projet est déjà ouvert et vous 
 - Tous les membres de l’équipe ont cessé de modifier la copie de PT7 du projet.
 - Tous les membres de l'équipe ont effectué un Envoyer/Recevoir final de leurs modifications dans PT7.
 - Cet ordinateur a reçu les changements dans PT7.
-- Check these boxes if they are true, then click **Migrate Now** to continue.
+- Cochez ces cases si elles sont vraies, puis cliquez sur Migrate Now (Faire migrer maintenant) pour continuer.
 
 Si vous avez besoin de faire autre chose avant d'être prêt à migrer, cliquez sur Migrate later (Faire migrer plus tard), puis terminez vos préparatifs.
 
-- When you click **Migrate Now**, Paratext will copy the project from your Paratext 7 to your Paratext 8 and also perform a send/receive to the Internet.
-- If you receive a warning about a final send/receive in **Paratext 7**,
+- Lorsque vous cliquez sur Faire migrer maintenant, Paratext copiera le projet de votre Paratext 7 dans votre Paratext 8 et effectuera également un envoyer/recevoir à Internet.
+- Si vous recevez un avertissement au sujet d'un envoyer/recevoir final dans **Paratext 7**,
 - Cliquez sur **Ajouter analyse de mot**,
 
 le processus de migration arrete,
@@ -110,11 +110,11 @@ Si ils ne disposent pas d'une connexion Internet, vous pouvez faire un envoyer /
 
 **2.3 Paramètres supplémentaires du projet**
 
-- **Language identifier:** After clicking **Migrate now**, Paratext 8 may tell you that you need to specify a language identifier for your project.
+- **Identificateur de langue** : Après avoir cliqué sur **Faire migrer maintenant**, il se peut que Paratext 8 vous dise qu'il faut spécifier un identificateur de langue pour votre projet.
 
-You can check the language name and language identifier for your project by going to ≡ Tab, under Project &gt; Project settings &gt; Language settings. L'identifiant de la langue se trouve soit entre parenthèses après le nom de la langue ou en dessous du nom.
+Vous pouvez vérifier le nom de la langue et l'identificateur de langue de votre projet en allant dans ≡ Onglet, sous Projet > Paramètres du projet > Paramètres du langue. L'identifiant de la langue se trouve soit entre parenthèses après le nom de la langue ou en dessous du nom.
 
-- **Books**: The project settings and project properties include a Books tab, where you specify the books you plan to have in your project.
+- \*\*Livres : Les paramètres du projet et propriétés du projet comportent un onglet Livres, vous spécifiez ici les livres que vous prévoyez d'avoir dans votre projet.
 
 Vous pouvez choisir des livres individuels, l'un après l'autre, ou spécifier l'Ancien Testament, le Nouveau Testament ou les livres deutérocanoniques en utilisant les boutons. Vous pouvez modifier cette liste de livres plus tard dans le projet si vos attentes pour le projet changent.
 
@@ -125,12 +125,12 @@ N.B. Après avoir fait migrer votre projet, il faut également faire migrer la r
 Si un projet n’a pas été partagé en Paratext 7, vous n’avez pas besoin de l’inscrire avant de le faire migrer, mais c’est fortement recommandé.
 
 - Lancez Paratext 8
-- **File &gt; Open Project/Resource**
-- Click on **Show Paratext 7 projects**
+- **Fichier > Ouvrir projet/ressource**
+- Cliquez sur Show Paratext 7 projects (Afficher les projets Paratext 7)
 - Choisissez le projet à faire migrer.
-- Click on **Migrate now** (migrate now)
+- Cliquez sur **Migrate now** (faire migrer maintenant)
 
-When you click **Migrate Now**, the project will be migrated to the Paratext 8 folder, ready for use. Le statut d’enregistrement déterminera les fonctionnalités qui sont disponibles pour le projet.
+Lorsque vous cliquez sur **Migrate Now** le projet sera migré vers le dossier Paratext 8 prêt à être utilisé. Le statut d’enregistrement déterminera les fonctionnalités qui sont disponibles pour le projet.
 
 N.B. Les projets non partagés n’ont pas besoin d’être inscrits, mais il est conseillé.
 

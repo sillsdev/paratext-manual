@@ -68,7 +68,7 @@ Tous les utilisateurs ont besoin d’une nouvelle inscription pour Paratext 9.
 - Exécuter Paratext 9 (pour la première fois)
 - Choisissez la langue de l’interface
     - _Une boîte de dialogue s’affiche pour demander votre code d’enregistrement._
-- Dans votre navigateur web, Accédez à https://registry.paratext.org](https://registry.paratext.org/)
+- Dans votre navigateur web, Accédez à [https://registry.paratext.org](https://registry.paratext.org/)
     - _La page “Sign in”(se connecter) s’affiche._
 - Tapez votre adresse émail (du Gmail)
 - Cliquez sur le lien Register/Inscription
@@ -79,7 +79,7 @@ Tous les utilisateurs ont besoin d’une nouvelle inscription pour Paratext 9.
     - _Paratext va coller le code_
 - Cliquez sur **OK**.
 
-## **1.4 Manually updating your existing version of Paratext** {#238598a5fd4080fc8412c49d265a0241}
+## **1.4 Mise à jour manuelle de votre version existante de Paratext** {#238598a5fd4080fc8412c49d265a0241}
 
 Les fichiers de mise à jour ont une extension .msp au lieu de .pud ou .spud comme dans le passé.
 
