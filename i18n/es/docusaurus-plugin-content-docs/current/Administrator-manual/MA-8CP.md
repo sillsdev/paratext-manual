@@ -1,76 +1,76 @@
 ---
-title: AM 8. Convert Project
+title: AM 8. Convertir proyecto
 sidebar_position: 7
 slug: /MA-8CP
 ---
 
-# **CV: Convert a Project** {#238598a5fd4080aa8ca3d773eab1eca5}
+# **CV: Convertir un proyecto** {#238598a5fd4080aa8ca3d773eab1eca5}
 
-**8.1 Introduction**
+**8.1 Introducción**
 
-If you ever need to rename your project, reduce its size, change user names, change the encoding, or struggle with compound/decompound diacritics, the **Convert Project** tool will help you solve these problems.
+Si alguna vez necesitas cambiar el nombre de tu proyecto, reducir su tamaño, cambiar los nombres de usuario, cambiar la codificación o tener problemas con los diacríticos compuestos/descompuestos, la herramienta **Convertir proyecto** te ayudará a resolver estos problemas.
 
-_**Where are we?**_
+_**¿Dónde estamos?**_
 
-You must be the project administrator to make these conversions.
+Usted debe ser el administrador del proyecto para realizar estas conversiones.
 
-_**Why is this skill important?**_
+_**¿Por qué es importante esta habilidad?**_
 
-Only a few changes can be made to the project in the project's **Properties and settings**. Major changes require a new project to be created. The **Convert project** tool allows the new project to retain the project history.
+Sólo se pueden realizar algunos cambios en el proyecto en las **Propiedades y ajustes** del proyecto. Los cambios importantes requieren la creación de un nuevo proyecto. La herramienta **Convertir proyecto** permite que el nuevo proyecto conserve el historial del proyecto.
 
-_**What are we going to do?**_
+_**¿Qué vamos a hacer?**_
 
-We will work through the six changes that can be made to your project.
+Analizaremos los seis cambios que pueden introducirse en su proyecto.
 
-- Change the short name of the project
-- Remove deleted files from the project history
-- Clear the Paratext Live history
-- Convert the encoding to 65001 — Unicode [UTF8]
-- Normalisation — compound or decomposed
-- Replace old user names
+- Cambiar el nombre corto del proyecto
+- Eliminar archivos borrados del historial del proyecto
+- Borrar el historial de Paratext Live
+- Convertir la codificación a 65001 - Unicode [UTF8]
+- Normalización - compuesta o descompuesta
+- Sustituir nombres de usuario antiguos
 
-## **8.2 The ‘Convert Project’ dialogue box** {#238598a5fd4080caa41df545077c6949}
+## **8.2 Cuadro de diálogo "Convertir proyecto "** {#238598a5fd4080caa41df545077c6949}
 
-- **Tab** under **Tools**, select **Advanced**, then **Convert Project**
+- **Tab** en **Herramientas**, seleccione **Avanzado** y, a continuación, **Convertir proyecto**
 
-### **8.2.1 Change the short name of the project** {#238598a5fd40804fab07c9e96a03d3e3}
+### **8.2.1 Cambiar el nombre corto del proyecto** {#238598a5fd40804fab07c9e96a03d3e3}
 
-- Confirm that the old project name is correct. [If not, close the dialogue box, click on the correct project window and go to the New dialogue box.]
-- Enter the new short name for the project in **[1]**.
+- Confirme que el antiguo nombre del proyecto es correcto. [Si no es así, cierre el cuadro de diálogo, haga clic en la ventana del proyecto correcto y vaya al cuadro de diálogo Nuevo]
+- Introduzca el nuevo nombre corto del proyecto en **[1]**.
 
-### **8.2.2 Scan for deleted files in project history** {#238598a5fd4080558d85d375865a60b9}
+### **8.2.2 Buscar archivos borrados en el historial del proyecto** {#238598a5fd4080558d85d375865a60b9}
 
-- **[2]** Select this option if you have deleted files [such as large illustrations] that you no longer want to be part of the project history.
+- **[2]** Seleccione esta opción si ha eliminado archivos [como ilustraciones de gran tamaño] que ya no desea que formen parte del historial del proyecto.
 
-### **8.2.3 Clean up Paratext Live history** {#238598a5fd40805eadb1e31066da98e3}
+### **8.2.3 Limpiar el historial de Paratext Live** {#238598a5fd40805eadb1e31066da98e3}
 
-- **[3]** Select this option if you have edited the project with Paratext Live and want to replace the names in the project history.
+- **[3]** Seleccione esta opción si ha editado el proyecto con Paratext Live y desea reemplazar los nombres en el historial del proyecto.
 
-### **8.2.4 Convert encoding to 65001 — Unicode [UTF8]** {#238598a5fd408074b0f8d3485d39832d}
+### **8.2.4 Convertir codificación a 65001 - Unicode [UTF8]** {#238598a5fd408074b0f8d3485d39832d}
 
-- **[4]** Select this option to convert a standard Unicode encoding project.
+- **[4]** Seleccione esta opción para convertir un proyecto de codificación Unicode estándar.
 
-> This will not work to change the encoding if your project contains a ‘pirated font’. Normalisation – composed or decomposed.
+> Esto no funcionará para cambiar la codificación si su proyecto contiene una "fuente pirata". Normalización - compuesta o descompuesta.
 
-### **8.2.5 Normalisation** {#238598a5fd408022a4cdfa3928de338b}
+### **8.2.5 Normalización** {#238598a5fd408022a4cdfa3928de338b}
 
-- **[5]** Select Compound [NFC] or one of the options in the drop-down list if the data in your project contains a mixture of compound and decomposed characters.
+- **[5]** Seleccione Compuesto [NFC] o una de las opciones de la lista desplegable si los datos de su proyecto contienen una mezcla de caracteres compuestos y descompuestos.
 
-### **8.2.6 Replacing old user names** {#238598a5fd4080a29338d87b3b6f865e}
+### **8.2.6 Sustitución de nombres de usuario antiguos** {#238598a5fd4080a29338d87b3b6f865e}
 
-- **[6]** Select the name of the user you want to replace from the drop-down list.
-- **[7]** Type the name of a registered Paratext user in this box.
-- **[8]** Click **Add**,
-    - _a summary of the replacement is displayed with a ‘Remove’ button._
-- [If you make a mistake when typing the name in the **With** field or decide not to make the replacement, click **Remove**].
+- **[6]** Seleccione el nombre del usuario que desea reemplazar en la lista desplegable.
+- **[7]** Escriba el nombre de un usuario registrado de Paratext en esta casilla.
+- **[8]** Haga clic en **Añadir**,
+    - se muestra un resumen de la sustitución con un botón "Eliminar"
+- [Si se equivoca al escribir el nombre en el campo **Con** o decide no hacer la sustitución, haga clic en **Quitar**].
 
-## **8.3 Converting a project** {#238598a5fd4080c5af98e42c78124f28}
+## **8.3 Conversión de un proyecto** {#238598a5fd4080c5af98e42c78124f28}
 
-- [9] Click **OK** to convert the project.
+- [9] Haga clic en **OK** para convertir el proyecto.
 
 :::tip
 
-See the note in the guide about shared projects.
+Consulte la nota de la guía sobre proyectos compartidos.
 
 :::
 

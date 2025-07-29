@@ -1,98 +1,98 @@
 ---
-title: AM 4. CP- Create a new project
+title: AM 4. CP- Crear un nuevo proyecto
 sidebar_position: 3
 slug: /MA_4CP
 ---
 
-# **CP: Create a new project** {#238598a5fd4080d28e44d73f28d5b402}
+# **CP: Crear un nuevo proyecto** {#238598a5fd4080d28e44d73f28d5b402}
 
-**4.1 Introduction**
+**4.1 Introducción**
 
-In this module, you will create and register a new project.
+En este módulo, creará y registrará un nuevo proyecto.
 
-_**Where are we?**_
+_**¿Dónde estamos?**_
 
-You have already installed Paratext 9 and registered a user.
+Ya has instalado Paratext 9 y registrado un usuario.
 
-_**Why is this skill important?**_
+_**¿Por qué es importante esta habilidad?**_
 
-A new feature in Paratext 8 and 9 is that projects and users must be registered. This may seem like a complication, but it offers advantages to users.
+Una nueva característica de Paratext 8 y 9 es que los proyectos y los usuarios deben estar registrados. Puede parecer una complicación, pero ofrece ventajas a los usuarios.
 
-As we saw in the user registration section, the administrator of a project can create registrations for users they want to participate in their project.
+Como vimos en la sección de registro de usuarios, el administrador de un proyecto puede crear registros para los usuarios que desee que participen en su proyecto.
 
-_**What are we going to do?**_
+_**¿Qué vamos a hacer?**_
 
-We will create and register a new project.
+Crearemos y registraremos un nuevo proyecto.
 
-## **4.2 Creating a new project** {#238598a5fd408040a28fd03938ff47a0}
+## **4.2 Creación de un nuevo proyecto** {#238598a5fd408040a28fd03938ff47a0}
 
-- **≡ Paratext**, under **Paratext** &gt; **New Project**
+- **≡ Paratexto**, en **Paratexto** &gt; **Nuevo Proyecto**
 
-The Project Properties and Settings dialogue box appears.
+Aparecerá el cuadro de diálogo Propiedades y configuración del proyecto.
 
-### **4.2.1 Changing the project name** {#238598a5fd40804b9bb7fbe123385613}
+### **4.2.1 Modificación del nombre del proyecto** {#238598a5fd40804b9bb7fbe123385613}
 
-- Click the **Edit** button
+- Pulse el botón **Editar**
 
-_The_ _**Edit Full Name**_ _dialogue box appears_
+_Aparece el cuadro de diálogo _**Editar nombre completo**_
 
-- In the **Full Name** section, type a name that includes the language name
-- Under **Short Name**, type the **ISO** code for the language.
+- En la sección **Nombre completo**, escriba un nombre que incluya el nombre del idioma
+- En **Nombre abreviado**, escriba el código **ISO** de la lengua.
 
-Once you create a project name, the short name cannot be changed, as this is the name Paratext will give to the folder containing the project files, as well as the name given to the project on the Internet server. (However, you can convert the project to a new project with a different short name. But converting a project can take many hours.)
+Una vez creado el nombre del proyecto, el nombre abreviado no puede cambiarse, ya que es el nombre que Paratext dará a la carpeta que contiene los archivos del proyecto, así como el nombre dado al proyecto en el servidor de Internet. (Sin embargo, puede convertir el proyecto en un nuevo proyecto con un nombre corto diferente. Pero convertir un proyecto puede llevar muchas horas)
 
-### **4.2.2 Specifying the language** {#238598a5fd4080468c76e61de7481949}
+### **4.2.2 Especificación de la lengua** {#238598a5fd4080468c76e61de7481949}
 
-- If you have another Paratext project in the same language, you can already choose the language from the list in Paratext **[2]**. Otherwise, you will need to create a new language.
-- Click **New**
+- Si tienes otro proyecto Paratext en el mismo idioma, ya puedes elegir el idioma de la lista en Paratext **[2]**. De lo contrario, deberá crear un nuevo idioma.
+- Haga clic en **Nuevo**
 
-_The_ _**Choose a language identifier**_ _dialog box appears_.
+_Aparece el cuadro de diálogo_ _**Elija un identificador de idioma**_.
 
-- Click in the **Search** box
-- Start typing the name of your language
+- Haga clic en la casilla **Buscar**
+- Empieza a escribir el nombre de tu idioma
 
-Paratext displays the matching names.
+Paratext muestra los nombres coincidentes.
 
-- Click your language in the list.
+- Haga clic en su idioma en la lista.
 
-Paratext adds the language name.
+Paratext añade el nombre del idioma.
 
-- Fill in the fields in the Advanced section, if necessary.
+- Rellene los campos de la sección Avanzado, si es necesario.
 - Haga clic en **Aceptar**.
 
-You can also specify additional information if necessary in the ‘Advanced’ section of the language settings dialogue box.
+También puede especificar información adicional si es necesario en la sección "Avanzado" del cuadro de diálogo de configuración de idioma.
 
-### **4.2.3 Project type** {#238598a5fd408099bf7ed09849b689b1}
+### **4.2.3 Tipo de proyecto** {#238598a5fd408099bf7ed09849b689b1}
 
-- Click the drop-down list next to **Project type**
-- Choose the appropriate type for your project.
+- Haga clic en la lista desplegable situada junto a **Tipo de proyecto**
+- Elija el tipo adecuado para su proyecto.
 
-If this is a dependent project such as a retranslation, child translation or transliteration project, you will need to define the source.
+Si se trata de un proyecto dependiente, como un proyecto de retraducción, traducción hija o transliteración, tendrá que definir la fuente.
 
-### **4.2.4 Register the new project** {#238598a5fd40808cb3fad1807206c360}
+### **4.2.4 Registrar el nuevo proyecto** {#238598a5fd40808cb3fad1807206c360}
 
-- Make sure you have given the project a name and selected the project type.
-- Click **Register online** to access the registration page.
-- Fill in the information (see above).
-- Click **Register** to submit and return to Paratext.
-    - _Paratext should ‘automatically’ detect that the project has been registered._
-- Click **OK** to create the new project.
+- Asegúrese de haber dado un nombre al proyecto y de haber seleccionado el tipo de proyecto.
+- Haga clic en **Inscribirse en línea** para acceder a la página de inscripción.
+- Rellene los datos (véase más arriba).
+- Haga clic en **Registrarse** para enviar y volver a Paratext.
+    - _Paratext debería detectar 'automáticamente' que el proyecto ha sido registrado._
+- Haga clic en **Aceptar** para crear el nuevo proyecto.
 
-Project types that do not need to be registered separately
+Tipos de proyectos que no necesitan registrarse por separado
 
-- Projects that inherit registration from parent
-- Retranslation
-- Transliteration
-- ‘Auxiliary’
-- Advisor notes
+- Proyectos que heredan el registro del padre
+- Retraducción
+- Transliteración
+- auxiliar
+- Notas del asesor
 
-## **4.3 Modify your registration** {#238598a5fd408020af47fe0581eb354b}
+## **4.3 Modifique su registro** {#238598a5fd408020af47fe0581eb354b}
 
-When working on your project, you can modify your registration information later.
+Cuando esté trabajando en su proyecto, podrá modificar su información de registro más adelante.
 
-- In Paratext, make sure you have an Internet connection,
-- **≡ Tab**, under **Project** &gt; **Project Properties** &gt; **Project Settings**
-- Click on the **Manage Registration** link
+- En Paratext, asegúrate de que tienes conexión a Internet,
+- \*pestaña \*≡\*\*, en **Proyecto** &gt; **Propiedades del proyecto** &gt; **Configuración del proyecto**
+- Haga clic en el enlace **Gestionar la inscripción**
 
-Your registration information will be displayed. An administrator can modify the information.
+Aparecerá su información de registro. Un administrador puede modificar la información.
 

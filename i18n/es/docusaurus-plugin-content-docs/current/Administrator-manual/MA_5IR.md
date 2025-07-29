@@ -1,43 +1,43 @@
 ---
-title: AM 5. IR- Installing resources
+title: AM 5. IR- Instalación de recursos
 sidebar_position: 4
 slug: /MA_5IR
 ---
 
-# **AM IR: Installing resources** {#238598a5fd4080498648ca1f10ff45cd}
+# **AM IR: Instalando recursos** {#238598a5fd4080498648ca1f10ff45cd}
 
-**Introduction**
+Introducción\*\*_
 
-In this module, you will learn how to install resources.
+En este módulo aprenderás a instalar recursos.
 
-_**Where are we?**_
+_**¿Dónde estamos?**_
 
-You have already installed Paratext 8 and registered the user.
+Ya ha instalado Paratext 8 y registrado al usuario.
 
-_**Why is this important?**_
+_**¿Por qué es importante?**_
 
-In Paratext 9, resources are downloaded from the DBL (Digital Bible Library). Normally, each user downloads them directly, but if you have a limited Internet connection, it is possible to share the downloaded files.
+En Paratext 9, los recursos se descargan de la DBL (Biblioteca Bíblica Digital). Normalmente, cada usuario los descarga directamente, pero si la conexión a Internet es limitada, es posible compartir los archivos descargados.
 
-_**What will you do?**_
+_**¿Qué vas a hacer?**_
 
-- Download resources.
-- Install resources from files that have already been downloaded.
+- Descarga de recursos.
+- Instalar recursos a partir de archivos ya descargados.
 
-## **5.2 Install resources – Internet (DBL)** {#238598a5fd40808cac58ea6a8f6f9337}
+## **5.2 Instalar recursos - Internet (DBL)** {#238598a5fd40808cac58ea6a8f6f9337}
 
-- Click on the **≡ Paratext** menu, under **Paratext** select **Download/Install Resources**.
-    - _A dialogue box will appear._
-- Make sure that Internet is selected.
-- Filter the list by entering a search term in the **filter** box (type the name or language or the + sign for enriched resources).
-- Tick the boxes next to the desired resources.
-- Click **Download/Install**
+- Haga clic en el menú **≡ Paratext**, en **Paratext** seleccione **Descargar/Instalar recursos**.
+    - aparecerá un cuadro de diálogo
+- Asegúrese de que Internet está seleccionado.
+- Filtre la lista introduciendo un término de búsqueda en la casilla **filtro** (escriba el nombre o la lengua o el signo + para los recursos enriquecidos).
+- Marque las casillas situadas junto a los recursos deseados.
+- Haga clic en **Descargar/Instalar**
 
-## **5.3 Installing resources – files** {#238598a5fd4080c7ab48c06e85b4cb9e}
+## **5.3 Instalación de recursos - archivos** {#238598a5fd4080c7ab48c06e85b4cb9e}
 
-- From the **File** menu, select **Install resources**.
-    - _A dialogue box will appear._
-- Click **Folder**
-- Click **Browse**.
-- Navigate to the folder containing the resources.
-- Select the desired resources
-- Click **Download/Install**
+- En el menú **Archivo**, seleccione **Instalar recursos**.
+    - aparecerá un cuadro de diálogo
+- Haga clic en **Carpeta**
+- Haga clic en **Buscar**.
+- Navegue hasta la carpeta que contiene los recursos.
+- Seleccione los recursos deseados
+- Haga clic en **Descargar/Instalar**

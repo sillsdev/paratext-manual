@@ -1,164 +1,164 @@
 ---
-title: AM 3. REG Registration
+title: AM 3. REG Inscripción
 sidebar_position: 2
 slug: /MA-3REG
 ---
 
-## **3.1 Introduction** {#238598a5fd4080cb9c9de2f4e5c2ef1e}
+## **3.1 Introducción** {#238598a5fd4080cb9c9de2f4e5c2ef1e}
 
-From Paratext 8 onwards, it is mandatory for projects to share their basic information or metadata with the translation community. Sharing information on progress is strongly encouraged. [Some organisations and/or funders may require this.]
+A partir de Paratext 8, es obligatorio que los proyectos compartan su información básica o metadatos con la comunidad de traductores. Se recomienda encarecidamente compartir la información sobre los progresos realizados. [Algunas organizaciones o proveedores de fondos pueden exigirlo]
 
-_**Where are we**_
+_**¿Dónde estamos?**_
 
-Paratext 8 is already installed and you have the Paratext 7 registration codes for users.
+Paratext 8 ya está instalado y tienes los códigos de registro de Paratext 7 para los usuarios.
 
-_**Why is this skill important?**_
+_**¿Por qué es importante esta habilidad?**_
 
-In Paratext 8, both users and projects must be registered. Access to specific text resources, such as the Word of Life, is determined by the organisation you belong to.
+En Paratext 8, tanto los usuarios como los proyectos deben estar registrados. El acceso a recursos textuales específicos, como Palabra de Vida, viene determinado por la organización a la que pertenezca.
 
-Projects can be registered by the administrator (or an advisor acting as administrator).
+Los proyectos pueden ser registrados por el administrador (o un asesor que actúe como administrador).
 
-Other organisations/users are notified of your actions and may object to the BoG (Board of Governors). Basic information about the project metadata is available to all members of the Paratext community.
+Se notifican sus acciones a otras organizaciones/usuarios, que pueden presentar objeciones a la Junta de Gobierno. La información básica sobre los metadatos del proyecto está a disposición de todos los miembros de la comunidad Paratext.
 
-If your project is not registered, you will not have access to
+Si su proyecto no está registrado, no tendrá acceso a
 
-- the interlinear generator.
-- send/receive via the Internet.
-- statistical glossing tools (suggest translations/equivalents).
-- print the draft.
+- el generador interlineal.
+- enviar/recibir por Internet.
+- herramientas estadísticas de glosado (sugieren traducciones/equivalentes).
+- imprimir el borrador.
 
-_**What are you going to do?**_
+_**¿Qué vas a hacer?**_
 
-- You are going to register a Paratext 9 user
-- You will register a new Paratext 9 project
-- You will see the information that a registered project displays in the Paratext Register
+- Vas a registrar un usuario de Paratext 9
+- Registrarás un nuevo proyecto Paratext 9
+- Verá la información que muestra un proyecto registrado en el Registro Paratexto
 
-## **3.2 Register with a Google account** {#238598a5fd4080c68c4ffa43e60d77be}
+## **3.2 Registrarse con una cuenta de Google** {#238598a5fd4080c68c4ffa43e60d77be}
 
-- Go to [https://registry.paratext.org](https://registry.paratext.org/)
+- Ir a [https://registry.paratext.org](https://registry.paratext.org/)
 
-The ‘Sign in’ screen will appear.
+Aparecerá la pantalla "Iniciar sesión".
 
-- Enter your email address
+- Ingrese su dirección de correo electrónico
 
-(Your address will be verified)
+(Su dirección será verificada)
 
-- Log in using your email address (Gmail)
+- Inicia sesión con tu dirección de correo electrónico (Gmail)
 
-A new screen will appear asking for your password.
+Aparecerá una nueva pantalla pidiéndole su contraseña.
 
-- Enter your Google password
-- Click **Yes** to allow Paratext to use your profile.
+- Introduce tu contraseña de Google
+- Haga clic en **Sí** para permitir que Paratext utilice su perfil.
 
-New Paratext 9 User will appear and you can fill in the form.
+Aparecerá Nuevo usuario de Paratext 9 y podrás rellenar el formulario.
 
-If you do not have a Gmail address, see section 3.4
+Si no tienes una dirección de Gmail, consulta la sección 3.4
 
-### **3.3 Fill in the form** {#238598a5fd408058a72ac0e240c83306}
+### **3.3 Rellenar el formulario** {#238598a5fd408058a72ac0e240c83306}
 
-- Choose one of the three user options (new, already Paratext 7, already Paratext 8)
-- If you are a Paratext 7 user, provide your Paratext 7 registration code
-- Choose your organisation (or leave the field blank)
+- Elija una de las tres opciones de usuario (nuevo, ya Paratext 7, ya Paratext 8)
+- Si es usuario de Paratext 7, indique su código de registro de Paratext 7
+- Elija su organización (o deje el campo en blanco)
 
-Anyone can register to use Paratext, but people who are not members of a translation organisation and who are not members of a registered project will not be able to use all of Paratext's features and will only have access to some resources.
+Cualquiera puede registrarse para utilizar Paratext, pero las personas que no pertenezcan a una organización de traducción y que no sean miembros de un proyecto registrado no podrán utilizar todas las funciones de Paratext y sólo tendrán acceso a algunos recursos.
 
-- Select your **country**
-- If applicable, enter your affiliate (entity in the field) and your supervisor
-- Explain why you want to use Paratext.
-- Tick (or leave unticked) the box to receive announcements.
-- Click on **Register**
+- Seleccione su **país**
+- Si procede, introduzca su afiliación (entidad en el campo) y su supervisor
+- Explique por qué desea utilizar Paratext.
+- Marque (o deje sin marcar) la casilla para recibir anuncios.
+- Haga clic en **Registrarse**
 
-You will receive your registration code (also by email).
+Recibirá su código de inscripción (también por correo electrónico).
 
-Keep this email or the code displayed here in a safe place, because if you lose it, there is no way to retrieve it. (This is a security feature; user codes are not stored on the server so that they cannot be stolen if someone attacks the server.)
+Guarde este correo electrónico o el código que aparece aquí en un lugar seguro, porque si lo pierde, no hay forma de recuperarlo. (Esta es una característica de seguridad; los códigos de usuario no se almacenan en el servidor para que no puedan ser robados si alguien ataca el servidor)
 
-## **3.4 Registering without a Google account** {#238598a5fd408096b664fb42d5b527f5}
+## **3.4 Registro sin cuenta de Google** {#238598a5fd408096b664fb42d5b527f5}
 
-- If your email account is not on a Google server, or if you choose not to use Google for authentication, the registration server will ask you to enter a password.
-- Enter the password you want to set
-- Enter the password again to confirm
+- Si tu cuenta de correo electrónico no se encuentra en un servidor de Google, o si decides no utilizar Google para la autenticación, el servidor de registro te pedirá que introduzcas una contraseña.
+- Introduzca la contraseña que desea establecer
+- Vuelva a introducir la contraseña para confirmar
 
-The server will send an email to your account with a verification link.
+El servidor enviará un correo electrónico a su cuenta con un enlace de verificación.
 
-- Open your email, go to the link, and proceed with the Paratext registration (see 3.3).
+- Abra su correo electrónico, vaya al enlace y proceda al registro en Paratext (véase 3.3).
 
-## **3.5 Change (generate) a new code** {#238598a5fd4080929a65c0bf5bdf5308}
+## **3.5 Cambiar (generar) un nuevo código** {#238598a5fd4080929a65c0bf5bdf5308}
 
-There are various reasons why you may need to change your Paratext code in the future. One of the most common reasons is theft or failure of your computer.
+Hay varias razones por las que puede necesitar cambiar su código Paratext en el futuro. Una de las razones más comunes es el robo o el fallo del ordenador.
 
-**3.5.1 Change your own code**
+**3.5.1 Cambia tu propio código**
 
-- Go to the registration site [https://registry.paratext.org](https://registry.paratext.org/).
-- Log in (if you are not already logged in).
-- Click on the username at the top left.
+- Vaya al sitio de registro [https://registry.paratext.org](https://registry.paratext.org/).
+- Conéctese (si aún no lo ha hecho).
+- Haga clic en el nombre de usuario en la parte superior izquierda.
 
-A menu will appear.
+Aparecerá un menú.
 
-- Click on **Settings**.
-- Under Paratext, click on ‘**Registration**’.
+- Haga clic en **Configuración**.
+- En Paratexto, haga clic en "**Registro**".
 
-The registration details screen will appear.
+Aparecerá la pantalla de detalles del registro.
 
-- Click on the Generate button to generate a new code.
-- _The code will be sent to your email address._
-- Launch Paratext.
+- Haga clic en el botón Generar para generar un nuevo código.
+- el código se enviará a su dirección de correo electrónico
+- Lanzar Paratexto.
 
-If it connects to the Internet, it will detect that the old code is no longer valid and will ask you to update your registration information.
+Si se conecta a Internet, detectará que el código antiguo ya no es válido y le pedirá que actualice su información de registro.
 
-- Go to your email and copy the new code.
-- Return to Paratext
+- Ve a tu correo electrónico y copia el nuevo código.
+- Volver al paratexto
 
-Paratext may have already found your new code.
+Puede que Paratext ya haya encontrado su nuevo código.
 
-- If not, paste the new code into the registration form and click OK.
+- Si no es así, pegue el nuevo código en el formulario de registro y pulse OK.
 
-You are now re-registered.
+Ya está registrado de nuevo.
 
-You will need to do this on any other computer where your Paratext code is installed.
+Tendrás que hacer esto en cualquier otro ordenador en el que esté instalado tu código Paratext.
 
-- If Paratext does not report a code change, you can do so as follows
-- **≡ Tab**, under &gt; **Help** &gt; **Registration Information** and paste the code there.
+- Si Paratext no informa de un cambio de código, puede hacerlo de la siguiente manera
+- \*pestaña \*≡\*\*, en &gt; **Ayuda** &gt; **Información de registro** y pegue allí el código.
 
-### **3.5.2 Changing a code for a user**  {#238598a5fd4080a68785d14ffcc4832c}
+### **3.5.2 Modificación de un código para un usuario** {#238598a5fd4080a68785d14ffcc4832c}
 
-**(whom** _**you**_ **have registered)**
+**(a quien** _**usted**_ **ha registrado)**
 
-- Go to the registration site [https://registry.paratext.org](https://registry.paratext.org/)
-- Log in (if you are not already logged in)
-- Click on User
-- Click on the user name in the list
-- Click on the down arrow (to the right of View)
-- Select **Generate code**
+- Vaya al sitio de registro [https://registry.paratext.org](https://registry.paratext.org/)
+- Iniciar sesión (si aún no lo ha hecho)
+- Haga clic en Usuario
+- Haga clic en el nombre de usuario de la lista
+- Haga clic en la flecha hacia abajo (a la derecha de Ver)
+- Seleccione **Generar código**
 
-A message will appear.
+Aparecerá un mensaje.
 
-- Click on **Proceed**
-- Check your email.
+- Haga clic en **Proceder**
+- Revise su correo electrónico.
 
-## **3.6 Register a user (without an email address)** {#238598a5fd408015a37cf2ede7ea2e0e}
+## **3.6 Registrar un usuario (sin dirección de correo electrónico)** {#238598a5fd408015a37cf2ede7ea2e0e}
 
-Any administrator of a registered project can create new user registrations if they need to add people to their project. These users do not need to have an email address.
+Cualquier administrador de un proyecto registrado puede crear nuevos registros de usuarios si necesita añadir personas a su proyecto. Estos usuarios no necesitan tener una dirección de correo electrónico.
 
-- Go to [https://registry.paratext.org](https://registry.paratext.org/)
-- Log in using your email address
-- Click on **Users**
-- Click **+Register New User**
+- Ir a [https://registry.paratext.org](https://registry.paratext.org/)
+- Inicie sesión con su dirección de correo electrónico
+- Haga clic en **Usuarios**
+- Haga clic en **+Registrar nuevo usuario**
 
-The New Paratext 9 User dialogue box appears.
+Aparecerá el cuadro de diálogo Nuevo usuario de Paratext 9.
 
-- Fill in the form with their name, etc.
+- Rellena el formulario con su nombre, etc.
 
-A user added by someone else cannot be a project administrator or advisor. If you want to make someone an advisor or administrator, they must register for Paratext themselves, and then you can add their name to the project.
+Un usuario añadido por otra persona no puede ser administrador o asesor de un proyecto. Si quieres que alguien sea asesor o administrador, debe registrarse él mismo en Paratext, y entonces podrás añadir su nombre al proyecto.
 
-- Click on **Create**
+- Haga clic en **Crear**
 
-The registration code for the new user will be sent by email to the administrator after approval.
+El código de registro del nuevo usuario se enviará por correo electrónico al administrador tras su aprobación.
 
-Keep this code safe, as it cannot be recovered if lost. However, you can generate a new code, see 3.5
+Guarde bien este código, ya que no puede recuperarse si se pierde. Sin embargo, puede generar un nuevo código, véase 3.5
 
-## **3.7 If the translation project is not part of a recognised organisation** {#238598a5fd4080e1b057eaebd217d878}
+## **3.7 Si el proyecto de traducción no forma parte de una organización reconocida** {#238598a5fd4080e1b057eaebd217d878}
 
-- If a translator is not part of a recognised organisation, a request can be made to BoG ([boardofgovernors@paratext.org](mailto:boardofgovernors@paratext.org)) to become a member of the pseudo-organisation ‘Independent Translators’.
+- Si un traductor no forma parte de una organización reconocida, puede solicitar al BoG ([boardofgovernors@paratext.org](mailto:boardofgovernors@paratext.org)) su afiliación a la pseudoorganización "Traductores independientes".
 
-Only a few resource text owners may grant access to this group.
+Sólo algunos propietarios de textos de recursos pueden conceder acceso a este grupo.
 

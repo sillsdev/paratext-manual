@@ -189,36 +189,36 @@ Une fois que les priorités ont créés, elles peuvent être utilisées partout 
     - Cliquez sur **Choisir**
     - Sélectionnez l'onglet **Priorité**.
 2. **Tâches et avancement** (bouton bleu), la sélection des livres peut être définie par ordre de priorité.
-3. (Project menu ) **Export PDF**, click Choose button, then Priority tab.
-4. Any window with a filter (e.g. Wordlist, Biblical terms ...)
+3. PTXprint ne peut pas utiliser les priorités, donc choisissez des **portions ou livres multiples**, puis tapez les livres, chapitres et versets comme défini dans les priorités.
+4. Toute fenêtre comportant un filtre (par exemple, Liste de mots, Termes bibliques...)
 
 Dans cette fenêtre, vous pouvez également définir ou redéfinir vos priorités si nécessaire
 
-## 7.5 Assign tasks to team members {#238598a5fd4080f4a1a3dc7faf855c0a}
+## 7.5 Confier des tâches aux membres de l'équipe {#238598a5fd4080f4a1a3dc7faf855c0a}
 
 Les tâches peuvent être attribuées individuellement ou en bloc.
 
-### Assign tasks individually {#238598a5fd4080ddb3b9dc8a1c6fc21b}
+### Confier les tâches individuellement {#238598a5fd4080ddb3b9dc8a1c6fc21b}
 
-1. **≡ Tab**, under **Project**, choose **Assignments and Progress**
-2. For the task to assign, click to dropdown the menu and choose the team member to do the task
+1. **≡ Onglet**, sous le menu **Projet**, sélectionnez **Tâches et avancement**
+2. Cliquez la liste roulante pour la tâche et choisissez qui doit faire la tâche (un membre ou l’équipe)
 3. Répétez si nécessaire
 4. Cliquez sur **OK**.
 
-### Bulk assign tasks {#238598a5fd40803a9acecc9b3b6d9e1a}
+### Assigner des tâches en bloc {#238598a5fd40803a9acecc9b3b6d9e1a}
 
-1. Click the **Blue** Assignments and Progress button
-2. Choose **Tasks Table**
-3. Use the verses filter to select books
-4. Below the task, click **Assign tasks**
+1. Cliquez sur le **bouton bleu** Tâches et avancement
+2. Sélectionnez **Tableau des tâches**
+3. Utilisez le filtre des versets pour sélectionner les livres
+4. Sous la tâche, cliquez sur **Attribuer une tâche**, puis choisir qui doit faire la tâche
     - Les chapitres incomplets peuvent être réassignés mais pas les chapitres terminés.
     - _Un message d'avertissement apparaîtra avec des options pour écraser toutes les attributions ou seulement les chapitres non attribués._
 
-### Assign Stage or book {#238598a5fd40803ba610d96c517bb0f6}
+### Attribuer un stage ou livre {#238598a5fd40803ba610d96c517bb0f6}
 
-1. Go to the Tasks table
-2. Click the **Assign stage** button (at the top of each stage).
-3. Change assignments for certain tasks as needed.
+1. Accédez au tableau des tâches
+2. Cliquez sur le bouton **Attribuer une étape** (en haut de chaque étape).
+3. Modifiez les attributions de certaines tâches si nécessaires.
 
 :::tip
 
@@ -226,20 +226,20 @@ Une fois que vous avez terminé le processus d'affectation en bloc, vous pouvez 
 
 :::
 
-## 7.6 Updating the progress (for a migrated project) {#238598a5fd40805daa52c0bbd9f44ef0}
+## 7.6 Mise à jour de l'état d'avancement (pour un projet migré) {#238598a5fd40805daa52c0bbd9f44ef0}
 
 :::tip
 
-For projects that have already completed a number of stages at the time of switching to Paratext 9 the **Tasks table** view and/or the **Stage table** view of Assignments and Progress can be helpful in marking multiple books, stages or tasks, as complete.
+Pour les projets qui ont déjà complété plusieurs étapes au moment de passer à Paratext 9 la vue de la **tableau des tâches** et/ou la vue de la **tableau des étapes** peuvent être utiles pour marquer plusieurs livres, étapes ou tâches, comme achevé.
 
 :::
 
-1. Click on your project.
-2. Click the **Blue** Assignments and Progress button
-3. Choose **Stages Table**
-4. Click the **≡ Tab** and choose **Bulk Progress Mode**.
+1. Cliquez sur votre projet.
+2. Cliquez sur le **bouton bleu** Tâches et avancement
+3. Sélectionnez **Tableau des tâches**
+4. Cliquez sur **≡ onglet** et choisissez **Mode modifier l'avancement en bloc**.
     - _Les vérifications sont temporairement désactivées_.
-5. Click **All stages** button
+5. Cliquez sur le bouton **Toutes les étapes**
     - _Toutes les étapes sont approuvées._
 
 :::tip
@@ -248,62 +248,62 @@ Lorsque vous avez fini de faire toutes les attributions, vous pouvez revenir en 
 
 :::
 
-## 7.7 Saving a modified plan as a new base plan {#238598a5fd40808986fce3e91c26c91e}
+## 7.7 Enregistrement d'un plan modifié en tant que nouveau plan de base {#238598a5fd40808986fce3e91c26c91e}
 
 Les modifications que vous avez apportées à votre plan seront envoyées aux membres de votre projet lors de l'envoyer/recevoir. Si vous souhaitez partager le plan révisé avec d'autres équipes, vous pouvez l'enregistrer comme un nouveau plan de référence.
 
-1. Open **your** project.
+1. Ouvrez **votre** projet.
 
 2. **≡ Onglet**, sous **Projet** sélectionnez **Paramètres du projet** **Plan du projet**
 
-3. Hold shift key and click **Manage plans**
+3. Maintenez la touche MAJ (shift) et cliquez sur **Gérer les plans**
     - _La boîte de dialogue de gestion des plans s'affiche avec un bouton "enregistrer comme plan de référence" en bas à droite._
 
         ![](./1648346283.png)
 
-4. Click on the **Save as a base plan** button
-    - _Une boîte de dialogue s'affiche. The file will be saved to \My Paratext 8 Projects\_StandardPlans._
+4. Cliquez sur le bouton **Enregistrer comme plan de base**
+    - _Une boîte de dialogue s'affiche. Le fichier est enregistré sur \My Paratext 8 Projects\_StandardPlans
 
-5. Choose as appropriate, then click **OK**
+5. Choisissez ce qui convient, puis cliquez sur OK\*\*
 
-6. Share the file from \My Paratext 9 Projects_StandardPlans with the other teams.
+6. Partagez le fichier de \My Paratext 8 Projects\_StandardPlans avec les autres équipes.
 
-## 7.8 Updating a project with a new version of the base plan {#238598a5fd40807d9f6ddc8e5218d7ca}
+## 7.8 Mise à jour d'un projet avec une nouvelle version du plan de base {#238598a5fd40807d9f6ddc8e5218d7ca}
 
 Il arrive que le plan de base sur lequel ce plan de projet a été construit soit modifié. Il existe deux façons de mettre à jour le plan de base.
 
-**Method 1**
+**Méthode 1**
 
-1. **≡ Tab**, under **project**
-2. Choose **Project Settings** then **Project plan**.
+1. **≡ onglet**, sous **projet**
+2. Choisissez **Paramètres du projet** puis **Plan du projet**.
     - _Un avertissement s'affiche pour vous informer qu'une nouvelle version du plan est disponible et que vous pouvez migrer._
-3. Click the link **Migrate to a new version of the project plan**.
-4. Choose either:
+3. Cliquez sur le lien **Migrer vers une nouvelle version du plan du projet**.
+4. Choisissez l'une des options suivantes :
     - Conserver les tâches qui ne figurent pas dans la nouvelle version
     - Supprimer toutes les tâches qui ne figurent pas dans la nouvelle version
     - Conserver les tâches qui ont progressé.
 5. Cliquez sur **OK**
-    - _Paratext warns that you must do a send/receive,_
-6. Click **OK** to clear the message
+    - Paratext vous avertit que vous devez effectuer un envoyer/récevoir
+6. Cliquez sur **OK** pour effacer le message
     - _Le plan a été mis à jour._
 
 Que faire ensuite ?
 
-1. A green message bar at the top gives you three options:
+1. Une barre de message verte en haut vous propose trois options :
     - Fermer le message
     - Afficher la progression dans le plan précédent
     - Annuler la mise à jour du plan de base.
     - _Notez que le numéro de version a été mis à jour._
 2. Cliquez sur **OK**.
 
-**Method 2**
+**Méthode 2**
 
 1. Cliquez sur Tâches et avancement.
     - _Si le plan de base a été mis à jour, un message s'affiche pour vous indiquer que vous pouvez effectuer la mise à jour_.
-2. Click on **Update to new version of project plan**.
+2. Cliquez sur **Mettre à jour vers la nouvelle version du plan de projet**.
 3. Choisissez de conserver ou de supprimer les tâches.
-    - _Lorsque vous effectuez la mise à jour, l'envoi et la réception sont effectués._
-4. Choose one of the three options in the green message bar at the top:
+    - _Lorsque vous effectuez la mise à jour, un envoyez/recevoir est effectués._
+4. Choisissez l'une des trois options dans la barre de message verte en haut :
     - Fermer le message
     - Afficher la progression dans le plan précédent
     - Annuler la mise à jour du plan de base.

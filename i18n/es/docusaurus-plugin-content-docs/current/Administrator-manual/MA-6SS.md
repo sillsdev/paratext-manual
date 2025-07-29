@@ -1,57 +1,57 @@
 ---
-title: AM 6. Setup for Success
+title: AM 6. Preparados para el éxito
 sidebar_position: 5
 slug: /MA-6SS
 ---
 
-Things to consider:
+Cosas a tener en cuenta:
 
-_**This is a dynamic process**_
+_**Se trata de un proceso dinámico**_
 
-- When a project is brand new, there aren't many settings that can be fixed.
-- As the project matures, some of the inventories start to make sense.
+- Cuando un proyecto es nuevo, no hay muchos ajustes que se puedan arreglar.
+- A medida que el proyecto madura, algunos de los inventarios empiezan a tener sentido.
 
-_**Who is working on the project**_
+_**¿Quién trabaja en el proyecto?**_
 
-- Set up users, roles, and permissions
-- Would it be useful to have a ‘simplified menu’?
+- Configurar usuarios, funciones y permisos
+- ¿Sería útil disponer de un "menú simplificado"?
 
-_**Do you need to customise the settings?**_
+_**¿Necesita personalizar la configuración?**_
 
-- custom.sty
-- change the style sheet settings
-- the names of markers (in other languages)
-- the colour to help identify features?
-- custom.vrs
-- identify verses that are different from the default versification
+- estilo.personalizado
+- cambiar la configuración de la hoja de estilo
+- los nombres de los marcadores (en otras lenguas)
+- ¿el color ayuda a identificar las características?
+- personalizado.vrs
+- identificar los versos que difieren de la versificación por defecto
 
-_**What spelling will be used?**_
+_**¿Qué ortografía se utilizará?**_
 
-- Place the spelling letters in the language settings.
-- (Remember that what you put in the language settings could go into the ‘Speech and Language Data Repository’.)
+- Coloque las letras ortográficas en los ajustes de idioma.
+- (Recuerda que lo que pongas en la configuración lingüística podría ir a parar al "Depósito de datos sobre el habla y el lenguaje")
 
-_**How will characters be entered?**_
+_**¿Cómo se introducirán los caracteres?**_
 
-- Keyman/MSKLC (Keyman is free!)
-- AutoCorrect.txt
+- Keyman/MSKLC (Keyman es gratuito)
+- Autocorrección.txt
 
-_**Which quotation system will be used?**_
+_**¿Qué sistema de cotización se utilizará?**_
 
-- Define quotation rules [Dynamic]
-- Think about your rules
-- Test what you have chosen
-- Adjust rules
-- Make corrections to rules/text if necessary
+- Definir reglas de cotización [Dinámico]
+- Piense en sus normas
+- Pruebe lo que ha elegido
+- Ajustar las normas
+- Corregir las normas o el texto si es necesario
 
-_**When you have text data**_
+_**Cuando tienes datos de texto**_
 
-- Start with inventories
-- Start at the beginning [characters]
-- Look for options in the inventories!
-- Is the element valid all the time? Or just in certain situations?
+- Empezar con inventarios
+- Empezar por el principio [caracteres]
+- ¡Busque opciones en los inventarios!
+- ¿El elemento es válido todo el tiempo? ¿O sólo en determinadas situaciones?
 
-_**Biblical reference settings**_
+_**Configuración de referencias bíblicas**_
 
-- Which book names do you use?
-- What is the format of a reference?
-- Where to place the origin of notes? [First, last...]
+- ¿Qué nombres de libros utiliza?
+- ¿Cuál es el formato de una referencia?
+- ¿Dónde situar el origen de las notas? [Primero, último...]

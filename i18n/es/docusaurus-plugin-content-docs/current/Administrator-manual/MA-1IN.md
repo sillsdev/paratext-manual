@@ -1,87 +1,87 @@
 ---
-title: AM 1. Install
+title: AM 1. Instalar
 sidebar_position: 0
 slug: /MA-1IN
 ---
 
-_**1.1 Introduction**_
+_**1.1 Introducción**_
 
-In this module, you will install Paratext 9. Paratext is the world's leading software for developing and checking new translations of the Bible or revisions to existing translations. Developed jointly by ABU and SIL International, it enables consistent and accurate translation based on original texts and modelled on versions in major languages. Thanks in part to its advanced collaboration features, Paratext greatly contributes to producing higher quality translations in less time than previous tools and methods have allowed.
+En este módulo, instalará Paratext 9. Paratext es el software líder mundial para desarrollar y comprobar nuevas traducciones de la Biblia o revisiones de traducciones existentes. Desarrollado conjuntamente por ABU y SIL International, permite una traducción coherente y precisa basada en los textos originales y modelada a partir de las versiones en las principales lenguas. Gracias en parte a sus avanzadas funciones de colaboración, Paratext contribuye en gran medida a producir traducciones de mayor calidad en menos tiempo del que permitían las herramientas y métodos anteriores.
 
-_**Where are we**_
+_**¿Dónde estamos?**_
 
-You may have already installed a previous version on your computer and now want to install Paratext 9.
+Es posible que ya hayas instalado una versión anterior en tu ordenador y ahora quieras instalar Paratext 9.
 
-_**Why is this important?**_
+_**¿Por qué es importante?**_
 
-Paratext 7, Paratext 8 and Paratext 9 can be installed at the same time, but it is important to understand the limitations of using them together.
+Paratext 7, Paratext 8 y Paratext 9 pueden instalarse al mismo tiempo, pero es importante entender las limitaciones de usarlos juntos.
 
-- Multiple versions can be installed
-- Some use different folders
-- My Paratext Projects Paratext 7)
-- My Paratext 8 Projects (Paratext 9 and 8)
-- Paratext 7 used a different server (which is now closed). Paratext 8 and 9 use the same data servers.
+- Se pueden instalar varias versiones
+- Algunos utilizan carpetas diferentes
+- Mis proyectos Paratext Paratext 7)
+- Mis proyectos Paratext 8 (Paratext 9 y 8)
+- Paratext 7 utilizaba un servidor diferente (que ahora está cerrado). Paratext 8 y 9 utilizan los mismos servidores de datos.
 
-_**What are we going to do?**_
+_**¿Qué vamos a hacer?**_
 
-You are going to install Paratext 9 (without uninstalling Paratext 7 or 8). You will also update from an MSP file.
+Vas a instalar Paratext 9 (sin desinstalar Paratext 7 u 8). También se actualizará desde un archivo MSP.
 
-## **1.2 Installing Paratext 9** {#238598a5fd40802aaa7dfc4925f3f24a}
+## **1.2 Instalando Paratext 9** {#238598a5fd40802aaa7dfc4925f3f24a}
 
 :::tip
 
-It is not necessary to uninstall a previous version of Paratext. However, you must uninstall any previous BETA versions of Paratext 9.
+No es necesario desinstalar una versión anterior de Paratext. Sin embargo, debes desinstalar cualquier versión BETA anterior de Paratext 9.
 
 :::
 
-- Double-click on the installation file
+- Haga doble clic en el archivo de instalación
 
 Paratext_9.5.101.1_InstallerOffline.exe).
 
-- Tick ‘I agree to the licence terms’
-- Click **Install**.
+- Marque la casilla "Acepto las condiciones de la licencia"
+- Haga clic en **Instalar**.
 
-This step may take a few minutes if the installer needs to install .NET 4.8 Framework on your computer.
+Este paso puede tardar unos minutos si el instalador necesita instalar .NET 4.8 Framework en su ordenador.
 
-- If a dialogue box appears asking for your permission, click **Yes** or provide the necessary credentials.
+- Si aparece un cuadro de diálogo solicitando su permiso, haga clic en **Sí** o proporcione las credenciales necesarias.
 
-A welcome message will appear.
+Aparecerá un mensaje de bienvenida.
 
-- Click **Next**
+- Pulse **Siguiente**
 
-The ‘Destination Folder’ step will appear
+Aparecerá el paso "Carpeta de destino
 
-- Accept the default folder settings.
+- Acepte la configuración predeterminada de la carpeta.
 
-Note: Paratext 8 and 9 projects cannot share the same folder as Paratext 7 projects.
+Nota: Los proyectos Paratext 8 y 9 no pueden compartir la misma carpeta que los proyectos Paratext 7.
 
-- Click **Next**, then **Install**
-- Click **Finish**, then **Close**.
-- The first time you launch Paratext 9, you will need to enter your Paratext registration code. Information on how to obtain this code can be found on the registration page.
+- Haga clic en **Siguiente** y, a continuación, en **Instalar**
+- Haga clic en **Finalizar** y, a continuación, en **Cerrar**.
+- La primera vez que inicies Paratext 9, tendrás que introducir tu código de registro de Paratext. Encontrará información sobre cómo obtener este código en la página de inscripción.
 
-## **1.3 Registering a Paratext 7 user**  {#238598a5fd4080c0b685dcc6e657e6f1}
+## **1.3 Registro de un usuario de Paratext 7** {#238598a5fd4080c0b685dcc6e657e6f1}
 
-**(when running Paratext for the first time)**
+**(al ejecutar Paratext por primera vez)**
 
-All users need to register again for Paratext 9.
+Todos los usuarios deben registrarse de nuevo en Paratext 9.
 
-- Run Paratext 9 (for the first time)
-- Choose the interface language
-    - _A dialogue box will appear asking for your registration code._
-- In your web browser, go to [https://registry.paratext.org](https://registry.paratext.org/)
-    - _The ‘Sign in’ page will appear._
-- Enter your email address (Gmail)
-- Click on the **Register** link
-- Enter your username
-- Enter (or copy) the user's Paratext 7 registration code
-- Copy the new Paratext 9 code
-- Return to Paratext
-    - _Paratext will paste the code_
+- Ejecutar Paratext 9 (por primera vez)
+- Elija el idioma de la interfaz
+    - aparecerá un cuadro de diálogo en el que se le pedirá el código de registro
+- En su navegador, vaya a [https://registry.paratext.org](https://registry.paratext.org/)
+    - aparecerá la página "Iniciar sesión"
+- Introduzca su dirección de correo electrónico (Gmail)
+- Haga clic en el enlace \*\*Registrarse
+- Escriba su nombre de usuario
+- Introduzca (o copie) el código de registro de Paratext 7 del usuario
+- Copie el nuevo código Paratext 9
+- Volver al paratexto
+    - _Paratext pegará el código_
 - Haga clic en **Aceptar**.
 
-## **1.4 Manually updating your existing version of Paratext** {#238598a5fd4080fc8412c49d265a0241}
+## **1.4 Actualización manual de la versión existente de Paratext** {#238598a5fd4080fc8412c49d265a0241}
 
-Update files have an .msp extension instead of .pud or .spud as in the past.
+Los archivos de actualización tienen extensión .msp en lugar de .pud o .spud como antes.
 
-- Make sure Paratext is closed.
-- Double-click the .msp file to install the update.
+- Asegúrate de que Paratext está cerrado.
+- Haga doble clic en el archivo .msp para instalar la actualización.
