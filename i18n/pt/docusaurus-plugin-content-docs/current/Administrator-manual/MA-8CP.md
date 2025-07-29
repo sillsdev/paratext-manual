@@ -6,21 +6,13 @@ slug: /MA-8CP
 
 # **CV: Convert a Project** {#238598a5fd4080aa8ca3d773eab1eca5}
 
-**8.1 Introduction**
+**Introduction**  If you ever need to rename your project, reduce its size, change user names, change the encoding, or struggle with compound/decompound diacritics, the **Convert Project** tool will help you solve these problems.
 
-If you ever need to rename your project, reduce its size, change user names, change the encoding, or struggle with compound/decompound diacritics, the **Convert Project** tool will help you solve these problems.
+_**Where are we?**_  You must be the project administrator to make these conversions.
 
-_**Where are we?**_
+_**Why is this skill important?**_  Only a few changes can be made to the project in the project's **Properties and settings**. Major changes require a new project to be created. The **Convert project** tool allows the new project to retain the project history.
 
-You must be the project administrator to make these conversions.
-
-_**Why is this skill important?**_
-
-Only a few changes can be made to the project in the project's **Properties and settings**. Major changes require a new project to be created. The **Convert project** tool allows the new project to retain the project history.
-
-_**What are we going to do?**_
-
-We will work through the six changes that can be made to your project.
+_**What are we going to do?**_  We will work through the six changes that can be made to your project.
 
 - Change the short name of the project
 - Remove deleted files from the project history
@@ -50,7 +42,11 @@ We will work through the six changes that can be made to your project.
 
 - **[4]** Select this option to convert a standard Unicode encoding project.
 
+:::caution
+
 > This will not work to change the encoding if your project contains a ‘pirated font’. Normalisation – composed or decomposed.
+
+:::
 
 ### **8.2.5 Normalisation** {#238598a5fd408022a4cdfa3928de338b}
 

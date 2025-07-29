@@ -4,14 +4,11 @@ sidebar_position: 6
 slug: /MA-7PP
 ---
 
-**Introducción**
-El "seguimiento del progreso" basado en un plan de proyecto y en las asignaciones y el progreso es una función mejorada de **Paratext** 9.1 que repercute en el trabajo diario de los equipos de traducción.
+**Introduction**  “Progress tracking” based on a Project Plan and Assignments and Progress is an improved feature in **Paratext** 9.1 that impacts the day-to-day work of translation teams.
 
-**Antes de empezar**
-Antes de poder añadir el plan, el proyecto debe haber sido creado y/o migrado.
+**Before you start**  Before you can add the plan, the project must have been created/or migrated.
 
-**Por qué es importante**
-En un proyecto de traducción hay que realizar muchas tareas. Es importante disponer de un sistema que garantice que todo esto se lleva a cabo. También es bueno disponer de una forma sencilla de generar informes para supervisores y financiadores (véase PP2: Informe del plan del proyecto).
+**Why is this Important**  There are many tasks to be done in a translation project. Es importante disponer de un sistema que garantice que todo esto se lleva a cabo. También es bueno disponer de una forma sencilla de generar informes para supervisores y financiadores (véase PP2: Informe del plan del proyecto).
 
 Elaborar un plan de proyecto desde cero es desalentador. Diversas organizaciones de traducción de la Biblia (UBS/ABU, SIL y The Seed Company) incluyen planes "básicos" que pueden aplicarse a los proyectos. Los equipos sólo tienen que personalizar estos planes dentro de los límites establecidos por sus organizaciones.
 
@@ -19,8 +16,7 @@ Normalmente, las organizaciones quieren conformidad a nivel de "Etapa" para faci
 
 Si una tarea es importante para ti y para tu equipo y quieres hacer un seguimiento de su progreso, puedes incluirla en el plan del proyecto (aunque no requiera Paratext para realizarla).
 
-\*\*¿Qué vas a hacer?
-Utilizarás una combinación de dos funciones: la configuración del **Plan de Proyecto** y las **Asignaciones y Progreso** (a veces denominadas "seguimiento del progreso") para gestionar el plan asignando tareas a los miembros del equipo y realizando un seguimiento de su progreso en la realización de dichas tareas.
+**What are you going to do?**  You will use a combination of two features: the settings of the **Project Plan** and the **Assignments and Progress** (sometimes referred to as “progress tracking”) to manage the plan by assigning team members to tasks, and tracking their progress in completing those tasks.
 
 - Añada el plan básico de organización al proyecto (elimine un plan antiguo si es necesario)
 - Personalizar el plan para el equipo añadiendo/eliminando y moviendo tareas
@@ -29,13 +25,13 @@ Utilizarás una combinación de dos funciones: la configuración del **Plan de P
 
 ## 7.1 Añadir el plan base de la organización {#238598a5fd408008b600f3e188326022}
 
-:::info
+:::caution
 
 Si ya tiene un plan, deberá eliminarlo antes de poder añadir otro. (Véanse más abajo las instrucciones)
 
 :::
 
-1. \*pestaña \*≡, en Proyecto **Configuración del proyecto** elegir **Plan de proyecto**
+1. **≡ Tab**, under Project &gt; **Project settings** choose **Project plan**
 2. Haga clic en **Gestionar planes**
 3. Haga clic en la flecha desplegable situada debajo de **Mostrar plan base**
 4. Elija su plan de base organizativo
@@ -92,7 +88,7 @@ Es posible reordenar las tareas e incluso desplazarlas a otra etapa. Sin embargo
 2. Haga clic en la pestaña **Etapas/Tareas**.
 3. Seleccione la tarea que desea mover.
 4. Haga clic en la flecha hacia arriba o en la flecha hacia abajo para mover la tarea a un punto diferente con respecto a las otras tareas, o para moverla a una etapa diferente.
-    - puede que recibas un mensaje pidiendo confirmación
+    - _You may get a message asking to confirm._
 5. Haga clic en **Aceptar**.
 
 ### Configurar - Añadir tareas {#238598a5fd4080918c8ed2e0d1db12d1}

@@ -6,17 +6,11 @@ slug: /MA_5IR
 
 # **AM IR : Installation des ressources** {#238598a5fd4080498648ca1f10ff45cd}
 
-**Introduction**
+**Introduction**  In this module, you will learn how to install resources.
 
-Dans ce module, vous apprendrez à installer des ressources.
+_**Where are we?**_  You have already installed Paratext 8 and registered the user.
 
-Où en sommes-nous
-
-Vous avez déjà installé Paratext 8 et 9 et enregistré l'utilisateur.
-
-_**Pourquoi est-il important ?**_
-
-Dans Paratext 9, les ressources sont téléchargées depuis le DBL (Digital Bible Library ou bibliothèque biblique numérique). Normalement chaque utilisateur les télécharge directement, mais si vous avez une connexion Internet limitée, il est possible de partager les fichiers téléchargés.
+_**Why is this important?**_  In Paratext 9, resources are downloaded from the DBL (Digital Bible Library). Normalement chaque utilisateur les télécharge directement, mais si vous avez une connexion Internet limitée, il est possible de partager les fichiers téléchargés.
 
 _**Que ferez-vous ?**_
 

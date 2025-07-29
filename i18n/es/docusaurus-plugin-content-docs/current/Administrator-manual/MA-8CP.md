@@ -6,21 +6,13 @@ slug: /MA-8CP
 
 # **CV: Convertir un proyecto** {#238598a5fd4080aa8ca3d773eab1eca5}
 
-**8.1 Introducción**
+**Introduction**  If you ever need to rename your project, reduce its size, change user names, change the encoding, or struggle with compound/decompound diacritics, the **Convert Project** tool will help you solve these problems.
 
-Si alguna vez necesitas cambiar el nombre de tu proyecto, reducir su tamaño, cambiar los nombres de usuario, cambiar la codificación o tener problemas con los diacríticos compuestos/descompuestos, la herramienta **Convertir proyecto** te ayudará a resolver estos problemas.
+_**Where are we?**_  You must be the project administrator to make these conversions.
 
-_**¿Dónde estamos?**_
+_**Why is this skill important?**_  Only a few changes can be made to the project in the project's **Properties and settings**. Los cambios importantes requieren la creación de un nuevo proyecto. La herramienta **Convertir proyecto** permite que el nuevo proyecto conserve el historial del proyecto.
 
-Usted debe ser el administrador del proyecto para realizar estas conversiones.
-
-_**¿Por qué es importante esta habilidad?**_
-
-Sólo se pueden realizar algunos cambios en el proyecto en las **Propiedades y ajustes** del proyecto. Los cambios importantes requieren la creación de un nuevo proyecto. La herramienta **Convertir proyecto** permite que el nuevo proyecto conserve el historial del proyecto.
-
-_**¿Qué vamos a hacer?**_
-
-Analizaremos los seis cambios que pueden introducirse en su proyecto.
+_**What are we going to do?**_  We will work through the six changes that can be made to your project.
 
 - Cambiar el nombre corto del proyecto
 - Eliminar archivos borrados del historial del proyecto
@@ -50,7 +42,11 @@ Analizaremos los seis cambios que pueden introducirse en su proyecto.
 
 - **[4]** Seleccione esta opción para convertir un proyecto de codificación Unicode estándar.
 
+:::caution
+
 > Esto no funcionará para cambiar la codificación si su proyecto contiene una "fuente pirata". Normalización - compuesta o descompuesta.
+
+:::
 
 ### **8.2.5 Normalización** {#238598a5fd408022a4cdfa3928de338b}
 

@@ -4,17 +4,11 @@ sidebar_position: 2
 slug: /MA-3REG
 ---
 
-## \*\*Introduction {#238598a5fd4080cb9c9de2f4e5c2ef1e}
+**3.1 Introduction** From Paratext 8 onwards, it is mandatory for projects to share their basic information or metadata with the translation community. Le partage d'informations sur les progrès réalisés est fortement encouragé. [Certains organismes et/ou bailleurs de fonds peuvent l'exiger]
 
-Désormais, c’est-à-dire à partir de Paratext 8, il est obligatoire que les projets partagent leurs informations de base ou métadonnées avec la communauté de traduction. Le partage d'informations sur les progrès réalisés est fortement encouragé. [Certains organismes et/ou bailleurs de fonds peuvent l'exiger]
+_**Where are we**_  Paratext 8 is already installed and you have the Paratext 7 registration codes for users.
 
-Où en sommes-nous
-
-Paratext 8 est déjà installé et vous avez les codes d’inscription Paratext 7 pour les utilisateurs.
-
-Pourquoi cette aptitude est-elle importante
-
-Dans Paratext 8, l’on doit inscrire aussi bien les utilisateurs que les projets. L’accès à des ressources textuelles spécifiques, telles que la Parole de Vie, est déterminé par l'organisation dont vous faites partie.
+_**Why is this skill important?**_  In Paratext 8, both users and projects must be registered. L’accès à des ressources textuelles spécifiques, telles que la Parole de Vie, est déterminé par l'organisation dont vous faites partie.
 
 Les projets peuvent être inscrits par l'administrateur (ou un conseiller servant d'administrateur).
 
@@ -27,30 +21,22 @@ Si votre projet n’est pas inscrit, vous n’aurez pas accès à
 - outils de glose statistique (proposer des traductions/équivalents).
 - imprimer l’ébauche.
 
-_**Qu’est-ce qu’on va faire ?**_
+_**What are you going to do?**_  You are going to register a Paratext 9 user
 
-- Vous allez inscrire un utilisateur Paratext 9
 - Vous allez inscrire un nouveau projet Paratext 9
 - Vous verrez les informations qu’un projet inscrit affiche dans le Registre Paratext
 
 ## **3.2 S'enregistrer avec un compte Google** {#238598a5fd4080c68c4ffa43e60d77be}
 
 - Accédez à [https://registry.paratext.org](https://registry.paratext.org)
-
-L'écran "Connexion" s'affiche.
-
+    - _The ‘Sign in’ screen will appear._
 - Saisir votre adresse de courriel
-
-(Votre adresse sera vérifiée)
-
+    - _(Your address will be verified)_
 - Connectez-vous à l’aide de votre adresse email (Gmail)
-
-Un nouvel écran s'affiche pour demander votre mot de passe.
-
+    - _A new screen will appear asking for your password._
 - Tapez votre mot de passe Google
 - Cliquez sur Yes (Oui) pour autoriser Paratext à utiliser votre profile.
-
-New Paratext 9 User s’affiche et vous pouvez remplir le formulaire.
+    - _New Paratext 9 User will appear and you can fill in the form._
 
 Si vous n’avez pas d’adresse Gmail, voir section 3.4
 
@@ -60,7 +46,11 @@ Si vous n’avez pas d’adresse Gmail, voir section 3.4
 - Si vous êtes un utilisateur de Paratext 7, fournissez votre code d’enregistrement Paratext 7
 - Choisissez votre organisation (ou laissez le champ vide)
 
+:::caution
+
 Toute personne peut s'inscrire pour utiliser Paratext, mais les personnes qui ne sont pas membres d'un organisme de traduction et qui ne sont pas membres d'un projet enregistré ne pourront utiliser toutes les fonctionnalités de Paratext et ne pourront accéder qu'à quelques ressources.
+
+:::
 
 - Choisissez votre pays\*\*
 - Entrez, si pertinent, votre filiale (entité sur le terrain) et votre superviseur

@@ -6,21 +6,13 @@ slug: /MA-8CP
 
 # **CV : Convertir un projet** {#238598a5fd4080aa8ca3d773eab1eca5}
 
-**8.1 Introduction**
+**Introduction**  If you ever need to rename your project, reduce its size, change user names, change the encoding, or struggle with compound/decompound diacritics, the **Convert Project** tool will help you solve these problems.
 
-Si jamais vous avez eu besoin de renommer votre projet, de réduire la taille de votre projet, de modifier les noms d’utilisateur, de modifier l’encodage ou de lutter avec des signes diacritiques composés/décomposés, l’outil **Convertir le projet** vous aidera à résoudre ces problèmes.
+_**Where are we?**_  You must be the project administrator to make these conversions.
 
-Où en sommes-nous
+_**Why is this skill important?**_  Only a few changes can be made to the project in the project's **Properties and settings**. Les changements majeurs nécessitent qu’un nouveau projet soit créé. L’outil **Convertir le projet** permet le nouveau projet de garder l’historique du projet.
 
-Vous devez être l’administrateur du projet à faire ces conversions.
-
-_**Pourquoi cette aptitude est-elle importante ?**
-
-Il n’est que possible d’apporter quelques modifications au projet dans le Propriétés et paramètres du projet\*\*. Les changements majeurs nécessitent qu’un nouveau projet soit créé. L’outil **Convertir le projet** permet le nouveau projet de garder l’historique du projet.
-
-_**Qu’est-ce qu’on va faire ?**_
-
-Nous allons travailler les six changements qui peuvent être apportés à votre projet.
+_**What are we going to do?**_  We will work through the six changes that can be made to your project.
 
 - Changer le nom abrégé du projet
 - Retirer les fichiers effacés de l'historique de projet
@@ -50,7 +42,11 @@ Nous allons travailler les six changements qui peuvent être apportés à votre 
 
 - **[4]** Sélectionnez cette option pour convertir un projet standard d’encodage Unicode.
 
+:::caution
+
 > 💡 Cela ne fonctionnera pas pour modifier l’encodage si votre projet comporte une « police piratée ». Normalisation – composés ou décomposés.
+
+:::
 
 ### **8.2.5 Normalisation** {#238598a5fd408022a4cdfa3928de338b}
 

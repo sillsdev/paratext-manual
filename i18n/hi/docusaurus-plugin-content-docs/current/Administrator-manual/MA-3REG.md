@@ -4,17 +4,11 @@ sidebar_position: 2
 slug: /MA-3REG
 ---
 
-## **3.1 Introduction** {#238598a5fd4080cb9c9de2f4e5c2ef1e}
+**3.1 Introduction** From Paratext 8 onwards, it is mandatory for projects to share their basic information or metadata with the translation community. Sharing information on progress is strongly encouraged. [Some organisations and/or funders may require this.]
 
-From Paratext 8 onwards, it is mandatory for projects to share their basic information or metadata with the translation community. Sharing information on progress is strongly encouraged. [Some organisations and/or funders may require this.]
+_**Where are we**_  Paratext 8 is already installed and you have the Paratext 7 registration codes for users.
 
-_**Where are we**_
-
-Paratext 8 is already installed and you have the Paratext 7 registration codes for users.
-
-_**Why is this skill important?**_
-
-In Paratext 8, both users and projects must be registered. Access to specific text resources, such as the Word of Life, is determined by the organisation you belong to.
+_**Why is this skill important?**_  In Paratext 8, both users and projects must be registered. Access to specific text resources, such as the Word of Life, is determined by the organisation you belong to.
 
 Projects can be registered by the administrator (or an advisor acting as administrator).
 
@@ -27,30 +21,22 @@ If your project is not registered, you will not have access to
 - statistical glossing tools (suggest translations/equivalents).
 - print the draft.
 
-_**What are you going to do?**_
+_**What are you going to do?**_  You are going to register a Paratext 9 user
 
-- You are going to register a Paratext 9 user
 - You will register a new Paratext 9 project
 - You will see the information that a registered project displays in the Paratext Register
 
 ## **3.2 Register with a Google account** {#238598a5fd4080c68c4ffa43e60d77be}
 
 - Go to [https://registry.paratext.org](https://registry.paratext.org/)
-
-The ‘Sign in’ screen will appear.
-
+    - _The ‘Sign in’ screen will appear._
 - Enter your email address
-
-(Your address will be verified)
-
+    - _(Your address will be verified)_
 - Log in using your email address (Gmail)
-
-A new screen will appear asking for your password.
-
+    - _A new screen will appear asking for your password._
 - Enter your Google password
 - Click **Yes** to allow Paratext to use your profile.
-
-New Paratext 9 User will appear and you can fill in the form.
+    - _New Paratext 9 User will appear and you can fill in the form._
 
 If you do not have a Gmail address, see section 3.4
 
@@ -60,7 +46,11 @@ If you do not have a Gmail address, see section 3.4
 - If you are a Paratext 7 user, provide your Paratext 7 registration code
 - Choose your organisation (or leave the field blank)
 
+:::caution
+
 Anyone can register to use Paratext, but people who are not members of a translation organisation and who are not members of a registered project will not be able to use all of Paratext's features and will only have access to some resources.
+
+:::
 
 - Select your **country**
 - If applicable, enter your affiliate (entity in the field) and your supervisor

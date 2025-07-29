@@ -6,68 +6,68 @@ slug: /MA_4CP
 
 # **CP : Créer un nouveau projet** {#238598a5fd4080d28e44d73f28d5b402}
 
-**4.1 Introduction**
+**4.1 Introduction** In this module, you will create and register a new project.
 
-Dans ce module, vous allez créer et inscrire un nouveau projet.
+_**Where are we?**_  You have already installed Paratext 9 and registered a user.
 
-_**Où en sommes-nous**_
-
-Vous avez déjà installé Paratext 9 et inscrit un utilisateur.
-
-_**Pourquoi cette aptitude est-elle importante ?**_
-
-Un aspect nouveau dans Paratext 8 et 9 est que les projets et les utilisateurs doivent être inscrits. Cela peut sembler une complication, mais il offre des avantages aux utilisateurs.
+_**Why is this skill important?**_  A new feature in Paratext 8 and 9 is that projects and users must be registered. Cela peut sembler une complication, mais il offre des avantages aux utilisateurs.
 
 Comme nous avons vu dans la section d'inscription des utilisateurs, l'administrateur d'un projet peut créer des inscriptions pour les utilisateurs dont ils souhaitent faire participer à son projet.
 
-_**Qu’est-ce qu’on va faire ?**_
-
-On va créer et inscrire un nouveau projet.
+_**What are we going to do?**_  We will create and register a new project.
 
 ## **4.2 Créer un nouveau projet** {#238598a5fd408040a28fd03938ff47a0}
 
 - **≡ Paratext**, sous **Paratext** > **Nouveau Projet**
-
-La boîte de dialogue Propriétés et paramètres de projet s'affiche.
+    - _The Project Properties and Settings dialogue box appears._
 
 ### **4.2.1 Modifier le nom du projet** {#238598a5fd40804b9bb7fbe123385613}
 
 - Cliquez sur le bouton **Modifier**
-
-_La boîte de dialogue **Modifier le nom complet** s'affiche_
-
+    - _La boîte de dialogue **Modifier le nom complet** s'affiche_
 - Dans la section **Nom complet**, tapez un nom qui inclut le nom de la langue
 - Sous.**Nom abrégé**, tapez le code **ISO** pour la langue.
 
+:::caution
+
 Une fois que vous créez un nom de projet, le nom abrégé ne peut pas être modifié, car c'est le nom que Paratext donnera au dossier contenant les fichiers de projet, ainsi que le nom donné au projet sur le serveur Internet. (Cependant, vous pouvez convertir le projet vers un nouveau projet avec un nom abrégé diffèrent. Mais la conversion d'un projet peut prendre de nombreuses heures.)
+
+:::
 
 ### **4.2.2 Spécifier la langue** {#238598a5fd4080468c76e61de7481949}
 
-- Si vous avez un autre projet Paratext dans la même langue, vous pouvez déjà choisir la langue dans la liste dans Paratext **[2]**. Sinon, vous devrez créer une nouvelle langue.
+:::tip
+
+Si vous avez un autre projet Paratext dans la même langue, vous pouvez déjà choisir la langue dans la liste dans Paratext **[2]**. Sinon, vous devrez créer une nouvelle langue.
+
+:::
+
 - Cliquez sur **Nouveau**
-
-_La boîte de dialogue **Choisir un identificateur de langue** s’affiche_.
-
+    - _La boîte de dialogue **Choisir un identificateur de langue** s’affiche_.
 - Cliquez dans la zone de **Recherche**
 - Commencez à saisir le nom de votre langue
-
-Paratext affiche les noms correspondants.
-
+    - _Paratext displays the matching names._
 - Cliquez sur votre langue dans la liste.
-
-Paratext ajoutera le nom de la langue.
-
+    - _Paratext adds the language name._
 - Remplissez les champs de la section Avancé, si nécessaire.
 - Cliquez sur **OK**.
 
+:::tip
+
 Vous pouvez également spécifier des informations supplémentaires si nécessaire dans la section "avancé" de la boîte de dialogue des paramètres de langue.
+
+:::
 
 ### **4.2.3 Type de projet** {#238598a5fd408099bf7ed09849b689b1}
 
 - Cliquez sur la liste déroulante à côté de **Type de projet**
 - Choisissez le type approprié pour votre projet.
 
+:::tip
+
 S'il s'agit d'un projet dépendant comme une retraduction, d'une traduction fille ou d'un projet de translittération, vous devrez définir la source.
+
+:::
 
 ### **4.2.4 Enregistrer le nouveau projet** {#238598a5fd40808cb3fad1807206c360}
 
@@ -94,5 +94,11 @@ Lorsque vous travaillez dans votre projet, vous pouvez modifier vos informations
 - **≡ onglet**, sous **Projet** &gt; **Propriétés du projet** &gt; **Paramètres du projet**
 - Cliquez sur le lien **Gérer l'inscription**
 
+:::tip
+
 L'information de votre inscription s'affiche. Un administrateur peut modifier l'information.
+
+:::
+
+
 
