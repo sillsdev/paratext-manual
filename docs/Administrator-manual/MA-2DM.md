@@ -9,22 +9,13 @@ slug: /MA-2DM
 # **MD: Data migration** {#238598a5fd40802d917ed1a14d5bff88}
 
 
-**2.1 Introduction**
+**Introduction**  Migration is the process of moving a project (including all settings files) from **Paratext 7** to Paratext 9. Paratext 9 does not have a migration feature. However, it is still possible to do this using Paratext 8. N.B.: Paratext 9 can read Paratext 8 projects.
 
 
-Migration is the process of moving a project (including all settings files) from **Paratext 7** to Paratext 9. Paratext 9 does not have a migration feature. However, it is still possible to do this using Paratext 8. N.B.: Paratext 9 can read Paratext 8 projects.
+_**Where are we now?**_  You have already installed Paratext 8 and you have a Paratext 7 project that you want to use in Paratext 9.
 
 
-_**Where are we now?**_
-
-
-You have already installed Paratext 8 and you have a Paratext 7 project that you want to use in Paratext 9.
-
-
-_**Why is this important?**_
-
-
-In order for all Paratext 9 features to work, your Paratext 7 project must be migrated. Paratext 7 and Paratext 9 use different servers to send/receive, so there will be no way to share a project with Paratext 7 and Paratext 8 (or 9) users at the same time. As a result, the old server will be shut down at the end of December 2018. It is therefore important to migrate projects quickly.
+_**Why is this important?**_  In order for all Paratext 9 features to work, your Paratext 7 project must be migrated. Paratext 7 and Paratext 9 use different servers to send/receive, so there will be no way to share a project with Paratext 7 and Paratext 8 (or 9) users at the same time. As a result, the old server will be shut down at the end of December 2018. It is therefore important to migrate projects quickly.
 
 
 Users can have Paratext 7 and Paratext 8 (and 9) installed at the same time and use either one, but no projects can be shared between them.
@@ -68,9 +59,7 @@ It will probably be marked as ‘v7, unregistered.’
 The project may be marked as ‘v7’ without being described as unregistered, because a number of Paratext 7 projects were pre-registered in Paratext 8. If yours is one of these, you should continue with the migration, but you can skip the registration.
 
 - Click **OK** to start migrating the project.
-
-The Migrate Shared Project dialogue box appears.
-
+	- _The Migrate Shared Project dialogue box appears._
 
 _Paratext 8 may tell you that the project needs to be registered (if it is not pre-registered) and that it needs to be migrated to Paratext 8._
 
@@ -94,9 +83,7 @@ _Paratext 8 may tell you that the project needs to be registered (if it is not p
 The ‘Digital Bible Library’ (Digital Bible Library) is a tool for making translations available online or to mobile users, but your project will not be available to anyone until you agree to make it available.
 
 - Click **Submit Registration**
-
-A message will appear saying ‘Project registered successfully.’
-
+	- _A message will appear saying ‘Project registered successfully.’_
 - Return to Paratext
 
 It should detect that the project is now registered and notify you.
@@ -115,14 +102,12 @@ If you have just registered your project, your project is already open and you c
 - This computer has received the changes in PT7.
 - Check these boxes if they are true, then click **Migrate Now** to continue.
 
-If you need to do anything else before you are ready to migrate, click Migrate later, then finish your preparations.
+If you need to do anything else before you are ready to migrate, click **Migrate later**, then finish your preparations.
 
 - When you click **Migrate Now**, Paratext will copy the project from your Paratext 7 to your Paratext 8 and also perform a send/receive to the Internet.
 - If you receive a warning about a final send/receive in **Paratext 7**,
 - Click **OK**,
-
-the migration process will stop,
-
+	- _the migration process will stop,_
 - mark a milestone in the project history in Paratext 7,
 - then restart the migration in Paratext 8.
 - Now your colleagues can go to Paratext 9 and do a send/receive to receive the migrated project.

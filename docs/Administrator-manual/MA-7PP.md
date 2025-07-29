@@ -6,16 +6,13 @@ slug: /MA-7PP
 
 
 
-**Introduction**  
-“Progress tracking” based on a Project Plan and Assignments and Progress is an improved feature in **Paratext** 9.1 that impacts the day-to-day work of translation teams.
+**Introduction**  “Progress tracking” based on a Project Plan and Assignments and Progress is an improved feature in **Paratext** 9.1 that impacts the day-to-day work of translation teams.
 
 
-**Before you start**  
-Before you can add the plan, the project must have been created/or migrated.
+**Before you start**  Before you can add the plan, the project must have been created/or migrated.
 
 
-**Why is this Important**  
-There are many tasks to be done in a translation project. It is important to have a system to ensure that all of these are done. It is also good to have an easy way to generate reports for supervisors and funders (see PP2: Project Plan Report).
+**Why is this Important**  There are many tasks to be done in a translation project. It is important to have a system to ensure that all of these are done. It is also good to have an easy way to generate reports for supervisors and funders (see PP2: Project Plan Report).
 
 
 Setting up a project plan from scratch is daunting. Various Bible translation organizations (UBS/ABU, SIL and The Seed Company) include "basic" plans that can be applied to projects. Teams need only customize these plans within the limits set by their organizations.
@@ -27,8 +24,7 @@ Typically, organizations want conformity at the “Stage” level in order to fa
 If a task is important to you and your team and you want to track its progress, then it can be included in the project plan (even if it doesn't require Paratext to do the task).
 
 
-**What are you going to do?**  
-You will use a combination of two features: the settings of the **Project Plan** and the **Assignments and Progress** (sometimes referred to as “progress tracking”) to manage the plan by assigning team members to tasks, and tracking their progress in completing those tasks.
+**What are you going to do?**  You will use a combination of two features: the settings of the **Project Plan** and the **Assignments and Progress** (sometimes referred to as “progress tracking”) to manage the plan by assigning team members to tasks, and tracking their progress in completing those tasks.
 
 - Add the organizational base plan to the project (remove an old plan if necessary)
 - Customize the plan for the team by adding/deleting and moving tasks
@@ -38,7 +34,7 @@ You will use a combination of two features: the settings of the **Project Plan**
 ## 7.1 Add the organisational base plan {#238598a5fd408008b600f3e188326022}
 
 
-:::info
+:::caution
 
 If you have an existing plan, you need to remove that plan before you can add another plan. (See below for instructions.)
 
@@ -46,7 +42,7 @@ If you have an existing plan, you need to remove that plan before you can add an
 
 
 
-1. **≡ Tab**, under Project **Project Settings** choose **Project plan**
+1. **≡ Tab**, under Project &gt; **Project settings** choose **Project plan**
 2. Click **Manage plans**
 3. Click  on the drop down arrow below **Show Base Plan**
 4. Choose your organisational base plan
@@ -110,7 +106,7 @@ It is possible to reorder tasks and even move tasks to another stage. However, n
 2. Click the **Stages/Tasks** tab.
 3. Select the task you want to move.
 4. Click the up arrow or the down arrow to move the task to a different point with respect to the other tasks, or to move it to a different stage.
-	- _You may get a messages asking to confirm._
+	- _You may get a message asking to confirm._
 5. Click **OK**.
 
 ### Configure — Add tasks {#238598a5fd4080918c8ed2e0d1db12d1}
