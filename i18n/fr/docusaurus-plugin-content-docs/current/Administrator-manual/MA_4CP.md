@@ -6,20 +6,20 @@ slug: /MA_4CP
 
 # **CP : Créer un nouveau projet** {#238598a5fd4080d28e44d73f28d5b402}
 
-_**Introduction**_ In this module, you will create and register a new project.
+_**Introduction**_ Dans ce module, vous allez créer et enregistrer un nouveau projet.
 
-_**Where are we?**_  You have already installed Paratext 9 and registered a user.
+_**Où en sommes-nous dans le processus ?**_ Vous avez déjà installé Paratext 9 et enregistré un utilisateur.
 
-_**Why is this skill important?**_  A new feature in Paratext 8 and 9 is that projects and users must be registered. Cela peut sembler une complication, mais il offre des avantages aux utilisateurs.
+_**Pourquoi cette compétence est-elle importante ?**_ Une nouvelle fonctionnalité de Paratext 8 et 9 est que les projets et les utilisateurs doivent être inscrits. Cela peut sembler une complication, mais il offre des avantages aux utilisateurs.
 
 Comme nous avons vu dans la section d'inscription des utilisateurs, l'administrateur d'un projet peut créer des inscriptions pour les utilisateurs dont ils souhaitent faire participer à son projet.
 
-_**What are we going to do?**_  We will create and register a new project.
+_**Qu’est-ce qu’on va faire ?**_ Nous allons créer et enregistrer un nouveau projet.
 
 ## **4.2 Créer un nouveau projet** {#238598a5fd408040a28fd03938ff47a0}
 
 - **≡ Paratext**, sous **Paratext** > **Nouveau Projet**
-    - _The Project Properties and Settings dialogue box appears._
+    - _La boîte de dialogue Propriétés et paramètres de projet s'affiche._
 
 ### **4.2.1 Modifier le nom du projet** {#238598a5fd40804b9bb7fbe123385613}
 
@@ -46,9 +46,9 @@ Si vous avez un autre projet Paratext dans la même langue, vous pouvez déjà c
     - _La boîte de dialogue **Choisir un identificateur de langue** s’affiche_.
 - Cliquez dans la zone de **Recherche**
 - Commencez à saisir le nom de votre langue
-    - _Paratext displays the matching names._
+    - _Paratext affiche les noms correspondants._
 - Cliquez sur votre langue dans la liste.
-    - _Paratext adds the language name._
+    - _Paratext ajoutera le nom de la langue._
 - Remplissez les champs de la section Avancé, si nécessaire.
 - Cliquez sur **OK**.
 

@@ -4,13 +4,13 @@ sidebar_position: 7
 slug: /MA-8CP
 ---
 
-_**Introduction**_  If you ever need to rename your project, reduce its size, change user names, change the encoding, or struggle with compound/decompound diacritics, the **Convert Project** tool will help you solve these problems.
+_**Introduction**_ Si jamais vous avez eu besoin de renommer votre projet, de réduire la taille de votre projet, de modifier les noms d’utilisateur, de modifier l’encodage ou de lutter avec des signes diacritiques composés/décomposés, l’outil **Convertir le projet** vous aidera à résoudre ces problèmes.
 
-_**Where are we?**_  You must be the project administrator to make these conversions.
+_**Où en sommes-nous dans le processus ?**_ Vous devez être l'administrateur du projet pour effectuer ces conversions.
 
-_**Why is this skill important?**_  Only a few changes can be made to the project in the project's **Properties and settings**. Les changements majeurs nécessitent qu’un nouveau projet soit créé. L’outil **Convertir le projet** permet le nouveau projet de garder l’historique du projet.
+_**Pourquoi cette compétence est-elle importante ?**_ Seules quelques modifications peuvent être apportées au projet dans ses **Propriétés et paramètres**. Les changements majeurs nécessitent qu’un nouveau projet soit créé. L’outil **Convertir le projet** permet le nouveau projet de garder l’historique du projet.
 
-_**What are we going to do?**_  We will work through the six changes that can be made to your project.
+_**Qu’est-ce qu’on va faire ?**_ Nous allons passer en revue les six changements qui peuvent être apportés à votre projet.
 
 - Changer le nom abrégé du projet
 - Retirer les fichiers effacés de l'historique de projet

@@ -4,11 +4,11 @@ sidebar_position: 0
 slug: /MA-1IN
 ---
 
-_**Introduction**_  In this module, you will install Paratext 9. Paratext est le premier logiciel au monde pour le développement et la vérification de nouvelles traductions de la Bible ou de révisions de traductions existantes. Développé conjointement par l'ABU et SIL International, il permet une traduction cohérente et précise, basée sur les textes originaux et modelée sur les versions des principales langues. Grâce notamment à ses fonctions avancées de collaboration, Paratext contribue grandement à produire des traductions de meilleure qualité en moins de temps que ne le permettaient les outils et méthodes précédents.
+_**Introduction**_  Dans ce module, vous installerez Paratext 9. Paratext est le premier logiciel au monde pour le développement et la vérification de nouvelles traductions de la Bible ou de révisions de traductions existantes. Développé conjointement par l'ABU et SIL International, il permet une traduction cohérente et précise, basée sur les textes originaux et modelée sur les versions des principales langues. Grâce notamment à ses fonctions avancées de collaboration, Paratext contribue grandement à produire des traductions de meilleure qualité en moins de temps que ne le permettaient les outils et méthodes précédents.
 
-_**Where are we**_  You may have already installed a previous version on your computer and now want to install Paratext 9.
+_**Avant de commencer**_ Vous avez déjà installé Paratext 8 et vous avez un projet Paratext 7 que vous souhaitez utiliser dans Paratext 9.
 
-_**Why is this important?**_  Paratext 7, Paratext 8 and Paratext 9 can be installed at the same time, but it is important to understand the limitations of using them together.
+_**Pourquoi cette aptitude est-elle importante ?**_ Paratext 7, Paratext 8 et Paratext 9 peuvent être installées en même temps, mais il faut comprendre la limitation de leur utilisation ensemble.
 
 - Plusieurs versions peuvent être installées
 - Certains utilisent des dossiers différents
@@ -16,7 +16,7 @@ _**Why is this important?**_  Paratext 7, Paratext 8 and Paratext 9 can be insta
 - Mes projets Paratext 8 (Paratext 9 et 8)
 - Paratext 7 utilisait un serveur différent (qui est désormais fermé). Paratext 8 et 9 utilisent les mêmes serveurs de données.
 
-_**What are we going to do?**_  You are going to install Paratext 9 (without uninstalling Paratext 7 or 8). Vous allez également faire une mise à jour à partir d’un fichier MSP.
+_**Qu’est-ce qu’on va faire ?**_ Vous allez installer Paratext 9 (sans désinstaller Paratext 7 ou 8). Vous allez également faire une mise à jour à partir d’un fichier MSP.
 
 ## **1.2 Installation de Paratext 9** {#238598a5fd40802aaa7dfc4925f3f24a}
 
@@ -36,9 +36,9 @@ Paratext_9.5.105.1_InstallerOffline.exe).
 Cette étape peut prendre quelques minutes si le programme d’installation doit installer .NET 4.8 Framework sur votre ordinateur.
 
 - Si une boîte de dialogue apparaît et demande votre permission, cliquez sur Oui/Yes ou fournissez les informations d’identification nécessaires.
-    - _A welcome message will appear._
+    - _Un message de bienvenue s’affiche._
 - Cliquez sur **Suivant**
-    - _The ‘Destination Folder’ step will appear_
+    - _L’étape « Dossier de destination » s’affiche_
 - Acceptez les valeurs par défaut du dossier.
 
 N.B Les projets de Paratext 8 et 9 ne peuvent pas partager le même dossier que les projets de Paratext 7.

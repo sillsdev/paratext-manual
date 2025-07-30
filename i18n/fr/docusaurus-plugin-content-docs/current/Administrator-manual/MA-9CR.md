@@ -4,13 +4,13 @@ sidebar_position: 8
 slug: /MA-9CR
 ---
 
-_**Introduction**_  Most languages do not have access to concordances and other Bible study resources in their own language. Ajouter des renvois à votre Nouveau Testament peut grandement aider votre lecteur à comprendre le texte en l'aidant à trouver des passages sur des thèmes similaires.
+_**Introduction**_ La plupart des langues n'ont pas accès à des concordances et à d'autres documents d'étude de la Bible dans leurs propres langues. Ajouter des renvois à votre Nouveau Testament peut grandement aider votre lecteur à comprendre le texte en l'aidant à trouver des passages sur des thèmes similaires.
 
 _**Avant de commencer**_ \*\*Avant de pouvoir insérer des renvois d’un texte modèle, votre administrateur doit avoir créé tous les livres (et chapitres et versets) dans votre projet. Ils peuvent être vides, mais ils doivent être présents.
 
-_**Why is this feature important?**_  Reading the New Testament is not like reading a novel. Avoir accès à des renvois permet à votre lecteur de trouver des passages similaires sur les thèmes. Néanmoins, l’ajout manuel de renvois un à un est trop fastidieux. Le menu **Insérer les renvois** vous permet d’insérer tous les renvois à la fois (les noms de livre et la ponctuation du renvoi seront convertis également pour correspondre à vos Paramètres de référence bibliques\*\*).
+_**Pourquoi cette aptitude est-elle importante ?**_ La lecture du Nouveau Testament ne s'apparente pas à celle d'un roman. Avoir accès à des renvois permet à votre lecteur de trouver des passages similaires sur les thèmes. Néanmoins, l’ajout manuel de renvois un à un est trop fastidieux. Le menu **Insérer les renvois** vous permet d’insérer tous les renvois à la fois (les noms de livre et la ponctuation du renvoi seront convertis également pour correspondre à vos Paramètres de référence bibliques\*\*).
 
-_**What are we going to do?**_  We are going to do three things:
+_**Pourquoi cette aptitude est-elle importante ?**_ Nous allons faire trois choses :
 
 Si vous ne disposez pas d'un texte modèle avec la référence croisée souhaitée, vous pouvez créer votre propre liste et l'importer.
 

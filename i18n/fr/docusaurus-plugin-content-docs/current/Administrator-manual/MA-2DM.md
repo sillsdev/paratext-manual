@@ -6,11 +6,11 @@ slug: /MA-2DM
 
 # **MD : Migration de données** {#238598a5fd40802d917ed1a14d5bff88}
 
-_**Introduction**_  Migration is the process of moving a project (including all settings files) from **Paratext 7** to Paratext 9. Paratext 9 n'a pas de fonction de migration. Cependant, il est encore possible de le faire avec Paratext 8. N.B. : Paratext 9 peut lire les projets Paratext 8.
+_**Introduction**_ La migration est le processus de déplacement d'un projet (y compris tous les fichiers de configuration) de **Paratext 7** vers Paratext 9. Paratext 9 n'a pas de fonction de migration. Cependant, il est encore possible de le faire avec Paratext 8. N.B. : Paratext 9 peut lire les projets Paratext 8.
 
-_**Where are we now?**_  You have already installed Paratext 8 and you have a Paratext 7 project that you want to use in Paratext 9.
+_**Où en sommes-nous dans le processus ?**_ Vous avez déjà installé Paratext 8 et vous avez un projet Paratext 7 que vous souhaitez utiliser dans Paratext 9.
 
-_**Why is this important?**_  In order for all Paratext 9 features to work, your Paratext 7 project must be migrated. Paratext 7 et Paratext 9 utilisent des serveurs différents pour l'envoi et la réception. Il ne sera donc pas possible de partager un projet avec des utilisateurs de Paratext 7 et de Paratext 8 (ou 9) en même temps. Par conséquent, l'ancien serveur sera fermé à la fin du mois de décembre 2018. Il est donc important de migrer rapidement les projets.
+_**Pourquoi cette aptitude est-elle importante ?**_ Pour que toutes les fonctionnalités de Paratext 9 fonctionnent, votre projet Paratext 7 doit être migré. Paratext 7 et Paratext 9 utilisent des serveurs différents pour l'envoi et la réception. Il ne sera donc pas possible de partager un projet avec des utilisateurs de Paratext 7 et de Paratext 8 (ou 9) en même temps. Par conséquent, l'ancien serveur sera fermé à la fin du mois de décembre 2018. Il est donc important de migrer rapidement les projets.
 
 Les utilisateurs peuvent installer Paratext 7 et Paratext 8 (et 9) en même temps et utiliser l'un ou l'autre, mais aucun projet ne peut être partagé entre eux.
 
@@ -45,7 +45,7 @@ Il sera probablement marqué comme "v7, non-inscrit."
 Il se peut que le projet soit marqué comme "v7" sans être décrit comme non-inscrit, car un certain nombre de projets Paratext 7 ont été préinscrits sur Paratext 8. Si le vôtre est l'un de ceux-ci, vous devriez continuer la migration, mais vous pouvez sauter l'enregistrement.
 
 - Cliquez sur **OK** pour lancer la migration du projet.
-    - _The Migrate Shared Project dialogue box appears._
+    - _La boîte de dialogue Faire migrer un projet partagé s'affiche._
 
 _Paratext 8 peut vous indiquer que le projet doit être inscrit (s'il n'est pas préenregistré) et qu'il doit être migré vers Paratext 8_
 
@@ -68,7 +68,7 @@ _Paratext 8 peut vous indiquer que le projet doit être inscrit (s'il n'est pas 
 La "Digital Bible Library" (Bibliothèque Biblique Numérique) est un outil pour rendre les traductions disponibles en ligne ou pour les utilisateurs mobiles, mais votre projet ne sera disponible à personne jusqu'à ce que vous acceptiez de le rendre disponible.
 
 - Cliquez sur **Submit Registration** (Soumettre un enregistrement)
-    - _A message will appear saying ‘Project registered successfully.’_
+    - Un message s’affiche « Projet enregistré avec succès. »
 - Retournez à Paratext
 
 Il devrait détecter que le projet est maintenant enregistré et vous en informer.
@@ -85,12 +85,12 @@ Si vous venez d’inscrire votre projet, votre projet est déjà ouvert et vous 
 - Cet ordinateur a reçu les changements dans PT7.
 - Cochez ces cases si elles sont vraies, puis cliquez sur Migrate Now (Faire migrer maintenant) pour continuer.
 
-If you need to do anything else before you are ready to migrate, click **Migrate later**, then finish your preparations.
+Si vous avez besoin de faire autre chose avant d'être prêt à migrer, cliquez sur **Migrate later** (Faire migrer plus tard), puis terminez vos préparatifs.
 
 - Lorsque vous cliquez sur Faire migrer maintenant, Paratext copiera le projet de votre Paratext 7 dans votre Paratext 8 et effectuera également un envoyer/recevoir à Internet.
 - Si vous recevez un avertissement au sujet d'un envoyer/recevoir final dans **Paratext 7**,
 - Cliquez sur **Ajouter analyse de mot**,
-    - _the migration process will stop,_
+    - _le processus de migration s'arrêtera._
 - Marquez un point de repère dans l'historique du projet dans Paratext 7,
 - puis redémarrez la migrationdans Paratext 8.
 - Maintenant, vos collègues peuvent aller à Paratext 9 et faire un envoyer / recevoir pour recevoir le projet migré.
