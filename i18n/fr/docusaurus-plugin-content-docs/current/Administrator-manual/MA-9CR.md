@@ -4,9 +4,9 @@ sidebar_position: 8
 slug: /MA-9CR
 ---
 
-**9.1 Introduction**  Most languages do not have access to concordances and other Bible study resources in their own language. Ajouter des renvois à votre Nouveau Testament peut grandement aider votre lecteur à comprendre le texte en l'aidant à trouver des passages sur des thèmes similaires.
+_**Introduction**_  Most languages do not have access to concordances and other Bible study resources in their own language. Ajouter des renvois à votre Nouveau Testament peut grandement aider votre lecteur à comprendre le texte en l'aidant à trouver des passages sur des thèmes similaires.
 
-_**Where are we now?**_  Before you can insert cross-references from a template text, your administrator must have created all the books (and chapters and verses) in your project. Ils peuvent être vides, mais ils doivent être présents.
+_**Avant de commencer**_ \*\*Avant de pouvoir insérer des renvois d’un texte modèle, votre administrateur doit avoir créé tous les livres (et chapitres et versets) dans votre projet. Ils peuvent être vides, mais ils doivent être présents.
 
 _**Why is this feature important?**_  Reading the New Testament is not like reading a novel. Avoir accès à des renvois permet à votre lecteur de trouver des passages similaires sur les thèmes. Néanmoins, l’ajout manuel de renvois un à un est trop fastidieux. Le menu **Insérer les renvois** vous permet d’insérer tous les renvois à la fois (les noms de livre et la ponctuation du renvoi seront convertis également pour correspondre à vos Paramètres de référence bibliques\*\*).
 
@@ -42,7 +42,7 @@ N.B. : Les ressources ne vous permettent pas d'extraire les renvois.
 - Dans le champ **Segments de Versets**, saisissez au moins six caractères uniques séparés par des espaces.
 - Cliquez sur **OK**.
 
-## \*\*9.5 Insérer les renvois - {#238598a5fd4080b9a7afeb1e417b182e}
+## 9.5 Insérer les renvois {#238598a5fd4080b9a7afeb1e417b182e}
 
 - **≡ Onglet** sous **Projet**, choisissez **Avancé** puis **Insérer les renvois**.
 - Cliquez sur **Parcourir...**.

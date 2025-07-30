@@ -4,11 +4,11 @@ sidebar_position: 6
 slug: /MA-7PP
 ---
 
-**Introduction**  “Progress tracking” based on a Project Plan and Assignments and Progress is an improved feature in **Paratext** 9.1 that impacts the day-to-day work of translation teams.
+_**Introduction**_  “Progress tracking” based on a Project Plan and Assignments and Progress is an improved feature in **Paratext** 9.1 that impacts the day-to-day work of translation teams.
 
-**Before you start**  Before you can add the plan, the project must have been created/or migrated.
+_**Before you start**_  Before you can add the plan, the project must have been created/or migrated.
 
-**Why is this Important**  There are many tasks to be done in a translation project. Es importante disponer de un sistema que garantice que todo esto se lleva a cabo. También es bueno disponer de una forma sencilla de generar informes para supervisores y financiadores (véase PP2: Informe del plan del proyecto).
+_**Why is this Important**_  There are many tasks to be done in a translation project. Es importante disponer de un sistema que garantice que todo esto se lleva a cabo. También es bueno disponer de una forma sencilla de generar informes para supervisores y financiadores (véase PP2: Informe del plan del proyecto).
 
 Elaborar un plan de proyecto desde cero es desalentador. Diversas organizaciones de traducción de la Biblia (UBS/ABU, SIL y The Seed Company) incluyen planes "básicos" que pueden aplicarse a los proyectos. Los equipos sólo tienen que personalizar estos planes dentro de los límites establecidos por sus organizaciones.
 
@@ -16,7 +16,7 @@ Normalmente, las organizaciones quieren conformidad a nivel de "Etapa" para faci
 
 Si una tarea es importante para ti y para tu equipo y quieres hacer un seguimiento de su progreso, puedes incluirla en el plan del proyecto (aunque no requiera Paratext para realizarla).
 
-**What are you going to do?**  You will use a combination of two features: the settings of the **Project Plan** and the **Assignments and Progress** (sometimes referred to as “progress tracking”) to manage the plan by assigning team members to tasks, and tracking their progress in completing those tasks.
+_**What are you going to do?**_  You will use a combination of two features: the settings of the **Project Plan** and the **Assignments and Progress** (sometimes referred to as “progress tracking”) to manage the plan by assigning team members to tasks, and tracking their progress in completing those tasks.
 
 - Añada el plan básico de organización al proyecto (elimine un plan antiguo si es necesario)
 - Personalizar el plan para el equipo añadiendo/eliminando y moviendo tareas
@@ -59,7 +59,8 @@ Si el proyecto tiene un plan antiguo, deberá eliminar cada una de las etapas ac
 
 ### Confirmar - Libros a incluir {#238598a5fd40804ab6c5cdd2fecc175d}
 
-1. [**≡ Pestaña** en **Proyecto** elija **Configuración del proyecto** **Propiedades del proyecto**
+1. Check that the plan is closed. Then
+    **≡ Tab** under **Project** choose **Project settings** **Project properties**
 2. Haga clic en la pestaña **Libros**
 3. Elige los libros de los que quieres seguir el progreso.
 4. Haga clic en **Aceptar**
@@ -68,13 +69,12 @@ Si el proyecto tiene un plan antiguo, deberá eliminar cada una de las etapas ac
 
 1. _menú _≡ Ficha__, en **Proyecto**, elija **Propiedades del proyecto** y después **Plan de proyecto**
 2. Haga clic en la pestaña **Cheques**
-3. Haga clic en la pestaña Cheques
-    - se muestran dos columnas: Etapa obligatoria y Etapa opcional._
-4. Para la comprobación deseada, despliegue la lista y establezca la **etapa requerida** [12]
-5. Elija la nueva etapa o _nunca requerida_
-6. A continuación, establezca el **Notificar sólo (opcional)** a una etapa anterior si la hay.
-7. Continuar para cada control
-8. Haga clic en **Aceptar**
+    - _Two columns are displayed: Optional stage and Required stage._
+3. For the desired check, drop down the list for the **Required stage** [12]
+4. Choose the new stage or _never required_
+5. Then set the **Notify only (optional)** to an earlier stage if any.
+6. Continue for each check
+7. Haga clic en **Aceptar**
 
 ### Configurar - Reordenar tareas / Mover a otra etapa {#238598a5fd40808f9d5fef53be20899e}
 
@@ -93,7 +93,7 @@ Es posible reordenar las tareas e incluso desplazarlas a otra etapa. Sin embargo
 
 ### Configurar - Añadir tareas {#238598a5fd4080918c8ed2e0d1db12d1}
 
-1. Haga clic en la tarea que está encima de la nueva tarea.
+1. Click on the task that is above the new task.
 2. Haga clic en **Añadir tarea**
 3. Escriba el nombre de la tarea y una descripción.
 
@@ -124,10 +124,10 @@ Siga los pasos que se indican a continuación para copiar una tarea del **plan d
 :::
 
 1. Abra su proyecto, **≡ Paratext** bajo **Paratext** seleccione **Abrir**.
-2. \*pestaña \*≡, en **Proyecto** seleccione **Configuración del proyecto** **Plan de proyecto**
+2. **≡ Tab**, under **Project** select **Project Settings,** **Project plan**
 3. Haga clic en **Gestionar planes**
 4. En el menú desplegable **"Mostrar plan base "**, seleccione el plan de proyecto que contiene la tarea deseada.
-5. En la parte **Plan actual** del cuadro de diálogo, haga clic en la fila que contiene la tarea que debe preceder a la nueva tarea.
+5. On the **Current Plan** side of the dialog, click the row that has the task that should precede the new task.
     - si desea que la nueva tarea sea la primera de la etapa, seleccione el nombre de la etapa
 6. En la parte **Plan Base** del cuadro de diálogo, pase el ratón por encima de la tarea que desea añadir y haga clic en la flecha azul que aparece.
     - la tarea se copia en su plan de proyecto y no puede volver a copiarse en este proyecto
@@ -156,7 +156,7 @@ Los grupos prioritarios son una forma de comunicar a Paratext el orden en que se
 ### Utilización del conjunto preseleccionado {#238598a5fd40805685e2e39c5197fcb2}
 
 1. Seleccione **Configuración del proyecto** y vaya a **Definir prioridades**
-2. Haga clic en **Seleccionar definición de prioridad**
+2. Click **Select Priority Definition** button
 3. Seleccione un conjunto (por ejemplo, SIL Conjunto de fácil a difícil)
     - _se presenta un conjunto preseleccionado de libros._
 4. Haga clic en **Aceptar**
@@ -175,8 +175,8 @@ Para fijar capítulos específicos,
 1. Seleccione un enlace con el nombre del libro
 2. Elija los capítulos
 3. Haga clic en **Aceptar**
-    - si añade un libro que ya tiene capítulos definidos sólo añadirá los capítulos restantes_.
-4. Cambie el orden de las prioridades con la flecha hacia arriba.
+    - _If you add a book that already has chapters defined, it will only add the remaining chapters_.
+4. Change the order of priorities using the up arrow.
 
 ### Utilizando las prioridades {#238598a5fd4080509566d728cdfb33ed}
 
@@ -186,8 +186,14 @@ Una vez creadas las prioridades, pueden utilizarse en cualquier lugar donde norm
     - Haga clic en **elegir**
     - Seleccione la pestaña **Prioridad**.
 2. **Asignments and Progress** (botón azul), se puede establecer una prioridad en la selección de libros.
-3. (Menú Proyecto ) **Exportar PDF**, haga clic en el botón Elegir y, a continuación, en la pestaña Prioridad.
+3. _(Project menu )_ _**Export PDF**__, click Choose button, then Priority tab._
 4. Cualquier ventana con un filtro (por ejemplo, Lista de palabras, Términos bíblicos...)
+
+:::caution
+
+PTXprint does not accept priorities yet.
+
+:::
 
 También puede definir o redefinir sus prioridades si lo necesita.
 
@@ -198,7 +204,7 @@ Las tareas pueden asignarse individualmente o en bloque.
 ### Asignar tareas individualmente {#238598a5fd4080ddb3b9dc8a1c6fc21b}
 
 1. \*pestaña \*≡, en **Proyecto**, elija **Asignaciones y Progreso**
-2. Para asignar una tarea, haga clic en el menú desplegable y seleccione el miembro del equipo que debe realizarla
+2. For the task to assign, click the dropdown menu and choose the team member to do the task
 3. Repita la operación si es necesario
 4. Haga clic en **Aceptar**.
 
@@ -227,7 +233,7 @@ Una vez completado el proceso de asignación masiva, puede ajustar las asignacio
 
 :::tip
 
-Para los proyectos que ya han completado varias etapas en el momento de cambiar a Paratext 9, la vista **Tabla de tareas** y/o la vista **Tabla de etapas** de Tareas y progreso pueden ser útiles para marcar varios libros, etapas o tareas, como completos.
+For projects that have already completed a number of stages at the time of switching to Paratext 9 the **Tasks table** view and/or the **Stage table** view of Assignments and Progress can help mark multiple books, stages or tasks, as complete.
 
 :::
 

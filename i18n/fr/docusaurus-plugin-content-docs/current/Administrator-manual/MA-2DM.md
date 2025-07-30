@@ -6,7 +6,7 @@ slug: /MA-2DM
 
 # **MD : Migration de données** {#238598a5fd40802d917ed1a14d5bff88}
 
-**Introduction**  Migration is the process of moving a project (including all settings files) from **Paratext 7** to Paratext 9. Paratext 9 n'a pas de fonction de migration. Cependant, il est encore possible de le faire avec Paratext 8. N.B. : Paratext 9 peut lire les projets Paratext 8.
+_**Introduction**_  Migration is the process of moving a project (including all settings files) from **Paratext 7** to Paratext 9. Paratext 9 n'a pas de fonction de migration. Cependant, il est encore possible de le faire avec Paratext 8. N.B. : Paratext 9 peut lire les projets Paratext 8.
 
 _**Where are we now?**_  You have already installed Paratext 8 and you have a Paratext 7 project that you want to use in Paratext 9.
 

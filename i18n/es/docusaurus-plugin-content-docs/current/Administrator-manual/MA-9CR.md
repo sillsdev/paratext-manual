@@ -4,7 +4,7 @@ sidebar_position: 8
 slug: /MA-9CR
 ---
 
-**9.1 Introduction**  Most languages do not have access to concordances and other Bible study resources in their own language. Añadir referencias cruzadas a su Nuevo Testamento puede ayudar mucho al lector a comprender el texto al ayudarle a encontrar pasajes sobre temas similares.
+_**Introduction**_  Most languages do not have access to concordances and other Bible study resources in their own language. Añadir referencias cruzadas a su Nuevo Testamento puede ayudar mucho al lector a comprender el texto al ayudarle a encontrar pasajes sobre temas similares.
 
 _**Where are we now?**_  Before you can insert cross-references from a template text, your administrator must have created all the books (and chapters and verses) in your project. Pueden estar vacíos, pero deben estar presentes.
 

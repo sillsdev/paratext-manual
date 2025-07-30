@@ -6,7 +6,7 @@ slug: /MA_4CP
 
 # **CP: Create a new project** {#238598a5fd4080d28e44d73f28d5b402}
 
-**4.1 Introduction** In this module, you will create and register a new project.
+_**Introduction**_ In this module, you will create and register a new project.
 
 _**Where are we?**_  You have already installed Paratext 9 and registered a user.
 

@@ -4,9 +4,7 @@ sidebar_position: 7
 slug: /MA-8CP
 ---
 
-# **CV : Convertir un projet** {#238598a5fd4080aa8ca3d773eab1eca5}
-
-**Introduction**  If you ever need to rename your project, reduce its size, change user names, change the encoding, or struggle with compound/decompound diacritics, the **Convert Project** tool will help you solve these problems.
+_**Introduction**_  If you ever need to rename your project, reduce its size, change user names, change the encoding, or struggle with compound/decompound diacritics, the **Convert Project** tool will help you solve these problems.
 
 _**Where are we?**_  You must be the project administrator to make these conversions.
 

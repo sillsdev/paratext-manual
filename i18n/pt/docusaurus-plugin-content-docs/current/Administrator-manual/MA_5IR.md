@@ -6,7 +6,7 @@ slug: /MA_5IR
 
 # **AM IR: Installing resources** {#238598a5fd4080498648ca1f10ff45cd}
 
-**Introduction**  In this module, you will learn how to install resources.
+_**Introduction**_  In this module, you will learn how to install resources.
 
 _**Where are we?**_  You have already installed Paratext 8 and registered the user.
 

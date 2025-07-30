@@ -4,7 +4,7 @@ sidebar_position: 2
 slug: /MA-3REG
 ---
 
-**3.1 Introduction** From Paratext 8 onwards, it is mandatory for projects to share their basic information or metadata with the translation community. Le partage d'informations sur les progrès réalisés est fortement encouragé. [Certains organismes et/ou bailleurs de fonds peuvent l'exiger]
+_**Introduction**_ From Paratext 8 onwards, it is mandatory for projects to share their basic information or metadata with the translation community. Le partage d'informations sur les progrès réalisés est fortement encouragé. [Certains organismes et/ou bailleurs de fonds peuvent l'exiger]
 
 _**Where are we**_  Paratext 8 is already installed and you have the Paratext 7 registration codes for users.
 
