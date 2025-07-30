@@ -6,7 +6,7 @@ slug: /MA-9CR
 
 
 
-**9.1 Introduction**  Most languages do not have access to concordances and other Bible study resources in their own language. Adding cross-references to your New Testament can greatly help your reader understand the text by helping them find passages on similar themes.
+_**Introduction**_  Most languages do not have access to concordances and other Bible study resources in their own language. Adding cross-references to your New Testament can greatly help your reader understand the text by helping them find passages on similar themes.
 
 
 _**Where are we now?**_  Before you can insert cross-references from a template text, your administrator must have created all the books (and chapters and verses) in your project. They can be empty, but they must be present.

@@ -6,13 +6,13 @@ slug: /MA-7PP
 
 
 
-**Introduction**  “Progress tracking” based on a Project Plan and Assignments and Progress is an improved feature in **Paratext** 9.1 that impacts the day-to-day work of translation teams.
+_**Introduction**_  “Progress tracking” based on a Project Plan and Assignments and Progress is an improved feature in **Paratext** 9.1 that impacts the day-to-day work of translation teams.
 
 
-**Before you start**  Before you can add the plan, the project must have been created/or migrated.
+_**Before you start**_  Before you can add the plan, the project must have been created/or migrated.
 
 
-**Why is this Important**  There are many tasks to be done in a translation project. It is important to have a system to ensure that all of these are done. It is also good to have an easy way to generate reports for supervisors and funders (see PP2: Project Plan Report).
+_**Why is this Important**_  There are many tasks to be done in a translation project. It is important to have a system to ensure that all of these are done. It is also good to have an easy way to generate reports for supervisors and funders (see PP2: Project Plan Report).
 
 
 Setting up a project plan from scratch is daunting. Various Bible translation organizations (UBS/ABU, SIL and The Seed Company) include "basic" plans that can be applied to projects. Teams need only customize these plans within the limits set by their organizations.
@@ -24,7 +24,7 @@ Typically, organizations want conformity at the “Stage” level in order to fa
 If a task is important to you and your team and you want to track its progress, then it can be included in the project plan (even if it doesn't require Paratext to do the task).
 
 
-**What are you going to do?**  You will use a combination of two features: the settings of the **Project Plan** and the **Assignments and Progress** (sometimes referred to as “progress tracking”) to manage the plan by assigning team members to tasks, and tracking their progress in completing those tasks.
+_**What are you going to do?**_  You will use a combination of two features: the settings of the **Project Plan** and the **Assignments and Progress** (sometimes referred to as “progress tracking”) to manage the plan by assigning team members to tasks, and tracking their progress in completing those tasks.
 
 - Add the organizational base plan to the project (remove an old plan if necessary)
 - Customize the plan for the team by adding/deleting and moving tasks
@@ -74,7 +74,8 @@ If the project has an old plan, you need to delete each of the current stages be
 
 ### Confirm — Books to include {#238598a5fd40804ab6c5cdd2fecc175d}
 
-1. [**≡ Tab** under **Project** choose **Project settings** **Project properties**
+1. Check that the plan is closed. Then
+**≡ Tab** under **Project** choose **Project settings** **Project properties**
 2. Click the **Books** tab
 3. Choose the books that you want to track progress.
 4. Click **OK**
@@ -83,13 +84,12 @@ If the project has an old plan, you need to delete each of the current stages be
 
 1. **≡ Tab** menu, under **Project**, choose **Project properties** then **Project Plan**
 2. Click on the **Checks** tab
-3. Click on the Checks tab
-	- _Two columns are displayed: Required stage and Optional stage._
-4. For the desired check, drop down the list and set the **Required stage** [12]
-5. Choose the new stage or _never required_
-6. Then set the **Notify only (optional)** to an earlier stage if any.
-7. Continue for each check
-8. Click **OK**
+	- _Two columns are displayed: Optional stage and Required stage._
+3. For the desired check, drop down the list for the **Required stage** [12]
+4. Choose the new stage or _never required_
+5. Then set the **Notify only (optional)** to an earlier stage if any.
+6. Continue for each check
+7. Click **OK**
 
 ### Configure — Reorder tasks / Move to another stage {#238598a5fd40808f9d5fef53be20899e}
 
@@ -111,7 +111,7 @@ It is possible to reorder tasks and even move tasks to another stage. However, n
 
 ### Configure — Add tasks {#238598a5fd4080918c8ed2e0d1db12d1}
 
-1. Click on the task which is above the new task.
+1. Click on the task that is above the new task.
 2. Click on the **Add task**
 3. Type the name for the task and a description.
 - _If desired, you can  complete the configuration now following 7.3_
@@ -143,10 +143,10 @@ Follow the steps below to copy a task from the **base project plan** of one proj
 
 
 1. Open your project, **≡ Paratext** under **Paratext** select **Open**.
-2. **≡ Tab**, under **Project** select **Project Settings** **Project plan**
+2. **≡ Tab**, under **Project** select **Project Settings,** **Project plan**
 3. Click **Manage plans**
 4. From the **"Show Base Plan"** drop-down, select the project plan that contains the desired task.
-5. On the **Current Plan** side of the dialog, click the row that has the task which should precede the new task.
+5. On the **Current Plan** side of the dialog, click the row that has the task that should precede the new task.
 	- _If you want the new task to be the first task in the stage, select the stage name instead._
 6. On the **Base Plan** side of the dialog, hover over the task you want to add and click the solid blue arrow that appears.
 	- _The task is copied to your project plan and cannot be copied again into this project._
@@ -177,7 +177,7 @@ Priority groups are a way to let Paratext know the order in which books or chapt
 ### Using preselected set {#238598a5fd40805685e2e39c5197fcb2}
 
 1. Choose **Project settings** and go to **Define priorities**
-2. Click **Select Priority Definition**
+2. Click **Select Priority Definition** button
 3. Select a set (e.g. SIL Easy to Difficult set)
 	- _a pre-selected set of books is presented._
 4. Click **OK**
@@ -196,8 +196,8 @@ To set specific chapters,
 1. Select a book name link
 2. Choose which chapters
 3. Click **OK**
-	- _If you add a book which already has chapters defined it will only add the remaining chapters_.
-4. Change order of priorities using the up arrow.
+	- _If you add a book that already has chapters defined, it will only add the remaining chapters_.
+4. Change the order of priorities using the up arrow.
 
 ### Using the priorities {#238598a5fd4080509566d728cdfb33ed}
 
@@ -208,8 +208,17 @@ Once priorities have been created, they can be used anywhere you would normally 
 	- Click on **choose**
 	- Select the **Priority** tab.
 2. **Assignments and Progress** (blue button), book selection can be set to a priority.
-3. (Project menu ) **Export PDF**, click Choose button, then Priority tab.
+3. _(Project menu )_ _**Export PDF**__, click Choose button, then Priority tab._
 4. Any window with a filter (e.g. Wordlist, Biblical terms ...)
+
+:::caution
+
+PTXprint does not accept priorities yet. 
+
+:::
+
+
+
 
 You can also define or redefine your priorities if you need to.
 
@@ -223,7 +232,7 @@ Tasks can either be assigned individually or in bulk.
 ### Assign tasks individually {#238598a5fd4080ddb3b9dc8a1c6fc21b}
 
 1. **≡ Tab**, under **Project**, choose **Assignments and Progress**
-2. For the task to assign, click to dropdown the menu and choose the team member to do the task
+2. For the task to assign, click the dropdown menu and choose the team member to do the task
 3. Repeat as necessary
 4. Click **OK**.
 
@@ -256,7 +265,7 @@ Once you have completed the bulk assignment process, you can fine-tune the assig
 
 :::tip
 
-For projects that have already completed a number of stages at the time of switching to Paratext 9 the **Tasks table** view and/or the **Stage table** view of Assignments and Progress can be helpful in marking multiple books, stages or tasks, as complete.
+For projects that have already completed a number of stages at the time of switching to Paratext 9 the **Tasks table** view and/or the **Stage table** view of Assignments and Progress can help mark multiple books, stages or tasks, as complete.
 
 :::
 
