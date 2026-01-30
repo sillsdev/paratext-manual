@@ -55,7 +55,7 @@ _**Qu’est-ce qu’on va faire ?**_ Nous allons passer en revue les six changem
 - **[6]** Sélectionnez le nom de l’utilisateur que vous souhaitez remplacer dans la liste déroulante.
 - **[7]** Tapez le nom d’un utilisateur inscrit de Paratext dans cette case.
 - **[8]** Cliquez sur **Ajouter**,
-    - _un résumé du remplacement s’affiche avec un bouton "Retirer"_
+  - _un résumé du remplacement s’affiche avec un bouton "Retirer"_
 - [Si vous faites une erreur en tapant le nom dans le champ **Avec** ou que vous décidez de ne pas faire le remplacement, cliquez sur **Retirer**].
 
 ## **8.3 Convertir un projet** {#238598a5fd4080c5af98e42c78124f28}

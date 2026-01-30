@@ -49,7 +49,7 @@ N.B. : Les ressources ne vous permettent pas d'extraire les renvois.
 - Naviguez vers le fichier .xrf contenant des renvois.
 - Sélectionnez le fichier.
 - Si vous le désirez, sélectionnez une des cases à cocher.
-    - (Voir le guide pour d'autres informations.)
+  - (Voir le guide pour d'autres informations.)
 - Cliquez sur **OK**
 
 :::tip

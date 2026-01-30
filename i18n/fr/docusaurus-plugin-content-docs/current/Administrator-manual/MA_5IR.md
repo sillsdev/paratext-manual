@@ -21,7 +21,7 @@ _**Que ferez-vous ?**_
 ## **5.2 Installer des ressources - Internet (DBL)** {#238598a5fd40808cac58ea6a8f6f9337}
 
 - Cliquez sur le menu **≡ Paratext**, sous **Paratext** choisissez **Télécharger/Installer des ressources**.
-    - _Une boîte de dialogue s’affiche._
+  - _Une boîte de dialogue s’affiche._
 - Assurez-vous qu’Internet est choisi.
 - Filtrez la liste en entrant un terme de recherche dans la case **filtre** (tapez le nom ou la langue ou le signe + pour les ressources enrichies).
 - Cochez les cases à côté des ressources voulues.
@@ -30,7 +30,7 @@ _**Que ferez-vous ?**_
 ## **5.3 Installation des ressources - fichiers** {#238598a5fd4080c7ab48c06e85b4cb9e}
 
 - Du menu **Fichier**, choisissez **Télécharger/Installer des ressources**.
-    - _Une boîte de dialogue s’affiche._
+  - _Une boîte de dialogue s’affiche._
 - Cliquez sur **Dossier**
 - Cliquez sur **Parcourir**.
 - Accédez au dossier qui contient les ressources.

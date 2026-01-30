@@ -19,12 +19,12 @@ _**Qu’est-ce qu’on va faire ?**_ Nous allons créer et enregistrer un nouvea
 ## **4.2 Créer un nouveau projet** {#238598a5fd408040a28fd03938ff47a0}
 
 - **≡ Paratext**, sous **Paratext** > **Nouveau Projet**
-    - _La boîte de dialogue Propriétés et paramètres de projet s'affiche._
+  - _La boîte de dialogue Propriétés et paramètres de projet s'affiche._
 
 ### **4.2.1 Modifier le nom du projet** {#238598a5fd40804b9bb7fbe123385613}
 
 - Cliquez sur le bouton **Modifier**
-    - _La boîte de dialogue **Modifier le nom complet** s'affiche_
+  - _La boîte de dialogue **Modifier le nom complet** s'affiche_
 - Dans la section **Nom complet**, tapez un nom qui inclut le nom de la langue
 - Sous.**Nom abrégé**, tapez le code **ISO** pour la langue.
 
@@ -43,12 +43,12 @@ Si vous avez un autre projet Paratext dans la même langue, vous pouvez déjà c
 :::
 
 - Cliquez sur **Nouveau**
-    - _La boîte de dialogue **Choisir un identificateur de langue** s’affiche_.
+  - _La boîte de dialogue **Choisir un identificateur de langue** s’affiche_.
 - Cliquez dans la zone de **Recherche**
 - Commencez à saisir le nom de votre langue
-    - _Paratext affiche les noms correspondants._
+  - _Paratext affiche les noms correspondants._
 - Cliquez sur votre langue dans la liste.
-    - _Paratext ajoutera le nom de la langue._
+  - _Paratext ajoutera le nom de la langue._
 - Remplissez les champs de la section Avancé, si nécessaire.
 - Cliquez sur **OK**.
 
@@ -75,7 +75,7 @@ S'il s'agit d'un projet dépendant comme une retraduction, d'une traduction fill
 - Cliquez sur **S'inscrire en ligne** pour accéder à la page d'inscription.
 - Remplissez les informations (voir ci-dessus)
 - Cliquez sur Register (Inscrire) pour soumettre et retournez à Paratext.
-    - _Paratext doit "automagiquement" détecter que le projet est inscrit._
+  - _Paratext doit "automagiquement" détecter que le projet est inscrit._
 - Cliquez sur **OK** pour créer le nouveau projet.
 
 Les types de Projets qui n’ont pas besoin d’être inscrits séparément

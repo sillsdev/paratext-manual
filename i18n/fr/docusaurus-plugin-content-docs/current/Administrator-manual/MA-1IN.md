@@ -36,9 +36,9 @@ Paratext_9.5.105.1_InstallerOffline.exe).
 Cette étape peut prendre quelques minutes si le programme d’installation doit installer .NET 4.8 Framework sur votre ordinateur.
 
 - Si une boîte de dialogue apparaît et demande votre permission, cliquez sur Oui/Yes ou fournissez les informations d’identification nécessaires.
-    - _Un message de bienvenue s’affiche._
+  - _Un message de bienvenue s’affiche._
 - Cliquez sur **Suivant**
-    - _L’étape « Dossier de destination » s’affiche_
+  - _L’étape « Dossier de destination » s’affiche_
 - Acceptez les valeurs par défaut du dossier.
 
 N.B Les projets de Paratext 8 et 9 ne peuvent pas partager le même dossier que les projets de Paratext 7.
@@ -55,16 +55,16 @@ Tous les utilisateurs ont besoin d’une nouvelle inscription pour Paratext 9.
 
 - Exécuter Paratext 9 (pour la première fois)
 - Choisissez la langue de l’interface
-    - _Une boîte de dialogue s’affiche pour demander votre code d’enregistrement._
+  - _Une boîte de dialogue s’affiche pour demander votre code d’enregistrement._
 - Dans votre navigateur web, Accédez à [https://registry.paratext.org](https://registry.paratext.org/)
-    - _La page “Sign in”(se connecter) s’affiche._
+  - _La page “Sign in”(se connecter) s’affiche._
 - Tapez votre adresse émail (du Gmail)
 - Cliquez sur le lien Register/Inscription
 - Tapez le nom d’utilisateur
 - Saisissez (ou copiez) le code d’inscription Paratext 7 de l’utilisateur
 - Copier le nouveau code de Paratext 9
 - Retournez à Paratext
-    - _Paratext va coller le code_
+  - _Paratext va coller le code_
 - Cliquez sur **OK**.
 
 ## **1.4 Mise à jour manuelle de votre version existante de Paratext** {#238598a5fd4080fc8412c49d265a0241}

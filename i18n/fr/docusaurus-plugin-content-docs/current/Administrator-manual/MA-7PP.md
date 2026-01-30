@@ -4,7 +4,7 @@ sidebar_position: 6
 slug: /MA-7PP
 ---
 
-**Introduction**\
+**Introduction**  
 Suivre le progrès basé sur un plan du projet est une fonctionnalité améliorée qui aura un impact sur le travail quotidien des équipes de la traduction.
 
 _**Avant de commencer**  Avant de pouvoir ajouter le plan, le projet doit avoir été créé/migré.
@@ -38,7 +38,7 @@ Si vous aviez un plan déjà, il faut supprimer ce plan avant d’ajouter un aut
 4. Choisir le plan de base de votre organisation
 5. Cliquez sur la flèche **Copier le plan**.
 6. Cliquez deux fois sur **OK**.
-    - Le plan et ses tâches sont ajoutés au projet et le bouton bleu Tâches et avancement s'affiche
+   - Le plan et ses tâches sont ajoutés au projet et le bouton bleu Tâches et avancement s'affiche
 
 ### Supprimer un ancien plan {#238598a5fd4080b7b67bd153f3e27c63}
 
@@ -69,7 +69,7 @@ Si le projet a un ancien plan, vous devez retirer chacune des étapes actuelles 
 
 1. **≡ Onglet**, sous **Projet**, choisissez **Propriétés du projet** puis **Plan du projet**
 2. Cliquez sur l'onglet **Vérifications**
-    - _Deux colonnes sont affichées : Étape facultative et Étape obligatoire._
+   - _Deux colonnes sont affichées : Étape facultative et Étape obligatoire._
 3. Pour la vérification souhaité, déroulez la liste et réglez l'**étape requise** [12]
 4. Choisissez la nouvelle étape ou _jamais_
 5. Ensuite, réglez l'option **Notifier seulement (facultatif)** à une étape antérieure, le cas échéant.
@@ -88,7 +88,7 @@ Il est possible de réordonner des tâches et même déplacer des tâches à une
 2. Cliquez sur l'onglet **Étapes/Tâches**.
 3. Sélectionnez la tâche à déplacer.
 4. Cliquez sur la flèche vers le haut ou vers le bas pour déplacer la tâche vers un autre point ou pour la déplacer vers une autre étape.
-    - _Il se peut que vous recevrez un message de confirmation si la tâche change d’étape._
+   - _Il se peut que vous recevrez un message de confirmation si la tâche change d’étape._
 5. Cliquez sur **OK**.
 
 ### Configurer - Ajouter des tâches {#238598a5fd4080918c8ed2e0d1db12d1}
@@ -128,23 +128,23 @@ N. B. Suivez les étapes ci-dessous pour copier une tâche d'un **plan de réfé
 3. Cliquez sur **Gérer les plans**
 4. Dans la liste déroulante « Afficher le plan de référence) », sélectionnez le plan de projet qui contienne la tâche voulue.
 5. Dans la partie **Plan actuelle**, cliquez sur la ligne qui précédera la nouvelle tâche.
-    - _Si vous voulez que la tâche ajoutée soit la première tâche de l’étape, sélectionnez le nom de l’étape._
+   - _Si vous voulez que la tâche ajoutée soit la première tâche de l’étape, sélectionnez le nom de l’étape._
 6. Sur le côté Plan de référence de la boîte de dialogue, passer la souris sur la tâche que vous souhaitez ajouter et cliquez sur la flèche bleue qui apparaît.
-    - _La tâche est copiée dans le plan de votre projet et elle ne peut plus être copiée à nouveau dans celui-ci._
+   - _La tâche est copiée dans le plan de votre projet et elle ne peut plus être copiée à nouveau dans celui-ci._
 7. Facultatif : Pour déplacer la tâche, cliquez sur la flèche vers le haut ou la flèche vers le bas qui s’affiche lorsque vous survolez une tâche du côté Plan actuel de la boîte de dialogue.
 8. Cliquez sur OK pour fermer la boîte de dialogue « Gérer les plans ».
 9. Cliquez sur **OK** pour fermer la boîte de dialogue **Plan du projet**.
-    - _La tâche copiée a le même nom et le même taux de progression que dans le plan de projet pour le projet ORIG. Le nom court du projet est ajouté au nom du plan._
+   - _La tâche copiée a le même nom et le même taux de progression que dans le plan de projet pour le projet ORIG. Le nom court du projet est ajouté au nom du plan._
 
 ## 7.3 Vérifier les paramètres d'une tâche {#238598a5fd4080e9a4accbfe7395674a}
 
 1. Il y a trois paramètres pour chaque tâche
-    - comment marquer la complétion de la tâche (par chapitre, livre)
-    - quand on peut commencer une tâche (après une autre tâche…)
-    - accorder le droit de modifier (donner la permission de modifier le texte)
+   - comment marquer la complétion de la tâche (par chapitre, livre)
+   - quand on peut commencer une tâche (après une autre tâche…)
+   - accorder le droit de modifier (donner la permission de modifier le texte)
 2. **≡ Onglet**, sous **Projet** sélectionnez **Paramètres du projet** **Plan du projet**
 3. Cliquez sur la tâche
-    - _Les paramètres sont affichés en bas à droite_
+   - _Les paramètres sont affichés en bas à droite_
 4. Apportez les modifications nécessaires.
 5. Répétez pour toute autre tâche.
 6. Cliquez sur **OK**.
@@ -158,7 +158,7 @@ Les groupes de priorité sont un moyen de faire savoir à Paratext l'ordre dans 
 1. Choisissez **Paramètres du projet** et allez à **Définir les priorités**
 2. Cliquez sur le bouton **Sélectionner la définition de priorité**
 3. Sélectionnez un ensemble (par exemple, l'ensemble en anglais **SIL Easy to Difficult** SIL Facile à Difficile)
-    - _Un ensemble de livres présélectionnés s'affiche._
+   - _Un ensemble de livres présélectionnés s'affiche._
 4. Cliquez sur **OK**
 
 ### Définition des priorités {#238598a5fd4080088b94f24bcbf99b6c}
@@ -175,7 +175,7 @@ Pour définir des chapitres spécifiques,
 1. Cliquez sur le lien vers le nom du livre
 2. Choisissez les chapitres désirés
 3. Cliquez sur **OK**
-    - _Si vous ajoutez ensuite un livre dont les chapitres sont déjà définis, il n'ajoutera que les chapitres restants_.
+   - _Si vous ajoutez ensuite un livre dont les chapitres sont déjà définis, il n'ajoutera que les chapitres restants_.
 4. Modifier l'ordre des priorités à l'aide de la flèche vers le haut.
 
 ### Utilisation des priorités {#238598a5fd4080509566d728cdfb33ed}
@@ -183,8 +183,8 @@ Pour définir des chapitres spécifiques,
 Une fois que les priorités ont créés, elles peuvent être utilisées partout où vous choisirez normalement des livres. Par exemple,
 
 1. Boîte de dialogue **Trouver** (Ctrl+F)
-    - Cliquez sur **Choisir**
-    - Sélectionnez l'onglet **Priorité**.
+   - Cliquez sur **Choisir**
+   - Sélectionnez l'onglet **Priorité**.
 2. **Tâches et avancement** (bouton bleu), la sélection des livres peut être définie par ordre de priorité.
 3. _(Menu Projet ) **Exporter au format PDF (PTXprint)**, cliquez sur le bouton **Choisir**, puis sur l'onglet **Priorité**._
 4. Toute fenêtre comportant un filtre (par exemple, Liste de mots, Termes bibliques...)
@@ -214,8 +214,8 @@ Les tâches peuvent être attribuées individuellement ou en bloc.
 2. Sélectionnez **Tableau des tâches**
 3. Utilisez le filtre des versets pour sélectionner les livres
 4. Sous la tâche, cliquez sur **Attribuer une tâche**, puis choisir qui doit faire la tâche
-    - Les chapitres incomplets peuvent être réassignés mais pas les chapitres terminés.
-    - _Un message d'avertissement apparaîtra avec des options pour écraser toutes les attributions ou seulement les chapitres non attribués._
+   - Les chapitres incomplets peuvent être réassignés mais pas les chapitres terminés.
+   - _Un message d'avertissement apparaîtra avec des options pour écraser toutes les attributions ou seulement les chapitres non attribués._
 
 ### Attribuer un stage ou livre {#238598a5fd40803ba610d96c517bb0f6}
 
@@ -241,9 +241,9 @@ Pour les projets qui ont déjà complété plusieurs étapes au moment de passer
 2. Cliquez sur le **bouton bleu** Tâches et avancement
 3. Sélectionnez **Tableau des tâches**
 4. Cliquez sur **≡ onglet** et choisissez **Mode modifier l'avancement en bloc**.
-    - _Les vérifications sont temporairement désactivées_.
+   - _Les vérifications sont temporairement désactivées_.
 5. Cliquez sur le bouton **Toutes les étapes**
-    - _Toutes les étapes sont approuvées._
+   - _Toutes les étapes sont approuvées._
 
 :::tip
 
@@ -260,12 +260,12 @@ Les modifications que vous avez apportées à votre plan seront envoyées aux me
 2. **≡ Onglet**, sous **Projet** sélectionnez **Paramètres du projet** **Plan du projet**
 
 3. Maintenez la touche MAJ (shift) et cliquez sur **Gérer les plans**
-    - _La boîte de dialogue de gestion des plans s'affiche avec un bouton "enregistrer comme plan de référence" en bas à droite._
+   - _La boîte de dialogue de gestion des plans s'affiche avec un bouton "enregistrer comme plan de référence" en bas à droite._
 
-        ![](./1648346283.png)
+     ![](./1648346283.png)
 
 4. Cliquez sur le bouton **Enregistrer comme plan de base**
-    - _Une boîte de dialogue s'affiche. Le fichier est enregistré sur \My Paratext 8 Projects\_StandardPlans
+   - _Une boîte de dialogue s'affiche. Le fichier est enregistré sur \My Paratext 8 Projects\_StandardPlans
 
 5. Choisissez ce qui convient, puis cliquez sur OK\*\*
 
@@ -279,34 +279,34 @@ Il arrive que le plan de base sur lequel ce plan de projet a été construit soi
 
 1. **≡ onglet**, sous **projet**
 2. Choisissez **Paramètres du projet** puis **Plan du projet**.
-    - _Un avertissement s'affiche pour vous informer qu'une nouvelle version du plan est disponible et que vous pouvez migrer._
+   - _Un avertissement s'affiche pour vous informer qu'une nouvelle version du plan est disponible et que vous pouvez migrer._
 3. Cliquez sur le lien **Migrer vers une nouvelle version du plan du projet**.
 4. Choisissez l'une des options suivantes :
-    - Conserver les tâches qui ne figurent pas dans la nouvelle version
-    - Supprimer toutes les tâches qui ne figurent pas dans la nouvelle version
-    - Conserver les tâches qui ont progressé.
+   - Conserver les tâches qui ne figurent pas dans la nouvelle version
+   - Supprimer toutes les tâches qui ne figurent pas dans la nouvelle version
+   - Conserver les tâches qui ont progressé.
 5. Cliquez sur **OK**
-    - Paratext vous avertit que vous devez effectuer un envoyer/récevoir
+   - Paratext vous avertit que vous devez effectuer un envoyer/récevoir
 6. Cliquez sur **OK** pour effacer le message
-    - _Le plan a été mis à jour._
+   - _Le plan a été mis à jour._
 
 Que faire ensuite ?
 
 1. Une barre de message verte en haut vous propose trois options :
-    - Fermer le message
-    - Afficher la progression dans le plan précédent
-    - Annuler la mise à jour du plan de base.
-    - _Notez que le numéro de version a été mis à jour._
+   - Fermer le message
+   - Afficher la progression dans le plan précédent
+   - Annuler la mise à jour du plan de base.
+   - _Notez que le numéro de version a été mis à jour._
 2. Cliquez sur **OK**.
 
 **Méthode 2**
 
 1. Cliquez sur Tâches et avancement.
-    - _Si le plan de base a été mis à jour, un message s'affiche pour vous indiquer que vous pouvez effectuer la mise à jour_.
+   - _Si le plan de base a été mis à jour, un message s'affiche pour vous indiquer que vous pouvez effectuer la mise à jour_.
 2. Cliquez sur **Mettre à jour vers la nouvelle version du plan de projet**.
 3. Choisissez de conserver ou de supprimer les tâches.
-    - _Lorsque vous effectuez la mise à jour, un envoyez/recevoir est effectués._
+   - _Lorsque vous effectuez la mise à jour, un envoyez/recevoir est effectués._
 4. Choisissez l'une des trois options dans la barre de message verte en haut :
-    - Fermer le message
-    - Afficher la progression dans le plan précédent
-    - Annuler la mise à jour du plan de base.
+   - Fermer le message
+   - Afficher la progression dans le plan précédent
+   - Annuler la mise à jour du plan de base.

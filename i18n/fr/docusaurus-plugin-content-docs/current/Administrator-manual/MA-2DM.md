@@ -45,7 +45,7 @@ Il sera probablement marqué comme "v7, non-inscrit."
 Il se peut que le projet soit marqué comme "v7" sans être décrit comme non-inscrit, car un certain nombre de projets Paratext 7 ont été préinscrits sur Paratext 8. Si le vôtre est l'un de ceux-ci, vous devriez continuer la migration, mais vous pouvez sauter l'enregistrement.
 
 - Cliquez sur **OK** pour lancer la migration du projet.
-    - _La boîte de dialogue Faire migrer un projet partagé s'affiche._
+  - _La boîte de dialogue Faire migrer un projet partagé s'affiche._
 
 _Paratext 8 peut vous indiquer que le projet doit être inscrit (s'il n'est pas préenregistré) et qu'il doit être migré vers Paratext 8_
 
@@ -68,7 +68,7 @@ _Paratext 8 peut vous indiquer que le projet doit être inscrit (s'il n'est pas 
 La "Digital Bible Library" (Bibliothèque Biblique Numérique) est un outil pour rendre les traductions disponibles en ligne ou pour les utilisateurs mobiles, mais votre projet ne sera disponible à personne jusqu'à ce que vous acceptiez de le rendre disponible.
 
 - Cliquez sur **Submit Registration** (Soumettre un enregistrement)
-    - Un message s’affiche « Projet enregistré avec succès. »
+  - Un message s’affiche « Projet enregistré avec succès. »
 - Retournez à Paratext
 
 Il devrait détecter que le projet est maintenant enregistré et vous en informer.
@@ -90,7 +90,7 @@ Si vous avez besoin de faire autre chose avant d'être prêt à migrer, cliquez 
 - Lorsque vous cliquez sur Faire migrer maintenant, Paratext copiera le projet de votre Paratext 7 dans votre Paratext 8 et effectuera également un envoyer/recevoir à Internet.
 - Si vous recevez un avertissement au sujet d'un envoyer/recevoir final dans **Paratext 7**,
 - Cliquez sur **Ajouter analyse de mot**,
-    - _le processus de migration s'arrêtera._
+  - _le processus de migration s'arrêtera._
 - Marquez un point de repère dans l'historique du projet dans Paratext 7,
 - puis redémarrez la migrationdans Paratext 8.
 - Maintenant, vos collègues peuvent aller à Paratext 9 et faire un envoyer / recevoir pour recevoir le projet migré.
