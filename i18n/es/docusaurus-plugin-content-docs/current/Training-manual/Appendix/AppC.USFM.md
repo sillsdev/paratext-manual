@@ -86,3 +86,11 @@ slug: /AppC.USFM
 | \li1      | Párrafo de la lista del glosario (sangría de 1er nivel) | Párrafo  |
 | \li2      | Párrafo de la lista del glosario (sangría de 2º nivel)  | Párrafo  |
 
+:::tip
+
+The full list of USFMs is found on:     [https://docs.usfm.bible/](https://docs.usfm.bible/)
+
+:::
+
+
+

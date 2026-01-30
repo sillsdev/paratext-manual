@@ -86,3 +86,11 @@ slug: /AppC.USFM
 | \li1      | Parágrafo de lista do glossário (recuo de 1º nível) | Parágrafo |
 | \li2      | Parágrafo de lista do glossário (recuo de 2º nível) | Parágrafo |
 
+:::tip
+
+The full list of USFMs is found on:     [https://docs.usfm.bible/](https://docs.usfm.bible/)
+
+:::
+
+
+

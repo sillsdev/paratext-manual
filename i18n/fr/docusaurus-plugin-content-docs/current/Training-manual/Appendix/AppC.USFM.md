@@ -86,3 +86,11 @@ slug: /AppC.USFM
 | \li1      | Entrée de liste - Niveau 1 (pour la définition du glossaire) | Paragraphe |
 | \li2      | Entrée de liste - Niveau 2 (pour la définition du glossaire) | Paragraphe |
 
+:::tip
+
+The full list of USFMs is found on:     [https://docs.usfm.bible/](https://docs.usfm.bible/)
+
+:::
+
+
+

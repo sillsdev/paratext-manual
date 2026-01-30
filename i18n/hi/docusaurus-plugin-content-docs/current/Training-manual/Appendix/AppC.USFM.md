@@ -86,3 +86,11 @@ slug: /AppC.USFM
 | \li1      | शब्दकोश सूची पैराग्राफ (पहले स्तर का इंडेंट)  | पैराग्राफ |
 | \li2      | शब्दकोश सूची पैराग्राफ (दूसरे स्तर का इंडेंट) | पैराग्राफ |
 
+:::tip
+
+The full list of USFMs is found on:     [https://docs.usfm.bible/](https://docs.usfm.bible/)
+
+:::
+
+
+
