@@ -101,3 +101,12 @@ slug: /AppC.USFM
 | \li1     | Glossary list paragraph (1st level indent)     | Paragraph |
 | \li2     | Glossary list paragraph (2nd level indent)     | Paragraph |
 
+
+:::tip
+
+The full list of USFMs is found on:     [https://docs.usfm.bible/](https://docs.usfm.bible/)   
+
+:::
+
+
+
