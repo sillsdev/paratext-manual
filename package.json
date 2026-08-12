@@ -3,15 +3,17 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "pull": "cross-var npx @sillsdev/docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs --image-file-name-format legacy",
-    "//pull:stable": "This uses the specific version of docu-notion in yarn.lock, not necessarily the latest",
-    "pull:stable": "cross-var yarn docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs --image-file-name-format legacy",
+    "//pull": "Uses the version of docu-notion pinned in package.json/yarn.lock, so CI and local pulls always agree. Avoid going back to an unpinned `npx @sillsdev/docu-notion`: that silently follows the npm 'latest' tag, so a docu-notion release can change our generated markdown without any commit here. The `--silent` is load-bearing: without it yarn echoes the resolved command line, which prints the Notion token in plain text (GitHub Actions masks registered secrets, but a local terminal does not). Resolving docu-notion through its declared bin, rather than a hard-coded ./node_modules/.../dist/index.js path, keeps this working if a future release moves that file.",
+    "//pull:docusaurus-v2": "--docusaurus-v2 keeps docu-notion emitting the Docusaurus v2 markdown forms ({#id} heading ids, :::caution). Docusaurus 3 renders those correctly via markdown.mdx1Compat. This is deliberate: switching to the v3 forms would change ~331 heading source strings and drop their fr/es/pt/hi translations in Crowdin, for no functional gain. See README.",
+    "pull": "cross-var yarn --silent docu-notion -n $PARATEXT_NOTION_INTEGRATION_TOKEN -r $PARATEXT_NOTION_ROOT_PAGE -m ./docs --image-file-name-format legacy --docusaurus-v2",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "deploy": "docusaurus deploy",
     "//serve": "Needed, for example, to test the search functionality locally",
     "serve": "docusaurus serve",
     "make-pdf": "bash src/pdf-generation/make-pdf.sh",
+    "//migrate-i18n-to-v3": "One-time migration of the Crowdin-supplied translations to Docusaurus v3 markdown syntax. See scripts/migrate-i18n-to-docusaurus-v3.cjs. Add --check to see what it would do without writing.",
+    "migrate-i18n-to-v3": "node scripts/migrate-i18n-to-docusaurus-v3.cjs i18n",
     "crowdin": "crowdin",
     "//pretranslate": "  used to re-apply translations when files are renamed or reorganized",
     "crowdin:pretranslate": "crowdin pre-translate --method tm --translate-untranslated-only --translate-with-perfect-match-only --verbose",
@@ -21,24 +23,39 @@
   },
   "dependencies": {
     "@crowdin/cli": "^3.11.0",
-    "@docusaurus/core": "^2.2.0",
-    "@docusaurus/preset-classic": "^2.2.0",
-    "@easyops-cn/docusaurus-search-local": "^0.33.6",
-    "@mdx-js/react": "^1",
-    "clsx": "^1.2.1",
-    "docu-pdf": "^1.3.2",
-    "prism-react-renderer": "^1.3.5",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-gif-player": "^0.4.2",
-    "react-player": "^2.10.1"
+    "@docusaurus/core": "3.10.1",
+    "@docusaurus/preset-classic": "3.10.1",
+    "@docusaurus/theme-common": "3.10.1",
+    "@easyops-cn/docusaurus-search-local": "0.54.1",
+    "@mdx-js/react": "3.1.1",
+    "clsx": "2.1.1",
+    "docu-pdf": "1.6.2",
+    "prism-react-renderer": "2.4.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^2.2.0",
-    "@sillsdev/docu-notion": "0.16.1",
-    "@tsconfig/docusaurus": "^1.0.6",
+    "@docusaurus/module-type-aliases": "3.10.1",
+    "@docusaurus/tsconfig": "3.10.1",
+    "@sillsdev/docu-notion": "1.0.0",
     "cross-var": "^1.1.0",
-    "typescript": "^4.7.4"
+    "typescript": "5.9.3"
+  },
+  "resolutions": {
+    "@docusaurus/babel": "3.10.1",
+    "@docusaurus/bundler": "3.10.1",
+    "@docusaurus/core": "3.10.1",
+    "@docusaurus/cssnano-preset": "3.10.1",
+    "@docusaurus/logger": "3.10.1",
+    "@docusaurus/mdx-loader": "3.10.1",
+    "@docusaurus/module-type-aliases": "3.10.1",
+    "@docusaurus/plugin-content-docs": "3.10.1",
+    "@docusaurus/theme-common": "3.10.1",
+    "@docusaurus/theme-translations": "3.10.1",
+    "@docusaurus/types": "3.10.1",
+    "@docusaurus/utils": "3.10.1",
+    "@docusaurus/utils-common": "3.10.1",
+    "@docusaurus/utils-validation": "3.10.1"
   },
   "browserslist": {
     "production": [
@@ -53,7 +70,7 @@
     ]
   },
   "volta": {
-    "node": "18.16.0",
+    "node": "22.14.0",
     "yarn": "1.22.19"
   }
 }
