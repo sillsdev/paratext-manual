@@ -29,14 +29,14 @@ _**What are you going to do?**_  You are going to register a Paratext 9 user
 ## **3.2 Register with a Google account** {#238598a5fd4080c68c4ffa43e60d77be}
 
 - Go to [https://registry.paratext.org](https://registry.paratext.org/)
-    - _The ‘Sign in’ screen will appear._
+  - _The ‘Sign in’ screen will appear._
 - Enter your email address
-    - _(Your address will be verified)_
+  - _(Your address will be verified)_
 - Log in using your email address (Gmail)
-    - _A new screen will appear asking for your password._
+  - _A new screen will appear asking for your password._
 - Enter your Google password
 - Click **Yes** to allow Paratext to use your profile.
-    - _New Paratext 9 User will appear and you can fill in the form._
+  - _New Paratext 9 User will appear and you can fill in the form._
 
 If you do not have a Gmail address, see section 3.4
 

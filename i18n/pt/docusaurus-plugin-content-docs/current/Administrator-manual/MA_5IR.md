@@ -20,7 +20,7 @@ _**What will you do?**_
 ## **5.2 Install resources – Internet (DBL)** {#238598a5fd40808cac58ea6a8f6f9337}
 
 - Click on the **≡ Paratext** menu, under **Paratext** select **Download/Install Resources**.
-    - _A dialogue box will appear._
+  - _A dialogue box will appear._
 - Make sure that Internet is selected.
 - Filter the list by entering a search term in the **filter** box (type the name or language or the + sign for enriched resources).
 - Tick the boxes next to the desired resources.
@@ -29,7 +29,7 @@ _**What will you do?**_
 ## **5.3 Installing resources – files** {#238598a5fd4080c7ab48c06e85b4cb9e}
 
 - From the **File** menu, select **Install resources**.
-    - _A dialogue box will appear._
+  - _A dialogue box will appear._
 - Click **Folder**
 - Click **Browse**.
 - Navigate to the folder containing the resources.

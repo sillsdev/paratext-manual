@@ -1,7 +1,7 @@
 ---
 title: Étape 2 - Vue d'ensemble
 sidebar_position: 0
-slug: /Stage-2
+slug: /Étape 2
 ---
 
 

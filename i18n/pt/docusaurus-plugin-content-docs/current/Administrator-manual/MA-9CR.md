@@ -49,7 +49,7 @@ Note: Resources do not allow you to extract cross-references.
 - Navigate to the .xrf file containing extracted cross-references.
 - Select the file, then click **Open**.
 - If desired, select one of the checkboxes.
-    - (See the guide for more information.)
+  - (See the guide for more information.)
 - Clique em **OK**
 
 :::tip

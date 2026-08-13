@@ -36,9 +36,9 @@ Paratext_9.5.101.1_InstallerOffline.exe).
 This step may take a few minutes if the installer needs to install .NET 4.8 Framework on your computer.
 
 - If a dialogue box appears asking for your permission, click **Yes** or provide the necessary credentials.
-    - _A welcome message will appear._
+  - _A welcome message will appear._
 - Click **Next**
-    - _The ‘Destination Folder’ step will appear_
+  - _The ‘Destination Folder’ step will appear_
 - Accept the default folder settings.
 
 Note: Paratext 8 and 9 projects cannot share the same folder as Paratext 7 projects.
@@ -55,16 +55,16 @@ All users need to register again for Paratext 9.
 
 - Run Paratext 9 (for the first time)
 - Choose the interface language
-    - _A dialogue box will appear asking for your registration code._
+  - _A dialogue box will appear asking for your registration code._
 - In your web browser, go to [https://registry.paratext.org](https://registry.paratext.org/)
-    - _The ‘Sign in’ page will appear._
+  - _The ‘Sign in’ page will appear._
 - Enter your email address (Gmail)
 - Click on the **Register** link
 - Enter your username
 - Enter (or copy) the user's Paratext 7 registration code
 - Copy the new Paratext 9 code
 - Return to Paratext
-    - _Paratext will paste the code_
+  - _Paratext will paste the code_
 - Clique em **OK**.
 
 ## **1.4 Manually updating your existing version of Paratext** {#238598a5fd4080fc8412c49d265a0241}

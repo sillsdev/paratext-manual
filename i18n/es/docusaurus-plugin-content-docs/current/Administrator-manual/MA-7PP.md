@@ -4,11 +4,11 @@ sidebar_position: 6
 slug: /MA-7PP
 ---
 
-_**Introduction**_  “Progress tracking” based on a Project Plan and Assignments and Progress is an improved feature in **Paratext** 9.1 that impacts the day-to-day work of translation teams.
+_**Introducción**_ El "seguimiento del progreso" basado en un plan de proyecto y en asignaciones y progreso es una función mejorada de **Paratext** 9.1 que repercute en el trabajo diario de los equipos de traducción.
 
-_**Before you start**_  Before you can add the plan, the project must have been created/or migrated.
+_**Antes de empezar**_ Antes de poder añadir el plan, el proyecto debe haber sido creado y/o migrado.
 
-_**Why is this Important**_  There are many tasks to be done in a translation project. Es importante disponer de un sistema que garantice que todo esto se lleva a cabo. También es bueno disponer de una forma sencilla de generar informes para supervisores y financiadores (véase PP2: Informe del plan del proyecto).
+_**Por qué es importante**_ En un proyecto de traducción hay que realizar muchas tareas. Es importante disponer de un sistema que garantice que todo esto se lleva a cabo. También es bueno disponer de una forma sencilla de generar informes para supervisores y financiadores (véase PP2: Informe del plan del proyecto).
 
 Elaborar un plan de proyecto desde cero es desalentador. Diversas organizaciones de traducción de la Biblia (UBS/ABU, SIL y The Seed Company) incluyen planes "básicos" que pueden aplicarse a los proyectos. Los equipos sólo tienen que personalizar estos planes dentro de los límites establecidos por sus organizaciones.
 
@@ -16,7 +16,8 @@ Normalmente, las organizaciones quieren conformidad a nivel de "Etapa" para faci
 
 Si una tarea es importante para ti y para tu equipo y quieres hacer un seguimiento de su progreso, puedes incluirla en el plan del proyecto (aunque no requiera Paratext para realizarla).
 
-_**What are you going to do?**_  You will use a combination of two features: the settings of the **Project Plan** and the **Assignments and Progress** (sometimes referred to as “progress tracking”) to manage the plan by assigning team members to tasks, and tracking their progress in completing those tasks.
+_**¿Qué vas a hacer?**_
+Utilizarás una combinación de dos funciones: la configuración del **Plan de Proyecto** y las **Asignaciones y Progreso** (a veces denominadas "seguimiento del progreso") para gestionar el plan asignando tareas a los miembros del equipo y realizando un seguimiento de su progreso en la realización de dichas tareas.
 
 - Añada el plan básico de organización al proyecto (elimine un plan antiguo si es necesario)
 - Personalizar el plan para el equipo añadiendo/eliminando y moviendo tareas
@@ -31,13 +32,13 @@ Si ya tiene un plan, deberá eliminarlo antes de poder añadir otro. (Véanse m�
 
 :::
 
-1. **≡ Tab**, under Project &gt; **Project settings** choose **Project plan**
+1. **Menú del proyecto**, bajo Proyecto &gt; **Configuración del proyecto** elegir **Plan de proyecto**
 2. Haga clic en **Gestionar planes**
 3. Haga clic en la flecha desplegable situada debajo de **Mostrar plan base**
 4. Elija su plan de base organizativo
 5. Haga clic en la flecha **Copiar plan**.
 6. Pulse **Aceptar dos veces**.
-    - el plan y sus tareas se añaden al proyecto y aparece el botón azul Asignaciones y progreso
+   - el plan y sus tareas se añaden al proyecto y aparece el botón azul Asignaciones y progreso
 
 ### Eliminar un plan antiguo {#238598a5fd4080b7b67bd153f3e27c63}
 
@@ -59,8 +60,7 @@ Si el proyecto tiene un plan antiguo, deberá eliminar cada una de las etapas ac
 
 ### Confirmar - Libros a incluir {#238598a5fd40804ab6c5cdd2fecc175d}
 
-1. Check that the plan is closed. Then
-    **≡ Tab** under **Project** choose **Project settings** **Project properties**
+1. Compruebe que el plan está cerrado. [**≡ Menú del proyecto** bajo **Proyecto** elija **Configuración del proyecto** **Propiedades del proyecto**
 2. Haga clic en la pestaña **Libros**
 3. Elige los libros de los que quieres seguir el progreso.
 4. Haga clic en **Aceptar**
@@ -69,11 +69,11 @@ Si el proyecto tiene un plan antiguo, deberá eliminar cada una de las etapas ac
 
 1. _menú _≡ Ficha__, en **Proyecto**, elija **Propiedades del proyecto** y después **Plan de proyecto**
 2. Haga clic en la pestaña **Cheques**
-    - _Two columns are displayed: Optional stage and Required stage._
-3. For the desired check, drop down the list for the **Required stage** [12]
-4. Choose the new stage or _never required_
-5. Then set the **Notify only (optional)** to an earlier stage if any.
-6. Continue for each check
+   - Se muestran dos columnas: Solo notificar (opcional) y Requerido en la etapa._
+3. Para la comprobación deseada, despliegue la lista de la **etapa requerida** [12]
+4. Elija la nueva etapa o _nunca se requiere_
+5. A continuación, establezca el **Solo notificar (opcional)** a una etapa anterior si la hay.
+6. Continuar para cada verificación
 7. Haga clic en **Aceptar**
 
 ### Configurar - Reordenar tareas / Mover a otra etapa {#238598a5fd40808f9d5fef53be20899e}
@@ -88,12 +88,12 @@ Es posible reordenar las tareas e incluso desplazarlas a otra etapa. Sin embargo
 2. Haga clic en la pestaña **Etapas/Tareas**.
 3. Seleccione la tarea que desea mover.
 4. Haga clic en la flecha hacia arriba o en la flecha hacia abajo para mover la tarea a un punto diferente con respecto a las otras tareas, o para moverla a una etapa diferente.
-    - _You may get a message asking to confirm._
+   - _Puede recibir un mensaje pidiendo confirmación_
 5. Haga clic en **Aceptar**.
 
 ### Configurar - Añadir tareas {#238598a5fd4080918c8ed2e0d1db12d1}
 
-1. Click on the task that is above the new task.
+1. Haga clic en la tarea que está encima de la nueva tarea.
 2. Haga clic en **Añadir tarea**
 3. Escriba el nombre de la tarea y una descripción.
 
@@ -124,27 +124,27 @@ Siga los pasos que se indican a continuación para copiar una tarea del **plan d
 :::
 
 1. Abra su proyecto, **≡ Paratext** bajo **Paratext** seleccione **Abrir**.
-2. **≡ Tab**, under **Project** select **Project Settings,** **Project plan**
-3. Haga clic en **Gestionar planes**
+2. **≡Menú del proyecto**, bajo **Proyecto** seleccione **Configuración del proyecto,** **Plan de proyecto**
+3. Haga clic en **Administrar planes...**
 4. En el menú desplegable **"Mostrar plan base "**, seleccione el plan de proyecto que contiene la tarea deseada.
-5. On the **Current Plan** side of the dialog, click the row that has the task that should precede the new task.
-    - si desea que la nueva tarea sea la primera de la etapa, seleccione el nombre de la etapa
+5. En la parte **Plan actual** del cuadro de diálogo, haga clic en la fila que contiene la tarea que debe preceder a la nueva tarea.
+   - si desea que la nueva tarea sea la primera de la etapa, seleccione el nombre de la etapa
 6. En la parte **Plan Base** del cuadro de diálogo, pase el ratón por encima de la tarea que desea añadir y haga clic en la flecha azul que aparece.
-    - la tarea se copia en su plan de proyecto y no puede volver a copiarse en este proyecto
+   - la tarea se copia en su plan de proyecto y no puede volver a copiarse en este proyecto
 7. **Opcional**: Para mover la tarea, haga clic en la flecha hacia arriba o en la flecha hacia abajo que aparece al pasar el ratón por encima de una tarea en la parte Plan actual del cuadro de diálogo.
 8. Haga clic en **Aceptar** para cerrar el cuadro de diálogo "Gestionar planes".
 9. Haga clic en **Aceptar** para cerrar el cuadro de diálogo "Plan del proyecto".
-    - la tarea copiada tiene el mismo nombre e índice de progreso que tenía en el plan del proyecto ORIG. El nombre abreviado del proyecto se añade al nombre del plan
+   - la tarea copiada tiene el mismo nombre e índice de progreso que tenía en el plan del proyecto ORIG. El nombre abreviado del proyecto se añade al nombre del plan
 
 ## 7.3 Comprobar la configuración de una tarea {#238598a5fd4080e9a4accbfe7395674a}
 
 1. Hay tres opciones para cada tarea
-    - cómo marcar la tarea como completada (una vez por cada capítulo, libro o proyecto)
-    - cuándo puede comenzar la tarea (en cualquier momento, o esperar a otra tarea...)
-    - necesita permiso de edición (en caso afirmativo, para qué proyecto)
+   - cómo marcar la tarea como completada (una vez por cada capítulo, libro o proyecto)
+   - cuándo puede comenzar la tarea (en cualquier momento, o esperar a otra tarea...)
+   - necesita permiso de edición (en caso afirmativo, para qué proyecto)
 2. _menú _≡ Ficha__, en **Proyecto** seleccione **Configuración del proyecto** &gt; **Plan de proyecto**
 3. Haga clic en la tarea
-    - _Los ajustes se muestran en la parte inferior derecha_
+   - _Los ajustes se muestran en la parte inferior derecha_
 4. Realice los cambios necesarios.
 5. Repita el procedimiento para cualquier otra tarea.
 6. Haga clic en **Aceptar**.
@@ -156,9 +156,9 @@ Los grupos prioritarios son una forma de comunicar a Paratext el orden en que se
 ### Utilización del conjunto preseleccionado {#238598a5fd40805685e2e39c5197fcb2}
 
 1. Seleccione **Configuración del proyecto** y vaya a **Definir prioridades**
-2. Click **Select Priority Definition** button
+2. Haga clic en **Seleccionar definición de prioridad**
 3. Seleccione un conjunto (por ejemplo, SIL Conjunto de fácil a difícil)
-    - _se presenta un conjunto preseleccionado de libros._
+   - _se presenta un conjunto preseleccionado de libros._
 4. Haga clic en **Aceptar**
 
 ### Establecimiento de prioridades {#238598a5fd4080088b94f24bcbf99b6c}
@@ -175,23 +175,23 @@ Para fijar capítulos específicos,
 1. Seleccione un enlace con el nombre del libro
 2. Elija los capítulos
 3. Haga clic en **Aceptar**
-    - _If you add a book that already has chapters defined, it will only add the remaining chapters_.
-4. Change the order of priorities using the up arrow.
+   - _Si añade un libro que ya tiene capítulos definidos sólo añadirá los capítulos restantes_.
+4. Cambie el orden de las prioridades con la flecha hacia arriba.
 
 ### Utilizando las prioridades {#238598a5fd4080509566d728cdfb33ed}
 
 Una vez creadas las prioridades, pueden utilizarse en cualquier lugar donde normalmente se elegirían libros. Por ejemplo,
 
 1. _diálogo _Buscar__ (Ctrl+F)
-    - Haga clic en **elegir**
-    - Seleccione la pestaña **Prioridad**.
+   - Haga clic en **elegir**
+   - Seleccione la pestaña **Prioridad**.
 2. **Asignments and Progress** (botón azul), se puede establecer una prioridad en la selección de libros.
-3. _(Project menu )_ _**Export PDF**__, click Choose button, then Priority tab._
+3. _(Menú Proyecto )_ _**Exportar PDF**__, haga clic en el botón Elegir y, a continuación, en la pestaña Prioridad._
 4. Cualquier ventana con un filtro (por ejemplo, Lista de palabras, Términos bíblicos...)
 
 :::caution
 
-PTXprint does not accept priorities yet.
+PTXprint aún no acepta prioridades.
 
 :::
 
@@ -204,7 +204,7 @@ Las tareas pueden asignarse individualmente o en bloque.
 ### Asignar tareas individualmente {#238598a5fd4080ddb3b9dc8a1c6fc21b}
 
 1. \*pestaña \*≡, en **Proyecto**, elija **Asignaciones y Progreso**
-2. For the task to assign, click the dropdown menu and choose the team member to do the task
+2. Para asignar una tarea, haga clic en el menú desplegable y seleccione el miembro del equipo que debe realizarla
 3. Repita la operación si es necesario
 4. Haga clic en **Aceptar**.
 
@@ -214,8 +214,8 @@ Las tareas pueden asignarse individualmente o en bloque.
 2. Seleccione **Tabla de tareas**
 3. Utilice el filtro de versículos para seleccionar libros
 4. Debajo de la tarea, haga clic en **Asignar tareas**
-    - Los capítulos incompletos pueden reasignarse, pero no los capítulos completos.
-    - aparecerá un mensaje de advertencia con opciones para sobrescribir todas las asignaciones o sólo los capítulos que aún no han sido asignados
+   - Los capítulos incompletos pueden reasignarse, pero no los capítulos completos.
+   - aparecerá un mensaje de advertencia con opciones para sobrescribir todas las asignaciones o sólo los capítulos que aún no han sido asignados
 
 ### Asignar escenario o libro {#238598a5fd40803ba610d96c517bb0f6}
 
@@ -233,7 +233,7 @@ Una vez completado el proceso de asignación masiva, puede ajustar las asignacio
 
 :::tip
 
-For projects that have already completed a number of stages at the time of switching to Paratext 9 the **Tasks table** view and/or the **Stage table** view of Assignments and Progress can help mark multiple books, stages or tasks, as complete.
+Para los proyectos que ya han completado varias etapas en el momento de cambiar a Paratext 9, la vista **Tabla de tareas** y/o la vista **Tabla de etapas** de Tareas y progreso pueden ser útiles para marcar varios libros, etapas o tareas, como completos.
 
 :::
 
@@ -241,9 +241,9 @@ For projects that have already completed a number of stages at the time of switc
 2. Haga clic en el botón **Azul** Asignaciones y Progreso
 3. Seleccione **Tabla de etapas**
 4. Haga clic en la pestaña \*\*≡ y seleccione **Modo de progreso a granel**.
-    - _Los cheques se desactivan temporalmente_.
+   - _Los cheques se desactivan temporalmente_.
 5. Haga clic en el botón **Todas las etapas**
-    - _Todas las etapas están aprobadas._
+   - _Todas las etapas están aprobadas._
 
 :::tip
 
@@ -260,12 +260,12 @@ Los cambios que realice en su plan se enviarán a los miembros de su proyecto cu
 2. \*pestaña \*≡, en **Proyecto** seleccione **Configuración del proyecto** **Plan de proyecto**
 
 3. Mantenga pulsada la tecla Mayús y haga clic en **Gestionar planes**
-    - aparece el cuadro de diálogo Gestionar planes con un botón Guardar como plan base en la parte inferior derecha
+   - aparece el cuadro de diálogo Gestionar planes con un botón Guardar como plan base en la parte inferior derecha
 
-        ![](./1648346283.png)
+     ![](./1648346283.png)
 
 4. Haga clic en el botón **Guardar como plan base**
-    - aparece un cuadro de diálogo. El archivo se guardará en \My Paratext 8 Projects\_StandardPlans._
+   - aparece un cuadro de diálogo. El archivo se guardará en \My Paratext 8 Projects\_StandardPlans._
 
 5. Seleccione lo que desee y haga clic en **Aceptar**
 
@@ -279,34 +279,34 @@ En ocasiones se modificará el plan base sobre el que se ha construido ese plan 
 
 1. \*pestaña \*≡, en **proyecto**
 2. Seleccione **Configuración del proyecto** y después **Plan de proyecto**.
-    - _Se muestra un aviso de que hay una nueva versión del plan y puedo migrar._
+   - _Se muestra un aviso de que hay una nueva versión del plan y puedo migrar._
 3. Haga clic en el enlace **Migrar a una nueva versión del plan de proyecto**.
 4. Elige uno de los dos:
-    - Mantener las tareas que no están en la nueva versión
-    - Eliminar todas las tareas que no están en la nueva versión
-    - Mantenga las tareas que hayan progresado.
+   - Mantener las tareas que no están en la nueva versión
+   - Eliminar todas las tareas que no están en la nueva versión
+   - Mantenga las tareas que hayan progresado.
 5. Haga clic en **Aceptar**
-    - _Paratext advierte que debes hacer un envío/recepción,_
+   - _Paratext advierte que debes hacer un envío/recepción,_
 6. Pulse **OK** para borrar el mensaje
-    - _El plan ha sido actualizado._
+   - _El plan ha sido actualizado._
 
 ¿Qué es lo siguiente?
 
 1. Una barra verde de mensajes en la parte superior te ofrece tres opciones:
-    - Cerrar el mensaje
-    - Ver avances en el plan anterior,
-    - Deshacer la actualización del Plan Base.
-    - _Nota que el número de versión ha sido actualizado._
+   - Cerrar el mensaje
+   - Ver avances en el plan anterior,
+   - Deshacer la actualización del Plan Base.
+   - _Nota que el número de versión ha sido actualizado._
 2. Haga clic en **Aceptar**.
 
 **Método 2**
 
 1. Haz clic en tareas y progreso.
-    - si se ha actualizado el plan base, aparecerá un mensaje indicando que puede actualizarlo_.
+   - si se ha actualizado el plan base, aparecerá un mensaje indicando que puede actualizarlo_.
 2. Haga clic en **Actualizar a la nueva versión del plan de proyecto**.
 3. Elija si desea conservar o eliminar las tareas.
-    - _Cuando actualices hará un envío recepción._
+   - _Cuando actualices hará un envío recepción._
 4. Elija una de las tres opciones de la barra de mensajes verde de la parte superior:
-    - Cerrar el mensaje
-    - Ver avances en el plan anterior,
-    - Deshacer la actualización del Plan Base.
+   - Cerrar el mensaje
+   - Ver avances en el plan anterior,
+   - Deshacer la actualización del Plan Base.

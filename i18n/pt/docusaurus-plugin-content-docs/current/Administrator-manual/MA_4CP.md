@@ -19,12 +19,12 @@ _**What are we going to do?**_  We will create and register a new project.
 ## **4.2 Creating a new project** {#238598a5fd408040a28fd03938ff47a0}
 
 - **≡ Paratext**, under **Paratext** &gt; **New Project**
-    - _The Project Properties and Settings dialogue box appears._
+  - _The Project Properties and Settings dialogue box appears._
 
 ### **4.2.1 Changing the project name** {#238598a5fd40804b9bb7fbe123385613}
 
 - Click the **Edit** button
-    - _The_ _**Edit Full Name**_ _dialogue box appears_
+  - _The_ _**Edit Full Name**_ _dialogue box appears_
 - In the **Full Name** section, type a name that includes the language name
 - Under **Short Name**, type the **ISO** code for the language.
 
@@ -43,12 +43,12 @@ If you have another Paratext project in the same language, you can already choos
 :::
 
 - Click **New**
-    - _The_ _**Choose a language identifier**_ _dialog box appears_.
+  - _The_ _**Choose a language identifier**_ _dialog box appears_.
 - Click in the **Search** box
 - Start typing the name of your language
-    - _Paratext displays the matching names._
+  - _Paratext displays the matching names._
 - Click your language in the list.
-    - _Paratext adds the language name._
+  - _Paratext adds the language name._
 - Fill in the fields in the Advanced section, if necessary.
 - Clique em **OK**.
 
@@ -75,7 +75,7 @@ If this is a dependent project such as a retranslation, child translation or tra
 - Click **Register online** to access the registration page.
 - Fill in the information (see above).
 - Click **Register** to submit and return to Paratext.
-    - _Paratext should ‘automatically’ detect that the project has been registered._
+  - _Paratext should ‘automatically’ detect that the project has been registered._
 - Click **OK** to create the new project.
 
 Project types that do not need to be registered separately

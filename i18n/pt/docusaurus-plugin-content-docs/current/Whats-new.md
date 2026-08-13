@@ -134,7 +134,7 @@ The most obvious new feature the ability to **compare versions**.
 1. Abra um projeto de Adições da Bíblia de Estudo.
 2. From the **Project** menu,
 3. Under **Project**, choose **Compare Versions**
-  - _The changes in the additions are displayed_.
+   - _The changes in the additions are displayed_.
 
 ## Scripture reference in navigation bar {#3c00a0202ad949bc8909f66660badb73}
 
@@ -144,7 +144,7 @@ In Paratext 9.3 you can copy and paste a scripture reference into the navigation
 2. Click in the **book name** in the navigation bar
 3. Paste using **Ctrl+V**
 
-  ![](./1158626626.png)
+   ![](./1158626626.png)
 
 The reference should be in a format that matches the interface language.
 
@@ -185,9 +185,9 @@ There is a new menu item on the **main menu**
 1. From the **Paratext menu**
 
 2. Choose **Open text collection**
-  - _This window looks like what was used in earlier versions of Paratext_.
+   - _This window looks like what was used in earlier versions of Paratext_.
 
-    ![](./839941766.png)
+     ![](./839941766.png)
 
 3. Open a previously **saved text collection** from the bottom left
 

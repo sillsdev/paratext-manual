@@ -4,11 +4,11 @@ sidebar_position: 0
 slug: /MA-1IN
 ---
 
-_**Introduction**_  In this module, you will install Paratext 9. Paratext es el software líder mundial para desarrollar y comprobar nuevas traducciones de la Biblia o revisiones de traducciones existentes. Desarrollado conjuntamente por ABU y SIL International, permite una traducción coherente y precisa basada en los textos originales y modelada a partir de las versiones en las principales lenguas. Gracias en parte a sus avanzadas funciones de colaboración, Paratext contribuye en gran medida a producir traducciones de mayor calidad en menos tiempo del que permitían las herramientas y métodos anteriores.
+_**Introducción**_  En este módulo, instalará Paratext 9. Paratext es el software líder mundial para desarrollar y comprobar nuevas traducciones de la Biblia o revisiones de traducciones existentes. Desarrollado conjuntamente por ABU y SIL International, permite una traducción coherente y precisa basada en los textos originales y modelada a partir de las versiones en las principales lenguas. Gracias en parte a sus avanzadas funciones de colaboración, Paratext contribuye en gran medida a producir traducciones de mayor calidad en menos tiempo del que permitían las herramientas y métodos anteriores.
 
-_**Where are we**_  You may have already installed a previous version on your computer and now want to install Paratext 9.
+_**¿Dónde estamos?**_ Es posible que ya haya instalado una versión anterior en su ordenador y ahora desee instalar Paratext 9.
 
-_**Why is this important?**_  Paratext 7, Paratext 8 and Paratext 9 can be installed at the same time, but it is important to understand the limitations of using them together.
+_**¿Por qué es importante?**_ Paratext 7, Paratext 8 y Paratext 9 pueden instalarse al mismo tiempo, pero es importante entender las limitaciones de usarlos juntos.
 
 - Se pueden instalar varias versiones
 - Algunos utilizan carpetas diferentes
@@ -16,7 +16,7 @@ _**Why is this important?**_  Paratext 7, Paratext 8 and Paratext 9 can be insta
 - Mis proyectos Paratext 8 (Paratext 9 y 8)
 - Paratext 7 utilizaba un servidor diferente (que ahora está cerrado). Paratext 8 y 9 utilizan los mismos servidores de datos.
 
-_**What are we going to do?**_  You are going to install Paratext 9 (without uninstalling Paratext 7 or 8). También se actualizará desde un archivo MSP.
+_**¿Qué vamos a hacer?**_ Va a instalar Paratext 9 (sin desinstalar Paratext 7 u 8). También se actualizará desde un archivo MSP.
 
 ## **1.2 Instalando Paratext 9** {#238598a5fd40802aaa7dfc4925f3f24a}
 
@@ -36,9 +36,9 @@ Paratext_9.5.101.1_InstallerOffline.exe).
 Este paso puede tardar unos minutos si el instalador necesita instalar .NET 4.8 Framework en su ordenador.
 
 - Si aparece un cuadro de diálogo solicitando su permiso, haga clic en **Sí** o proporcione las credenciales necesarias.
-    - _A welcome message will appear._
+  - _Aparecerá un mensaje de bienvenida._
 - Pulse **Siguiente**
-    - _The ‘Destination Folder’ step will appear_
+  - _Aparecerá el paso "Carpeta de destino_
 - Acepte la configuración predeterminada de la carpeta.
 
 Nota: Los proyectos Paratext 8 y 9 no pueden compartir la misma carpeta que los proyectos Paratext 7.
@@ -55,16 +55,16 @@ Todos los usuarios deben registrarse de nuevo en Paratext 9.
 
 - Ejecutar Paratext 9 (por primera vez)
 - Elija el idioma de la interfaz
-    - aparecerá un cuadro de diálogo en el que se le pedirá el código de registro
+  - aparecerá un cuadro de diálogo en el que se le pedirá el código de registro
 - En su navegador, vaya a [https://registry.paratext.org](https://registry.paratext.org/)
-    - aparecerá la página "Iniciar sesión"
+  - aparecerá la página "Iniciar sesión"
 - Introduzca su dirección de correo electrónico (Gmail)
 - Haga clic en el enlace \*\*Registrarse
 - Escriba su nombre de usuario
 - Introduzca (o copie) el código de registro de Paratext 7 del usuario
 - Copie el nuevo código Paratext 9
 - Volver al paratexto
-    - _Paratext pegará el código_
+  - _Paratext pegará el código_
 - Haga clic en **Aceptar**.
 
 ## **1.4 Actualización manual de la versión existente de Paratext** {#238598a5fd4080fc8412c49d265a0241}

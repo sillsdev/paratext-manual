@@ -55,7 +55,7 @@ _**What are we going to do?**_  We will work through the six changes that can be
 - **[6]** Select the name of the user you want to replace from the drop-down list.
 - **[7]** Type the name of a registered Paratext user in this box.
 - **[8]** Click **Add**,
-    - _a summary of the replacement is displayed with a ‘Remove’ button._
+  - _a summary of the replacement is displayed with a ‘Remove’ button._
 - [If you make a mistake when typing the name in the **With** field or decide not to make the replacement, click **Remove**].
 
 ## **8.3 Converting a project** {#238598a5fd4080c5af98e42c78124f28}

@@ -4,13 +4,13 @@ sidebar_position: 7
 slug: /MA-8CP
 ---
 
-_**Introduction**_  If you ever need to rename your project, reduce its size, change user names, change the encoding, or struggle with compound/decompound diacritics, the **Convert Project** tool will help you solve these problems.
+_**Introducción**_ Si alguna vez necesita cambiar el nombre de su proyecto, reducir su tamaño, cambiar los nombres de usuario, cambiar la codificación o tener problemas con los diacríticos compuestos/descompuestos, la herramienta **Convertir proyecto** le ayudará a resolver estos problemas.
 
-_**Where are we?**_  You must be the project administrator to make these conversions.
+_**¿Dónde estamos?**_ Usted debe ser el administrador del proyecto para realizar estas conversiones.
 
-_**Why is this skill important?**_  Only a few changes can be made to the project in the project's **Properties and settings**. Los cambios importantes requieren la creación de un nuevo proyecto. La herramienta **Convertir proyecto** permite que el nuevo proyecto conserve el historial del proyecto.
+_**¿Por qué es importante esta habilidad?**_ Sólo se pueden hacer unos pocos cambios en el proyecto en las **Propiedades y configuración** del proyecto. Los cambios importantes requieren la creación de un nuevo proyecto. La herramienta **Convertir proyecto** permite que el nuevo proyecto conserve el historial del proyecto.
 
-_**What are we going to do?**_  We will work through the six changes that can be made to your project.
+¿Qué vamos a hacer? Revisaremos los seis cambios que pueden introducirse en su proyecto.
 
 - Cambiar el nombre corto del proyecto
 - Eliminar archivos borrados del historial del proyecto
@@ -55,7 +55,7 @@ _**What are we going to do?**_  We will work through the six changes that can be
 - **[6]** Seleccione el nombre del usuario que desea reemplazar en la lista desplegable.
 - **[7]** Escriba el nombre de un usuario registrado de Paratext en esta casilla.
 - **[8]** Haga clic en **Añadir**,
-    - se muestra un resumen de la sustitución con un botón "Eliminar"
+  - se muestra un resumen de la sustitución con un botón "Eliminar"
 - [Si se equivoca al escribir el nombre en el campo **Con** o decide no hacer la sustitución, haga clic en **Quitar**].
 
 ## **8.3 Conversión de un proyecto** {#238598a5fd4080c5af98e42c78124f28}

@@ -134,7 +134,7 @@ La novedad más evidente es la posibilidad de **comparar versiones**.
 1. Abrir un proyecto de Adiciones a la Biblia de Estudio
 2. En el menú **Proyecto**,
 3. En **Proyecto**, elija **Comparar versiones**
-  - _Se muestran los cambios en las adiciones_.
+   - _Se muestran los cambios en las adiciones_.
 
 ## Referencia bíblica en la barra de navegación {#3c00a0202ad949bc8909f66660badb73}
 
@@ -144,7 +144,7 @@ En Paratext 9.3 puede copiar y pegar una referencia bíblica en la barra de nave
 2. Haga clic en el **nombre del libro** en la barra de navegación
 3. Pegar con **Ctrl+V**
 
-  ![](./1158626626.png)
+   ![](./1158626626.png)
 
 La referencia debe estar en un formato que se corresponda al idioma de la interfaz.
 
@@ -185,9 +185,9 @@ Hay un nuevo elemento de menú en el **menú principal**
 1. Desde el **menú de Paratext**
 
 2. Seleccione **Abrir colección de textos**
-  - _Esta ventana se parece a la que se utilizaba en versiones anteriores de Paratext_.
+   - _Esta ventana se parece a la que se utilizaba en versiones anteriores de Paratext_.
 
-    ![](./839941766.png)
+     ![](./839941766.png)
 
 3. Abrir una colección de **textos** previamente guardada desde la parte inferior izquierda
 

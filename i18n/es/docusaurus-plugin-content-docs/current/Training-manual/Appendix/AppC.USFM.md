@@ -88,7 +88,7 @@ slug: /AppC.USFM
 
 :::tip
 
-The full list of USFMs is found on:     [https://docs.usfm.bible/](https://docs.usfm.bible/)
+La lista completa de USFM se encuentra en:     [https://docs.usfm.bible/](https://docs.usfm.bible/)
 
 :::
 

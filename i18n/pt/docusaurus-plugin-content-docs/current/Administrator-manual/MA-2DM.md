@@ -45,7 +45,7 @@ It will probably be marked as ‘v7, unregistered.’
 The project may be marked as ‘v7’ without being described as unregistered, because a number of Paratext 7 projects were pre-registered in Paratext 8. If yours is one of these, you should continue with the migration, but you can skip the registration.
 
 - Click **OK** to start migrating the project.
-    - _The Migrate Shared Project dialogue box appears._
+  - _The Migrate Shared Project dialogue box appears._
 
 _Paratext 8 may tell you that the project needs to be registered (if it is not pre-registered) and that it needs to be migrated to Paratext 8._
 
@@ -68,7 +68,7 @@ _Paratext 8 may tell you that the project needs to be registered (if it is not p
 The ‘Digital Bible Library’ (Digital Bible Library) is a tool for making translations available online or to mobile users, but your project will not be available to anyone until you agree to make it available.
 
 - Click **Submit Registration**
-    - _A message will appear saying ‘Project registered successfully.’_
+  - _A message will appear saying ‘Project registered successfully.’_
 - Return to Paratext
 
 It should detect that the project is now registered and notify you.
@@ -90,7 +90,7 @@ If you need to do anything else before you are ready to migrate, click **Migrate
 - When you click **Migrate Now**, Paratext will copy the project from your Paratext 7 to your Paratext 8 and also perform a send/receive to the Internet.
 - If you receive a warning about a final send/receive in **Paratext 7**,
 - Click **OK**,
-    - _the migration process will stop,_
+  - _the migration process will stop,_
 - mark a milestone in the project history in Paratext 7,
 - then restart the migration in Paratext 8.
 - Now your colleagues can go to Paratext 9 and do a send/receive to receive the migrated project.

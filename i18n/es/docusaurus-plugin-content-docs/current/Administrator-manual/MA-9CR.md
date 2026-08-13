@@ -4,13 +4,13 @@ sidebar_position: 8
 slug: /MA-9CR
 ---
 
-_**Introduction**_  Most languages do not have access to concordances and other Bible study resources in their own language. Añadir referencias cruzadas a su Nuevo Testamento puede ayudar mucho al lector a comprender el texto al ayudarle a encontrar pasajes sobre temas similares.
+_**Introducción**_  La mayoría de las lenguas no tienen acceso a concordancias y otros recursos de estudio de la Biblia en su propio idioma. Añadir referencias cruzadas a su Nuevo Testamento puede ayudar mucho al lector a comprender el texto al ayudarle a encontrar pasajes sobre temas similares.
 
-_**Where are we now?**_  Before you can insert cross-references from a template text, your administrator must have created all the books (and chapters and verses) in your project. Pueden estar vacíos, pero deben estar presentes.
+_**¿Dónde estamos?**_ Para poder insertar referencias cruzadas a partir de un texto modelo, su administrador debe haber creado todos los libros (y capítulos y versículos) de su proyecto. Pueden estar vacíos, pero deben estar presentes.
 
-_**Why is this feature important?**_  Reading the New Testament is not like reading a novel. Disponer de referencias cruzadas permite al lector encontrar pasajes similares sobre temas relacionados. Sin embargo, añadir referencias cruzadas una a una es demasiado tedioso. El menú **Insertar referencias cruzadas** le permite insertar todas las referencias cruzadas a la vez (los nombres de los libros y la puntuación de las referencias cruzadas también se convertirán para que coincidan con su **configuración de referencias bíblicas**).
+_**¿Por qué es importante esta función?**_ Leer el Nuevo Testamento no es como leer una novela. Disponer de referencias cruzadas permite al lector encontrar pasajes similares sobre temas relacionados. Sin embargo, añadir referencias cruzadas una a una es demasiado tedioso. El menú **Insertar referencias cruzadas** le permite insertar todas las referencias cruzadas a la vez (los nombres de los libros y la puntuación de las referencias cruzadas también se convertirán para que coincidan con su **configuración de referencias bíblicas**).
 
-_**What are we going to do?**_  We are going to do three things:
+_**¿Qué vamos a hacer?**_ Vamos a hacer tres cosas:
 
 Si no dispone de un texto modelo con las referencias cruzadas deseadas, puede crear su propia lista e importarla.
 
@@ -49,7 +49,7 @@ Nota: Los recursos no permiten extraer referencias cruzadas.
 - Navegue hasta el archivo .xrf que contiene las referencias cruzadas extraídas.
 - Seleccione el archivo y haga clic en **Abrir**.
 - Si lo desea, seleccione una de las casillas.
-    - (Para más información, consulte la guía)
+  - (Para más información, consulte la guía)
 - Haga clic en **Aceptar**
 
 :::tip

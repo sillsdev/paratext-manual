@@ -37,7 +37,7 @@ If you have an existing plan, you need to remove that plan before you can add an
 4. Choose your organisational base plan
 5. Click the **Copy Plan** arrow.
 6. Click **OK twice**.
-    - _The plan and its tasks are added to the project, and the blue Assignments and Progress button appears._
+   - _The plan and its tasks are added to the project, and the blue Assignments and Progress button appears._
 
 ### Remove an old plan {#238598a5fd4080b7b67bd153f3e27c63}
 
@@ -60,7 +60,7 @@ If the project has an old plan, you need to delete each of the current stages be
 ### Confirm — Books to include {#238598a5fd40804ab6c5cdd2fecc175d}
 
 1. Check that the plan is closed. Then
-    **≡ Tab** under **Project** choose **Project settings** **Project properties**
+   **≡ Tab** under **Project** choose **Project settings** **Project properties**
 2. Click the **Books** tab
 3. Choose the books that you want to track progress.
 4. Clique em **OK**
@@ -69,7 +69,7 @@ If the project has an old plan, you need to delete each of the current stages be
 
 1. **≡ Tab** menu, under **Project**, choose **Project properties** then **Project Plan**
 2. Click on the **Checks** tab
-    - _Two columns are displayed: Optional stage and Required stage._
+   - _Two columns are displayed: Optional stage and Required stage._
 3. For the desired check, drop down the list for the **Required stage** [12]
 4. Choose the new stage or _never required_
 5. Then set the **Notify only (optional)** to an earlier stage if any.
@@ -88,7 +88,7 @@ It is possible to reorder tasks and even move tasks to another stage. However, n
 2. Click the **Stages/Tasks** tab.
 3. Select the task you want to move.
 4. Click the up arrow or the down arrow to move the task to a different point with respect to the other tasks, or to move it to a different stage.
-    - _You may get a message asking to confirm._
+   - _You may get a message asking to confirm._
 5. Clique em **OK**.
 
 ### Configure — Add tasks {#238598a5fd4080918c8ed2e0d1db12d1}
@@ -128,23 +128,23 @@ Follow the steps below to copy a task from the **base project plan** of one proj
 3. Click **Manage plans**
 4. From the **"Show Base Plan"** drop-down, select the project plan that contains the desired task.
 5. On the **Current Plan** side of the dialog, click the row that has the task that should precede the new task.
-    - _If you want the new task to be the first task in the stage, select the stage name instead._
+   - _If you want the new task to be the first task in the stage, select the stage name instead._
 6. On the **Base Plan** side of the dialog, hover over the task you want to add and click the solid blue arrow that appears.
-    - _The task is copied to your project plan and cannot be copied again into this project._
+   - _The task is copied to your project plan and cannot be copied again into this project._
 7. **Optional**: To move the task, click the up arrow or the down arrow that appears when you hover over a task on the Current Plan side of the dialog.
 8. Click **OK** to close the "Manage Plans" dialog.
 9. Click **OK** to close the "Project Plan" dialog.
-    - _The copied task has the same name and progress rate as it had in the project plan for project ORIG. The short name of the project is added to the plan name._
+   - _The copied task has the same name and progress rate as it had in the project plan for project ORIG. The short name of the project is added to the plan name._
 
 ## 7.3 Check the settings for a task {#238598a5fd4080e9a4accbfe7395674a}
 
 1. There are three settings for each task
-    - how do you mark the task as complete (once for each chapter, book or project)
-    - when can the task begin (anytime, or wait for another task ...)
-    - do you need editing permission (if so, which project)
+   - how do you mark the task as complete (once for each chapter, book or project)
+   - when can the task begin (anytime, or wait for another task ...)
+   - do you need editing permission (if so, which project)
 2. **≡ Tab** menu, under **Project** select **Project Settings** &gt; **Project plan**
 3. Click the task
-    - _The settings are shown at the bottom right_
+   - _The settings are shown at the bottom right_
 4. Make any changes as needed.
 5. Repeat for any other task.
 6. Clique em **OK**.
@@ -158,7 +158,7 @@ Priority groups are a way to let Paratext know the order in which books or chapt
 1. Choose **Project settings** and go to **Define priorities**
 2. Click **Select Priority Definition** button
 3. Select a set (e.g. SIL Easy to Difficult set)
-    - _a pre-selected set of books is presented._
+   - _a pre-selected set of books is presented._
 4. Clique em **OK**
 
 ### Setting up priorities {#238598a5fd4080088b94f24bcbf99b6c}
@@ -175,7 +175,7 @@ To set specific chapters,
 1. Select a book name link
 2. Choose which chapters
 3. Clique em **OK**
-    - _If you add a book that already has chapters defined, it will only add the remaining chapters_.
+   - _If you add a book that already has chapters defined, it will only add the remaining chapters_.
 4. Change the order of priorities using the up arrow.
 
 ### Using the priorities {#238598a5fd4080509566d728cdfb33ed}
@@ -183,8 +183,8 @@ To set specific chapters,
 Once priorities have been created, they can be used anywhere you would normally choose books. For instance,
 
 1. **Find** dialog (Ctrl+F)
-    - Click on **choose**
-    - Select the **Priority** tab.
+   - Click on **choose**
+   - Select the **Priority** tab.
 2. **Assignments and Progress** (blue button), book selection can be set to a priority.
 3. _(Project menu )_ _**Export PDF**__, click Choose button, then Priority tab._
 4. Any window with a filter (e.g. Wordlist, Biblical terms ...)
@@ -214,8 +214,8 @@ Tasks can either be assigned individually or in bulk.
 2. Choose **Tasks Table**
 3. Use the verses filter to select books
 4. Below the task, click **Assign tasks**
-    - Incomplete chapters can be reassigned but not completed chapters.
-    - _A warning message will appear with options to overwrite all assignments or only those chapters that have not yet been assigned._
+   - Incomplete chapters can be reassigned but not completed chapters.
+   - _A warning message will appear with options to overwrite all assignments or only those chapters that have not yet been assigned._
 
 ### Assign Stage or book {#238598a5fd40803ba610d96c517bb0f6}
 
@@ -241,9 +241,9 @@ For projects that have already completed a number of stages at the time of switc
 2. Click the **Blue** Assignments and Progress button
 3. Choose **Stages Table**
 4. Click the **≡ Tab** and choose **Bulk Progress Mode**.
-    - _Checks are temporarily turned off_.
+   - _Checks are temporarily turned off_.
 5. Click **All stages** button
-    - _All of the stages are approved._
+   - _All of the stages are approved._
 
 :::tip
 
@@ -260,12 +260,12 @@ Changes you made to your plan will be sent to the members of your project when y
 2. **≡ Tab**, under **Project** select **Project Settings** **Project plan**
 
 3. Hold shift key and click **Manage plans**
-    - _The manage plans dialog appears with a save as base plan button at bottom right._
+   - _The manage plans dialog appears with a save as base plan button at bottom right._
 
-        ![](./1648346283.png)
+     ![](./1648346283.png)
 
 4. Click on the **Save as a base plan** button
-    - _A dialog box is displayed. The file will be saved to \My Paratext 8 Projects\_StandardPlans._
+   - _A dialog box is displayed. The file will be saved to \My Paratext 8 Projects\_StandardPlans._
 
 5. Choose as appropriate, then click **OK**
 
@@ -279,34 +279,34 @@ Occasionally the base plan upon which that project plan has been built will be m
 
 1. **≡ Tab**, under **project**
 2. Choose **Project Settings** then **Project plan**.
-    - _A warning is displayed that there is a new version of the plan and I can migrate._
+   - _A warning is displayed that there is a new version of the plan and I can migrate._
 3. Click the link **Migrate to a new version of the project plan**.
 4. Choose either:
-    - Keep the tasks that are not in the new version
-    - Remove all the tasks that are not in the new version
-    - Keep tasks that had progress.
+   - Keep the tasks that are not in the new version
+   - Remove all the tasks that are not in the new version
+   - Keep tasks that had progress.
 5. Clique em **OK**
-    - _Paratext warns that you must do a send/receive,_
+   - _Paratext warns that you must do a send/receive,_
 6. Click **OK** to clear the message
-    - _The plan has been updated._
+   - _The plan has been updated._
 
 What next?
 
 1. A green message bar at the top gives you three options:
-    - Close the message
-    - View progress in the previous plan,
-    - Undo the base Plan update.
-    - _Note the version number has been updated._
+   - Close the message
+   - View progress in the previous plan,
+   - Undo the base Plan update.
+   - _Note the version number has been updated._
 2. Clique em **OK**.
 
 **Method 2**
 
 1. Click on assignments and progress.
-    - _If the base plan has been updated, then a message will appear showing that you can update_.
+   - _If the base plan has been updated, then a message will appear showing that you can update_.
 2. Click on **Update to new version of project plan**.
 3. Choose to keep or remove the tasks.
-    - _When you update it will do a send receive._
+   - _When you update it will do a send receive._
 4. Choose one of the three options in the green message bar at the top:
-    - Close the message
-    - View progress in the previous plan,
-    - Undo the base Plan update.
+   - Close the message
+   - View progress in the previous plan,
+   - Undo the base Plan update.
