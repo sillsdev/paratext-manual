@@ -8,7 +8,7 @@ _**Introduction**_ La plupart des langues n'ont pas accès à des concordances e
 
 _**Avant de commencer**_ \*\*Avant de pouvoir insérer des renvois d’un texte modèle, votre administrateur doit avoir créé tous les livres (et chapitres et versets) dans votre projet. Ils peuvent être vides, mais ils doivent être présents.
 
-_**Pourquoi cette aptitude est-elle importante ?**_ La lecture du Nouveau Testament ne s'apparente pas à celle d'un roman. Avoir accès à des renvois permet à votre lecteur de trouver des passages similaires sur les thèmes. Néanmoins, l’ajout manuel de renvois un à un est trop fastidieux. Le menu **Insérer les renvois** vous permet d’insérer tous les renvois à la fois (les noms de livre et la ponctuation du renvoi seront convertis également pour correspondre à vos Paramètres de référence bibliques\*\*).
+_**Pourquoi cette aptitude est-elle importante ?**_ La lecture du Nouveau Testament ne s'apparente pas à celle d'un roman. Avoir accès à des renvois permet à votre lecteur de trouver des passages similaires sur les thèmes. Néanmoins, l’ajout manuel de renvois un à un est trop fastidieux. The **Insert Cross-References** menu allows you to insert all cross-references at once (book names and cross-reference punctuation will also be converted to match your **Scripture reference settings**).
 
 _**Pourquoi cette aptitude est-elle importante ?**_ Nous allons faire trois choses :
 

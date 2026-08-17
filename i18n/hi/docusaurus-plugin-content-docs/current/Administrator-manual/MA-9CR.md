@@ -8,7 +8,7 @@ _**Introduction**_  Most languages do not have access to concordances and other 
 
 _**Where are we now?**_  Before you can insert cross-references from a template text, your administrator must have created all the books (and chapters and verses) in your project. They can be empty, but they must be present.
 
-_**Why is this feature important?**_  Reading the New Testament is not like reading a novel. Having access to cross-references allows your reader to find similar passages on related topics. However, adding cross-references one by one is too tedious. The **Insert Cross-References** menu allows you to insert all cross-references at once (book names and cross-reference punctuation will also be converted to match your **Bible reference settings**).
+_**Why is this feature important?**_  Reading the New Testament is not like reading a novel. Having access to cross-references allows your reader to find similar passages on related topics. However, adding cross-references one by one is too tedious. The **Insert Cross-References** menu allows you to insert all cross-references at once (book names and cross-reference punctuation will also be converted to match your **Scripture reference settings**).
 
 _**What are we going to do?**_  We are going to do three things:
 
@@ -49,7 +49,7 @@ Note: Resources do not allow you to extract cross-references.
 - Navigate to the .xrf file containing extracted cross-references.
 - Select the file, then click **Open**.
 - If desired, select one of the checkboxes.
-    - (See the guide for more information.)
+  - (See the guide for more information.)
 - **ओके** पर क्लिक करें।
 
 :::tip
