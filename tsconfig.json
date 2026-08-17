@@ -1,6 +1,14 @@
 {
   // This file is not used in compilation. It is here just for a nice editor experience.
-  "extends": "@tsconfig/docusaurus/tsconfig.json",
+  //
+  // NOTE: keep this a RELATIVE path, not the bare "@docusaurus/tsconfig" specifier.
+  // docu-notion loads docu-notion.config.ts through cosmiconfig-typescript-loader,
+  // which uses ts-node 10, which reads this file. Resolving a *bare* "extends"
+  // specifier sends ts-node through a TypeScript internal that changed in
+  // TypeScript 5.x, and it dies with "state.conditions.includes is not a function"
+  // -- i.e. `yarn pull` fails before it fetches anything. A relative path skips
+  // that code path. (bloom-docs does the same thing for the same reason.)
+  "extends": "./node_modules/@docusaurus/tsconfig/tsconfig.json",
   "compilerOptions": {
     "baseUrl": "."
   }

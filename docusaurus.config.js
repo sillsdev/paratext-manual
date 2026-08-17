@@ -1,8 +1,11 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+// prism-react-renderer 2.x moved the themes to a named export on the package root;
+// the old "prism-react-renderer/themes/github" subpath no longer resolves.
+const { themes: prismThemes } = require("prism-react-renderer");
+const lightCodeTheme = prismThemes.github;
+const darkCodeTheme = prismThemes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -11,11 +14,46 @@ const config = {
   url: "https://manual.paratext.org",
   baseUrl: "/",
   onBrokenLinks: "warn",
-  onBrokenMarkdownLinks: "warn",
+  // New in Docusaurus v3. Defaults to "warn"; set explicitly so it can't start
+  // failing the build on a minor upgrade. docu-notion links headings by Notion
+  // block id, so an anchor dies whenever a heading block is deleted in Notion.
+  onBrokenAnchors: "warn",
   // Duplicate routes cause the next/prev buttons to loop
   // which causes the pdf creation to loop forever.
   onDuplicateRoutes: "throw",
   favicon: "img/favicon.ico",
+
+  markdown: {
+    // Docusaurus 3.9 moved onBrokenMarkdownLinks here from the top level.
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
+    // These are ON by default in Docusaurus 3, but we set them EXPLICITLY because
+    // Docusaurus 4 flips the default off (see the `future.v4.mdx1CompatDisabledByDefault`
+    // flag). The option itself is not being removed -- v4 resolves each flag with
+    // `??=`, so an explicit value keeps winning. Setting them here means a v4 upgrade
+    // won't silently change how our content renders.
+    //
+    // We rely on all three because our content is intentionally in the Docusaurus v2
+    // markdown forms:
+    //   - `{#id}` heading ids     -- `yarn pull` passes --docusaurus-v2 (see package.json),
+    //                                and the Crowdin translations in i18n/ match.
+    //   - `:::caution`            -- still a valid v3 keyword, and a bare one gets a
+    //                                localized title from Docusaurus' own translations
+    //                                (fr "attention"), which an explicit label would lose.
+    //   - `:::info Some Title`    -- the v2 space-separated admonition title. ~17 of these
+    //                                are hand-typed as literal text inside Notion, so they
+    //                                regenerate on every pull and can only be fixed there.
+    //
+    // Docusaurus does this conversion at build time in @docusaurus/mdx-loader's
+    // preprocessContent (escapeMarkdownHeadingIds + admonitionTitleToDirectiveLabel).
+    // Don't hand-roll it -- see README for why.
+    mdx1Compat: {
+      comments: true,
+      admonitions: true,
+      headingIds: true,
+    },
+  },
 
   organizationName: "sillsdev", // Usually your GitHub org/user name.
   projectName: "paratext-manual", // Usually your repo name.
@@ -35,7 +73,6 @@ const config = {
           customCss: [
             require.resolve("./css/docu-notion-styles.css"),
             require.resolve("./src/css/custom.css"),
-            require.resolve("./src/css/gifplayer.css"),
           ],
         },
         sitemap: {
@@ -95,12 +132,6 @@ const config = {
           content: "Paratext, documentation, help, manual, training",
         },
       ],
-      sitemap: {
-        // https://www.sitemaps.org/protocol.html#xmlTagDefinitions
-        changefreq: "weekly",
-        priority: 0.5,
-        ignorePatterns: [],
-      },
       navbar: {
         title: "Paratext Manual",
         items: [
