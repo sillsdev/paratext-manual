@@ -151,7 +151,7 @@ const config = {
 
 module.exports = {
   themeConfig: {
-footer: {
+  footer: {
       style: 'dark',
       links: [
         // your existing footer link columns
