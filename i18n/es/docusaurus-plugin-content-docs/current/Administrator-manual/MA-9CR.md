@@ -8,7 +8,7 @@ _**Introducción**_  La mayoría de las lenguas no tienen acceso a concordancias
 
 _**¿Dónde estamos?**_ Para poder insertar referencias cruzadas a partir de un texto modelo, su administrador debe haber creado todos los libros (y capítulos y versículos) de su proyecto. Pueden estar vacíos, pero deben estar presentes.
 
-_**¿Por qué es importante esta función?**_ Leer el Nuevo Testamento no es como leer una novela. Disponer de referencias cruzadas permite al lector encontrar pasajes similares sobre temas relacionados. Sin embargo, añadir referencias cruzadas una a una es demasiado tedioso. The **Insert Cross-References** menu allows you to insert all cross-references at once (book names and cross-reference punctuation will also be converted to match your **Scripture reference settings**).
+_**¿Por qué es importante esta función?**_ Leer el Nuevo Testamento no es como leer una novela. Disponer de referencias cruzadas permite al lector encontrar pasajes similares sobre temas relacionados. Sin embargo, añadir referencias cruzadas una a una es demasiado tedioso. El menú **Insertar referencias cruzadas** te permite insertar todas las referencias cruzadas de una sola vez (los nombres de los libros y los signos de puntuación de las referencias cruzadas también se convertirán para que coincidan con tu **configuración de referencias bíblicas**).
 
 _**¿Qué vamos a hacer?**_ Vamos a hacer tres cosas:
 
