@@ -142,6 +142,11 @@ const config = {
         ],
       },
 
+      footer: {
+        style: "dark",
+        copyright: `Copyright © ${new Date().getFullYear()} SIL Global. This work is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)</a>.`,
+      },
+
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
@@ -149,14 +154,4 @@ const config = {
     }),
 };
 
-module.exports = {
-  themeConfig: {
-  footer: {
-      style: 'dark',
-      links: [
-        // your existing footer link columns
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} SIL Global. This work is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)</a>.`,
-    },
-  },
-};
+module.exports = config;
